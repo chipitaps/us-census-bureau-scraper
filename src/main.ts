@@ -129,12 +129,23 @@ async function main() {
                 });
             } catch (error) {
                 const errorMessage = error instanceof Error ? error.message : String(error);
+                
+                // Check if this is an incomplete metadata error - if so, skip it silently
+                if (errorMessage.includes('Metadata response is empty or invalid') || 
+                    errorMessage.includes('metadata') && errorMessage.includes('empty')) {
+                    log.warning(`⏭️ Skipping table with incomplete metadata: ${tableId}`, {
+                        reason: 'Metadata is empty or invalid (table may not exist yet)',
+                    });
+                    // Don't push error or increment counters - just skip it
+                    return;
+                }
+                
                 log.error(`Failed to process table: ${tableId}`, {
                     error: errorMessage,
                     tableId,
                 });
                 
-                // Push error to dataset so users can see what failed
+                // Push error to dataset only for unexpected errors (not incomplete metadata)
                 const errorOutput = {
                     error: 'Failed to process table',
                     tableId,
@@ -230,12 +241,24 @@ async function main() {
                     });
                 } catch (error) {
                     const errorMessage = error instanceof Error ? error.message : String(error);
+                    
+                    // Check if this is an incomplete metadata error - if so, skip it silently
+                    if (errorMessage.includes('Metadata response is empty or invalid') || 
+                        errorMessage.includes('metadata') && errorMessage.includes('empty')) {
+                        log.warning(`⏭️ Skipping table with incomplete metadata: ${entityTableId}`, {
+                            entityId: entity.id,
+                            reason: 'Metadata is empty or invalid (table may not exist yet)',
+                        });
+                        // Continue processing other entities - don't push error or increment counters
+                        return;
+                    }
+                    
                     log.error(`Failed to process entity: ${entity.id}`, {
                         error: errorMessage,
                         entityId: entity.id,
                     });
                     
-                    // Push error to dataset so users can see what failed
+                    // Push error to dataset only for unexpected errors (not incomplete metadata)
                     const errorOutput = {
                         error: 'Failed to process table',
                         tableId: entityTableId,
