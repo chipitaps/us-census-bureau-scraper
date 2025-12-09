@@ -1,0 +1,520 @@
+{
+	"tableId": "ACSDT1Y2024.B06008",
+	"title": "Place of Birth by Marital Status in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 15 years and over in the United States",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06008",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06008_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06008_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06008_002E",
+				"label": "Estimate!!Total:!!Never married"
+			},
+			{
+				"id": "B06008_002M",
+				"label": "Margin of Error!!Total:!!Never married"
+			},
+			{
+				"id": "B06008_003E",
+				"label": "Estimate!!Total:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_003M",
+				"label": "Margin of Error!!Total:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_004E",
+				"label": "Estimate!!Total:!!Divorced"
+			},
+			{
+				"id": "B06008_004M",
+				"label": "Margin of Error!!Total:!!Divorced"
+			},
+			{
+				"id": "B06008_005E",
+				"label": "Estimate!!Total:!!Separated"
+			},
+			{
+				"id": "B06008_005M",
+				"label": "Margin of Error!!Total:!!Separated"
+			},
+			{
+				"id": "B06008_006E",
+				"label": "Estimate!!Total:!!Widowed"
+			},
+			{
+				"id": "B06008_006M",
+				"label": "Margin of Error!!Total:!!Widowed"
+			},
+			{
+				"id": "B06008_007E",
+				"label": "Estimate!!Total:!!Born in state of residence:"
+			},
+			{
+				"id": "B06008_007M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:"
+			},
+			{
+				"id": "B06008_008E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Never married"
+			},
+			{
+				"id": "B06008_008M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Never married"
+			},
+			{
+				"id": "B06008_009E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_009M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_010E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Divorced"
+			},
+			{
+				"id": "B06008_010M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Divorced"
+			},
+			{
+				"id": "B06008_011E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Separated"
+			},
+			{
+				"id": "B06008_011M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Separated"
+			},
+			{
+				"id": "B06008_012E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Widowed"
+			},
+			{
+				"id": "B06008_012M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Widowed"
+			},
+			{
+				"id": "B06008_013E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B06008_013M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B06008_014E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Never married"
+			},
+			{
+				"id": "B06008_014M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Never married"
+			},
+			{
+				"id": "B06008_015E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_015M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_016E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Divorced"
+			},
+			{
+				"id": "B06008_016M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Divorced"
+			},
+			{
+				"id": "B06008_017E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Separated"
+			},
+			{
+				"id": "B06008_017M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Separated"
+			},
+			{
+				"id": "B06008_018E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Widowed"
+			},
+			{
+				"id": "B06008_018M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Widowed"
+			},
+			{
+				"id": "B06008_019E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:"
+			},
+			{
+				"id": "B06008_019M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:"
+			},
+			{
+				"id": "B06008_020E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Never married"
+			},
+			{
+				"id": "B06008_020M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Never married"
+			},
+			{
+				"id": "B06008_021E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_021M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_022E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Divorced"
+			},
+			{
+				"id": "B06008_022M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Divorced"
+			},
+			{
+				"id": "B06008_023E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Separated"
+			},
+			{
+				"id": "B06008_023M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Separated"
+			},
+			{
+				"id": "B06008_024E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Widowed"
+			},
+			{
+				"id": "B06008_024M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Widowed"
+			},
+			{
+				"id": "B06008_025E",
+				"label": "Estimate!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06008_025M",
+				"label": "Margin of Error!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06008_026E",
+				"label": "Estimate!!Total:!!Foreign born:!!Never married"
+			},
+			{
+				"id": "B06008_026M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Never married"
+			},
+			{
+				"id": "B06008_027E",
+				"label": "Estimate!!Total:!!Foreign born:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_027M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Now married, except separated"
+			},
+			{
+				"id": "B06008_028E",
+				"label": "Estimate!!Total:!!Foreign born:!!Divorced"
+			},
+			{
+				"id": "B06008_028M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Divorced"
+			},
+			{
+				"id": "B06008_029E",
+				"label": "Estimate!!Total:!!Foreign born:!!Separated"
+			},
+			{
+				"id": "B06008_029M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Separated"
+			},
+			{
+				"id": "B06008_030E",
+				"label": "Estimate!!Total:!!Foreign born:!!Widowed"
+			},
+			{
+				"id": "B06008_030M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Widowed"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06008_011M",
+			"B06008_023M",
+			"B06008_011E",
+			"B06008_019M",
+			"B06008_007M",
+			"B06008_019EA",
+			"B06008_023E",
+			"B06008_015EA",
+			"B06008_007MA",
+			"B06008_008E",
+			"B06008_022EA",
+			"B06008_003MA",
+			"B06008_026MA",
+			"B06008_022MA",
+			"B06008_022M",
+			"B06008_010M",
+			"B06008_006M",
+			"B06008_008EA",
+			"B06008_022E",
+			"B06008_010E",
+			"B06008_018M",
+			"B06008_004EA",
+			"B06008_027EA",
+			"B06008_019E",
+			"B06008_007E",
+			"B06008_011EA",
+			"B06008_019MA",
+			"B06008_030EA",
+			"B06008_015MA",
+			"B06008_011MA",
+			"B06008_030MA",
+			"B06008_021M",
+			"B06008_017M",
+			"B06008_005M",
+			"B06008_021E",
+			"B06008_029M",
+			"B06008_016EA",
+			"B06008_006E",
+			"B06008_008MA",
+			"B06008_023EA",
+			"B06008_018E",
+			"B06008_004MA",
+			"B06008_027MA",
+			"B06008_023MA",
+			"B06008_020M",
+			"B06008_004M",
+			"B06008_020E",
+			"B06008_028M",
+			"B06008_016M",
+			"B06008_009EA",
+			"B06008_028EA",
+			"B06008_004E",
+			"B06008_005EA",
+			"B06008_012EA",
+			"B06008_017E",
+			"B06008_005E",
+			"B06008_029E",
+			"B06008_016MA",
+			"B06008_012MA",
+			"B06008_015M",
+			"B06008_003M",
+			"B06008_027M",
+			"B06008_017EA",
+			"B06008_015E",
+			"B06008_003E",
+			"B06008_028E",
+			"B06008_016E",
+			"B06008_024EA",
+			"B06008_001EA",
+			"B06008_009MA",
+			"B06008_020EA",
+			"B06008_028MA",
+			"B06008_005MA",
+			"B06008_024MA",
+			"B06008_001MA",
+			"B06008_020MA",
+			"B06008_030M",
+			"B06008_002M",
+			"B06008_026M",
+			"B06008_014M",
+			"B06008_030E",
+			"B06008_029EA",
+			"B06008_002E",
+			"B06008_006EA",
+			"B06008_025EA",
+			"B06008_026E",
+			"B06008_014E",
+			"NAME",
+			"B06008_013EA",
+			"B06008_027E",
+			"B06008_017MA",
+			"B06008_013MA",
+			"B06008_013M",
+			"B06008_001M",
+			"B06008_025M",
+			"B06008_018EA",
+			"B06008_013E",
+			"B06008_001E",
+			"B06008_009M",
+			"B06008_014EA",
+			"B06008_025E",
+			"B06008_002EA",
+			"B06008_021EA",
+			"B06008_029MA",
+			"B06008_006MA",
+			"B06008_025MA",
+			"B06008_002MA",
+			"B06008_021MA",
+			"B06008_024M",
+			"B06008_012M",
+			"B06008_007EA",
+			"B06008_008M",
+			"B06008_024E",
+			"B06008_003EA",
+			"B06008_012E",
+			"B06008_026EA",
+			"GEO_ID",
+			"B06008_010EA",
+			"B06008_018MA",
+			"B06008_009E",
+			"B06008_014MA",
+			"B06008_010MA"
+		],
+		[
+			"29310",
+			"7151",
+			"1992184",
+			"51952",
+			"169346",
+			null,
+			"105807",
+			null,
+			null,
+			"60266876",
+			null,
+			null,
+			null,
+			null,
+			"15644",
+			"74165",
+			"67204",
+			null,
+			"572981",
+			"14201115",
+			"41225",
+			null,
+			null,
+			"4989646",
+			"143824747",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"30167",
+			"21045",
+			"43353",
+			"2176095",
+			"27163",
+			null,
+			"15281060",
+			null,
+			null,
+			"5278111",
+			null,
+			null,
+			null,
+			"35426",
+			"117180",
+			"1899934",
+			"42019",
+			"58412",
+			null,
+			null,
+			"28899429",
+			null,
+			null,
+			"1163205",
+			"4474755",
+			"1213559",
+			null,
+			null,
+			"183630",
+			"321950",
+			"101755",
+			null,
+			"43569023",
+			"134320665",
+			"4081508",
+			"10043825",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"27042",
+			"202857",
+			"93397",
+			"82381",
+			"2467403",
+			null,
+			"97616929",
+			null,
+			null,
+			"11585023",
+			"23865096",
+			"United States",
+			null,
+			"28511692",
+			null,
+			null,
+			"183182",
+			"40130",
+			"143443",
+			null,
+			"83919260",
+			"280592838",
+			"193429",
+			null,
+			"47859185",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"9089",
+			"45875",
+			null,
+			"144655",
+			"234829",
+			null,
+			"7300717",
+			null,
+			"0100000US",
+			null,
+			null,
+			"60063855",
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.723Z"
+}

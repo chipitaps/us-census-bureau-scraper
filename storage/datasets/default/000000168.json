@@ -1,0 +1,120 @@
+{
+	"tableId": "ACSDT1Y2024.B06004G",
+	"title": "Place of Birth (Two or More Races) in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Two or more races population in the United States",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06004G",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06004G_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06004G_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06004G_002E",
+				"label": "Estimate!!Total:!!Born in state of residence"
+			},
+			{
+				"id": "B06004G_002M",
+				"label": "Margin of Error!!Total:!!Born in state of residence"
+			},
+			{
+				"id": "B06004G_003E",
+				"label": "Estimate!!Total:!!Born in other state in the United States"
+			},
+			{
+				"id": "B06004G_003M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States"
+			},
+			{
+				"id": "B06004G_004E",
+				"label": "Estimate!!Total:!!Native; born outside the United States"
+			},
+			{
+				"id": "B06004G_004M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States"
+			},
+			{
+				"id": "B06004G_005E",
+				"label": "Estimate!!Total:!!Foreign born"
+			},
+			{
+				"id": "B06004G_005M",
+				"label": "Margin of Error!!Total:!!Foreign born"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06004G_003E",
+			"B06004G_002E",
+			"B06004G_005E",
+			"B06004G_004E",
+			"B06004G_003M",
+			"B06004G_002M",
+			"B06004G_005M",
+			"B06004G_004M",
+			"B06004G_001E",
+			"NAME",
+			"B06004G_005EA",
+			"GEO_ID",
+			"B06004G_004EA",
+			"B06004G_001EA",
+			"B06004G_001M",
+			"B06004G_003EA",
+			"B06004G_002EA",
+			"B06004G_005MA",
+			"B06004G_004MA",
+			"B06004G_001MA",
+			"B06004G_003MA",
+			"B06004G_002MA"
+		],
+		[
+			"8400421",
+			"23778899",
+			"11141360",
+			"1622570",
+			"75112",
+			"143350",
+			"94472",
+			"34529",
+			"44943250",
+			"United States",
+			null,
+			"0100000US",
+			null,
+			null,
+			"197808",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:43.319Z"
+}

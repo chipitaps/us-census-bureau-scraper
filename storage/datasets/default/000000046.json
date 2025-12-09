@@ -1,0 +1,1387 @@
+{
+	"tableId": "ACSST1Y2024.S1902",
+	"title": "Mean Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S1902",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S1902_C01_001E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households"
+			},
+			{
+				"id": "S1902_C01_001M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households"
+			},
+			{
+				"id": "S1902_C02_001E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households"
+			},
+			{
+				"id": "S1902_C02_001M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households"
+			},
+			{
+				"id": "S1902_C03_001E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households"
+			},
+			{
+				"id": "S1902_C03_001M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households"
+			},
+			{
+				"id": "S1902_C01_002E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With earnings"
+			},
+			{
+				"id": "S1902_C01_002M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With earnings"
+			},
+			{
+				"id": "S1902_C02_002E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With earnings"
+			},
+			{
+				"id": "S1902_C02_002M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With earnings"
+			},
+			{
+				"id": "S1902_C03_002E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With earnings"
+			},
+			{
+				"id": "S1902_C03_002M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With earnings"
+			},
+			{
+				"id": "S1902_C01_003E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With earnings!!With wages or salary income"
+			},
+			{
+				"id": "S1902_C01_003M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With earnings!!With wages or salary income"
+			},
+			{
+				"id": "S1902_C02_003E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With earnings!!With wages or salary income"
+			},
+			{
+				"id": "S1902_C02_003M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With earnings!!With wages or salary income"
+			},
+			{
+				"id": "S1902_C03_003E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With earnings!!With wages or salary income"
+			},
+			{
+				"id": "S1902_C03_003M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With earnings!!With wages or salary income"
+			},
+			{
+				"id": "S1902_C01_004E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With earnings!!With self-employment income"
+			},
+			{
+				"id": "S1902_C01_004M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With earnings!!With self-employment income"
+			},
+			{
+				"id": "S1902_C02_004E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With earnings!!With self-employment income"
+			},
+			{
+				"id": "S1902_C02_004M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With earnings!!With self-employment income"
+			},
+			{
+				"id": "S1902_C03_004E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With earnings!!With self-employment income"
+			},
+			{
+				"id": "S1902_C03_004M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With earnings!!With self-employment income"
+			},
+			{
+				"id": "S1902_C01_005E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With interest, dividends, or net rental income"
+			},
+			{
+				"id": "S1902_C01_005M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With interest, dividends, or net rental income"
+			},
+			{
+				"id": "S1902_C02_005E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With interest, dividends, or net rental income"
+			},
+			{
+				"id": "S1902_C02_005M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With interest, dividends, or net rental income"
+			},
+			{
+				"id": "S1902_C03_005E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With interest, dividends, or net rental income"
+			},
+			{
+				"id": "S1902_C03_005M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With interest, dividends, or net rental income"
+			},
+			{
+				"id": "S1902_C01_006E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With Social Security income"
+			},
+			{
+				"id": "S1902_C01_006M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With Social Security income"
+			},
+			{
+				"id": "S1902_C02_006E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With Social Security income"
+			},
+			{
+				"id": "S1902_C02_006M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With Social Security income"
+			},
+			{
+				"id": "S1902_C03_006E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With Social Security income"
+			},
+			{
+				"id": "S1902_C03_006M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With Social Security income"
+			},
+			{
+				"id": "S1902_C01_007E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With Supplemental Security Income (SSI)"
+			},
+			{
+				"id": "S1902_C01_007M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With Supplemental Security Income (SSI)"
+			},
+			{
+				"id": "S1902_C02_007E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With Supplemental Security Income (SSI)"
+			},
+			{
+				"id": "S1902_C02_007M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With Supplemental Security Income (SSI)"
+			},
+			{
+				"id": "S1902_C03_007E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With Supplemental Security Income (SSI)"
+			},
+			{
+				"id": "S1902_C03_007M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With Supplemental Security Income (SSI)"
+			},
+			{
+				"id": "S1902_C01_008E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP"
+			},
+			{
+				"id": "S1902_C01_008M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP"
+			},
+			{
+				"id": "S1902_C02_008E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP"
+			},
+			{
+				"id": "S1902_C02_008M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP"
+			},
+			{
+				"id": "S1902_C03_008E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP"
+			},
+			{
+				"id": "S1902_C03_008M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP"
+			},
+			{
+				"id": "S1902_C01_009E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP!!With cash public assistance"
+			},
+			{
+				"id": "S1902_C01_009M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP!!With cash public assistance"
+			},
+			{
+				"id": "S1902_C02_009E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP!!With cash public assistance"
+			},
+			{
+				"id": "S1902_C02_009M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP!!With cash public assistance"
+			},
+			{
+				"id": "S1902_C03_009E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP!!With cash public assistance"
+			},
+			{
+				"id": "S1902_C03_009M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With cash public assistance income or Food Stamps/SNAP!!With cash public assistance"
+			},
+			{
+				"id": "S1902_C01_010E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With retirement income"
+			},
+			{
+				"id": "S1902_C01_010M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With retirement income"
+			},
+			{
+				"id": "S1902_C02_010E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With retirement income"
+			},
+			{
+				"id": "S1902_C02_010M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With retirement income"
+			},
+			{
+				"id": "S1902_C03_010E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With retirement income"
+			},
+			{
+				"id": "S1902_C03_010M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With retirement income"
+			},
+			{
+				"id": "S1902_C01_011E",
+				"label": "Estimate!!Number!!HOUSEHOLD INCOME!!All households!!With other types of income"
+			},
+			{
+				"id": "S1902_C01_011M",
+				"label": "Margin of Error!!Number!!HOUSEHOLD INCOME!!All households!!With other types of income"
+			},
+			{
+				"id": "S1902_C02_011E",
+				"label": "Estimate!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With other types of income"
+			},
+			{
+				"id": "S1902_C02_011M",
+				"label": "Margin of Error!!Percent Distribution!!HOUSEHOLD INCOME!!All households!!With other types of income"
+			},
+			{
+				"id": "S1902_C03_011E",
+				"label": "Estimate!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With other types of income"
+			},
+			{
+				"id": "S1902_C03_011M",
+				"label": "Margin of Error!!Mean income (dollars)!!HOUSEHOLD INCOME!!All households!!With other types of income"
+			},
+			{
+				"id": "S1902_C01_012E",
+				"label": "Estimate!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families"
+			},
+			{
+				"id": "S1902_C01_012M",
+				"label": "Margin of Error!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families"
+			},
+			{
+				"id": "S1902_C02_012E",
+				"label": "Estimate!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families"
+			},
+			{
+				"id": "S1902_C02_012M",
+				"label": "Margin of Error!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families"
+			},
+			{
+				"id": "S1902_C03_012E",
+				"label": "Estimate!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families"
+			},
+			{
+				"id": "S1902_C03_012M",
+				"label": "Margin of Error!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families"
+			},
+			{
+				"id": "S1902_C01_013E",
+				"label": "Estimate!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers"
+			},
+			{
+				"id": "S1902_C01_013M",
+				"label": "Margin of Error!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers"
+			},
+			{
+				"id": "S1902_C02_013E",
+				"label": "Estimate!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers"
+			},
+			{
+				"id": "S1902_C02_013M",
+				"label": "Margin of Error!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers"
+			},
+			{
+				"id": "S1902_C03_013E",
+				"label": "Estimate!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers"
+			},
+			{
+				"id": "S1902_C03_013M",
+				"label": "Margin of Error!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers"
+			},
+			{
+				"id": "S1902_C01_014E",
+				"label": "Estimate!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker"
+			},
+			{
+				"id": "S1902_C01_014M",
+				"label": "Margin of Error!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker"
+			},
+			{
+				"id": "S1902_C02_014E",
+				"label": "Estimate!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker"
+			},
+			{
+				"id": "S1902_C02_014M",
+				"label": "Margin of Error!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker"
+			},
+			{
+				"id": "S1902_C03_014E",
+				"label": "Estimate!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker"
+			},
+			{
+				"id": "S1902_C03_014M",
+				"label": "Margin of Error!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker"
+			},
+			{
+				"id": "S1902_C01_015E",
+				"label": "Estimate!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C01_015M",
+				"label": "Margin of Error!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C02_015E",
+				"label": "Estimate!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C02_015M",
+				"label": "Margin of Error!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C03_015E",
+				"label": "Estimate!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C03_015M",
+				"label": "Margin of Error!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C01_016E",
+				"label": "Estimate!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other"
+			},
+			{
+				"id": "S1902_C01_016M",
+				"label": "Margin of Error!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other"
+			},
+			{
+				"id": "S1902_C02_016E",
+				"label": "Estimate!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other"
+			},
+			{
+				"id": "S1902_C02_016M",
+				"label": "Margin of Error!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other"
+			},
+			{
+				"id": "S1902_C03_016E",
+				"label": "Estimate!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other"
+			},
+			{
+				"id": "S1902_C03_016M",
+				"label": "Margin of Error!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other"
+			},
+			{
+				"id": "S1902_C01_017E",
+				"label": "Estimate!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C01_017M",
+				"label": "Margin of Error!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C02_017E",
+				"label": "Estimate!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C02_017M",
+				"label": "Margin of Error!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C03_017E",
+				"label": "Estimate!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C03_017M",
+				"label": "Margin of Error!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, both spouses worked"
+			},
+			{
+				"id": "S1902_C01_018E",
+				"label": "Estimate!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other"
+			},
+			{
+				"id": "S1902_C01_018M",
+				"label": "Margin of Error!!Number!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other"
+			},
+			{
+				"id": "S1902_C02_018E",
+				"label": "Estimate!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other"
+			},
+			{
+				"id": "S1902_C02_018M",
+				"label": "Margin of Error!!Percent Distribution!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other"
+			},
+			{
+				"id": "S1902_C03_018E",
+				"label": "Estimate!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other"
+			},
+			{
+				"id": "S1902_C03_018M",
+				"label": "Margin of Error!!Mean income (dollars)!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other"
+			},
+			{
+				"id": "S1902_C01_019E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population"
+			},
+			{
+				"id": "S1902_C01_019M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population"
+			},
+			{
+				"id": "S1902_C02_019E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population"
+			},
+			{
+				"id": "S1902_C02_019M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population"
+			},
+			{
+				"id": "S1902_C03_019E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population"
+			},
+			{
+				"id": "S1902_C03_019M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population"
+			},
+			{
+				"id": "S1902_C01_020E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!White"
+			},
+			{
+				"id": "S1902_C01_020M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!White"
+			},
+			{
+				"id": "S1902_C02_020E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!White"
+			},
+			{
+				"id": "S1902_C02_020M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!White"
+			},
+			{
+				"id": "S1902_C03_020E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!White"
+			},
+			{
+				"id": "S1902_C03_020M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!White"
+			},
+			{
+				"id": "S1902_C01_021E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Black or African American"
+			},
+			{
+				"id": "S1902_C01_021M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Black or African American"
+			},
+			{
+				"id": "S1902_C02_021E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Black or African American"
+			},
+			{
+				"id": "S1902_C02_021M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Black or African American"
+			},
+			{
+				"id": "S1902_C03_021E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Black or African American"
+			},
+			{
+				"id": "S1902_C03_021M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Black or African American"
+			},
+			{
+				"id": "S1902_C01_022E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1902_C01_022M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1902_C02_022E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1902_C02_022M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1902_C03_022E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1902_C03_022M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1902_C01_023E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Asian"
+			},
+			{
+				"id": "S1902_C01_023M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Asian"
+			},
+			{
+				"id": "S1902_C02_023E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Asian"
+			},
+			{
+				"id": "S1902_C02_023M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Asian"
+			},
+			{
+				"id": "S1902_C03_023E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Asian"
+			},
+			{
+				"id": "S1902_C03_023M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Asian"
+			},
+			{
+				"id": "S1902_C01_024E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1902_C01_024M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1902_C02_024E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1902_C02_024M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1902_C03_024E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1902_C03_024M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1902_C01_025E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Some other race"
+			},
+			{
+				"id": "S1902_C01_025M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Some other race"
+			},
+			{
+				"id": "S1902_C02_025E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Some other race"
+			},
+			{
+				"id": "S1902_C02_025M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Some other race"
+			},
+			{
+				"id": "S1902_C03_025E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Some other race"
+			},
+			{
+				"id": "S1902_C03_025M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race--!!Some other race"
+			},
+			{
+				"id": "S1902_C01_026E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races"
+			},
+			{
+				"id": "S1902_C01_026M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races"
+			},
+			{
+				"id": "S1902_C02_026E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races"
+			},
+			{
+				"id": "S1902_C02_026M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races"
+			},
+			{
+				"id": "S1902_C03_026E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races"
+			},
+			{
+				"id": "S1902_C03_026M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races"
+			},
+			{
+				"id": "S1902_C01_027E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1902_C01_027M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1902_C02_027E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1902_C02_027M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1902_C03_027E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1902_C03_027M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1902_C01_028E",
+				"label": "Estimate!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1902_C01_028M",
+				"label": "Margin of Error!!Number!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1902_C02_028E",
+				"label": "Estimate!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1902_C02_028M",
+				"label": "Margin of Error!!Percent Distribution!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1902_C03_028E",
+				"label": "Estimate!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1902_C03_028M",
+				"label": "Margin of Error!!Mean income (dollars)!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!White alone, not Hispanic or Latino"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S1902_C01_002E",
+			"S1902_C03_028EA",
+			"S1902_C03_005EA",
+			"S1902_C01_006MA",
+			"S1902_C01_014M",
+			"S1902_C01_026M",
+			"S1902_C02_011MA",
+			"S1902_C03_009MA",
+			"S1902_C03_027M",
+			"S1902_C01_002M",
+			"S1902_C03_003M",
+			"S1902_C01_021MA",
+			"S1902_C03_015M",
+			"S1902_C03_027E",
+			"S1902_C03_003E",
+			"S1902_C03_015E",
+			"S1902_C01_002EA",
+			"S1902_C03_020EA",
+			"S1902_C01_025EA",
+			"S1902_C02_015EA",
+			"S1902_C01_014E",
+			"S1902_C03_024MA",
+			"S1902_C01_026E",
+			"S1902_C02_019MA",
+			"S1902_C03_001MA",
+			"S1902_C01_001E",
+			"S1902_C01_013E",
+			"S1902_C03_016EA",
+			"S1902_C01_017MA",
+			"S1902_C01_025M",
+			"S1902_C02_023MA",
+			"S1902_C01_001M",
+			"S1902_C03_016M",
+			"S1902_C01_013M",
+			"S1902_C03_028M",
+			"S1902_C03_004M",
+			"S1902_C03_016E",
+			"S1902_C03_028E",
+			"S1902_C03_004E",
+			"S1902_C01_013EA",
+			"S1902_C02_004EA",
+			"S1902_C02_027EA",
+			"S1902_C01_025E",
+			"S1902_C02_008MA",
+			"S1902_C03_012MA",
+			"S1902_C03_006EA",
+			"S1902_C01_005MA",
+			"S1902_C01_016M",
+			"S1902_C01_028MA",
+			"S1902_C01_028M",
+			"S1902_C03_021EA",
+			"S1902_C02_012MA",
+			"S1902_C01_004M",
+			"S1902_C03_005M",
+			"S1902_C03_017M",
+			"S1902_C01_020MA",
+			"S1902_C02_009E",
+			"S1902_C01_009EA",
+			"S1902_C03_005E",
+			"S1902_C03_017E",
+			"S1902_C02_009M",
+			"S1902_C01_001EA",
+			"S1902_C01_024EA",
+			"S1902_C03_025MA",
+			"S1902_C02_016EA",
+			"S1902_C01_016E",
+			"S1902_C01_028E",
+			"S1902_C03_002MA",
+			"S1902_C01_004E",
+			"S1902_C02_020EA",
+			"S1902_C03_017EA",
+			"S1902_C01_027M",
+			"S1902_C01_016MA",
+			"S1902_C02_024MA",
+			"S1902_C01_003M",
+			"S1902_C01_015M",
+			"S1902_C02_001MA",
+			"S1902_C03_006M",
+			"S1902_C03_018M",
+			"S1902_C02_008E",
+			"S1902_C03_006E",
+			"S1902_C03_018E",
+			"S1902_C02_008M",
+			"S1902_C01_012EA",
+			"S1902_C02_028EA",
+			"S1902_C02_005EA",
+			"S1902_C01_027E",
+			"S1902_C01_003E",
+			"S1902_C03_013MA",
+			"S1902_C01_015E",
+			"S1902_C02_009MA",
+			"S1902_C01_018M",
+			"S1902_C01_004MA",
+			"S1902_C03_011M",
+			"S1902_C03_022EA",
+			"S1902_C01_006M",
+			"S1902_C01_027MA",
+			"S1902_C02_013MA",
+			"S1902_C03_011E",
+			"S1902_C02_007E",
+			"S1902_C03_023M",
+			"S1902_C03_007EA",
+			"S1902_C02_019E",
+			"S1902_C02_007M",
+			"S1902_C03_023E",
+			"S1902_C02_019M",
+			"S1902_C01_023EA",
+			"S1902_C02_017EA",
+			"S1902_C03_003MA",
+			"S1902_C01_018E",
+			"S1902_C03_026MA",
+			"S1902_C01_006E",
+			"S1902_C01_008EA",
+			"S1902_C02_021EA",
+			"S1902_C01_015MA",
+			"S1902_C01_005M",
+			"S1902_C02_002MA",
+			"S1902_C02_025MA",
+			"S1902_C01_017M",
+			"S1902_C03_010EA",
+			"S1902_C01_011EA",
+			"S1902_C02_018E",
+			"S1902_C03_012M",
+			"S1902_C02_006E",
+			"S1902_C03_018EA",
+			"S1902_C03_024M",
+			"NAME",
+			"S1902_C02_018M",
+			"S1902_C03_012E",
+			"S1902_C02_006M",
+			"S1902_C03_024E",
+			"S1902_C02_006EA",
+			"S1902_C03_014MA",
+			"S1902_C01_005E",
+			"S1902_C01_017E",
+			"S1902_C01_019EA",
+			"S1902_C02_010EA",
+			"S1902_C01_003MA",
+			"S1902_C01_026MA",
+			"S1902_C01_008M",
+			"S1902_C02_014MA",
+			"S1902_C01_022EA",
+			"S1902_C03_023EA",
+			"S1902_C02_005E",
+			"S1902_C03_001M",
+			"S1902_C03_008EA",
+			"S1902_C02_017E",
+			"S1902_C03_013M",
+			"S1902_C03_025M",
+			"S1902_C02_005M",
+			"S1902_C03_001E",
+			"S1902_C02_017M",
+			"S1902_C03_013E",
+			"S1902_C03_025E",
+			"S1902_C02_018EA",
+			"S1902_C03_004MA",
+			"S1902_C03_027MA",
+			"S1902_C01_008E",
+			"S1902_C01_007EA",
+			"S1902_C01_007M",
+			"S1902_C01_014MA",
+			"S1902_C01_019M",
+			"S1902_C02_026MA",
+			"S1902_C03_011EA",
+			"S1902_C02_003MA",
+			"S1902_C01_010EA",
+			"S1902_C02_016E",
+			"S1902_C02_004E",
+			"S1902_C03_019EA",
+			"S1902_C02_028E",
+			"S1902_C03_002M",
+			"S1902_C03_014M",
+			"S1902_C03_026M",
+			"S1902_C02_016M",
+			"S1902_C02_004M",
+			"S1902_C02_028M",
+			"S1902_C03_002E",
+			"S1902_C03_014E",
+			"S1902_C03_026E",
+			"S1902_C03_015MA",
+			"S1902_C02_007EA",
+			"S1902_C01_007E",
+			"S1902_C01_019E",
+			"S1902_C01_018EA",
+			"S1902_C02_022EA",
+			"S1902_C01_002MA",
+			"S1902_C01_025MA",
+			"S1902_C02_015MA",
+			"S1902_C03_024EA",
+			"S1902_C01_021EA",
+			"S1902_C03_001EA",
+			"S1902_C02_003E",
+			"S1902_C02_027E",
+			"S1902_C02_015E",
+			"S1902_C03_009EA",
+			"S1902_C02_003M",
+			"S1902_C02_027M",
+			"S1902_C03_020MA",
+			"S1902_C02_015M",
+			"S1902_C02_019EA",
+			"S1902_C03_028MA",
+			"S1902_C03_005MA",
+			"S1902_C01_006EA",
+			"S1902_C02_011EA",
+			"S1902_C01_009M",
+			"S1902_C01_013MA",
+			"S1902_C03_020M",
+			"S1902_C02_004MA",
+			"S1902_C02_027MA",
+			"S1902_C03_012EA",
+			"S1902_C02_014E",
+			"S1902_C02_002E",
+			"S1902_C03_020E",
+			"S1902_C02_026E",
+			"S1902_C02_014M",
+			"S1902_C02_002M",
+			"S1902_C02_026M",
+			"S1902_C02_008EA",
+			"S1902_C01_009E",
+			"S1902_C03_016MA",
+			"S1902_C01_017EA",
+			"S1902_C02_023EA",
+			"S1902_C01_001MA",
+			"S1902_C01_024MA",
+			"S1902_C03_025EA",
+			"S1902_C02_016MA",
+			"S1902_C03_021M",
+			"S1902_C01_020EA",
+			"S1902_C01_020E",
+			"S1902_C03_002EA",
+			"S1902_C02_025E",
+			"S1902_C02_013E",
+			"S1902_C03_021E",
+			"S1902_C01_020M",
+			"S1902_C02_025M",
+			"S1902_C02_013M",
+			"S1902_C02_001E",
+			"S1902_C01_009MA",
+			"S1902_C03_006MA",
+			"S1902_C01_005EA",
+			"S1902_C01_028EA",
+			"S1902_C03_021MA",
+			"S1902_C02_001M",
+			"S1902_C02_012EA",
+			"S1902_C01_012MA",
+			"S1902_C02_028MA",
+			"S1902_C03_010M",
+			"S1902_C02_005MA",
+			"S1902_C03_022M",
+			"S1902_C03_013EA",
+			"S1902_C02_020MA",
+			"S1902_C02_024E",
+			"S1902_C03_010E",
+			"S1902_C03_022E",
+			"S1902_C02_024M",
+			"S1902_C02_012E",
+			"S1902_C02_009EA",
+			"S1902_C03_017MA",
+			"S1902_C01_016EA",
+			"S1902_C02_024EA",
+			"S1902_C02_012M",
+			"S1902_C02_001EA",
+			"S1902_C01_023MA",
+			"S1902_C02_017MA",
+			"S1902_C03_003EA",
+			"S1902_C01_010E",
+			"S1902_C01_022E",
+			"S1902_C03_026EA",
+			"S1902_C03_007MA",
+			"S1902_C01_008MA",
+			"S1902_C01_010M",
+			"S1902_C03_007M",
+			"S1902_C01_022M",
+			"S1902_C03_019M",
+			"S1902_C03_007E",
+			"S1902_C03_019E",
+			"S1902_C02_023E",
+			"S1902_C02_011E",
+			"S1902_C01_004EA",
+			"S1902_C03_022MA",
+			"S1902_C01_027EA",
+			"S1902_C02_013EA",
+			"S1902_C02_023M",
+			"S1902_C02_011M",
+			"S1902_C02_006MA",
+			"S1902_C03_014EA",
+			"S1902_C01_021E",
+			"S1902_C03_018MA",
+			"S1902_C01_019MA",
+			"S1902_C02_021MA",
+			"S1902_C01_021M",
+			"S1902_C03_008M",
+			"S1902_C01_011MA",
+			"S1902_C03_008E",
+			"S1902_C02_010E",
+			"S1902_C02_022E",
+			"S1902_C01_015EA",
+			"S1902_C02_002EA",
+			"S1902_C02_010M",
+			"S1902_C02_025EA",
+			"S1902_C03_010MA",
+			"S1902_C02_022M",
+			"S1902_C01_012E",
+			"S1902_C02_018MA",
+			"S1902_C03_004EA",
+			"S1902_C03_027EA",
+			"S1902_C01_024E",
+			"S1902_C03_008MA",
+			"S1902_C01_007MA",
+			"S1902_C01_012M",
+			"S1902_C02_010MA",
+			"S1902_C01_024M",
+			"S1902_C01_022MA",
+			"S1902_C02_021E",
+			"S1902_C03_009M",
+			"S1902_C01_003EA",
+			"S1902_C01_026EA",
+			"S1902_C02_014EA",
+			"S1902_C02_021M",
+			"S1902_C03_009E",
+			"S1902_C03_023MA",
+			"S1902_C01_023E",
+			"S1902_C03_015EA",
+			"S1902_C02_007MA",
+			"S1902_C01_011E",
+			"S1902_C03_019MA",
+			"S1902_C01_018MA",
+			"S1902_C02_022MA",
+			"S1902_C01_023M",
+			"S1902_C01_011M",
+			"S1902_C01_010MA",
+			"GEO_ID",
+			"S1902_C02_020E",
+			"S1902_C01_014EA",
+			"S1902_C02_026EA",
+			"S1902_C03_011MA",
+			"S1902_C02_003EA",
+			"S1902_C02_020M"
+		],
+		[
+			"103038746",
+			null,
+			null,
+			null,
+			"75649",
+			"197808",
+			null,
+			null,
+			"143",
+			"140660",
+			"226",
+			null,
+			"598",
+			"29435",
+			"113570",
+			"181684",
+			null,
+			null,
+			null,
+			null,
+			"25963986",
+			null,
+			"44943250",
+			"*****",
+			null,
+			"132737146",
+			"12852972",
+			null,
+			null,
+			"137517",
+			null,
+			"140273",
+			"697",
+			"47134",
+			"123",
+			"489",
+			"115064",
+			"53079",
+			"47361",
+			null,
+			null,
+			null,
+			"25282912",
+			null,
+			null,
+			null,
+			null,
+			"55321",
+			null,
+			"50356",
+			null,
+			null,
+			"70543",
+			"309",
+			"948",
+			null,
+			"2.5",
+			null,
+			"29572",
+			"201225",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"9029070",
+			"191382624",
+			null,
+			"14724487",
+			null,
+			null,
+			"8596",
+			null,
+			null,
+			"143665",
+			"131166",
+			null,
+			"40",
+			"1266",
+			"12.5",
+			"25033",
+			"153670",
+			"0.1",
+			null,
+			null,
+			null,
+			"68013553",
+			"99587258",
+			null,
+			"26335200",
+			null,
+			"34861",
+			null,
+			"111",
+			null,
+			"87775",
+			null,
+			null,
+			"16692",
+			"5.0",
+			"382",
+			null,
+			"340110990",
+			"0.1",
+			"58237",
+			"-555555555",
+			null,
+			null,
+			null,
+			"3110965",
+			null,
+			"41899372",
+			null,
+			null,
+			null,
+			"135322",
+			null,
+			null,
+			"50809",
+			null,
+			null,
+			"3.7",
+			"284",
+			"31.6",
+			null,
+			"1522",
+			"United States",
+			"0.1",
+			"135271",
+			"0.1",
+			"34290",
+			null,
+			null,
+			"26693150",
+			"7674346",
+			null,
+			null,
+			null,
+			null,
+			"75598",
+			null,
+			null,
+			null,
+			"20.1",
+			"208",
+			"(X)",
+			"9.0",
+			"444",
+			"225",
+			"0.1",
+			"114296",
+			"0.1",
+			"76212",
+			"27765",
+			null,
+			null,
+			null,
+			"16616234",
+			null,
+			"53010",
+			null,
+			"-555555555",
+			null,
+			null,
+			null,
+			null,
+			"10.6",
+			"11.1",
+			null,
+			"56.3",
+			"225",
+			"445",
+			"189",
+			"0.1",
+			"0.1",
+			"0.1",
+			"116533",
+			"102758",
+			"32521",
+			null,
+			null,
+			"6658317",
+			"340110990",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"75.0",
+			"20.0",
+			"31.0",
+			null,
+			"0.1",
+			"0.1",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"38665",
+			null,
+			"117",
+			null,
+			null,
+			null,
+			"30.6",
+			"77.6",
+			"51787",
+			"13.2",
+			"0.1",
+			"0.1",
+			"0.1",
+			null,
+			"3269400",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"195",
+			null,
+			"203349963",
+			null,
+			"7.4",
+			"15.1",
+			"32514",
+			"126334",
+			"0.1",
+			"0.1",
+			"132737146",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"140273",
+			null,
+			null,
+			null,
+			"131",
+			null,
+			"421",
+			null,
+			null,
+			"0.2",
+			"32291",
+			"27938",
+			"0.1",
+			"84966539",
+			null,
+			null,
+			null,
+			null,
+			"137371",
+			null,
+			null,
+			null,
+			null,
+			"32435969",
+			"3433243",
+			null,
+			null,
+			null,
+			"139986",
+			"48",
+			"54565",
+			"100",
+			"11080",
+			"45256",
+			"6.3",
+			"8.7",
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			"0.1",
+			null,
+			null,
+			"41115988",
+			null,
+			"*****",
+			null,
+			"105449",
+			"-888888888",
+			null,
+			"-888888888",
+			"24.4",
+			"1.0",
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			"0.1",
+			"84966539",
+			null,
+			null,
+			null,
+			"652181",
+			"(X)",
+			null,
+			"137371",
+			null,
+			"18258",
+			null,
+			"12.1",
+			"54",
+			null,
+			null,
+			null,
+			"0.1",
+			"3634",
+			null,
+			"21333453",
+			null,
+			null,
+			"11541427",
+			null,
+			null,
+			null,
+			"46902",
+			"72430",
+			null,
+			"0100000US",
+			"59.8",
+			null,
+			null,
+			null,
+			null,
+			"0.1"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:03.892Z"
+}

@@ -1,0 +1,56 @@
+{
+	"tableId": "ACSDT1Y2024.B02008",
+	"title": "White Alone or in Combination With One or More Other Races",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "White alone or in combination with one or more other races",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B02008",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B02008_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B02008_001M",
+				"label": "Margin of Error!!Total:"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"GEO_ID",
+			"B02008_001E",
+			"B02008_001EA",
+			"B02008_001M",
+			"B02008_001MA",
+			"NAME"
+		],
+		[
+			"0100000US",
+			"244978025",
+			null,
+			"188902",
+			null,
+			"United States"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:29.273Z"
+}

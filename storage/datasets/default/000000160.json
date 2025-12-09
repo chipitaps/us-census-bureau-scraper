@@ -1,0 +1,1736 @@
+{
+	"tableId": "ACSDT1Y2024.B05007",
+	"title": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-Born Population",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Foreign-born population",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B05007",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B05007_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B05007_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B05007_002E",
+				"label": "Estimate!!Total:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_002M",
+				"label": "Margin of Error!!Total:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_003E",
+				"label": "Estimate!!Total:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_003M",
+				"label": "Margin of Error!!Total:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_004E",
+				"label": "Estimate!!Total:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_004M",
+				"label": "Margin of Error!!Total:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_005E",
+				"label": "Estimate!!Total:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_005M",
+				"label": "Margin of Error!!Total:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_006E",
+				"label": "Estimate!!Total:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_006M",
+				"label": "Margin of Error!!Total:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_007E",
+				"label": "Estimate!!Total:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_007M",
+				"label": "Margin of Error!!Total:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_008E",
+				"label": "Estimate!!Total:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_008M",
+				"label": "Margin of Error!!Total:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_009E",
+				"label": "Estimate!!Total:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_009M",
+				"label": "Margin of Error!!Total:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_010E",
+				"label": "Estimate!!Total:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_010M",
+				"label": "Margin of Error!!Total:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_011E",
+				"label": "Estimate!!Total:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_011M",
+				"label": "Margin of Error!!Total:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_012E",
+				"label": "Estimate!!Total:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_012M",
+				"label": "Margin of Error!!Total:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_013E",
+				"label": "Estimate!!Total:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_013M",
+				"label": "Margin of Error!!Total:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_014E",
+				"label": "Estimate!!Total:!!Europe:"
+			},
+			{
+				"id": "B05007_014M",
+				"label": "Margin of Error!!Total:!!Europe:"
+			},
+			{
+				"id": "B05007_015E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_015M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_016E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_016M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_017E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_017M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_018E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_018M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_019E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_019M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_020E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_020M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_021E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_021M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_022E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_022M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_023E",
+				"label": "Estimate!!Total:!!Europe:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_023M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_024E",
+				"label": "Estimate!!Total:!!Europe:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_024M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_025E",
+				"label": "Estimate!!Total:!!Europe:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_025M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_026E",
+				"label": "Estimate!!Total:!!Europe:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_026M",
+				"label": "Margin of Error!!Total:!!Europe:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_027E",
+				"label": "Estimate!!Total:!!Asia:"
+			},
+			{
+				"id": "B05007_027M",
+				"label": "Margin of Error!!Total:!!Asia:"
+			},
+			{
+				"id": "B05007_028E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_028M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_029E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_029M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_030E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_030M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_031E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_031M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_032E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_032M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_033E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_033M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_034E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_034M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_035E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_035M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_036E",
+				"label": "Estimate!!Total:!!Asia:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_036M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_037E",
+				"label": "Estimate!!Total:!!Asia:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_037M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_038E",
+				"label": "Estimate!!Total:!!Asia:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_038M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_039E",
+				"label": "Estimate!!Total:!!Asia:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_039M",
+				"label": "Margin of Error!!Total:!!Asia:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_040E",
+				"label": "Estimate!!Total:!!Latin America:"
+			},
+			{
+				"id": "B05007_040M",
+				"label": "Margin of Error!!Total:!!Latin America:"
+			},
+			{
+				"id": "B05007_041E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:"
+			},
+			{
+				"id": "B05007_041M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:"
+			},
+			{
+				"id": "B05007_042E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_042M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_043E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_043M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_044E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_044M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_045E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_045M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_046E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_046M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_047E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_047M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_048E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_048M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_049E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_049M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_050E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_050M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_051E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_051M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_052E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_052M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_053E",
+				"label": "Estimate!!Total:!!Latin America:!!Caribbean:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_053M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Caribbean:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_054E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:"
+			},
+			{
+				"id": "B05007_054M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:"
+			},
+			{
+				"id": "B05007_055E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:"
+			},
+			{
+				"id": "B05007_055M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:"
+			},
+			{
+				"id": "B05007_056E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_056M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_057E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_057M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_058E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_058M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_059E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_059M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_060E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_060M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_061E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_061M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_062E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_062M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_063E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_063M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_064E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_064M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_065E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_065M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_066E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_066M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_067E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_067M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Mexico:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_068E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:"
+			},
+			{
+				"id": "B05007_068M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:"
+			},
+			{
+				"id": "B05007_069E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_069M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_070E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_070M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_071E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_071M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_072E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_072M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_073E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_073M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_074E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_074M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_075E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_075M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_076E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_076M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_077E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_077M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_078E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_078M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_079E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_079M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_080E",
+				"label": "Estimate!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_080M",
+				"label": "Margin of Error!!Total:!!Latin America:!!Central America:!!Other Central America:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_081E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:"
+			},
+			{
+				"id": "B05007_081M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:"
+			},
+			{
+				"id": "B05007_082E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_082M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_083E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_083M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_084E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_084M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_085E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_085M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_086E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_086M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_087E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_087M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_088E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_088M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_089E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_089M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_090E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_090M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_091E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_091M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_092E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_092M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_093E",
+				"label": "Estimate!!Total:!!Latin America:!!South America:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_093M",
+				"label": "Margin of Error!!Total:!!Latin America:!!South America:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_094E",
+				"label": "Estimate!!Total:!!Other areas:"
+			},
+			{
+				"id": "B05007_094M",
+				"label": "Margin of Error!!Total:!!Other areas:"
+			},
+			{
+				"id": "B05007_095E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_095M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 2010 or later:"
+			},
+			{
+				"id": "B05007_096E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_096M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 2010 or later:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_097E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_097M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 2010 or later:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_098E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_098M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 2000 to 2009:"
+			},
+			{
+				"id": "B05007_099E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_099M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 2000 to 2009:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_100E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_100M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 2000 to 2009:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_101E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_101M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 1990 to 1999:"
+			},
+			{
+				"id": "B05007_102E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_102M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 1990 to 1999:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_103E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_103M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered 1990 to 1999:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_104E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_104M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered before 1990:"
+			},
+			{
+				"id": "B05007_105E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_105M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered before 1990:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05007_106E",
+				"label": "Estimate!!Total:!!Other areas:!!Entered before 1990:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05007_106M",
+				"label": "Margin of Error!!Total:!!Other areas:!!Entered before 1990:!!Not a U.S. citizen"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B05007_032E",
+			"B05007_044E",
+			"B05007_063MA",
+			"B05007_086MA",
+			"B05007_020E",
+			"B05007_056E",
+			"B05007_082EA",
+			"B05007_068E",
+			"B05007_032M",
+			"B05007_007EA",
+			"B05007_044M",
+			"B05007_020M",
+			"B05007_056M",
+			"B05007_068M",
+			"B05007_041MA",
+			"B05007_104EA",
+			"B05007_043E",
+			"B05007_051MA",
+			"B05007_055E",
+			"B05007_097MA",
+			"B05007_031E",
+			"B05007_074MA",
+			"B05007_093EA",
+			"B05007_067E",
+			"B05007_070EA",
+			"B05007_079E",
+			"B05007_043M",
+			"B05007_055M",
+			"B05007_019EA",
+			"B05007_031M",
+			"B05007_067M",
+			"B05007_079M",
+			"B05007_054E",
+			"B05007_066E",
+			"B05007_030E",
+			"B05007_042E",
+			"B05007_064MA",
+			"B05007_087MA",
+			"B05007_078E",
+			"B05007_060EA",
+			"B05007_054M",
+			"B05007_066M",
+			"B05007_083EA",
+			"B05007_029EA",
+			"B05007_030M",
+			"B05007_042M",
+			"B05007_006EA",
+			"B05007_078M",
+			"B05007_040MA",
+			"B05007_105EA",
+			"B05007_065E",
+			"B05007_077E",
+			"B05007_041E",
+			"B05007_052MA",
+			"B05007_075MA",
+			"B05007_053E",
+			"B05007_071EA",
+			"B05007_089E",
+			"B05007_098MA",
+			"B05007_065M",
+			"B05007_077M",
+			"B05007_018EA",
+			"B05007_041M",
+			"B05007_094EA",
+			"B05007_053M",
+			"B05007_089M",
+			"B05007_049E",
+			"B05007_061MA",
+			"B05007_084MA",
+			"B05007_106MA",
+			"B05007_036E",
+			"B05007_080EA",
+			"B05007_048E",
+			"B05007_012E",
+			"B05007_024E",
+			"B05007_036M",
+			"B05007_028EA",
+			"B05007_048M",
+			"B05007_012M",
+			"B05007_005EA",
+			"B05007_024M",
+			"B05007_009MA",
+			"B05007_102EA",
+			"B05007_011E",
+			"B05007_072MA",
+			"B05007_095MA",
+			"B05007_047E",
+			"B05007_091EA",
+			"B05007_059E",
+			"B05007_023E",
+			"B05007_035E",
+			"B05007_011M",
+			"B05007_047M",
+			"B05007_017EA",
+			"B05007_059M",
+			"B05007_023M",
+			"B05007_035M",
+			"B05007_019MA",
+			"B05007_010E",
+			"B05007_022E",
+			"B05007_062MA",
+			"B05007_085MA",
+			"B05007_058E",
+			"B05007_034E",
+			"B05007_046E",
+			"B05007_081EA",
+			"B05007_010M",
+			"B05007_022M",
+			"B05007_004EA",
+			"B05007_027EA",
+			"B05007_058M",
+			"B05007_034M",
+			"B05007_046M",
+			"B05007_008MA",
+			"B05007_103EA",
+			"B05007_021E",
+			"B05007_050MA",
+			"B05007_073MA",
+			"B05007_096MA",
+			"B05007_033E",
+			"B05007_069E",
+			"B05007_045E",
+			"B05007_057E",
+			"B05007_092EA",
+			"B05007_021M",
+			"B05007_033M",
+			"B05007_016EA",
+			"B05007_039EA",
+			"B05007_069M",
+			"B05007_045M",
+			"B05007_057M",
+			"B05007_072M",
+			"B05007_084M",
+			"B05007_060M",
+			"B05007_010MA",
+			"B05007_033MA",
+			"B05007_096E",
+			"B05007_067MA",
+			"B05007_063EA",
+			"B05007_086EA",
+			"B05007_096M",
+			"B05007_072E",
+			"B05007_084E",
+			"B05007_060E",
+			"B05007_083M",
+			"B05007_041EA",
+			"B05007_095M",
+			"B05007_071M",
+			"B05007_045MA",
+			"B05007_022MA",
+			"B05007_055MA",
+			"B05007_078MA",
+			"B05007_051EA",
+			"B05007_097EA",
+			"B05007_074EA",
+			"B05007_083E",
+			"B05007_095E",
+			"B05007_071E",
+			"B05007_094M",
+			"B05007_070M",
+			"B05007_082M",
+			"B05007_032MA",
+			"B05007_068MA",
+			"B05007_064EA",
+			"B05007_094E",
+			"B05007_087EA",
+			"B05007_070E",
+			"B05007_082E",
+			"B05007_040EA",
+			"B05007_081M",
+			"B05007_093M",
+			"B05007_021MA",
+			"B05007_044MA",
+			"B05007_056MA",
+			"B05007_079MA",
+			"B05007_052EA",
+			"B05007_075EA",
+			"B05007_081E",
+			"B05007_098EA",
+			"B05007_093E",
+			"B05007_040M",
+			"B05007_031MA",
+			"B05007_076E",
+			"B05007_088E",
+			"B05007_052E",
+			"B05007_064E",
+			"B05007_065MA",
+			"B05007_088MA",
+			"B05007_009EA",
+			"B05007_061EA",
+			"B05007_076M",
+			"B05007_084EA",
+			"B05007_088M",
+			"B05007_052M",
+			"B05007_064M",
+			"B05007_040E",
+			"B05007_051M",
+			"B05007_106EA",
+			"B05007_043MA",
+			"B05007_020MA",
+			"B05007_087E",
+			"B05007_099E",
+			"B05007_063E",
+			"B05007_053MA",
+			"B05007_075E",
+			"B05007_076MA",
+			"B05007_099MA",
+			"B05007_087M",
+			"B05007_072EA",
+			"B05007_099M",
+			"B05007_063M",
+			"B05007_075M",
+			"B05007_095EA",
+			"B05007_051E",
+			"B05007_050M",
+			"B05007_062M",
+			"B05007_030MA",
+			"B05007_098E",
+			"B05007_074E",
+			"B05007_086E",
+			"B05007_066MA",
+			"B05007_089MA",
+			"B05007_008EA",
+			"B05007_098M",
+			"B05007_062EA",
+			"B05007_074M",
+			"B05007_085EA",
+			"B05007_086M",
+			"B05007_050E",
+			"B05007_062E",
+			"B05007_061M",
+			"B05007_073M",
+			"B05007_042MA",
+			"GEO_ID",
+			"B05007_085E",
+			"B05007_097E",
+			"B05007_054MA",
+			"B05007_077MA",
+			"B05007_050EA",
+			"B05007_073EA",
+			"B05007_096EA",
+			"B05007_085M",
+			"B05007_097M",
+			"B05007_061E",
+			"B05007_073E",
+			"B05007_010EA",
+			"B05007_033EA",
+			"B05007_014MA",
+			"B05007_037MA",
+			"B05007_100MA",
+			"B05007_067EA",
+			"B05007_045EA",
+			"B05007_022EA",
+			"B05007_003MA",
+			"B05007_049MA",
+			"B05007_026MA",
+			"B05007_059MA",
+			"B05007_055EA",
+			"B05007_078EA",
+			"B05007_032EA",
+			"B05007_036MA",
+			"B05007_013MA",
+			"B05007_101MA",
+			"B05007_068EA",
+			"B05007_021EA",
+			"B05007_044EA",
+			"B05007_025MA",
+			"B05007_048MA",
+			"B05007_002MA",
+			"B05007_090MA",
+			"B05007_106M",
+			"B05007_009M",
+			"B05007_056EA",
+			"B05007_079EA",
+			"B05007_080M",
+			"B05007_031EA",
+			"B05007_092M",
+			"B05007_012MA",
+			"B05007_035MA",
+			"B05007_069MA",
+			"B05007_080E",
+			"B05007_065EA",
+			"B05007_088EA",
+			"B05007_092E",
+			"B05007_091M",
+			"B05007_043EA",
+			"B05007_020EA",
+			"B05007_047MA",
+			"B05007_024MA",
+			"B05007_001MA",
+			"NAME",
+			"B05007_057MA",
+			"B05007_091E",
+			"B05007_053EA",
+			"B05007_076EA",
+			"B05007_099EA",
+			"B05007_090M",
+			"B05007_030EA",
+			"B05007_034MA",
+			"B05007_011MA",
+			"B05007_090E",
+			"B05007_066EA",
+			"B05007_089EA",
+			"B05007_042EA",
+			"B05007_023MA",
+			"B05007_046MA",
+			"B05007_058MA",
+			"B05007_054EA",
+			"B05007_077EA",
+			"B05007_018MA",
+			"B05007_029E",
+			"B05007_005E",
+			"B05007_017E",
+			"B05007_082MA",
+			"B05007_016M",
+			"B05007_028M",
+			"B05007_101E",
+			"B05007_004E",
+			"B05007_100EA",
+			"B05007_104MA",
+			"B05007_101M",
+			"B05007_003EA",
+			"B05007_004M",
+			"B05007_049EA",
+			"B05007_026EA",
+			"B05007_007MA",
+			"B05007_016E",
+			"B05007_028E",
+			"B05007_093MA",
+			"B05007_070MA",
+			"B05007_027M",
+			"B05007_039M",
+			"B05007_003E",
+			"B05007_015E",
+			"B05007_100E",
+			"B05007_003M",
+			"B05007_015M",
+			"B05007_038EA",
+			"B05007_100M",
+			"B05007_015EA",
+			"B05007_013EA",
+			"B05007_017MA",
+			"B05007_027E",
+			"B05007_039E",
+			"B05007_060MA",
+			"B05007_083MA",
+			"B05007_038M",
+			"B05007_014E",
+			"B05007_101EA",
+			"B05007_026E",
+			"B05007_002E",
+			"B05007_105MA",
+			"B05007_014M",
+			"B05007_026M",
+			"B05007_025EA",
+			"B05007_048EA",
+			"B05007_002M",
+			"B05007_002EA",
+			"B05007_029MA",
+			"B05007_006MA",
+			"B05007_038E",
+			"B05007_071MA",
+			"B05007_049M",
+			"B05007_094MA",
+			"B05007_025E",
+			"B05007_037E",
+			"B05007_090EA",
+			"B05007_001E",
+			"B05007_013E",
+			"B05007_025M",
+			"B05007_037M",
+			"B05007_001M",
+			"B05007_014EA",
+			"B05007_037EA",
+			"B05007_013M",
+			"B05007_012EA",
+			"B05007_035EA",
+			"B05007_058EA",
+			"B05007_016MA",
+			"B05007_039MA",
+			"B05007_106E",
+			"B05007_080MA",
+			"B05007_009E",
+			"B05007_105M",
+			"B05007_008M",
+			"B05007_102MA",
+			"B05007_047EA",
+			"B05007_069EA",
+			"B05007_024EA",
+			"B05007_001EA",
+			"B05007_028MA",
+			"B05007_005MA",
+			"B05007_105E",
+			"B05007_008E",
+			"B05007_091MA",
+			"B05007_007M",
+			"B05007_019M",
+			"B05007_104M",
+			"B05007_036EA",
+			"B05007_057EA",
+			"B05007_034EA",
+			"B05007_059EA",
+			"B05007_011EA",
+			"B05007_038MA",
+			"B05007_015MA",
+			"B05007_007E",
+			"B05007_019E",
+			"B05007_104E",
+			"B05007_081MA",
+			"B05007_018M",
+			"B05007_006M",
+			"B05007_103MA",
+			"B05007_103E",
+			"B05007_103M",
+			"B05007_023EA",
+			"B05007_046EA",
+			"B05007_004MA",
+			"B05007_027MA",
+			"B05007_018E",
+			"B05007_006E",
+			"B05007_092MA",
+			"B05007_029M",
+			"B05007_005M",
+			"B05007_017M",
+			"B05007_102E",
+			"B05007_102M"
+		],
+		[
+			"2357176",
+			"1550622",
+			null,
+			null,
+			"207789",
+			"2566106",
+			null,
+			"4567313",
+			"30082",
+			null,
+			"44652",
+			"9676",
+			"48783",
+			"67592",
+			null,
+			null,
+			"649485",
+			null,
+			"11143711",
+			null,
+			"3146136",
+			null,
+			null,
+			"1044775",
+			null,
+			"647106",
+			"24772",
+			"77843",
+			null,
+			"32533",
+			"24471",
+			"16110",
+			"15711024",
+			"1971819",
+			"4443098",
+			"2200107",
+			null,
+			null,
+			"827535",
+			null,
+			"103282",
+			"28866",
+			null,
+			null,
+			"58384",
+			"46019",
+			null,
+			"18254",
+			null,
+			null,
+			"3016594",
+			"316545",
+			"5253901",
+			null,
+			null,
+			"161685",
+			null,
+			"508271",
+			null,
+			"36585",
+			"13094",
+			null,
+			"67390",
+			null,
+			"9298",
+			"16069",
+			"643420",
+			null,
+			null,
+			null,
+			"292294",
+			null,
+			"789467",
+			"9747978",
+			"1577801",
+			"11815",
+			null,
+			"20959",
+			"61360",
+			null,
+			"25445",
+			null,
+			null,
+			"11808936",
+			null,
+			null,
+			"254810",
+			null,
+			"2855605",
+			"143901",
+			"2231948",
+			"67982",
+			"11611",
+			null,
+			"41010",
+			"6781",
+			"33581",
+			null,
+			"2927878",
+			"843863",
+			null,
+			null,
+			"2242294",
+			"2524242",
+			"693481",
+			null,
+			"35600",
+			"20107",
+			null,
+			null,
+			"47159",
+			"33745",
+			"21216",
+			null,
+			null,
+			"987764",
+			null,
+			null,
+			null,
+			"788960",
+			"2122543",
+			"948291",
+			"323812",
+			null,
+			"22402",
+			"17641",
+			null,
+			null,
+			"52678",
+			"24896",
+			"12843",
+			"25972",
+			"47111",
+			"16173",
+			null,
+			null,
+			"682251",
+			null,
+			null,
+			null,
+			"25436",
+			"995145",
+			"2152587",
+			"607759",
+			"16408",
+			null,
+			"44730",
+			"51181",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"356566",
+			"1965754",
+			"1963782",
+			"55309",
+			"9936",
+			"49760",
+			null,
+			null,
+			null,
+			"4103151",
+			null,
+			"158761",
+			"2509153",
+			null,
+			"60682",
+			"6399",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"4833833",
+			null,
+			"91266",
+			"124090",
+			null,
+			"305545",
+			"655901",
+			"1154351",
+			"1774370",
+			null,
+			null,
+			null,
+			null,
+			"11862",
+			null,
+			"18547",
+			"23253",
+			"28241",
+			"25798758",
+			"26007",
+			null,
+			null,
+			null,
+			"307446",
+			"698888",
+			"931036",
+			null,
+			"622090",
+			null,
+			null,
+			"16069",
+			null,
+			"20331",
+			"20833",
+			"18366",
+			null,
+			"1316036",
+			"8026",
+			"32042",
+			null,
+			"896998",
+			"735009",
+			"584299",
+			null,
+			null,
+			null,
+			"23668",
+			null,
+			"20833",
+			null,
+			"15794",
+			"146047",
+			"2705406",
+			"37880",
+			"13368",
+			null,
+			"0100000US",
+			"891745",
+			"1283503",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"22179",
+			"36448",
+			"2247846",
+			"260136",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"5026",
+			"55234",
+			null,
+			null,
+			"8873",
+			null,
+			"15106",
+			null,
+			null,
+			null,
+			"180429",
+			null,
+			null,
+			"685768",
+			"16211",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			null,
+			"777034",
+			null,
+			null,
+			null,
+			"9723",
+			null,
+			null,
+			null,
+			"147630",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1718040",
+			"10604525",
+			"1032191",
+			null,
+			"14497",
+			"64820",
+			"586361",
+			"14668077",
+			null,
+			null,
+			"16014",
+			null,
+			"131673",
+			null,
+			null,
+			null,
+			"393174",
+			"6161138",
+			null,
+			null,
+			"68123",
+			"10178",
+			"4282089",
+			"1425365",
+			"198110",
+			"55764",
+			"36334",
+			null,
+			"11230",
+			null,
+			null,
+			null,
+			"15471414",
+			"242097",
+			null,
+			null,
+			"32637",
+			"4861535",
+			null,
+			"220044",
+			"18950166",
+			null,
+			"55103",
+			"9814",
+			null,
+			null,
+			"141306",
+			null,
+			null,
+			null,
+			"3397801",
+			null,
+			"19882",
+			null,
+			"1357757",
+			"3639898",
+			null,
+			"50234858",
+			"2060958",
+			"22935",
+			"33929",
+			"162664",
+			null,
+			null,
+			"33082",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"120662",
+			null,
+			"5943353",
+			"13307",
+			"56241",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"533376",
+			"8871231",
+			null,
+			"56245",
+			"17210",
+			"13712",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"4739970",
+			"662816",
+			"654038",
+			null,
+			"18655",
+			"50186",
+			null,
+			"107091",
+			"6898",
+			null,
+			null,
+			null,
+			null,
+			"870605",
+			"5864555",
+			null,
+			"35990",
+			"72856",
+			"32653",
+			"479270",
+			"13787"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:35.736Z"
+}

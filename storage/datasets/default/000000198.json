@@ -1,0 +1,1576 @@
+{
+	"tableId": "ACSDT1Y2024.B07001PR",
+	"title": "Geographical Mobility in the Past Year by Age for Current Residence in Puerto Rico",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 1 year and over in Puerto Rico",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B07001PR",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B07001PR_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B07001PR_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B07001PR_002E",
+				"label": "Estimate!!Total:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_002M",
+				"label": "Margin of Error!!Total:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_003E",
+				"label": "Estimate!!Total:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_003M",
+				"label": "Margin of Error!!Total:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_004E",
+				"label": "Estimate!!Total:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_004M",
+				"label": "Margin of Error!!Total:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_005E",
+				"label": "Estimate!!Total:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_005M",
+				"label": "Margin of Error!!Total:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_006E",
+				"label": "Estimate!!Total:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_006M",
+				"label": "Margin of Error!!Total:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_007E",
+				"label": "Estimate!!Total:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_007M",
+				"label": "Margin of Error!!Total:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_008E",
+				"label": "Estimate!!Total:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_008M",
+				"label": "Margin of Error!!Total:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_009E",
+				"label": "Estimate!!Total:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_009M",
+				"label": "Margin of Error!!Total:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_010E",
+				"label": "Estimate!!Total:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_010M",
+				"label": "Margin of Error!!Total:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_011E",
+				"label": "Estimate!!Total:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_011M",
+				"label": "Margin of Error!!Total:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_012E",
+				"label": "Estimate!!Total:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_012M",
+				"label": "Margin of Error!!Total:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_013E",
+				"label": "Estimate!!Total:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_013M",
+				"label": "Margin of Error!!Total:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_014E",
+				"label": "Estimate!!Total:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_014M",
+				"label": "Margin of Error!!Total:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_015E",
+				"label": "Estimate!!Total:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_015M",
+				"label": "Margin of Error!!Total:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_016E",
+				"label": "Estimate!!Total:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_016M",
+				"label": "Margin of Error!!Total:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_017E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:"
+			},
+			{
+				"id": "B07001PR_017M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:"
+			},
+			{
+				"id": "B07001PR_018E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_018M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_019E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_019M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_020E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_020M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_021E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_021M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_022E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_022M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_023E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_023M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_024E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_024M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_025E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_025M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_026E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_026M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_027E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_027M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_028E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_028M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_029E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_029M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_030E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_030M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_031E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_031M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_032E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_032M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_033E",
+				"label": "Estimate!!Total:!!Moved within same municipio:"
+			},
+			{
+				"id": "B07001PR_033M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:"
+			},
+			{
+				"id": "B07001PR_034E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_034M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_035E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_035M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_036E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_036M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_037E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_037M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_038E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_038M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_039E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_039M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_040E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_040M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_041E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_041M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_042E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_042M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_043E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_043M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_044E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_044M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_045E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_045M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_046E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_046M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_047E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_047M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_048E",
+				"label": "Estimate!!Total:!!Moved within same municipio:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_048M",
+				"label": "Margin of Error!!Total:!!Moved within same municipio:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_049E",
+				"label": "Estimate!!Total:!!Moved from different municipio:"
+			},
+			{
+				"id": "B07001PR_049M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:"
+			},
+			{
+				"id": "B07001PR_050E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_050M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_051E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_051M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_052E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_052M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_053E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_053M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_054E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_054M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_055E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_055M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_056E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_056M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_057E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_057M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_058E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_058M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_059E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_059M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_060E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_060M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_061E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_061M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_062E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_062M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_063E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_063M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_064E",
+				"label": "Estimate!!Total:!!Moved from different municipio:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_064M",
+				"label": "Margin of Error!!Total:!!Moved from different municipio:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_065E",
+				"label": "Estimate!!Total:!!Moved from the United States:"
+			},
+			{
+				"id": "B07001PR_065M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:"
+			},
+			{
+				"id": "B07001PR_066E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_066M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_067E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_067M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_068E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_068M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_069E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_069M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_070E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_070M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_071E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_071M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_072E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_072M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_073E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_073M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_074E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_074M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_075E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_075M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_076E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_076M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_077E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_077M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_078E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_078M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_079E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_079M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_080E",
+				"label": "Estimate!!Total:!!Moved from the United States:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_080M",
+				"label": "Margin of Error!!Total:!!Moved from the United States:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_081E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:"
+			},
+			{
+				"id": "B07001PR_081M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:"
+			},
+			{
+				"id": "B07001PR_082E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_082M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!1 to 4 years"
+			},
+			{
+				"id": "B07001PR_083E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_083M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!5 to 17 years"
+			},
+			{
+				"id": "B07001PR_084E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_084M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!18 and 19 years"
+			},
+			{
+				"id": "B07001PR_085E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_085M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!20 to 24 years"
+			},
+			{
+				"id": "B07001PR_086E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_086M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!25 to 29 years"
+			},
+			{
+				"id": "B07001PR_087E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_087M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!30 to 34 years"
+			},
+			{
+				"id": "B07001PR_088E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_088M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!35 to 39 years"
+			},
+			{
+				"id": "B07001PR_089E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_089M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!40 to 44 years"
+			},
+			{
+				"id": "B07001PR_090E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_090M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!45 to 49 years"
+			},
+			{
+				"id": "B07001PR_091E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_091M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!50 to 54 years"
+			},
+			{
+				"id": "B07001PR_092E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_092M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!55 to 59 years"
+			},
+			{
+				"id": "B07001PR_093E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_093M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!60 to 64 years"
+			},
+			{
+				"id": "B07001PR_094E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_094M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!65 to 69 years"
+			},
+			{
+				"id": "B07001PR_095E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_095M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!70 to 74 years"
+			},
+			{
+				"id": "B07001PR_096E",
+				"label": "Estimate!!Total:!!Moved from elsewhere:!!75 years and over"
+			},
+			{
+				"id": "B07001PR_096M",
+				"label": "Margin of Error!!Total:!!Moved from elsewhere:!!75 years and over"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B07001PR_048EA",
+			"B07001PR_025EA",
+			"B07001PR_002EA",
+			"B07001PR_085M",
+			"B07001PR_029MA",
+			"B07001PR_070MA",
+			"B07001PR_061M",
+			"B07001PR_006MA",
+			"B07001PR_073M",
+			"B07001PR_093MA",
+			"B07001PR_085E",
+			"B07001PR_061E",
+			"B07001PR_073E",
+			"B07001PR_059EA",
+			"B07001PR_036EA",
+			"B07001PR_013EA",
+			"B07001PR_074M",
+			"B07001PR_082MA",
+			"B07001PR_086M",
+			"B07001PR_050M",
+			"B07001PR_017MA",
+			"B07001PR_062M",
+			"B07001PR_074E",
+			"B07001PR_086E",
+			"B07001PR_050E",
+			"B07001PR_062E",
+			"B07001PR_047EA",
+			"B07001PR_001EA",
+			"B07001PR_024EA",
+			"B07001PR_063M",
+			"B07001PR_075M",
+			"B07001PR_005MA",
+			"B07001PR_028MA",
+			"B07001PR_092MA",
+			"B07001PR_051M",
+			"B07001PR_087M",
+			"B07001PR_063E",
+			"B07001PR_075E",
+			"B07001PR_051E",
+			"B07001PR_087E",
+			"B07001PR_058EA",
+			"B07001PR_012EA",
+			"B07001PR_035EA",
+			"B07001PR_052M",
+			"B07001PR_064M",
+			"B07001PR_081MA",
+			"B07001PR_016MA",
+			"B07001PR_039MA",
+			"B07001PR_040M",
+			"B07001PR_076M",
+			"B07001PR_088M",
+			"B07001PR_052E",
+			"B07001PR_064E",
+			"B07001PR_040E",
+			"B07001PR_076E",
+			"B07001PR_088E",
+			"B07001PR_027EA",
+			"B07001PR_004EA",
+			"B07001PR_041M",
+			"B07001PR_008MA",
+			"B07001PR_053M",
+			"B07001PR_095MA",
+			"B07001PR_072MA",
+			"B07001PR_089M",
+			"B07001PR_091EA",
+			"B07001PR_065M",
+			"B07001PR_077M",
+			"B07001PR_041E",
+			"B07001PR_053E",
+			"B07001PR_089E",
+			"B07001PR_065E",
+			"B07001PR_077E",
+			"B07001PR_038EA",
+			"B07001PR_015EA",
+			"B07001PR_030M",
+			"B07001PR_019MA",
+			"B07001PR_042M",
+			"B07001PR_061MA",
+			"B07001PR_084MA",
+			"B07001PR_078M",
+			"B07001PR_054M",
+			"B07001PR_080EA",
+			"B07001PR_066M",
+			"B07001PR_030E",
+			"B07001PR_042E",
+			"B07001PR_078E",
+			"B07001PR_054E",
+			"B07001PR_066E",
+			"B07001PR_003EA",
+			"B07001PR_026EA",
+			"B07001PR_007MA",
+			"B07001PR_071MA",
+			"B07001PR_094MA",
+			"B07001PR_031M",
+			"B07001PR_067M",
+			"B07001PR_090EA",
+			"B07001PR_079M",
+			"B07001PR_043M",
+			"B07001PR_055M",
+			"B07001PR_031E",
+			"B07001PR_067E",
+			"B07001PR_079E",
+			"B07001PR_043E",
+			"B07001PR_055E",
+			"B07001PR_014EA",
+			"B07001PR_037EA",
+			"B07001PR_018MA",
+			"B07001PR_020M",
+			"B07001PR_060MA",
+			"B07001PR_083MA",
+			"B07001PR_056M",
+			"B07001PR_068M",
+			"B07001PR_032M",
+			"B07001PR_044M",
+			"B07001PR_020E",
+			"B07001PR_056E",
+			"B07001PR_068E",
+			"B07001PR_032E",
+			"B07001PR_044E",
+			"B07001PR_049EA",
+			"B07001PR_029EA",
+			"B07001PR_006EA",
+			"B07001PR_051MA",
+			"B07001PR_045M",
+			"B07001PR_057M",
+			"B07001PR_074MA",
+			"B07001PR_021M",
+			"B07001PR_033M",
+			"B07001PR_070EA",
+			"B07001PR_069M",
+			"B07001PR_093EA",
+			"B07001PR_040MA",
+			"B07001PR_045E",
+			"B07001PR_057E",
+			"B07001PR_021E",
+			"B07001PR_033E",
+			"B07001PR_069E",
+			"B07001PR_017EA",
+			"B07001PR_034M",
+			"B07001PR_063MA",
+			"B07001PR_086MA",
+			"B07001PR_046M",
+			"B07001PR_010M",
+			"B07001PR_022M",
+			"B07001PR_082EA",
+			"B07001PR_058M",
+			"B07001PR_034E",
+			"B07001PR_046E",
+			"B07001PR_010E",
+			"B07001PR_022E",
+			"B07001PR_058E",
+			"B07001PR_005EA",
+			"B07001PR_028EA",
+			"B07001PR_009MA",
+			"B07001PR_050MA",
+			"B07001PR_073MA",
+			"B07001PR_023M",
+			"B07001PR_035M",
+			"B07001PR_096MA",
+			"B07001PR_011M",
+			"B07001PR_047M",
+			"B07001PR_092EA",
+			"B07001PR_059M",
+			"B07001PR_023E",
+			"B07001PR_035E",
+			"B07001PR_011E",
+			"B07001PR_047E",
+			"B07001PR_059E",
+			"B07001PR_016EA",
+			"B07001PR_039EA",
+			"B07001PR_062MA",
+			"B07001PR_012M",
+			"B07001PR_024M",
+			"B07001PR_085MA",
+			"B07001PR_081EA",
+			"B07001PR_036M",
+			"B07001PR_048M",
+			"B07001PR_012E",
+			"B07001PR_024E",
+			"B07001PR_036E",
+			"B07001PR_048E",
+			"B07001PR_008EA",
+			"B07001PR_001M",
+			"B07001PR_013M",
+			"B07001PR_053MA",
+			"B07001PR_076MA",
+			"B07001PR_049M",
+			"B07001PR_095EA",
+			"B07001PR_025M",
+			"B07001PR_042MA",
+			"B07001PR_037M",
+			"B07001PR_072EA",
+			"B07001PR_001E",
+			"B07001PR_013E",
+			"B07001PR_049E",
+			"B07001PR_025E",
+			"B07001PR_037E",
+			"B07001PR_019EA",
+			"B07001PR_002M",
+			"B07001PR_065MA",
+			"B07001PR_088MA",
+			"B07001PR_038M",
+			"B07001PR_014M",
+			"B07001PR_061EA",
+			"B07001PR_084EA",
+			"B07001PR_026M",
+			"B07001PR_030MA",
+			"B07001PR_002E",
+			"B07001PR_038E",
+			"B07001PR_014E",
+			"B07001PR_026E",
+			"B07001PR_007EA",
+			"B07001PR_052MA",
+			"B07001PR_075MA",
+			"B07001PR_027M",
+			"B07001PR_071EA",
+			"B07001PR_094EA",
+			"B07001PR_039M",
+			"B07001PR_003M",
+			"B07001PR_015M",
+			"B07001PR_041MA",
+			"B07001PR_027E",
+			"B07001PR_039E",
+			"B07001PR_003E",
+			"B07001PR_015E",
+			"B07001PR_018EA",
+			"B07001PR_064MA",
+			"B07001PR_087MA",
+			"B07001PR_016M",
+			"GEO_ID",
+			"B07001PR_028M",
+			"B07001PR_060EA",
+			"B07001PR_004M",
+			"B07001PR_083EA",
+			"B07001PR_016E",
+			"B07001PR_028E",
+			"B07001PR_004E",
+			"B07001PR_040EA",
+			"B07001PR_055MA",
+			"B07001PR_005M",
+			"B07001PR_021MA",
+			"B07001PR_044MA",
+			"B07001PR_017M",
+			"B07001PR_078MA",
+			"B07001PR_051EA",
+			"B07001PR_074EA",
+			"B07001PR_029M",
+			"B07001PR_005E",
+			"B07001PR_017E",
+			"B07001PR_029E",
+			"B07001PR_067MA",
+			"B07001PR_006M",
+			"B07001PR_032MA",
+			"B07001PR_063EA",
+			"B07001PR_086EA",
+			"B07001PR_018M",
+			"B07001PR_006E",
+			"B07001PR_018E",
+			"B07001PR_054MA",
+			"B07001PR_077MA",
+			"B07001PR_043MA",
+			"B07001PR_050EA",
+			"B07001PR_073EA",
+			"B07001PR_020MA",
+			"B07001PR_007M",
+			"B07001PR_096EA",
+			"B07001PR_019M",
+			"B07001PR_007E",
+			"B07001PR_019E",
+			"B07001PR_066MA",
+			"B07001PR_089MA",
+			"B07001PR_031MA",
+			"B07001PR_062EA",
+			"B07001PR_085EA",
+			"B07001PR_008M",
+			"B07001PR_009EA",
+			"B07001PR_008E",
+			"B07001PR_042EA",
+			"B07001PR_046MA",
+			"B07001PR_023MA",
+			"B07001PR_057MA",
+			"B07001PR_009M",
+			"B07001PR_053EA",
+			"B07001PR_076EA",
+			"B07001PR_009E",
+			"B07001PR_030EA",
+			"B07001PR_034MA",
+			"NAME",
+			"B07001PR_011MA",
+			"B07001PR_069MA",
+			"B07001PR_065EA",
+			"B07001PR_088EA",
+			"B07001PR_041EA",
+			"B07001PR_045MA",
+			"B07001PR_056MA",
+			"B07001PR_079MA",
+			"B07001PR_022MA",
+			"B07001PR_052EA",
+			"B07001PR_075EA",
+			"B07001PR_010MA",
+			"B07001PR_033MA",
+			"B07001PR_068MA",
+			"B07001PR_064EA",
+			"B07001PR_087EA",
+			"B07001PR_021EA",
+			"B07001PR_044EA",
+			"B07001PR_048MA",
+			"B07001PR_025MA",
+			"B07001PR_002MA",
+			"B07001PR_059MA",
+			"B07001PR_055EA",
+			"B07001PR_078EA",
+			"B07001PR_090M",
+			"B07001PR_032EA",
+			"B07001PR_036MA",
+			"B07001PR_090E",
+			"B07001PR_013MA",
+			"B07001PR_067EA",
+			"B07001PR_091M",
+			"B07001PR_043EA",
+			"B07001PR_020EA",
+			"B07001PR_091E",
+			"B07001PR_047MA",
+			"B07001PR_001MA",
+			"B07001PR_024MA",
+			"B07001PR_058MA",
+			"B07001PR_054EA",
+			"B07001PR_077EA",
+			"B07001PR_080M",
+			"B07001PR_092M",
+			"B07001PR_031EA",
+			"B07001PR_012MA",
+			"B07001PR_035MA",
+			"B07001PR_080E",
+			"B07001PR_092E",
+			"B07001PR_066EA",
+			"B07001PR_089EA",
+			"B07001PR_081M",
+			"B07001PR_091MA",
+			"B07001PR_046EA",
+			"B07001PR_093M",
+			"B07001PR_023EA",
+			"B07001PR_027MA",
+			"B07001PR_081E",
+			"B07001PR_004MA",
+			"B07001PR_093E",
+			"B07001PR_057EA",
+			"B07001PR_070M",
+			"B07001PR_082M",
+			"B07001PR_080MA",
+			"B07001PR_034EA",
+			"B07001PR_011EA",
+			"B07001PR_094M",
+			"B07001PR_038MA",
+			"B07001PR_070E",
+			"B07001PR_015MA",
+			"B07001PR_082E",
+			"B07001PR_094E",
+			"B07001PR_069EA",
+			"B07001PR_090MA",
+			"B07001PR_071M",
+			"B07001PR_045EA",
+			"B07001PR_095M",
+			"B07001PR_022EA",
+			"B07001PR_083M",
+			"B07001PR_003MA",
+			"B07001PR_026MA",
+			"B07001PR_071E",
+			"B07001PR_095E",
+			"B07001PR_083E",
+			"B07001PR_056EA",
+			"B07001PR_079EA",
+			"B07001PR_060M",
+			"B07001PR_010EA",
+			"B07001PR_033EA",
+			"B07001PR_072M",
+			"B07001PR_084M",
+			"B07001PR_096M",
+			"B07001PR_014MA",
+			"B07001PR_037MA",
+			"B07001PR_060E",
+			"B07001PR_072E",
+			"B07001PR_084E",
+			"B07001PR_096E",
+			"B07001PR_049MA",
+			"B07001PR_068EA"
+		],
+		[
+			null,
+			null,
+			null,
+			"485",
+			null,
+			null,
+			"868",
+			null,
+			"660",
+			null,
+			"627",
+			"1915",
+			"964",
+			null,
+			null,
+			null,
+			"748",
+			null,
+			"685",
+			"634",
+			null,
+			"964",
+			"909",
+			"453",
+			"804",
+			"2575",
+			null,
+			null,
+			null,
+			"820",
+			"558",
+			null,
+			null,
+			null,
+			"1500",
+			"556",
+			"1956",
+			"879",
+			"5601",
+			"583",
+			null,
+			null,
+			null,
+			"1120",
+			"1213",
+			null,
+			null,
+			null,
+			"1668",
+			"579",
+			"256",
+			"3127",
+			"4693",
+			"4926",
+			"1250",
+			"200",
+			null,
+			null,
+			"1312",
+			null,
+			"2017",
+			null,
+			null,
+			"210",
+			null,
+			"3864",
+			"1004",
+			"4158",
+			"7398",
+			"218",
+			"24476",
+			"1340",
+			null,
+			null,
+			"6537",
+			null,
+			"1065",
+			null,
+			null,
+			"877",
+			"2163",
+			null,
+			"751",
+			"198629",
+			"3573",
+			"1492",
+			"7373",
+			"1277",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"6357",
+			"1281",
+			null,
+			"425",
+			"829",
+			"1438",
+			"175337",
+			"2759",
+			"684",
+			"2493",
+			"4674",
+			null,
+			null,
+			null,
+			"5054",
+			null,
+			null,
+			"1816",
+			"360",
+			"1780",
+			"938",
+			"76157",
+			"5162",
+			"510",
+			"388870",
+			"2904",
+			null,
+			null,
+			null,
+			null,
+			"1129",
+			"1169",
+			null,
+			"6623",
+			"7823",
+			null,
+			"749",
+			null,
+			null,
+			"3940",
+			"3275",
+			"196235",
+			"75169",
+			"2147",
+			null,
+			"1022",
+			null,
+			null,
+			"1572",
+			"4740",
+			"4705",
+			null,
+			"1191",
+			"2598",
+			"3773",
+			"202007",
+			"186197",
+			"2508",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"6022",
+			"2905",
+			null,
+			"2496",
+			"748",
+			null,
+			"1145",
+			"188550",
+			"11985",
+			"199691",
+			"2524",
+			"2854",
+			null,
+			null,
+			null,
+			"6809",
+			"7958",
+			null,
+			null,
+			"788",
+			"1157",
+			"200217",
+			"180836",
+			"1654",
+			"6885",
+			null,
+			"2376",
+			"6850",
+			null,
+			null,
+			"5770",
+			null,
+			"8033",
+			null,
+			"1963",
+			null,
+			"3188457",
+			"229373",
+			"56206",
+			"193233",
+			"6208",
+			null,
+			"2855",
+			null,
+			null,
+			"2443",
+			"6296",
+			null,
+			null,
+			"4558",
+			null,
+			"75442",
+			"10005",
+			"206861",
+			"194240",
+			null,
+			null,
+			null,
+			"2809",
+			null,
+			null,
+			"1868",
+			"2430",
+			"6321",
+			null,
+			"193243",
+			"7543",
+			"390446",
+			"180608",
+			null,
+			null,
+			null,
+			"565",
+			"0400000US72",
+			"6820",
+			null,
+			"5045",
+			null,
+			"402045",
+			"193642",
+			"81889",
+			null,
+			null,
+			"5985",
+			null,
+			null,
+			"10528",
+			null,
+			null,
+			null,
+			"6863",
+			"212615",
+			"3026828",
+			"221902",
+			null,
+			"3763",
+			null,
+			null,
+			null,
+			"3155",
+			"206423",
+			"70677",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"5758",
+			null,
+			"4324",
+			"205615",
+			"369080",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"7685",
+			null,
+			"193377",
+			null,
+			null,
+			null,
+			null,
+			"7708",
+			null,
+			null,
+			"201848",
+			null,
+			null,
+			"Puerto Rico",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"581",
+			null,
+			null,
+			"777",
+			null,
+			null,
+			"262",
+			null,
+			null,
+			"222",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"804",
+			"128",
+			null,
+			null,
+			null,
+			"1352",
+			"130",
+			null,
+			null,
+			"2093",
+			null,
+			null,
+			"212",
+			null,
+			null,
+			"5778",
+			null,
+			"276",
+			null,
+			"1091",
+			"135",
+			null,
+			null,
+			null,
+			"303",
+			null,
+			"2395",
+			null,
+			"86",
+			"392",
+			null,
+			null,
+			"1771",
+			null,
+			"137",
+			null,
+			"848",
+			null,
+			null,
+			"4265",
+			"107",
+			"1021",
+			null,
+			null,
+			"727",
+			null,
+			null,
+			"976",
+			"493",
+			"201",
+			null,
+			null,
+			"2291",
+			"2253",
+			"441",
+			"245",
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.847Z"
+}

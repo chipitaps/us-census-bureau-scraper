@@ -1,0 +1,1768 @@
+{
+	"tableId": "ACSDT1Y2024.B04004",
+	"title": "People Reporting Single Ancestry",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "People reporting single ancestry",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B04004",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B04004_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B04004_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B04004_002E",
+				"label": "Estimate!!Total:!!Afghan"
+			},
+			{
+				"id": "B04004_002M",
+				"label": "Margin of Error!!Total:!!Afghan"
+			},
+			{
+				"id": "B04004_003E",
+				"label": "Estimate!!Total:!!Albanian"
+			},
+			{
+				"id": "B04004_003M",
+				"label": "Margin of Error!!Total:!!Albanian"
+			},
+			{
+				"id": "B04004_004E",
+				"label": "Estimate!!Total:!!Alsatian"
+			},
+			{
+				"id": "B04004_004M",
+				"label": "Margin of Error!!Total:!!Alsatian"
+			},
+			{
+				"id": "B04004_005E",
+				"label": "Estimate!!Total:!!American"
+			},
+			{
+				"id": "B04004_005M",
+				"label": "Margin of Error!!Total:!!American"
+			},
+			{
+				"id": "B04004_006E",
+				"label": "Estimate!!Total:!!Arab:"
+			},
+			{
+				"id": "B04004_006M",
+				"label": "Margin of Error!!Total:!!Arab:"
+			},
+			{
+				"id": "B04004_007E",
+				"label": "Estimate!!Total:!!Arab:!!Egyptian"
+			},
+			{
+				"id": "B04004_007M",
+				"label": "Margin of Error!!Total:!!Arab:!!Egyptian"
+			},
+			{
+				"id": "B04004_008E",
+				"label": "Estimate!!Total:!!Arab:!!Iraqi"
+			},
+			{
+				"id": "B04004_008M",
+				"label": "Margin of Error!!Total:!!Arab:!!Iraqi"
+			},
+			{
+				"id": "B04004_009E",
+				"label": "Estimate!!Total:!!Arab:!!Jordanian"
+			},
+			{
+				"id": "B04004_009M",
+				"label": "Margin of Error!!Total:!!Arab:!!Jordanian"
+			},
+			{
+				"id": "B04004_010E",
+				"label": "Estimate!!Total:!!Arab:!!Lebanese"
+			},
+			{
+				"id": "B04004_010M",
+				"label": "Margin of Error!!Total:!!Arab:!!Lebanese"
+			},
+			{
+				"id": "B04004_011E",
+				"label": "Estimate!!Total:!!Arab:!!Moroccan"
+			},
+			{
+				"id": "B04004_011M",
+				"label": "Margin of Error!!Total:!!Arab:!!Moroccan"
+			},
+			{
+				"id": "B04004_012E",
+				"label": "Estimate!!Total:!!Arab:!!Palestinian"
+			},
+			{
+				"id": "B04004_012M",
+				"label": "Margin of Error!!Total:!!Arab:!!Palestinian"
+			},
+			{
+				"id": "B04004_013E",
+				"label": "Estimate!!Total:!!Arab:!!Syrian"
+			},
+			{
+				"id": "B04004_013M",
+				"label": "Margin of Error!!Total:!!Arab:!!Syrian"
+			},
+			{
+				"id": "B04004_014E",
+				"label": "Estimate!!Total:!!Arab:!!Arab"
+			},
+			{
+				"id": "B04004_014M",
+				"label": "Margin of Error!!Total:!!Arab:!!Arab"
+			},
+			{
+				"id": "B04004_015E",
+				"label": "Estimate!!Total:!!Arab:!!Other Arab"
+			},
+			{
+				"id": "B04004_015M",
+				"label": "Margin of Error!!Total:!!Arab:!!Other Arab"
+			},
+			{
+				"id": "B04004_016E",
+				"label": "Estimate!!Total:!!Armenian"
+			},
+			{
+				"id": "B04004_016M",
+				"label": "Margin of Error!!Total:!!Armenian"
+			},
+			{
+				"id": "B04004_017E",
+				"label": "Estimate!!Total:!!Assyrian/Chaldean/Syriac"
+			},
+			{
+				"id": "B04004_017M",
+				"label": "Margin of Error!!Total:!!Assyrian/Chaldean/Syriac"
+			},
+			{
+				"id": "B04004_018E",
+				"label": "Estimate!!Total:!!Australian"
+			},
+			{
+				"id": "B04004_018M",
+				"label": "Margin of Error!!Total:!!Australian"
+			},
+			{
+				"id": "B04004_019E",
+				"label": "Estimate!!Total:!!Austrian"
+			},
+			{
+				"id": "B04004_019M",
+				"label": "Margin of Error!!Total:!!Austrian"
+			},
+			{
+				"id": "B04004_020E",
+				"label": "Estimate!!Total:!!Basque"
+			},
+			{
+				"id": "B04004_020M",
+				"label": "Margin of Error!!Total:!!Basque"
+			},
+			{
+				"id": "B04004_021E",
+				"label": "Estimate!!Total:!!Belgian"
+			},
+			{
+				"id": "B04004_021M",
+				"label": "Margin of Error!!Total:!!Belgian"
+			},
+			{
+				"id": "B04004_022E",
+				"label": "Estimate!!Total:!!Brazilian"
+			},
+			{
+				"id": "B04004_022M",
+				"label": "Margin of Error!!Total:!!Brazilian"
+			},
+			{
+				"id": "B04004_023E",
+				"label": "Estimate!!Total:!!British"
+			},
+			{
+				"id": "B04004_023M",
+				"label": "Margin of Error!!Total:!!British"
+			},
+			{
+				"id": "B04004_024E",
+				"label": "Estimate!!Total:!!Bulgarian"
+			},
+			{
+				"id": "B04004_024M",
+				"label": "Margin of Error!!Total:!!Bulgarian"
+			},
+			{
+				"id": "B04004_025E",
+				"label": "Estimate!!Total:!!Cajun"
+			},
+			{
+				"id": "B04004_025M",
+				"label": "Margin of Error!!Total:!!Cajun"
+			},
+			{
+				"id": "B04004_026E",
+				"label": "Estimate!!Total:!!Canadian"
+			},
+			{
+				"id": "B04004_026M",
+				"label": "Margin of Error!!Total:!!Canadian"
+			},
+			{
+				"id": "B04004_027E",
+				"label": "Estimate!!Total:!!Carpatho Rusyn"
+			},
+			{
+				"id": "B04004_027M",
+				"label": "Margin of Error!!Total:!!Carpatho Rusyn"
+			},
+			{
+				"id": "B04004_028E",
+				"label": "Estimate!!Total:!!Celtic"
+			},
+			{
+				"id": "B04004_028M",
+				"label": "Margin of Error!!Total:!!Celtic"
+			},
+			{
+				"id": "B04004_029E",
+				"label": "Estimate!!Total:!!Croatian"
+			},
+			{
+				"id": "B04004_029M",
+				"label": "Margin of Error!!Total:!!Croatian"
+			},
+			{
+				"id": "B04004_030E",
+				"label": "Estimate!!Total:!!Cypriot"
+			},
+			{
+				"id": "B04004_030M",
+				"label": "Margin of Error!!Total:!!Cypriot"
+			},
+			{
+				"id": "B04004_031E",
+				"label": "Estimate!!Total:!!Czech"
+			},
+			{
+				"id": "B04004_031M",
+				"label": "Margin of Error!!Total:!!Czech"
+			},
+			{
+				"id": "B04004_032E",
+				"label": "Estimate!!Total:!!Czechoslovakian"
+			},
+			{
+				"id": "B04004_032M",
+				"label": "Margin of Error!!Total:!!Czechoslovakian"
+			},
+			{
+				"id": "B04004_033E",
+				"label": "Estimate!!Total:!!Danish"
+			},
+			{
+				"id": "B04004_033M",
+				"label": "Margin of Error!!Total:!!Danish"
+			},
+			{
+				"id": "B04004_034E",
+				"label": "Estimate!!Total:!!Dutch"
+			},
+			{
+				"id": "B04004_034M",
+				"label": "Margin of Error!!Total:!!Dutch"
+			},
+			{
+				"id": "B04004_035E",
+				"label": "Estimate!!Total:!!Eastern European"
+			},
+			{
+				"id": "B04004_035M",
+				"label": "Margin of Error!!Total:!!Eastern European"
+			},
+			{
+				"id": "B04004_036E",
+				"label": "Estimate!!Total:!!English"
+			},
+			{
+				"id": "B04004_036M",
+				"label": "Margin of Error!!Total:!!English"
+			},
+			{
+				"id": "B04004_037E",
+				"label": "Estimate!!Total:!!Estonian"
+			},
+			{
+				"id": "B04004_037M",
+				"label": "Margin of Error!!Total:!!Estonian"
+			},
+			{
+				"id": "B04004_038E",
+				"label": "Estimate!!Total:!!European"
+			},
+			{
+				"id": "B04004_038M",
+				"label": "Margin of Error!!Total:!!European"
+			},
+			{
+				"id": "B04004_039E",
+				"label": "Estimate!!Total:!!Finnish"
+			},
+			{
+				"id": "B04004_039M",
+				"label": "Margin of Error!!Total:!!Finnish"
+			},
+			{
+				"id": "B04004_040E",
+				"label": "Estimate!!Total:!!French (except Basque)"
+			},
+			{
+				"id": "B04004_040M",
+				"label": "Margin of Error!!Total:!!French (except Basque)"
+			},
+			{
+				"id": "B04004_041E",
+				"label": "Estimate!!Total:!!French Canadian"
+			},
+			{
+				"id": "B04004_041M",
+				"label": "Margin of Error!!Total:!!French Canadian"
+			},
+			{
+				"id": "B04004_042E",
+				"label": "Estimate!!Total:!!German"
+			},
+			{
+				"id": "B04004_042M",
+				"label": "Margin of Error!!Total:!!German"
+			},
+			{
+				"id": "B04004_043E",
+				"label": "Estimate!!Total:!!German Russian"
+			},
+			{
+				"id": "B04004_043M",
+				"label": "Margin of Error!!Total:!!German Russian"
+			},
+			{
+				"id": "B04004_044E",
+				"label": "Estimate!!Total:!!Greek"
+			},
+			{
+				"id": "B04004_044M",
+				"label": "Margin of Error!!Total:!!Greek"
+			},
+			{
+				"id": "B04004_045E",
+				"label": "Estimate!!Total:!!Guyanese"
+			},
+			{
+				"id": "B04004_045M",
+				"label": "Margin of Error!!Total:!!Guyanese"
+			},
+			{
+				"id": "B04004_046E",
+				"label": "Estimate!!Total:!!Hungarian"
+			},
+			{
+				"id": "B04004_046M",
+				"label": "Margin of Error!!Total:!!Hungarian"
+			},
+			{
+				"id": "B04004_047E",
+				"label": "Estimate!!Total:!!Icelander"
+			},
+			{
+				"id": "B04004_047M",
+				"label": "Margin of Error!!Total:!!Icelander"
+			},
+			{
+				"id": "B04004_048E",
+				"label": "Estimate!!Total:!!Iranian"
+			},
+			{
+				"id": "B04004_048M",
+				"label": "Margin of Error!!Total:!!Iranian"
+			},
+			{
+				"id": "B04004_049E",
+				"label": "Estimate!!Total:!!Irish"
+			},
+			{
+				"id": "B04004_049M",
+				"label": "Margin of Error!!Total:!!Irish"
+			},
+			{
+				"id": "B04004_050E",
+				"label": "Estimate!!Total:!!Israeli"
+			},
+			{
+				"id": "B04004_050M",
+				"label": "Margin of Error!!Total:!!Israeli"
+			},
+			{
+				"id": "B04004_051E",
+				"label": "Estimate!!Total:!!Italian"
+			},
+			{
+				"id": "B04004_051M",
+				"label": "Margin of Error!!Total:!!Italian"
+			},
+			{
+				"id": "B04004_052E",
+				"label": "Estimate!!Total:!!Latvian"
+			},
+			{
+				"id": "B04004_052M",
+				"label": "Margin of Error!!Total:!!Latvian"
+			},
+			{
+				"id": "B04004_053E",
+				"label": "Estimate!!Total:!!Lithuanian"
+			},
+			{
+				"id": "B04004_053M",
+				"label": "Margin of Error!!Total:!!Lithuanian"
+			},
+			{
+				"id": "B04004_054E",
+				"label": "Estimate!!Total:!!Luxembourger"
+			},
+			{
+				"id": "B04004_054M",
+				"label": "Margin of Error!!Total:!!Luxembourger"
+			},
+			{
+				"id": "B04004_055E",
+				"label": "Estimate!!Total:!!Macedonian"
+			},
+			{
+				"id": "B04004_055M",
+				"label": "Margin of Error!!Total:!!Macedonian"
+			},
+			{
+				"id": "B04004_056E",
+				"label": "Estimate!!Total:!!Maltese"
+			},
+			{
+				"id": "B04004_056M",
+				"label": "Margin of Error!!Total:!!Maltese"
+			},
+			{
+				"id": "B04004_057E",
+				"label": "Estimate!!Total:!!New Zealander"
+			},
+			{
+				"id": "B04004_057M",
+				"label": "Margin of Error!!Total:!!New Zealander"
+			},
+			{
+				"id": "B04004_058E",
+				"label": "Estimate!!Total:!!Northern European"
+			},
+			{
+				"id": "B04004_058M",
+				"label": "Margin of Error!!Total:!!Northern European"
+			},
+			{
+				"id": "B04004_059E",
+				"label": "Estimate!!Total:!!Norwegian"
+			},
+			{
+				"id": "B04004_059M",
+				"label": "Margin of Error!!Total:!!Norwegian"
+			},
+			{
+				"id": "B04004_060E",
+				"label": "Estimate!!Total:!!Pennsylvania German"
+			},
+			{
+				"id": "B04004_060M",
+				"label": "Margin of Error!!Total:!!Pennsylvania German"
+			},
+			{
+				"id": "B04004_061E",
+				"label": "Estimate!!Total:!!Polish"
+			},
+			{
+				"id": "B04004_061M",
+				"label": "Margin of Error!!Total:!!Polish"
+			},
+			{
+				"id": "B04004_062E",
+				"label": "Estimate!!Total:!!Portuguese"
+			},
+			{
+				"id": "B04004_062M",
+				"label": "Margin of Error!!Total:!!Portuguese"
+			},
+			{
+				"id": "B04004_063E",
+				"label": "Estimate!!Total:!!Romanian"
+			},
+			{
+				"id": "B04004_063M",
+				"label": "Margin of Error!!Total:!!Romanian"
+			},
+			{
+				"id": "B04004_064E",
+				"label": "Estimate!!Total:!!Russian"
+			},
+			{
+				"id": "B04004_064M",
+				"label": "Margin of Error!!Total:!!Russian"
+			},
+			{
+				"id": "B04004_065E",
+				"label": "Estimate!!Total:!!Scandinavian"
+			},
+			{
+				"id": "B04004_065M",
+				"label": "Margin of Error!!Total:!!Scandinavian"
+			},
+			{
+				"id": "B04004_066E",
+				"label": "Estimate!!Total:!!Scotch-Irish"
+			},
+			{
+				"id": "B04004_066M",
+				"label": "Margin of Error!!Total:!!Scotch-Irish"
+			},
+			{
+				"id": "B04004_067E",
+				"label": "Estimate!!Total:!!Scottish"
+			},
+			{
+				"id": "B04004_067M",
+				"label": "Margin of Error!!Total:!!Scottish"
+			},
+			{
+				"id": "B04004_068E",
+				"label": "Estimate!!Total:!!Serbian"
+			},
+			{
+				"id": "B04004_068M",
+				"label": "Margin of Error!!Total:!!Serbian"
+			},
+			{
+				"id": "B04004_069E",
+				"label": "Estimate!!Total:!!Slavic"
+			},
+			{
+				"id": "B04004_069M",
+				"label": "Margin of Error!!Total:!!Slavic"
+			},
+			{
+				"id": "B04004_070E",
+				"label": "Estimate!!Total:!!Slovak"
+			},
+			{
+				"id": "B04004_070M",
+				"label": "Margin of Error!!Total:!!Slovak"
+			},
+			{
+				"id": "B04004_071E",
+				"label": "Estimate!!Total:!!Slovene"
+			},
+			{
+				"id": "B04004_071M",
+				"label": "Margin of Error!!Total:!!Slovene"
+			},
+			{
+				"id": "B04004_072E",
+				"label": "Estimate!!Total:!!Soviet Union"
+			},
+			{
+				"id": "B04004_072M",
+				"label": "Margin of Error!!Total:!!Soviet Union"
+			},
+			{
+				"id": "B04004_073E",
+				"label": "Estimate!!Total:!!Subsaharan African:"
+			},
+			{
+				"id": "B04004_073M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:"
+			},
+			{
+				"id": "B04004_074E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Cape Verdean"
+			},
+			{
+				"id": "B04004_074M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Cape Verdean"
+			},
+			{
+				"id": "B04004_075E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Ethiopian"
+			},
+			{
+				"id": "B04004_075M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Ethiopian"
+			},
+			{
+				"id": "B04004_076E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Ghanaian"
+			},
+			{
+				"id": "B04004_076M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Ghanaian"
+			},
+			{
+				"id": "B04004_077E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Kenyan"
+			},
+			{
+				"id": "B04004_077M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Kenyan"
+			},
+			{
+				"id": "B04004_078E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Liberian"
+			},
+			{
+				"id": "B04004_078M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Liberian"
+			},
+			{
+				"id": "B04004_079E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Nigerian"
+			},
+			{
+				"id": "B04004_079M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Nigerian"
+			},
+			{
+				"id": "B04004_080E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Senegalese"
+			},
+			{
+				"id": "B04004_080M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Senegalese"
+			},
+			{
+				"id": "B04004_081E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Sierra Leonean"
+			},
+			{
+				"id": "B04004_081M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Sierra Leonean"
+			},
+			{
+				"id": "B04004_082E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Somali"
+			},
+			{
+				"id": "B04004_082M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Somali"
+			},
+			{
+				"id": "B04004_083E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!South African"
+			},
+			{
+				"id": "B04004_083M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!South African"
+			},
+			{
+				"id": "B04004_084E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Sudanese"
+			},
+			{
+				"id": "B04004_084M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Sudanese"
+			},
+			{
+				"id": "B04004_085E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Ugandan"
+			},
+			{
+				"id": "B04004_085M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Ugandan"
+			},
+			{
+				"id": "B04004_086E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Zimbabwean"
+			},
+			{
+				"id": "B04004_086M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Zimbabwean"
+			},
+			{
+				"id": "B04004_087E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!African"
+			},
+			{
+				"id": "B04004_087M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!African"
+			},
+			{
+				"id": "B04004_088E",
+				"label": "Estimate!!Total:!!Subsaharan African:!!Other Subsaharan African"
+			},
+			{
+				"id": "B04004_088M",
+				"label": "Margin of Error!!Total:!!Subsaharan African:!!Other Subsaharan African"
+			},
+			{
+				"id": "B04004_089E",
+				"label": "Estimate!!Total:!!Swedish"
+			},
+			{
+				"id": "B04004_089M",
+				"label": "Margin of Error!!Total:!!Swedish"
+			},
+			{
+				"id": "B04004_090E",
+				"label": "Estimate!!Total:!!Swiss"
+			},
+			{
+				"id": "B04004_090M",
+				"label": "Margin of Error!!Total:!!Swiss"
+			},
+			{
+				"id": "B04004_091E",
+				"label": "Estimate!!Total:!!Turkish"
+			},
+			{
+				"id": "B04004_091M",
+				"label": "Margin of Error!!Total:!!Turkish"
+			},
+			{
+				"id": "B04004_092E",
+				"label": "Estimate!!Total:!!Ukrainian"
+			},
+			{
+				"id": "B04004_092M",
+				"label": "Margin of Error!!Total:!!Ukrainian"
+			},
+			{
+				"id": "B04004_093E",
+				"label": "Estimate!!Total:!!Welsh"
+			},
+			{
+				"id": "B04004_093M",
+				"label": "Margin of Error!!Total:!!Welsh"
+			},
+			{
+				"id": "B04004_094E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):"
+			},
+			{
+				"id": "B04004_094M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):"
+			},
+			{
+				"id": "B04004_095E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Bahamian"
+			},
+			{
+				"id": "B04004_095M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Bahamian"
+			},
+			{
+				"id": "B04004_096E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Barbadian"
+			},
+			{
+				"id": "B04004_096M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Barbadian"
+			},
+			{
+				"id": "B04004_097E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Belizean"
+			},
+			{
+				"id": "B04004_097M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Belizean"
+			},
+			{
+				"id": "B04004_098E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Bermudan"
+			},
+			{
+				"id": "B04004_098M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Bermudan"
+			},
+			{
+				"id": "B04004_099E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!British West Indian"
+			},
+			{
+				"id": "B04004_099M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!British West Indian"
+			},
+			{
+				"id": "B04004_100E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Dutch West Indian"
+			},
+			{
+				"id": "B04004_100M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Dutch West Indian"
+			},
+			{
+				"id": "B04004_101E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Haitian"
+			},
+			{
+				"id": "B04004_101M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Haitian"
+			},
+			{
+				"id": "B04004_102E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Jamaican"
+			},
+			{
+				"id": "B04004_102M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Jamaican"
+			},
+			{
+				"id": "B04004_103E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Trinidadian and Tobagonian"
+			},
+			{
+				"id": "B04004_103M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Trinidadian and Tobagonian"
+			},
+			{
+				"id": "B04004_104E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!U.S. Virgin Islander"
+			},
+			{
+				"id": "B04004_104M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!U.S. Virgin Islander"
+			},
+			{
+				"id": "B04004_105E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!West Indian"
+			},
+			{
+				"id": "B04004_105M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!West Indian"
+			},
+			{
+				"id": "B04004_106E",
+				"label": "Estimate!!Total:!!West Indian (except Hispanic groups):!!Other West Indian"
+			},
+			{
+				"id": "B04004_106M",
+				"label": "Margin of Error!!Total:!!West Indian (except Hispanic groups):!!Other West Indian"
+			},
+			{
+				"id": "B04004_107E",
+				"label": "Estimate!!Total:!!Yugoslavian"
+			},
+			{
+				"id": "B04004_107M",
+				"label": "Margin of Error!!Total:!!Yugoslavian"
+			},
+			{
+				"id": "B04004_108E",
+				"label": "Estimate!!Total:!!Other groups"
+			},
+			{
+				"id": "B04004_108M",
+				"label": "Margin of Error!!Total:!!Other groups"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B04004_040M",
+			"B04004_064M",
+			"B04004_007EA",
+			"B04004_052M",
+			"B04004_105EA",
+			"B04004_071EA",
+			"B04004_094EA",
+			"B04004_052MA",
+			"B04004_075MA",
+			"B04004_088E",
+			"B04004_076E",
+			"B04004_098MA",
+			"B04004_040E",
+			"B04004_064E",
+			"B04004_052E",
+			"B04004_088M",
+			"B04004_076M",
+			"B04004_018EA",
+			"B04004_053M",
+			"B04004_041M",
+			"B04004_040MA",
+			"B04004_082EA",
+			"B04004_108MA",
+			"B04004_063MA",
+			"B04004_077E",
+			"B04004_086MA",
+			"B04004_065E",
+			"B04004_089E",
+			"B04004_053E",
+			"B04004_041E",
+			"B04004_077M",
+			"B04004_065M",
+			"B04004_089M",
+			"B04004_008EA",
+			"B04004_042M",
+			"B04004_030M",
+			"B04004_106EA",
+			"B04004_072EA",
+			"B04004_095EA",
+			"B04004_030MA",
+			"B04004_066E",
+			"B04004_053MA",
+			"B04004_054E",
+			"B04004_099MA",
+			"B04004_076MA",
+			"B04004_078E",
+			"B04004_042E",
+			"B04004_030E",
+			"B04004_066M",
+			"B04004_054M",
+			"B04004_078M",
+			"B04004_019EA",
+			"B04004_031M",
+			"B04004_060EA",
+			"B04004_041MA",
+			"B04004_083EA",
+			"B04004_055E",
+			"B04004_043E",
+			"B04004_064MA",
+			"B04004_079E",
+			"B04004_067E",
+			"B04004_087MA",
+			"B04004_031E",
+			"B04004_055M",
+			"B04004_043M",
+			"B04004_079M",
+			"B04004_067M",
+			"B04004_005EA",
+			"B04004_020M",
+			"B04004_028EA",
+			"B04004_050MA",
+			"B04004_073MA",
+			"B04004_092EA",
+			"B04004_044E",
+			"B04004_032E",
+			"B04004_096MA",
+			"B04004_068E",
+			"B04004_056E",
+			"B04004_020E",
+			"B04004_044M",
+			"B04004_032M",
+			"B04004_068M",
+			"B04004_056M",
+			"B04004_016EA",
+			"B04004_039EA",
+			"B04004_061MA",
+			"B04004_084MA",
+			"B04004_069E",
+			"B04004_102EA",
+			"B04004_033E",
+			"B04004_021E",
+			"B04004_106MA",
+			"B04004_057E",
+			"B04004_080EA",
+			"B04004_045E",
+			"B04004_069M",
+			"B04004_008MA",
+			"B04004_033M",
+			"B04004_021M",
+			"B04004_004EA",
+			"B04004_057M",
+			"B04004_045M",
+			"B04004_006EA",
+			"B04004_029EA",
+			"B04004_051MA",
+			"B04004_104EA",
+			"B04004_070EA",
+			"B04004_093EA",
+			"B04004_058E",
+			"B04004_022E",
+			"B04004_074MA",
+			"B04004_097MA",
+			"B04004_010E",
+			"B04004_046E",
+			"B04004_034E",
+			"B04004_058M",
+			"B04004_022M",
+			"B04004_010M",
+			"B04004_046M",
+			"B04004_034M",
+			"B04004_017EA",
+			"B04004_062MA",
+			"B04004_059E",
+			"B04004_103EA",
+			"B04004_047E",
+			"B04004_081EA",
+			"B04004_011E",
+			"B04004_107MA",
+			"B04004_085MA",
+			"B04004_035E",
+			"B04004_023E",
+			"B04004_059M",
+			"B04004_047M",
+			"B04004_011M",
+			"B04004_009MA",
+			"B04004_035M",
+			"B04004_023M",
+			"B04004_049EA",
+			"B04004_071MA",
+			"B04004_094MA",
+			"B04004_048E",
+			"B04004_036E",
+			"B04004_024E",
+			"B04004_012E",
+			"B04004_090EA",
+			"B04004_018MA",
+			"B04004_048M",
+			"B04004_036M",
+			"B04004_014EA",
+			"B04004_037EA",
+			"B04004_024M",
+			"B04004_012M",
+			"B04004_082MA",
+			"B04004_037E",
+			"B04004_025E",
+			"B04004_049E",
+			"B04004_100EA",
+			"B04004_013E",
+			"B04004_001E",
+			"B04004_104MA",
+			"B04004_006MA",
+			"B04004_029MA",
+			"B04004_037M",
+			"B04004_025M",
+			"B04004_049M",
+			"B04004_002EA",
+			"B04004_025EA",
+			"B04004_048EA",
+			"B04004_013M",
+			"B04004_001M",
+			"B04004_027EA",
+			"B04004_072MA",
+			"B04004_095MA",
+			"B04004_026E",
+			"B04004_014E",
+			"B04004_038E",
+			"B04004_002E",
+			"B04004_091EA",
+			"B04004_026M",
+			"B04004_014M",
+			"B04004_019MA",
+			"B04004_038M",
+			"B04004_015EA",
+			"B04004_002M",
+			"B04004_038EA",
+			"B04004_060MA",
+			"B04004_083MA",
+			"B04004_015E",
+			"B04004_003E",
+			"B04004_039E",
+			"B04004_101EA",
+			"B04004_027E",
+			"B04004_100E",
+			"B04004_105MA",
+			"B04004_015M",
+			"B04004_003M",
+			"B04004_039M",
+			"B04004_007MA",
+			"B04004_027M",
+			"B04004_026EA",
+			"B04004_100M",
+			"B04004_003EA",
+			"B04004_092MA",
+			"B04004_029E",
+			"B04004_004E",
+			"B04004_028E",
+			"B04004_016E",
+			"B04004_101E",
+			"B04004_004M",
+			"B04004_016MA",
+			"B04004_028M",
+			"B04004_039MA",
+			"B04004_058EA",
+			"B04004_016M",
+			"B04004_012EA",
+			"B04004_035EA",
+			"B04004_101M",
+			"B04004_018E",
+			"B04004_080MA",
+			"B04004_102E",
+			"B04004_017E",
+			"B04004_005E",
+			"B04004_029M",
+			"B04004_004MA",
+			"B04004_102M",
+			"B04004_102MA",
+			"B04004_017M",
+			"B04004_027MA",
+			"B04004_069EA",
+			"B04004_005M",
+			"B04004_023EA",
+			"B04004_046EA",
+			"B04004_070MA",
+			"B04004_093MA",
+			"B04004_019E",
+			"B04004_007E",
+			"B04004_103E",
+			"B04004_006E",
+			"B04004_018M",
+			"B04004_103M",
+			"B04004_006M",
+			"B04004_017MA",
+			"B04004_059EA",
+			"B04004_036EA",
+			"B04004_013EA",
+			"B04004_081MA",
+			"B04004_008E",
+			"GEO_ID",
+			"B04004_104E",
+			"B04004_019M",
+			"B04004_007M",
+			"B04004_103MA",
+			"B04004_005MA",
+			"B04004_104M",
+			"B04004_028MA",
+			"B04004_001EA",
+			"B04004_047EA",
+			"B04004_024EA",
+			"B04004_106E",
+			"B04004_009E",
+			"B04004_090MA",
+			"B04004_105E",
+			"B04004_008M",
+			"B04004_014MA",
+			"B04004_037MA",
+			"B04004_010EA",
+			"B04004_033EA",
+			"B04004_056EA",
+			"B04004_079EA",
+			"B04004_105M",
+			"B04004_107E",
+			"B04004_002MA",
+			"B04004_025MA",
+			"B04004_048MA",
+			"B04004_106M",
+			"B04004_009M",
+			"B04004_021EA",
+			"B04004_044EA",
+			"B04004_067EA",
+			"B04004_100MA",
+			"B04004_091MA",
+			"B04004_108E",
+			"B04004_015MA",
+			"B04004_107M",
+			"B04004_011EA",
+			"B04004_057EA",
+			"B04004_038MA",
+			"B04004_034EA",
+			"B04004_026MA",
+			"B04004_108M",
+			"B04004_003MA",
+			"B04004_022EA",
+			"B04004_068EA",
+			"B04004_101MA",
+			"B04004_049MA",
+			"B04004_045EA",
+			"B04004_058MA",
+			"B04004_012MA",
+			"B04004_035MA",
+			"B04004_031EA",
+			"B04004_054EA",
+			"B04004_077EA",
+			"NAME",
+			"B04004_069MA",
+			"B04004_023MA",
+			"B04004_046MA",
+			"B04004_042EA",
+			"B04004_065EA",
+			"B04004_088EA",
+			"B04004_090M",
+			"B04004_059MA",
+			"B04004_036MA",
+			"B04004_013MA",
+			"B04004_032EA",
+			"B04004_078EA",
+			"B04004_090E",
+			"B04004_055EA",
+			"B04004_091M",
+			"B04004_001MA",
+			"B04004_047MA",
+			"B04004_024MA",
+			"B04004_043EA",
+			"B04004_089EA",
+			"B04004_020EA",
+			"B04004_091E",
+			"B04004_066EA",
+			"B04004_080M",
+			"B04004_092M",
+			"B04004_010MA",
+			"B04004_033MA",
+			"B04004_056MA",
+			"B04004_079MA",
+			"B04004_052EA",
+			"B04004_080E",
+			"B04004_075EA",
+			"B04004_092E",
+			"B04004_098EA",
+			"B04004_093M",
+			"B04004_081M",
+			"B04004_021MA",
+			"B04004_044MA",
+			"B04004_067MA",
+			"B04004_040EA",
+			"B04004_063EA",
+			"B04004_086EA",
+			"B04004_093E",
+			"B04004_081E",
+			"B04004_094M",
+			"B04004_082M",
+			"B04004_070M",
+			"B04004_011MA",
+			"B04004_057MA",
+			"B04004_034MA",
+			"B04004_094E",
+			"B04004_030EA",
+			"B04004_053EA",
+			"B04004_082E",
+			"B04004_099EA",
+			"B04004_070E",
+			"B04004_076EA",
+			"B04004_095M",
+			"B04004_083M",
+			"B04004_071M",
+			"B04004_022MA",
+			"B04004_068MA",
+			"B04004_045MA",
+			"B04004_095E",
+			"B04004_083E",
+			"B04004_041EA",
+			"B04004_064EA",
+			"B04004_071E",
+			"B04004_087EA",
+			"B04004_084M",
+			"B04004_072M",
+			"B04004_096M",
+			"B04004_009EA",
+			"B04004_060M",
+			"B04004_107EA",
+			"B04004_031MA",
+			"B04004_050EA",
+			"B04004_073EA",
+			"B04004_054MA",
+			"B04004_077MA",
+			"B04004_084E",
+			"B04004_072E",
+			"B04004_096E",
+			"B04004_096EA",
+			"B04004_060E",
+			"B04004_073M",
+			"B04004_061M",
+			"B04004_097M",
+			"B04004_085M",
+			"B04004_042MA",
+			"B04004_061EA",
+			"B04004_084EA",
+			"B04004_065MA",
+			"B04004_088MA",
+			"B04004_073E",
+			"B04004_061E",
+			"B04004_097E",
+			"B04004_085E",
+			"B04004_062M",
+			"B04004_050M",
+			"B04004_086M",
+			"B04004_074M",
+			"B04004_108EA",
+			"B04004_032MA",
+			"B04004_078MA",
+			"B04004_051EA",
+			"B04004_098E",
+			"B04004_055MA",
+			"B04004_062E",
+			"B04004_050E",
+			"B04004_086E",
+			"B04004_074E",
+			"B04004_074EA",
+			"B04004_097EA",
+			"B04004_098M",
+			"B04004_051M",
+			"B04004_075M",
+			"B04004_063M",
+			"B04004_043MA",
+			"B04004_089MA",
+			"B04004_020MA",
+			"B04004_062EA",
+			"B04004_099E",
+			"B04004_087E",
+			"B04004_066MA",
+			"B04004_051E",
+			"B04004_075E",
+			"B04004_063E",
+			"B04004_099M",
+			"B04004_085EA",
+			"B04004_087M"
+		],
+		[
+			"23450",
+			"23990",
+			null,
+			"3195",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"407450",
+			"206888",
+			null,
+			"1266765",
+			"716444",
+			"33500",
+			"28279",
+			"17991",
+			null,
+			"8876",
+			"16235",
+			null,
+			null,
+			null,
+			null,
+			"117125",
+			null,
+			"367048",
+			"707732",
+			"167908",
+			"674028",
+			"14669",
+			"13201",
+			"15476",
+			null,
+			"74343",
+			"1475",
+			null,
+			null,
+			null,
+			null,
+			"900609",
+			null,
+			"10986",
+			null,
+			null,
+			"66594",
+			"12527510",
+			"5714",
+			"16861",
+			"1534",
+			"11118",
+			null,
+			"10558",
+			null,
+			null,
+			null,
+			"50656",
+			"7629",
+			null,
+			"647602",
+			"1542067",
+			null,
+			"326268",
+			"8321",
+			"1484",
+			"36385",
+			"26065",
+			null,
+			"3834",
+			null,
+			null,
+			null,
+			null,
+			"496417",
+			"73403",
+			null,
+			"83088",
+			"12287",
+			"23842",
+			"20867",
+			"4282",
+			"7578",
+			"2551",
+			null,
+			null,
+			null,
+			null,
+			"58814",
+			null,
+			"251175",
+			"86588",
+			null,
+			"7057",
+			null,
+			"175656",
+			"7117",
+			null,
+			"9977",
+			"6084",
+			null,
+			"2049",
+			"13732",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"296925",
+			"439218",
+			null,
+			null,
+			"276973",
+			"392801",
+			"839164",
+			"12624",
+			"20366",
+			"15373",
+			"15974",
+			"19997",
+			null,
+			null,
+			"1184187",
+			null,
+			"15021",
+			null,
+			"106793",
+			null,
+			null,
+			"538469",
+			"503322",
+			"18176",
+			"2653",
+			"11434",
+			null,
+			"17520",
+			"15022",
+			null,
+			null,
+			null,
+			"394573",
+			"11906819",
+			"70901",
+			"141290",
+			null,
+			null,
+			"18250",
+			"89432",
+			null,
+			null,
+			"7319",
+			"13641",
+			null,
+			"11725",
+			"56077",
+			"8264444",
+			null,
+			"106472",
+			"176718120",
+			null,
+			null,
+			null,
+			"1905",
+			"5378",
+			"60073",
+			null,
+			null,
+			null,
+			"13160",
+			"389148",
+			null,
+			null,
+			null,
+			"251384",
+			"148516",
+			"3801335",
+			"215016",
+			null,
+			"13850",
+			"15281",
+			null,
+			"51636",
+			null,
+			"18212",
+			null,
+			null,
+			null,
+			"317131",
+			"189378",
+			"181007",
+			null,
+			"1878",
+			"6224",
+			null,
+			"24775",
+			"14946",
+			"7579",
+			null,
+			"717",
+			null,
+			"1800",
+			null,
+			null,
+			"130524",
+			"2381",
+			"14600",
+			"304289",
+			"1034590",
+			"1134",
+			null,
+			"2362",
+			null,
+			null,
+			"15547",
+			null,
+			null,
+			"43170",
+			"41691",
+			null,
+			"1003634",
+			"64093",
+			"14915624",
+			"7454",
+			null,
+			"31247",
+			null,
+			"7241",
+			null,
+			null,
+			"116156",
+			null,
+			null,
+			null,
+			null,
+			"116439",
+			"251706",
+			"151276",
+			"1543101",
+			"5275",
+			"12164",
+			"44940",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"125783",
+			"0100000US",
+			"9989",
+			"7154",
+			"16798",
+			null,
+			null,
+			"3528",
+			null,
+			null,
+			null,
+			null,
+			"2339",
+			"68437",
+			null,
+			"144325",
+			"14355",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"12378",
+			"135750",
+			null,
+			null,
+			null,
+			"798",
+			"8938",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"92138396",
+			null,
+			"10907",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"268988",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"10808",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"199144",
+			null,
+			"15298",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"208687",
+			null,
+			"7001",
+			"28136",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"30044",
+			null,
+			"655017",
+			null,
+			"10610",
+			"7042",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"291810",
+			"28744",
+			"58278",
+			"21043",
+			"7961",
+			null,
+			null,
+			null,
+			"2575908",
+			null,
+			null,
+			"178678",
+			null,
+			"177246",
+			null,
+			"5664",
+			"7209",
+			"4510",
+			null,
+			null,
+			null,
+			"36749",
+			"64821",
+			null,
+			null,
+			"50014",
+			null,
+			"14429",
+			"2436",
+			"6986",
+			null,
+			"9572",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"82502",
+			"7730",
+			"47990",
+			null,
+			"145930",
+			"76338",
+			"38613",
+			"7723",
+			"5279",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3745083",
+			"2630570",
+			"41419",
+			"24937",
+			"20772",
+			"8151",
+			"4297",
+			"8848",
+			null,
+			null,
+			null,
+			null,
+			"2797",
+			null,
+			"539009",
+			"86238",
+			"17454",
+			"76191",
+			null,
+			null,
+			"1301",
+			"46809",
+			"27983",
+			"15611",
+			null,
+			null,
+			null,
+			null,
+			"94576",
+			"1432169",
+			null,
+			"5628262",
+			"363884",
+			"243749",
+			"11311",
+			null,
+			"36768"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:30.927Z"
+}

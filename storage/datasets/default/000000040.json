@@ -1,0 +1,2603 @@
+{
+	"tableId": "ACSST1Y2024.S1301",
+	"title": "Fertility",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S1301",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S1301_C01_001E",
+				"label": "Estimate!!Total!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C01_001M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C02_001E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C02_001M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C03_001E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C03_001M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C04_001E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C04_001M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C05_001E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C05_001M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C01_002E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C01_002M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C02_002E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C02_002M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C03_002E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C03_002M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C04_002E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C04_002M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C05_002E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C05_002M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!15 to 19 years"
+			},
+			{
+				"id": "S1301_C01_003E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C01_003M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C02_003E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C02_003M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C03_003E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C03_003M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C04_003E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C04_003M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C05_003E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C05_003M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!20 to 34 years"
+			},
+			{
+				"id": "S1301_C01_004E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C01_004M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C02_004E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C02_004M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C03_004E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C03_004M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C04_004E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C04_004M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C05_004E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C05_004M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!35 to 50 years"
+			},
+			{
+				"id": "S1301_C01_005E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C01_005M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C02_005E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C02_005M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C03_005E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C03_005M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C04_005E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C04_005M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C05_005E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C05_005M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1301_C01_006E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C01_006M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C02_006E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C02_006M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C03_006E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C03_006M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C04_006E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C04_006M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C05_006E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C05_006M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1301_C01_007E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C01_007M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C02_007E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C02_007M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C03_007E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C03_007M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C04_007E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C04_007M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C05_007E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C05_007M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1301_C01_008E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C01_008M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C02_008E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C02_008M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C03_008E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C03_008M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C04_008E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C04_008M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C05_008E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C05_008M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1301_C01_009E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C01_009M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C02_009E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C02_009M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C03_009E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C03_009M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C04_009E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C04_009M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C05_009E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C05_009M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1301_C01_010E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C01_010M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C02_010E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C02_010M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C03_010E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C03_010M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C04_010E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C04_010M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C05_010E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C05_010M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1301_C01_011E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C01_011M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C02_011E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C02_011M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C03_011E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C03_011M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C04_011E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C04_011M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C05_011E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C05_011M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1301_C01_012E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C01_012M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C02_012E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C02_012M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C03_012E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C03_012M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C04_012E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C04_012M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C05_012E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C05_012M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1301_C01_013E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C01_013M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C02_013E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C02_013M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C03_013E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C03_013M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C04_013E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C04_013M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C05_013E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C05_013M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1301_C01_014E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C01_014M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C02_014E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C02_014M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C03_014E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C03_014M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C04_014E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C04_014M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C05_014E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C05_014M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1301_C01_015E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C01_015M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C02_015E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C02_015M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C03_015E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C03_015M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C04_015E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C04_015M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C05_015E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C05_015M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1301_C01_016E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C01_016M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C02_016E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C02_016M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C03_016E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C03_016M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C04_016E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C04_016M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C05_016E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C05_016M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1301_C01_017E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C01_017M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C02_017E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C02_017M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C03_017E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C03_017M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C04_017E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C04_017M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C05_017E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C05_017M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Less than high school graduate"
+			},
+			{
+				"id": "S1301_C01_018E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C01_018M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C02_018E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C02_018M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C03_018E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C03_018M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C04_018E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C04_018M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C05_018E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C05_018M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S1301_C01_019E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C01_019M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C02_019E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C02_019M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C03_019E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C03_019M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C04_019E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C04_019M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C05_019E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C05_019M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree"
+			},
+			{
+				"id": "S1301_C01_020E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C01_020M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C02_020E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C02_020M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C03_020E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C03_020M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C04_020E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C04_020M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C05_020E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C05_020M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+			},
+			{
+				"id": "S1301_C01_021E",
+				"label": "Estimate!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C01_021M",
+				"label": "Margin of Error!!Total!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C02_021E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C02_021M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C03_021E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C03_021M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C04_021E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C04_021M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C05_021E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C05_021M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!Women 15 to 50 years!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+			},
+			{
+				"id": "S1301_C01_022E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C01_022M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C02_022E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C02_022M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C03_022E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C03_022M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C04_022E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C04_022M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C05_022E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C05_022M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined"
+			},
+			{
+				"id": "S1301_C01_023E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C01_023M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C02_023E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C02_023M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C03_023E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C03_023M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C04_023E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C04_023M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C05_023E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C05_023M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!Below 100 percent of poverty level"
+			},
+			{
+				"id": "S1301_C01_024E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C01_024M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C02_024E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C02_024M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C03_024E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C03_024M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C04_024E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C04_024M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C05_024E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C05_024M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!100 to 199 percent of poverty level"
+			},
+			{
+				"id": "S1301_C01_025E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C01_025M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C02_025E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C02_025M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C03_025E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C03_025M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C04_025E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C04_025M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C05_025E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C05_025M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!POVERTY STATUS IN THE PAST 12 MONTHS!!Women 15 to 50 years for whom poverty status is determined!!200 percent or more above poverty level"
+			},
+			{
+				"id": "S1301_C01_026E",
+				"label": "Estimate!!Total!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C01_026M",
+				"label": "Margin of Error!!Total!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C02_026E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C02_026M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C03_026E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C03_026M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C04_026E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C04_026M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C05_026E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C05_026M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!LABOR FORCE STATUS!!Women 16 to 50 years"
+			},
+			{
+				"id": "S1301_C01_027E",
+				"label": "Estimate!!Total!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C01_027M",
+				"label": "Margin of Error!!Total!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C02_027E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C02_027M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C03_027E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C03_027M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C04_027E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C04_027M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C05_027E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C05_027M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!LABOR FORCE STATUS!!Women 16 to 50 years!!In labor force"
+			},
+			{
+				"id": "S1301_C01_028E",
+				"label": "Estimate!!Total!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C01_028M",
+				"label": "Margin of Error!!Total!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C02_028E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C02_028M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C03_028E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C03_028M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C04_028E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C04_028M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C05_028E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C05_028M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years"
+			},
+			{
+				"id": "S1301_C01_029E",
+				"label": "Estimate!!Total!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C01_029M",
+				"label": "Margin of Error!!Total!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C02_029E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C02_029M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C03_029E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C03_029M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C04_029E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C04_029M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C05_029E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C05_029M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Received public assistance income"
+			},
+			{
+				"id": "S1301_C01_030E",
+				"label": "Estimate!!Total!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C01_030M",
+				"label": "Margin of Error!!Total!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C02_030E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C02_030M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C03_030E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C03_030M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C04_030E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C04_030M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C05_030E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C05_030M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS!!Women 15 to 50 years!!Did not receive public assistance income"
+			},
+			{
+				"id": "S1301_C01_031E",
+				"label": "Estimate!!Total!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C01_031M",
+				"label": "Margin of Error!!Total!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C02_031E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C02_031M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C03_031E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C03_031M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C04_031E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C04_031M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C05_031E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C05_031M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!PERCENT ALLOCATED!!Marital status"
+			},
+			{
+				"id": "S1301_C01_032E",
+				"label": "Estimate!!Total!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C01_032M",
+				"label": "Margin of Error!!Total!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C02_032E",
+				"label": "Estimate!!Number!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C02_032M",
+				"label": "Margin of Error!!Number!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C03_032E",
+				"label": "Estimate!!Percent Distribution!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C03_032M",
+				"label": "Margin of Error!!Percent Distribution!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C04_032E",
+				"label": "Estimate!!Rate per 1,000 women!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C04_032M",
+				"label": "Margin of Error!!Rate per 1,000 women!!Women with births in the past 12 months!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C05_032E",
+				"label": "Estimate!!Percent of women who had a birth in the past 12 months who were unmarried!!PERCENT ALLOCATED!!Fertility"
+			},
+			{
+				"id": "S1301_C05_032M",
+				"label": "Margin of Error!!Percent of women who had a birth in the past 12 months who were unmarried!!PERCENT ALLOCATED!!Fertility"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S1301_C05_016MA",
+			"S1301_C02_002E",
+			"S1301_C02_014E",
+			"S1301_C05_012EA",
+			"S1301_C05_020E",
+			"S1301_C02_026E",
+			"S1301_C05_032E",
+			"S1301_C01_010MA",
+			"S1301_C02_002M",
+			"S1301_C02_014M",
+			"S1301_C05_020M",
+			"S1301_C02_026M",
+			"S1301_C05_032M",
+			"S1301_C01_022MA",
+			"S1301_C02_016EA",
+			"S1301_C03_021EA",
+			"S1301_C04_007EA",
+			"S1301_C03_002MA",
+			"S1301_C03_025MA",
+			"S1301_C05_028MA",
+			"S1301_C05_005MA",
+			"S1301_C02_001E",
+			"S1301_C02_013E",
+			"S1301_C05_024EA",
+			"S1301_C02_025E",
+			"S1301_C05_001EA",
+			"S1301_C05_021E",
+			"S1301_C02_001M",
+			"S1301_C01_021MA",
+			"S1301_C02_013M",
+			"S1301_C02_025M",
+			"S1301_C05_021M",
+			"S1301_C02_009MA",
+			"S1301_C03_032EA",
+			"S1301_C04_018EA",
+			"S1301_C02_028EA",
+			"S1301_C02_005EA",
+			"S1301_C03_013MA",
+			"S1301_C05_015MA",
+			"S1301_C02_012E",
+			"S1301_C05_022E",
+			"S1301_C01_031E",
+			"S1301_C02_024E",
+			"S1301_C05_010E",
+			"S1301_C05_011EA",
+			"S1301_C01_032MA",
+			"S1301_C02_012M",
+			"S1301_C05_022M",
+			"S1301_C02_024M",
+			"S1301_C05_010M",
+			"S1301_C02_011M",
+			"S1301_C03_022EA",
+			"S1301_C02_017EA",
+			"S1301_C04_008EA",
+			"S1301_C03_026MA",
+			"S1301_C01_030M",
+			"S1301_C03_003MA",
+			"S1301_C01_030E",
+			"S1301_C05_004MA",
+			"S1301_C05_027MA",
+			"S1301_C02_023E",
+			"S1301_C05_011E",
+			"S1301_C04_030MA",
+			"S1301_C05_023E",
+			"S1301_C05_023EA",
+			"S1301_C02_029EA",
+			"S1301_C02_011E",
+			"S1301_C01_020MA",
+			"S1301_C02_023M",
+			"S1301_C05_011M",
+			"S1301_C05_023M",
+			"S1301_C02_010M",
+			"S1301_C02_022M",
+			"S1301_C02_006EA",
+			"S1301_C03_010EA",
+			"S1301_C04_019EA",
+			"S1301_C03_014MA",
+			"S1301_C01_009EA",
+			"S1301_C05_018MA",
+			"S1301_C02_006E",
+			"S1301_C02_018E",
+			"S1301_C04_020MA",
+			"S1301_C05_014EA",
+			"S1301_C02_018EA",
+			"S1301_C02_006M",
+			"S1301_C02_018M",
+			"S1301_C01_031MA",
+			"S1301_C04_009EA",
+			"S1301_C03_023EA",
+			"S1301_C03_004MA",
+			"S1301_C03_027MA",
+			"S1301_C02_005E",
+			"S1301_C02_017E",
+			"S1301_C05_007MA",
+			"S1301_C02_029E",
+			"S1301_C04_031MA",
+			"S1301_C05_003EA",
+			"S1301_C02_005M",
+			"S1301_C02_007EA",
+			"S1301_C02_017M",
+			"S1301_C02_029M",
+			"S1301_C03_011EA",
+			"S1301_C03_015MA",
+			"S1301_C05_026EA",
+			"S1301_C02_016E",
+			"S1301_C01_008EA",
+			"S1301_C02_028E",
+			"S1301_C05_017MA",
+			"S1301_C05_013EA",
+			"S1301_C02_004E",
+			"S1301_C04_021MA",
+			"S1301_C02_016M",
+			"S1301_C02_019EA",
+			"S1301_C02_028M",
+			"S1301_C05_030E",
+			"S1301_C01_030MA",
+			"S1301_C02_004M",
+			"S1301_C03_024EA",
+			"S1301_C03_001EA",
+			"S1301_C03_028MA",
+			"S1301_C03_005MA",
+			"S1301_C02_027E",
+			"S1301_C05_006MA",
+			"S1301_C05_029MA",
+			"S1301_C01_019EA",
+			"S1301_C05_002EA",
+			"S1301_C05_025EA",
+			"S1301_C02_003E",
+			"S1301_C05_031E",
+			"S1301_C02_015E",
+			"S1301_C02_030MA",
+			"S1301_C04_032MA",
+			"S1301_C02_027M",
+			"S1301_C02_008EA",
+			"S1301_C02_003M",
+			"S1301_C05_031M",
+			"S1301_C02_015M",
+			"S1301_C05_030M",
+			"S1301_C03_012EA",
+			"S1301_C03_016MA",
+			"S1301_C01_025M",
+			"S1301_C01_013M",
+			"S1301_C05_031EA",
+			"S1301_C01_001E",
+			"S1301_C04_022MA",
+			"S1301_C01_025E",
+			"S1301_C01_013E",
+			"S1301_C05_012MA",
+			"S1301_C01_003MA",
+			"S1301_C01_026MA",
+			"S1301_C01_022EA",
+			"S1301_C01_012M",
+			"S1301_C03_021MA",
+			"S1301_C01_024M",
+			"S1301_C05_020EA",
+			"S1301_C02_009M",
+			"S1301_C01_012E",
+			"S1301_C02_031MA",
+			"S1301_C04_010MA",
+			"S1301_C01_024E",
+			"S1301_C02_009EA",
+			"S1301_C05_024MA",
+			"S1301_C05_001MA",
+			"S1301_C01_014MA",
+			"S1301_C01_010EA",
+			"S1301_C02_009E",
+			"S1301_C01_023M",
+			"S1301_C03_032MA",
+			"S1301_C01_011M",
+			"S1301_C01_003M",
+			"S1301_C04_023MA",
+			"S1301_C01_027M",
+			"S1301_C05_030EA",
+			"S1301_C01_015M",
+			"S1301_C02_008E",
+			"S1301_C02_020MA",
+			"S1301_C01_003E",
+			"S1301_C04_009M",
+			"S1301_C01_027E",
+			"S1301_C01_015E",
+			"S1301_C02_008M",
+			"S1301_C05_011MA",
+			"S1301_C04_009E",
+			"S1301_C01_025MA",
+			"S1301_C01_002MA",
+			"S1301_C01_021EA",
+			"S1301_C02_032MA",
+			"S1301_C03_022MA",
+			"S1301_C01_014M",
+			"S1301_C01_002M",
+			"S1301_C02_007E",
+			"S1301_C01_026M",
+			"S1301_C02_019E",
+			"S1301_C04_011MA",
+			"S1301_C01_014E",
+			"S1301_C01_002E",
+			"S1301_C02_007M",
+			"S1301_C01_026E",
+			"S1301_C02_019M",
+			"S1301_C04_030EA",
+			"S1301_C05_023MA",
+			"S1301_C01_013MA",
+			"S1301_C01_032EA",
+			"S1301_C02_021MA",
+			"S1301_C01_001M",
+			"S1301_C03_010MA",
+			"S1301_C04_001MA",
+			"S1301_C04_024MA",
+			"S1301_C05_010EA",
+			"S1301_C01_021E",
+			"S1301_C04_007M",
+			"S1301_C04_019M",
+			"S1301_C04_020EA",
+			"S1301_C05_014MA",
+			"S1301_C01_001MA",
+			"S1301_C01_024MA",
+			"S1301_C04_007E",
+			"S1301_C04_019E",
+			"S1301_C01_020EA",
+			"S1301_C02_010MA",
+			"S1301_C01_032M",
+			"S1301_C03_023MA",
+			"S1301_C01_020M",
+			"S1301_C04_012MA",
+			"S1301_C05_026MA",
+			"S1301_C01_032E",
+			"S1301_C01_020E",
+			"S1301_C05_022EA",
+			"S1301_C04_008M",
+			"S1301_C04_031EA",
+			"S1301_C05_003MA",
+			"S1301_C01_012MA",
+			"S1301_C04_008E",
+			"S1301_C01_031EA",
+			"S1301_C03_030EA",
+			"S1301_C02_022MA",
+			"S1301_C03_011MA",
+			"S1301_C01_031M",
+			"S1301_C04_002MA",
+			"S1301_C04_025MA",
+			"S1301_C04_005M",
+			"S1301_C04_017M",
+			"S1301_C01_023E",
+			"S1301_C01_011E",
+			"S1301_C05_032EA",
+			"S1301_C04_029M",
+			"S1301_C04_005E",
+			"S1301_C04_017E",
+			"S1301_C05_013MA",
+			"S1301_C04_021EA",
+			"S1301_C04_029E",
+			"S1301_C01_023MA",
+			"S1301_C03_020EA",
+			"S1301_C02_011MA",
+			"S1301_C03_024MA",
+			"S1301_C01_010M",
+			"S1301_C03_001MA",
+			"S1301_C01_022M",
+			"S1301_C02_030EA",
+			"S1301_C05_021EA",
+			"S1301_C04_013MA",
+			"S1301_C01_010E",
+			"S1301_C04_006M",
+			"S1301_C01_022E",
+			"S1301_C04_018M",
+			"S1301_C05_002MA",
+			"S1301_C05_025MA",
+			"S1301_C04_006E",
+			"S1301_C04_032EA",
+			"GEO_ID",
+			"S1301_C01_011MA",
+			"S1301_C04_018E",
+			"S1301_C01_030EA",
+			"S1301_C03_031EA",
+			"S1301_C02_023MA",
+			"S1301_C01_021M",
+			"S1301_C03_012MA",
+			"S1301_C04_003MA",
+			"S1301_C04_026MA",
+			"S1301_C04_027M",
+			"S1301_C01_009M",
+			"S1301_C04_003M",
+			"S1301_C04_015M",
+			"S1301_C03_030M",
+			"S1301_C04_027E",
+			"S1301_C01_009E",
+			"S1301_C03_006EA",
+			"S1301_C03_029EA",
+			"S1301_C04_003E",
+			"S1301_C04_022EA",
+			"S1301_C05_031MA",
+			"S1301_C04_015E",
+			"S1301_C03_031E",
+			"S1301_C01_007MA",
+			"S1301_C01_003EA",
+			"S1301_C02_012MA",
+			"S1301_C01_026EA",
+			"S1301_C02_031EA",
+			"S1301_C04_014MA",
+			"S1301_C04_016M",
+			"S1301_C04_028M",
+			"S1301_C01_008M",
+			"S1301_C04_004M",
+			"S1301_C05_020MA",
+			"S1301_C04_016E",
+			"S1301_C04_028E",
+			"S1301_C03_017EA",
+			"S1301_C04_010EA",
+			"S1301_C01_008E",
+			"S1301_C04_004E",
+			"S1301_C03_030E",
+			"S1301_C01_018MA",
+			"S1301_C02_001MA",
+			"S1301_C01_014EA",
+			"S1301_C02_024MA",
+			"S1301_C02_020EA",
+			"S1301_C05_009EA",
+			"S1301_C04_001M",
+			"S1301_C04_013M",
+			"S1301_C04_004MA",
+			"S1301_C04_025M",
+			"S1301_C03_032M",
+			"S1301_C04_001E",
+			"S1301_C03_020M",
+			"S1301_C04_013E",
+			"S1301_C04_023EA",
+			"S1301_C05_030MA",
+			"S1301_C04_027MA",
+			"S1301_C04_025E",
+			"S1301_C03_007EA",
+			"S1301_C03_021E",
+			"S1301_C02_032EA",
+			"S1301_C01_029MA",
+			"S1301_C01_006MA",
+			"S1301_C01_025EA",
+			"S1301_C01_002EA",
+			"S1301_C02_013MA",
+			"S1301_C05_019EA",
+			"S1301_C04_002M",
+			"S1301_C04_015MA",
+			"S1301_C04_014M",
+			"S1301_C04_026M",
+			"S1301_C03_031M",
+			"S1301_C04_002E",
+			"S1301_C04_014E",
+			"S1301_C03_018EA",
+			"S1301_C04_011EA",
+			"S1301_C04_026E",
+			"S1301_C02_021EA",
+			"S1301_C03_032E",
+			"S1301_C03_020E",
+			"S1301_C01_017MA",
+			"S1301_C02_002MA",
+			"S1301_C01_013EA",
+			"S1301_C02_025MA",
+			"S1301_C05_008EA",
+			"S1301_C03_030MA",
+			"S1301_C04_023M",
+			"S1301_C01_005M",
+			"S1301_C04_011M",
+			"S1301_C01_029M",
+			"S1301_C05_008M",
+			"S1301_C01_017M",
+			"S1301_C03_010M",
+			"S1301_C04_001EA",
+			"S1301_C04_023E",
+			"S1301_C04_024EA",
+			"S1301_C05_010MA",
+			"S1301_C01_005E",
+			"S1301_C04_011E",
+			"S1301_C01_029E",
+			"S1301_C03_008EA",
+			"S1301_C04_005MA",
+			"S1301_C04_028MA",
+			"S1301_C01_017E",
+			"S1301_C02_010EA",
+			"S1301_C01_005MA",
+			"S1301_C01_028MA",
+			"S1301_C03_023M",
+			"S1301_C03_011M",
+			"S1301_C01_001EA",
+			"S1301_C01_024EA",
+			"S1301_C02_014MA",
+			"S1301_C05_008E",
+			"S1301_C03_023E",
+			"S1301_C03_011E",
+			"S1301_C04_012M",
+			"S1301_C04_024M",
+			"S1301_C01_016M",
+			"S1301_C01_004M",
+			"S1301_C01_028M",
+			"S1301_C05_009M",
+			"S1301_C03_021M",
+			"S1301_C04_012E",
+			"S1301_C04_012EA",
+			"S1301_C04_024E",
+			"S1301_C01_016E",
+			"S1301_C01_004E",
+			"S1301_C03_019EA",
+			"S1301_C04_016MA",
+			"S1301_C01_028E",
+			"NAME",
+			"S1301_C05_022MA",
+			"S1301_C03_010E",
+			"S1301_C02_022EA",
+			"S1301_C02_003MA",
+			"S1301_C01_016MA",
+			"S1301_C03_022M",
+			"S1301_C01_012EA",
+			"S1301_C02_026MA",
+			"S1301_C05_009E",
+			"S1301_C03_022E",
+			"S1301_C04_021M",
+			"S1301_C01_007M",
+			"S1301_C01_019M",
+			"S1301_C04_002EA",
+			"S1301_C04_021E",
+			"S1301_C04_025EA",
+			"S1301_C01_007E",
+			"S1301_C03_009EA",
+			"S1301_C04_006MA",
+			"S1301_C01_019E",
+			"S1301_C04_029MA",
+			"S1301_C05_032MA",
+			"S1301_C02_011EA",
+			"S1301_C03_025M",
+			"S1301_C01_004MA",
+			"S1301_C03_013M",
+			"S1301_C03_001M",
+			"S1301_C01_027MA",
+			"S1301_C01_023EA",
+			"S1301_C03_025E",
+			"S1301_C02_015MA",
+			"S1301_C03_013E",
+			"S1301_C04_020M",
+			"S1301_C03_001E",
+			"S1301_C03_020MA",
+			"S1301_C04_010M",
+			"S1301_C04_022M",
+			"S1301_C01_018M",
+			"S1301_C01_006M",
+			"S1301_C05_021MA",
+			"S1301_C04_013EA",
+			"S1301_C04_010E",
+			"S1301_C04_022E",
+			"S1301_C01_018E",
+			"S1301_C01_006E",
+			"S1301_C04_017MA",
+			"S1301_C02_004MA",
+			"S1301_C02_023EA",
+			"S1301_C03_024M",
+			"S1301_C01_015MA",
+			"S1301_C03_012M",
+			"S1301_C01_011EA",
+			"S1301_C03_024E",
+			"S1301_C02_027MA",
+			"S1301_C03_012E",
+			"S1301_C03_031MA",
+			"S1301_C05_004E",
+			"S1301_C05_016E",
+			"S1301_C04_031E",
+			"S1301_C05_028M",
+			"S1301_C02_030E",
+			"S1301_C05_004M",
+			"S1301_C05_016M",
+			"S1301_C04_003EA",
+			"S1301_C04_026EA",
+			"S1301_C04_007MA",
+			"S1301_C02_012EA",
+			"S1301_C03_002EA",
+			"S1301_C03_025EA",
+			"S1301_C03_027M",
+			"S1301_C03_015M",
+			"S1301_C03_003M",
+			"S1301_C03_006MA",
+			"S1301_C03_029MA",
+			"S1301_C03_027E",
+			"S1301_C05_016EA",
+			"S1301_C03_015E",
+			"S1301_C03_003E",
+			"S1301_C04_030M",
+			"S1301_C01_007EA",
+			"S1301_C02_016MA",
+			"S1301_C05_028E",
+			"S1301_C05_005E",
+			"S1301_C04_032M",
+			"S1301_C04_020E",
+			"S1301_C05_017M",
+			"S1301_C05_009MA",
+			"S1301_C05_029M",
+			"S1301_C05_005M",
+			"S1301_C04_014EA",
+			"S1301_C04_032E",
+			"S1301_C04_018MA",
+			"S1301_C03_013EA",
+			"S1301_C02_024EA",
+			"S1301_C03_026M",
+			"S1301_C03_014M",
+			"S1301_C03_002M",
+			"S1301_C03_017MA",
+			"S1301_C05_028EA",
+			"S1301_C03_026E",
+			"S1301_C05_005EA",
+			"S1301_C03_014E",
+			"S1301_C01_018EA",
+			"S1301_C02_001EA",
+			"S1301_C03_002E",
+			"S1301_C04_031M",
+			"S1301_C02_005MA",
+			"S1301_C05_017E",
+			"S1301_C02_028MA",
+			"S1301_C05_029E",
+			"S1301_C05_006M",
+			"S1301_C05_018M",
+			"S1301_C05_019MA",
+			"S1301_C04_004EA",
+			"S1301_C04_008MA",
+			"S1301_C03_029M",
+			"S1301_C03_017M",
+			"S1301_C03_026EA",
+			"S1301_C03_005M",
+			"S1301_C02_013EA",
+			"S1301_C03_003EA",
+			"S1301_C04_027EA",
+			"S1301_C03_007MA",
+			"S1301_C03_029E",
+			"S1301_C03_017E",
+			"S1301_C03_005E",
+			"S1301_C05_015EA",
+			"S1301_C01_029EA",
+			"S1301_C05_006E",
+			"S1301_C01_006EA",
+			"S1301_C02_017MA",
+			"S1301_C05_018E",
+			"S1301_C04_030E",
+			"S1301_C05_019M",
+			"S1301_C05_008MA",
+			"S1301_C05_007M",
+			"S1301_C04_015EA",
+			"S1301_C04_019MA",
+			"S1301_C02_029MA",
+			"S1301_C03_028M",
+			"S1301_C03_016M",
+			"S1301_C03_004M",
+			"S1301_C03_014EA",
+			"S1301_C02_025EA",
+			"S1301_C03_018MA",
+			"S1301_C03_028E",
+			"S1301_C03_016E",
+			"S1301_C05_004EA",
+			"S1301_C05_027EA",
+			"S1301_C03_004E",
+			"S1301_C01_017EA",
+			"S1301_C02_002EA",
+			"S1301_C05_019E",
+			"S1301_C02_006MA",
+			"S1301_C05_007E",
+			"S1301_C05_024E",
+			"S1301_C05_012E",
+			"S1301_C03_019E",
+			"S1301_C04_009MA",
+			"S1301_C02_010E",
+			"S1301_C05_024M",
+			"S1301_C02_022E",
+			"S1301_C05_012M",
+			"S1301_C02_018MA",
+			"S1301_C03_004EA",
+			"S1301_C03_007M",
+			"S1301_C03_027EA",
+			"S1301_C02_021M",
+			"S1301_C02_014EA",
+			"S1301_C03_008MA",
+			"S1301_C04_005EA",
+			"S1301_C04_028EA",
+			"S1301_C01_009MA",
+			"S1301_C03_007E",
+			"S1301_C05_018EA",
+			"S1301_C01_005EA",
+			"S1301_C01_028EA",
+			"S1301_C03_019M",
+			"S1301_C05_013E",
+			"S1301_C05_025E",
+			"S1301_C05_001E",
+			"S1301_C02_021E",
+			"S1301_C05_013M",
+			"S1301_C05_025M",
+			"S1301_C05_001M",
+			"S1301_C02_007MA",
+			"S1301_C03_015EA",
+			"S1301_C03_018M",
+			"S1301_C02_020M",
+			"S1301_C03_006M",
+			"S1301_C02_032M",
+			"S1301_C03_019MA",
+			"S1301_C04_016EA",
+			"S1301_C02_026EA",
+			"S1301_C03_018E",
+			"S1301_C03_006E",
+			"S1301_C05_007EA",
+			"S1301_C02_003EA",
+			"S1301_C01_016EA",
+			"S1301_C05_026E",
+			"S1301_C05_002E",
+			"S1301_C05_014E",
+			"S1301_C03_009E",
+			"S1301_C05_026M",
+			"S1301_C02_020E",
+			"S1301_C02_032E",
+			"S1301_C05_002M",
+			"S1301_C05_014M",
+			"S1301_C03_028EA",
+			"S1301_C02_019MA",
+			"S1301_C02_031M",
+			"S1301_C03_005EA",
+			"S1301_C02_015EA",
+			"S1301_C03_009MA",
+			"S1301_C04_006EA",
+			"S1301_C04_029EA",
+			"S1301_C01_008MA",
+			"S1301_C05_017EA",
+			"S1301_C01_004EA",
+			"S1301_C03_009M",
+			"S1301_C01_027EA",
+			"S1301_C05_015E",
+			"S1301_C05_027E",
+			"S1301_C05_003E",
+			"S1301_C03_008E",
+			"S1301_C05_015M",
+			"S1301_C02_031E",
+			"S1301_C05_027M",
+			"S1301_C05_003M",
+			"S1301_C02_030M",
+			"S1301_C02_008MA",
+			"S1301_C03_016EA",
+			"S1301_C04_017EA",
+			"S1301_C02_027EA",
+			"S1301_C05_006EA",
+			"S1301_C05_029EA",
+			"S1301_C01_019MA",
+			"S1301_C02_004EA",
+			"S1301_C01_015EA",
+			"S1301_C03_008M"
+		],
+		[
+			null,
+			"79108",
+			"2023206",
+			null,
+			"12.7",
+			"3967633",
+			"-888888888",
+			null,
+			"5120",
+			"23921",
+			"0.7",
+			"37020",
+			"-888888888",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3971434",
+			"944117",
+			null,
+			"2528906",
+			null,
+			"8.1",
+			"36997",
+			null,
+			"18986",
+			"28154",
+			"0.8",
+			null,
+			"(X)",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"543653",
+			"30.0",
+			"9.1",
+			"699188",
+			"44.6",
+			null,
+			"(X)",
+			"14634",
+			"0.5",
+			"18440",
+			"11.9",
+			"10773",
+			"(X)",
+			null,
+			null,
+			"(X)",
+			"46372",
+			null,
+			"78167877",
+			null,
+			null,
+			"735081",
+			"41.0",
+			null,
+			"66.7",
+			null,
+			null,
+			"356717",
+			null,
+			"19250",
+			"1.5",
+			"1.2",
+			"2356",
+			"36999",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2213258",
+			"929796",
+			null,
+			null,
+			null,
+			"26004",
+			"20385",
+			"(X)",
+			null,
+			null,
+			null,
+			null,
+			"3427781",
+			"370106",
+			null,
+			"136454",
+			"(X)",
+			null,
+			"34421",
+			null,
+			"13635",
+			"8187",
+			null,
+			null,
+			null,
+			"801226",
+			null,
+			"3971434",
+			null,
+			null,
+			"1229831",
+			null,
+			"19651",
+			null,
+			"36997",
+			"28.9",
+			null,
+			"18103",
+			null,
+			"(X)",
+			"(X)",
+			null,
+			"2712892",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2662495",
+			"-888888888",
+			"3170208",
+			null,
+			"(X)",
+			"29086",
+			null,
+			"31173",
+			"-888888888",
+			"35117",
+			"0.5",
+			null,
+			null,
+			"129139",
+			"19083",
+			"(X)",
+			"79622525",
+			null,
+			"54983409",
+			"17863987",
+			null,
+			null,
+			null,
+			null,
+			"63011",
+			null,
+			"76255",
+			null,
+			"8678",
+			"11168829",
+			"(X)",
+			null,
+			"12035725",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"273174",
+			"82324",
+			"(X)",
+			"52339",
+			"28735",
+			null,
+			"93297",
+			null,
+			"73671",
+			"47647",
+			null,
+			"33684475",
+			"1",
+			"58565324",
+			"66210310",
+			"4265",
+			null,
+			"46",
+			null,
+			null,
+			null,
+			"(X)",
+			"(X)",
+			"26373",
+			"30482",
+			"526632",
+			"47582",
+			"1072176",
+			null,
+			"40871699",
+			"10945936",
+			"18899",
+			"77509623",
+			"20352",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"38515",
+			null,
+			null,
+			null,
+			null,
+			"10644514",
+			"2",
+			"1",
+			null,
+			null,
+			null,
+			null,
+			"50",
+			"49",
+			null,
+			null,
+			"-888888888.0",
+			null,
+			"88153",
+			null,
+			null,
+			"13.1",
+			"17895986",
+			null,
+			"5",
+			"(X)",
+			null,
+			null,
+			"53",
+			null,
+			null,
+			null,
+			null,
+			"-888888888.0",
+			null,
+			null,
+			"1",
+			"1",
+			"10681857",
+			"6722080",
+			"(X)",
+			"5",
+			"50",
+			"30",
+			null,
+			null,
+			"94",
+			null,
+			null,
+			null,
+			null,
+			"6321",
+			"(X)",
+			"44884",
+			null,
+			null,
+			null,
+			"179503",
+			"1",
+			"77700991",
+			"1",
+			null,
+			null,
+			"50",
+			"(X)",
+			"0100000US",
+			null,
+			"55",
+			null,
+			"(X)",
+			null,
+			"68661",
+			null,
+			null,
+			null,
+			"1",
+			"19730",
+			"1",
+			"1",
+			"0.2",
+			"46",
+			"5880962",
+			null,
+			null,
+			"79",
+			null,
+			"(X)",
+			"48",
+			"-888888888",
+			null,
+			null,
+			null,
+			null,
+			"(X)",
+			null,
+			"1",
+			"1",
+			"18340",
+			"1",
+			null,
+			"60",
+			"50",
+			null,
+			null,
+			"898164",
+			"35",
+			"96.6",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1",
+			"1",
+			null,
+			"1",
+			"-888888888",
+			"50",
+			"0.4",
+			"53",
+			null,
+			null,
+			null,
+			"46",
+			null,
+			"15.7",
+			"(X)",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1",
+			null,
+			"1",
+			"1",
+			"-888888888",
+			"7",
+			"50",
+			null,
+			null,
+			"51",
+			null,
+			"-888888888",
+			"24.6",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2",
+			"70753",
+			"2",
+			"27049",
+			"4.1",
+			"60989",
+			"0.1",
+			null,
+			"69",
+			null,
+			null,
+			"68453696",
+			"53",
+			"1454648",
+			null,
+			null,
+			null,
+			"12201282",
+			null,
+			null,
+			null,
+			"0.4",
+			"0.3",
+			null,
+			null,
+			null,
+			"48.6",
+			"18.5",
+			"9.0",
+			"1",
+			"2",
+			"63659",
+			"30949",
+			"38515",
+			"1.2",
+			"0.4",
+			"49",
+			null,
+			"58",
+			"13412215",
+			"34992114",
+			null,
+			null,
+			"79622525",
+			"United States",
+			null,
+			"0.3",
+			null,
+			null,
+			null,
+			"-888888888",
+			null,
+			null,
+			"10.8",
+			"-888888888",
+			"1",
+			"39501",
+			"93771",
+			null,
+			"58",
+			null,
+			"10550347",
+			null,
+			null,
+			"22009356",
+			null,
+			"(X)",
+			null,
+			"0.5",
+			null,
+			"0.4",
+			"-888888888",
+			null,
+			null,
+			"63.8",
+			null,
+			"23.8",
+			"1",
+			"-888888888",
+			null,
+			"13",
+			"1",
+			"90639",
+			"48137",
+			null,
+			null,
+			"58",
+			"51",
+			"16871387",
+			"44222640",
+			null,
+			null,
+			null,
+			"0.4",
+			null,
+			"0.3",
+			null,
+			"17.6",
+			null,
+			"13.7",
+			"(X)",
+			"21.2",
+			"23.2",
+			"-888888888",
+			"0.5",
+			"3834980",
+			"0.8",
+			"1.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.5",
+			"0.5",
+			"0.4",
+			null,
+			null,
+			"68.4",
+			null,
+			"79.8",
+			"67.0",
+			"1",
+			null,
+			null,
+			"30.1",
+			"29.1",
+			"-888888888",
+			"55",
+			"1.5",
+			null,
+			"2.7",
+			"0.5",
+			null,
+			"-888888888",
+			null,
+			null,
+			null,
+			"-888888888",
+			"0.5",
+			"0.1",
+			null,
+			null,
+			"-888888888",
+			null,
+			"50.9",
+			null,
+			null,
+			"2.0",
+			"-888888888",
+			null,
+			"48.8",
+			null,
+			"64.8",
+			"0.5",
+			"1.2",
+			null,
+			null,
+			null,
+			"0.2",
+			"0.3",
+			"(X)",
+			"0.3",
+			null,
+			null,
+			null,
+			null,
+			"3.4",
+			"9.3",
+			"86.3",
+			null,
+			null,
+			"21.9",
+			null,
+			null,
+			"48.8",
+			"49",
+			"0.8",
+			null,
+			"1.6",
+			null,
+			null,
+			null,
+			"-888888888",
+			"0.5",
+			"0.4",
+			null,
+			null,
+			null,
+			"-888888888",
+			"20.2",
+			null,
+			null,
+			"31.0",
+			null,
+			null,
+			"36.1",
+			null,
+			"58.8",
+			"39.3",
+			"36.5",
+			"27.0",
+			null,
+			"10353",
+			"1.3",
+			"3963175",
+			"1.4",
+			null,
+			null,
+			"0.4",
+			null,
+			"16757",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"13.3",
+			null,
+			null,
+			null,
+			"0.4",
+			"40.0",
+			"16.8",
+			"30.1",
+			"622658",
+			"1.0",
+			"0.5",
+			"0.5",
+			null,
+			null,
+			"0.5",
+			"18896",
+			"0.5",
+			"-888888888",
+			null,
+			null,
+			null,
+			"23.4",
+			"55.7",
+			null,
+			null,
+			null,
+			"30.0",
+			"84.8",
+			"20.1",
+			"6.9",
+			"0.5",
+			"976698",
+			"-888888888",
+			"2.9",
+			"0.5",
+			"(X)",
+			null,
+			"-888888888",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.2",
+			null,
+			"31.9",
+			"30.1",
+			"32.6",
+			"1.2",
+			"0.6",
+			"-888888888",
+			"0.7",
+			"0.6",
+			"36537",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.1"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:02.961Z"
+}

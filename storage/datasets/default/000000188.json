@@ -1,0 +1,520 @@
+{
+	"tableId": "ACSDT1Y2024.B06008PR",
+	"title": "Place of Birth by Marital Status in Puerto Rico",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 15 years and over in Puerto Rico",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06008PR",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06008PR_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06008PR_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06008PR_002E",
+				"label": "Estimate!!Total:!!Never married"
+			},
+			{
+				"id": "B06008PR_002M",
+				"label": "Margin of Error!!Total:!!Never married"
+			},
+			{
+				"id": "B06008PR_003E",
+				"label": "Estimate!!Total:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_003M",
+				"label": "Margin of Error!!Total:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_004E",
+				"label": "Estimate!!Total:!!Divorced"
+			},
+			{
+				"id": "B06008PR_004M",
+				"label": "Margin of Error!!Total:!!Divorced"
+			},
+			{
+				"id": "B06008PR_005E",
+				"label": "Estimate!!Total:!!Separated"
+			},
+			{
+				"id": "B06008PR_005M",
+				"label": "Margin of Error!!Total:!!Separated"
+			},
+			{
+				"id": "B06008PR_006E",
+				"label": "Estimate!!Total:!!Widowed"
+			},
+			{
+				"id": "B06008PR_006M",
+				"label": "Margin of Error!!Total:!!Widowed"
+			},
+			{
+				"id": "B06008PR_007E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:"
+			},
+			{
+				"id": "B06008PR_007M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:"
+			},
+			{
+				"id": "B06008PR_008E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!Never married"
+			},
+			{
+				"id": "B06008PR_008M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!Never married"
+			},
+			{
+				"id": "B06008PR_009E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_009M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_010E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!Divorced"
+			},
+			{
+				"id": "B06008PR_010M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!Divorced"
+			},
+			{
+				"id": "B06008PR_011E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!Separated"
+			},
+			{
+				"id": "B06008PR_011M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!Separated"
+			},
+			{
+				"id": "B06008PR_012E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!Widowed"
+			},
+			{
+				"id": "B06008PR_012M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!Widowed"
+			},
+			{
+				"id": "B06008PR_013E",
+				"label": "Estimate!!Total:!!Born in the United States:"
+			},
+			{
+				"id": "B06008PR_013M",
+				"label": "Margin of Error!!Total:!!Born in the United States:"
+			},
+			{
+				"id": "B06008PR_014E",
+				"label": "Estimate!!Total:!!Born in the United States:!!Never married"
+			},
+			{
+				"id": "B06008PR_014M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!Never married"
+			},
+			{
+				"id": "B06008PR_015E",
+				"label": "Estimate!!Total:!!Born in the United States:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_015M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_016E",
+				"label": "Estimate!!Total:!!Born in the United States:!!Divorced"
+			},
+			{
+				"id": "B06008PR_016M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!Divorced"
+			},
+			{
+				"id": "B06008PR_017E",
+				"label": "Estimate!!Total:!!Born in the United States:!!Separated"
+			},
+			{
+				"id": "B06008PR_017M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!Separated"
+			},
+			{
+				"id": "B06008PR_018E",
+				"label": "Estimate!!Total:!!Born in the United States:!!Widowed"
+			},
+			{
+				"id": "B06008PR_018M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!Widowed"
+			},
+			{
+				"id": "B06008PR_019E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:"
+			},
+			{
+				"id": "B06008PR_019M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:"
+			},
+			{
+				"id": "B06008PR_020E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!Never married"
+			},
+			{
+				"id": "B06008PR_020M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!Never married"
+			},
+			{
+				"id": "B06008PR_021E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_021M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_022E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!Divorced"
+			},
+			{
+				"id": "B06008PR_022M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!Divorced"
+			},
+			{
+				"id": "B06008PR_023E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!Separated"
+			},
+			{
+				"id": "B06008PR_023M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!Separated"
+			},
+			{
+				"id": "B06008PR_024E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!Widowed"
+			},
+			{
+				"id": "B06008PR_024M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!Widowed"
+			},
+			{
+				"id": "B06008PR_025E",
+				"label": "Estimate!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06008PR_025M",
+				"label": "Margin of Error!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06008PR_026E",
+				"label": "Estimate!!Total:!!Foreign born:!!Never married"
+			},
+			{
+				"id": "B06008PR_026M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Never married"
+			},
+			{
+				"id": "B06008PR_027E",
+				"label": "Estimate!!Total:!!Foreign born:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_027M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Now married, except separated"
+			},
+			{
+				"id": "B06008PR_028E",
+				"label": "Estimate!!Total:!!Foreign born:!!Divorced"
+			},
+			{
+				"id": "B06008PR_028M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Divorced"
+			},
+			{
+				"id": "B06008PR_029E",
+				"label": "Estimate!!Total:!!Foreign born:!!Separated"
+			},
+			{
+				"id": "B06008PR_029M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Separated"
+			},
+			{
+				"id": "B06008PR_030E",
+				"label": "Estimate!!Total:!!Foreign born:!!Widowed"
+			},
+			{
+				"id": "B06008PR_030M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Widowed"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06008PR_021E",
+			"B06008PR_029M",
+			"B06008PR_005M",
+			"B06008PR_017M",
+			"B06008PR_004EA",
+			"B06008PR_027EA",
+			"B06008PR_021M",
+			"B06008PR_008EA",
+			"B06008PR_023EA",
+			"B06008PR_015MA",
+			"B06008PR_030EA",
+			"B06008PR_019MA",
+			"B06008PR_011EA",
+			"B06008PR_030MA",
+			"B06008PR_018E",
+			"B06008PR_011MA",
+			"B06008PR_006E",
+			"B06008PR_016M",
+			"B06008PR_020E",
+			"B06008PR_028M",
+			"B06008PR_004M",
+			"B06008PR_015EA",
+			"B06008PR_019EA",
+			"B06008PR_020M",
+			"B06008PR_003MA",
+			"B06008PR_022EA",
+			"B06008PR_007MA",
+			"B06008PR_026MA",
+			"B06008PR_029E",
+			"B06008PR_022MA",
+			"B06008PR_005E",
+			"B06008PR_017E",
+			"B06008PR_009EA",
+			"B06008PR_027M",
+			"B06008PR_003M",
+			"B06008PR_015M",
+			"B06008PR_028EA",
+			"B06008PR_001EA",
+			"B06008PR_009MA",
+			"B06008PR_024EA",
+			"B06008PR_005EA",
+			"B06008PR_012MA",
+			"B06008PR_016MA",
+			"B06008PR_016E",
+			"B06008PR_028E",
+			"B06008PR_004E",
+			"B06008PR_002E",
+			"B06008PR_030E",
+			"B06008PR_014M",
+			"B06008PR_026M",
+			"B06008PR_002M",
+			"B06008PR_012EA",
+			"B06008PR_030M",
+			"B06008PR_016EA",
+			"B06008PR_004MA",
+			"B06008PR_027MA",
+			"B06008PR_008MA",
+			"B06008PR_023MA",
+			"B06008PR_027E",
+			"B06008PR_003E",
+			"B06008PR_015E",
+			"B06008PR_001E",
+			"B06008PR_009M",
+			"B06008PR_013E",
+			"B06008PR_025M",
+			"B06008PR_001M",
+			"B06008PR_013M",
+			"B06008PR_002EA",
+			"B06008PR_029EA",
+			"B06008PR_006EA",
+			"B06008PR_025EA",
+			"B06008PR_017MA",
+			"B06008PR_013MA",
+			"B06008PR_014E",
+			"B06008PR_026E",
+			"B06008PR_012E",
+			"B06008PR_024E",
+			"B06008PR_008M",
+			"B06008PR_012M",
+			"B06008PR_017EA",
+			"B06008PR_024M",
+			"B06008PR_013EA",
+			"NAME",
+			"B06008PR_020EA",
+			"B06008PR_028MA",
+			"B06008PR_001MA",
+			"B06008PR_024MA",
+			"B06008PR_005MA",
+			"B06008PR_009E",
+			"B06008PR_020MA",
+			"B06008PR_025E",
+			"B06008PR_023E",
+			"B06008PR_007M",
+			"B06008PR_011E",
+			"B06008PR_019M",
+			"B06008PR_023M",
+			"B06008PR_003EA",
+			"B06008PR_011M",
+			"B06008PR_007EA",
+			"B06008PR_026EA",
+			"B06008PR_014MA",
+			"B06008PR_018MA",
+			"B06008PR_010EA",
+			"B06008PR_008E",
+			"B06008PR_010MA",
+			"B06008PR_010E",
+			"B06008PR_018M",
+			"B06008PR_022E",
+			"B06008PR_006M",
+			"B06008PR_014EA",
+			"B06008PR_010M",
+			"B06008PR_018EA",
+			"B06008PR_022M",
+			"GEO_ID",
+			"B06008PR_002MA",
+			"B06008PR_021EA",
+			"B06008PR_029MA",
+			"B06008PR_006MA",
+			"B06008PR_025MA",
+			"B06008PR_007E",
+			"B06008PR_021MA",
+			"B06008PR_019E"
+		],
+		[
+			"3515",
+			"1188",
+			"4835",
+			"1003",
+			null,
+			null,
+			"1153",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"5287",
+			null,
+			"236011",
+			"3582",
+			"2758",
+			"2493",
+			"11595",
+			null,
+			null,
+			"1032",
+			null,
+			null,
+			null,
+			null,
+			"3188",
+			null,
+			"59395",
+			"2440",
+			null,
+			"4248",
+			"17919",
+			"4620",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"31403",
+			"14321",
+			"393463",
+			"1219389",
+			"8339",
+			"5583",
+			"3088",
+			"16417",
+			null,
+			"1467",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"39781",
+			"921309",
+			"57145",
+			"2829567",
+			"17465",
+			"149386",
+			"7773",
+			"2886",
+			"8796",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"53111",
+			"18865",
+			"221226",
+			"1159",
+			"16907",
+			"7063",
+			null,
+			"760",
+			null,
+			"Puerto Rico",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"820868",
+			null,
+			"84494",
+			"146",
+			"12622",
+			"53621",
+			"2080",
+			"252",
+			null,
+			"4645",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1144655",
+			null,
+			"346464",
+			"1237",
+			"1275",
+			"7372",
+			null,
+			"11213",
+			null,
+			"775",
+			"0400000US72",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2586834",
+			null,
+			"8853"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.552Z"
+}

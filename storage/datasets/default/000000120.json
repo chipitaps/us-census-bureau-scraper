@@ -1,0 +1,584 @@
+{
+	"tableId": "ACSDT1Y2024.B02018",
+	"title": "Asian Alone or in Any Combination by Selected Groups",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total Asian alone or in any combination who reported one or more responses",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B02018",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B02018_001E",
+				"label": "Estimate!!Total Groups Tallied:"
+			},
+			{
+				"id": "B02018_001M",
+				"label": "Margin of Error!!Total Groups Tallied:"
+			},
+			{
+				"id": "B02018_002E",
+				"label": "Estimate!!Total Groups Tallied:!!East Asian:!!Chinese, except Taiwanese"
+			},
+			{
+				"id": "B02018_002M",
+				"label": "Margin of Error!!Total Groups Tallied:!!East Asian:!!Chinese, except Taiwanese"
+			},
+			{
+				"id": "B02018_003E",
+				"label": "Estimate!!Total Groups Tallied:!!East Asian:!!Hmong"
+			},
+			{
+				"id": "B02018_003M",
+				"label": "Margin of Error!!Total Groups Tallied:!!East Asian:!!Hmong"
+			},
+			{
+				"id": "B02018_004E",
+				"label": "Estimate!!Total Groups Tallied:!!East Asian:!!Japanese"
+			},
+			{
+				"id": "B02018_004M",
+				"label": "Margin of Error!!Total Groups Tallied:!!East Asian:!!Japanese"
+			},
+			{
+				"id": "B02018_005E",
+				"label": "Estimate!!Total Groups Tallied:!!East Asian:!!Korean"
+			},
+			{
+				"id": "B02018_005M",
+				"label": "Margin of Error!!Total Groups Tallied:!!East Asian:!!Korean"
+			},
+			{
+				"id": "B02018_006E",
+				"label": "Estimate!!Total Groups Tallied:!!East Asian:!!Mongolian"
+			},
+			{
+				"id": "B02018_006M",
+				"label": "Margin of Error!!Total Groups Tallied:!!East Asian:!!Mongolian"
+			},
+			{
+				"id": "B02018_007E",
+				"label": "Estimate!!Total Groups Tallied:!!East Asian:!!Okinawan"
+			},
+			{
+				"id": "B02018_007M",
+				"label": "Margin of Error!!Total Groups Tallied:!!East Asian:!!Okinawan"
+			},
+			{
+				"id": "B02018_008E",
+				"label": "Estimate!!Total Groups Tallied:!!East Asian:!!Taiwanese"
+			},
+			{
+				"id": "B02018_008M",
+				"label": "Margin of Error!!Total Groups Tallied:!!East Asian:!!Taiwanese"
+			},
+			{
+				"id": "B02018_009E",
+				"label": "Estimate!!Total Groups Tallied:!!East Asian:!!Other East Asian"
+			},
+			{
+				"id": "B02018_009M",
+				"label": "Margin of Error!!Total Groups Tallied:!!East Asian:!!Other East Asian"
+			},
+			{
+				"id": "B02018_010E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Burmese"
+			},
+			{
+				"id": "B02018_010M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Burmese"
+			},
+			{
+				"id": "B02018_011E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Cambodian"
+			},
+			{
+				"id": "B02018_011M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Cambodian"
+			},
+			{
+				"id": "B02018_012E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Filipino"
+			},
+			{
+				"id": "B02018_012M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Filipino"
+			},
+			{
+				"id": "B02018_013E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Indonesian"
+			},
+			{
+				"id": "B02018_013M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Indonesian"
+			},
+			{
+				"id": "B02018_014E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Laotian"
+			},
+			{
+				"id": "B02018_014M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Laotian"
+			},
+			{
+				"id": "B02018_015E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Malaysian"
+			},
+			{
+				"id": "B02018_015M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Malaysian"
+			},
+			{
+				"id": "B02018_016E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Mien"
+			},
+			{
+				"id": "B02018_016M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Mien"
+			},
+			{
+				"id": "B02018_017E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Singaporean"
+			},
+			{
+				"id": "B02018_017M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Singaporean"
+			},
+			{
+				"id": "B02018_018E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Thai"
+			},
+			{
+				"id": "B02018_018M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Thai"
+			},
+			{
+				"id": "B02018_019E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Vietnamese"
+			},
+			{
+				"id": "B02018_019M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Vietnamese"
+			},
+			{
+				"id": "B02018_020E",
+				"label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Other Southeast Asian"
+			},
+			{
+				"id": "B02018_020M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Southeast Asian:!!Other Southeast Asian"
+			},
+			{
+				"id": "B02018_021E",
+				"label": "Estimate!!Total Groups Tallied:!!South Asian:!!Asian Indian"
+			},
+			{
+				"id": "B02018_021M",
+				"label": "Margin of Error!!Total Groups Tallied:!!South Asian:!!Asian Indian"
+			},
+			{
+				"id": "B02018_022E",
+				"label": "Estimate!!Total Groups Tallied:!!South Asian:!!Bangladeshi"
+			},
+			{
+				"id": "B02018_022M",
+				"label": "Margin of Error!!Total Groups Tallied:!!South Asian:!!Bangladeshi"
+			},
+			{
+				"id": "B02018_023E",
+				"label": "Estimate!!Total Groups Tallied:!!South Asian:!!Bhutanese"
+			},
+			{
+				"id": "B02018_023M",
+				"label": "Margin of Error!!Total Groups Tallied:!!South Asian:!!Bhutanese"
+			},
+			{
+				"id": "B02018_024E",
+				"label": "Estimate!!Total Groups Tallied:!!South Asian:!!Nepalese"
+			},
+			{
+				"id": "B02018_024M",
+				"label": "Margin of Error!!Total Groups Tallied:!!South Asian:!!Nepalese"
+			},
+			{
+				"id": "B02018_025E",
+				"label": "Estimate!!Total Groups Tallied:!!South Asian:!!Pakistani"
+			},
+			{
+				"id": "B02018_025M",
+				"label": "Margin of Error!!Total Groups Tallied:!!South Asian:!!Pakistani"
+			},
+			{
+				"id": "B02018_026E",
+				"label": "Estimate!!Total Groups Tallied:!!South Asian:!!Sikh"
+			},
+			{
+				"id": "B02018_026M",
+				"label": "Margin of Error!!Total Groups Tallied:!!South Asian:!!Sikh"
+			},
+			{
+				"id": "B02018_027E",
+				"label": "Estimate!!Total Groups Tallied:!!South Asian:!!Sri Lankan"
+			},
+			{
+				"id": "B02018_027M",
+				"label": "Margin of Error!!Total Groups Tallied:!!South Asian:!!Sri Lankan"
+			},
+			{
+				"id": "B02018_028E",
+				"label": "Estimate!!Total Groups Tallied:!!South Asian:!!Other South Asian"
+			},
+			{
+				"id": "B02018_028M",
+				"label": "Margin of Error!!Total Groups Tallied:!!South Asian:!!Other South Asian"
+			},
+			{
+				"id": "B02018_029E",
+				"label": "Estimate!!Total Groups Tallied:!!Central Asian:!!Afghan"
+			},
+			{
+				"id": "B02018_029M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Central Asian:!!Afghan"
+			},
+			{
+				"id": "B02018_030E",
+				"label": "Estimate!!Total Groups Tallied:!!Central Asian:!!Kazakh"
+			},
+			{
+				"id": "B02018_030M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Central Asian:!!Kazakh"
+			},
+			{
+				"id": "B02018_031E",
+				"label": "Estimate!!Total Groups Tallied:!!Central Asian:!!Uzbek"
+			},
+			{
+				"id": "B02018_031M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Central Asian:!!Uzbek"
+			},
+			{
+				"id": "B02018_032E",
+				"label": "Estimate!!Total Groups Tallied:!!Central Asian:!!Other Central Asian"
+			},
+			{
+				"id": "B02018_032M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Central Asian:!!Other Central Asian"
+			},
+			{
+				"id": "B02018_033E",
+				"label": "Estimate!!Total Groups Tallied:!!Other Asian, specified"
+			},
+			{
+				"id": "B02018_033M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other Asian, specified"
+			},
+			{
+				"id": "B02018_034E",
+				"label": "Estimate!!Total Groups Tallied:!!Other Asian, not specified"
+			},
+			{
+				"id": "B02018_034M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other Asian, not specified"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B02018_020E",
+			"B02018_028M",
+			"B02018_032E",
+			"B02018_004M",
+			"B02018_016M",
+			"B02018_020M",
+			"B02018_032M",
+			"B02018_002EA",
+			"B02018_025EA",
+			"B02018_029EA",
+			"B02018_006EA",
+			"B02018_013MA",
+			"B02018_032EA",
+			"B02018_017MA",
+			"B02018_017E",
+			"B02018_029E",
+			"B02018_032MA",
+			"B02018_005E",
+			"B02018_017M",
+			"B02018_021E",
+			"B02018_029M",
+			"B02018_033E",
+			"B02018_005M",
+			"B02018_021M",
+			"B02018_014EA",
+			"B02018_033EA",
+			"B02018_033M",
+			"B02018_018EA",
+			"B02018_002MA",
+			"B02018_025MA",
+			"B02018_029MA",
+			"B02018_021EA",
+			"B02018_006MA",
+			"B02018_006E",
+			"B02018_018E",
+			"B02018_021MA",
+			"B02018_009EA",
+			"B02018_002M",
+			"B02018_014M",
+			"B02018_026M",
+			"B02018_030E",
+			"B02018_009MA",
+			"B02018_001EA",
+			"B02018_024EA",
+			"B02018_005EA",
+			"B02018_028EA",
+			"B02018_030M",
+			"B02018_012MA",
+			"B02018_016MA",
+			"B02018_031EA",
+			"B02018_031MA",
+			"B02018_003E",
+			"B02018_015E",
+			"B02018_027E",
+			"B02018_031E",
+			"B02018_003M",
+			"B02018_015M",
+			"B02018_027M",
+			"B02018_031M",
+			"B02018_013EA",
+			"B02018_017EA",
+			"B02018_001MA",
+			"B02018_024MA",
+			"B02018_005MA",
+			"B02018_020EA",
+			"B02018_028MA",
+			"B02018_028E",
+			"B02018_004E",
+			"B02018_016E",
+			"B02018_020MA",
+			"B02018_008EA",
+			"B02018_008M",
+			"B02018_012E",
+			"B02018_024M",
+			"B02018_023EA",
+			"B02018_008MA",
+			"B02018_012M",
+			"B02018_027EA",
+			"B02018_004EA",
+			"B02018_011MA",
+			"B02018_034MA",
+			"B02018_015MA",
+			"B02018_030EA",
+			"B02018_009E",
+			"B02018_013E",
+			"B02018_025E",
+			"B02018_030MA",
+			"B02018_001E",
+			"B02018_009M",
+			"B02018_013M",
+			"B02018_025M",
+			"B02018_012EA",
+			"B02018_001M",
+			"B02018_016EA",
+			"NAME",
+			"B02018_023MA",
+			"B02018_027MA",
+			"B02018_004MA",
+			"B02018_002E",
+			"B02018_014E",
+			"B02018_026E",
+			"B02018_006M",
+			"B02018_010E",
+			"B02018_018M",
+			"B02018_022E",
+			"B02018_034E",
+			"B02018_010M",
+			"B02018_022EA",
+			"B02018_003EA",
+			"B02018_022M",
+			"B02018_034M",
+			"B02018_026EA",
+			"B02018_007EA",
+			"B02018_014MA",
+			"B02018_033MA",
+			"B02018_010EA",
+			"B02018_018MA",
+			"B02018_007E",
+			"B02018_019E",
+			"B02018_010MA",
+			"B02018_007M",
+			"B02018_019EA",
+			"B02018_011E",
+			"B02018_019M",
+			"B02018_023E",
+			"B02018_011EA",
+			"B02018_019MA",
+			"B02018_011M",
+			"B02018_023M",
+			"B02018_034EA",
+			"B02018_015EA",
+			"GEO_ID",
+			"B02018_022MA",
+			"B02018_003MA",
+			"B02018_026MA",
+			"B02018_007MA",
+			"B02018_008E",
+			"B02018_024E"
+		],
+		[
+			"9746",
+			"3862",
+			"43969",
+			"32375",
+			"6472",
+			"3118",
+			"7735",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"14124",
+			"298601",
+			null,
+			"2211632",
+			"3190",
+			"5559778",
+			"18581",
+			"16129",
+			"42866",
+			"64990",
+			null,
+			null,
+			"3125",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"38552",
+			"361318",
+			null,
+			null,
+			"61371",
+			"15420",
+			"5427",
+			"26896",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"6569",
+			null,
+			null,
+			null,
+			null,
+			"379699",
+			"50560",
+			"76678",
+			"55356",
+			"17567",
+			"5562",
+			"7818",
+			"8514",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"16623",
+			"1715404",
+			"21314",
+			null,
+			null,
+			"14540",
+			"4974949",
+			"19319",
+			null,
+			null,
+			"61676",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2849",
+			"178355",
+			"706253",
+			null,
+			"27607995",
+			"1314",
+			"12466",
+			"29406",
+			null,
+			"61280",
+			null,
+			"United States",
+			null,
+			null,
+			null,
+			"5828538",
+			"250200",
+			"18859",
+			"5131",
+			"249950",
+			"16269",
+			"324554",
+			"632004",
+			"16514",
+			null,
+			null,
+			"17451",
+			"23809",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"22324",
+			"2445295",
+			null,
+			"3857",
+			null,
+			"392092",
+			"45049",
+			"27564",
+			null,
+			null,
+			"20432",
+			"7311",
+			null,
+			null,
+			"0100000US",
+			null,
+			null,
+			null,
+			null,
+			"380382",
+			"277448"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:29.996Z"
+}

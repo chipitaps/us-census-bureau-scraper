@@ -1,0 +1,1195 @@
+{
+	"tableId": "ACSST1Y2024.S0902",
+	"title": "Characteristics of Teenagers 15 to 19 Years Old",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S0902",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S0902_C01_001E",
+				"label": "Estimate!!Total!!Population 15 to 19 years"
+			},
+			{
+				"id": "S0902_C01_001M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years"
+			},
+			{
+				"id": "S0902_C02_001E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years"
+			},
+			{
+				"id": "S0902_C02_001M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years"
+			},
+			{
+				"id": "S0902_C03_001E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years"
+			},
+			{
+				"id": "S0902_C03_001M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years"
+			},
+			{
+				"id": "S0902_C04_001E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years"
+			},
+			{
+				"id": "S0902_C04_001M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years"
+			},
+			{
+				"id": "S0902_C01_002E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school"
+			},
+			{
+				"id": "S0902_C01_002M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school"
+			},
+			{
+				"id": "S0902_C02_002E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school"
+			},
+			{
+				"id": "S0902_C02_002M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school"
+			},
+			{
+				"id": "S0902_C03_002E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school"
+			},
+			{
+				"id": "S0902_C03_002M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school"
+			},
+			{
+				"id": "S0902_C04_002E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school"
+			},
+			{
+				"id": "S0902_C04_002M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school"
+			},
+			{
+				"id": "S0902_C01_003E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0902_C01_003M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0902_C02_003E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0902_C02_003M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0902_C03_003E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0902_C03_003M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0902_C04_003E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0902_C04_003M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0902_C01_004E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0902_C01_004M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0902_C02_004E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0902_C02_004M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0902_C03_004E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0902_C03_004M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0902_C04_004E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0902_C04_004M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0902_C01_005E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school"
+			},
+			{
+				"id": "S0902_C01_005M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school"
+			},
+			{
+				"id": "S0902_C02_005E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school"
+			},
+			{
+				"id": "S0902_C02_005M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school"
+			},
+			{
+				"id": "S0902_C03_005E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school"
+			},
+			{
+				"id": "S0902_C03_005M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school"
+			},
+			{
+				"id": "S0902_C04_005E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school"
+			},
+			{
+				"id": "S0902_C04_005M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school"
+			},
+			{
+				"id": "S0902_C01_006E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male"
+			},
+			{
+				"id": "S0902_C01_006M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male"
+			},
+			{
+				"id": "S0902_C02_006E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male"
+			},
+			{
+				"id": "S0902_C02_006M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male"
+			},
+			{
+				"id": "S0902_C03_006E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male"
+			},
+			{
+				"id": "S0902_C03_006M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male"
+			},
+			{
+				"id": "S0902_C04_006E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male"
+			},
+			{
+				"id": "S0902_C04_006M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male"
+			},
+			{
+				"id": "S0902_C01_007E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married"
+			},
+			{
+				"id": "S0902_C01_007M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married"
+			},
+			{
+				"id": "S0902_C02_007E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married"
+			},
+			{
+				"id": "S0902_C02_007M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married"
+			},
+			{
+				"id": "S0902_C03_007E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married"
+			},
+			{
+				"id": "S0902_C03_007M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married"
+			},
+			{
+				"id": "S0902_C04_007E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married"
+			},
+			{
+				"id": "S0902_C04_007M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married"
+			},
+			{
+				"id": "S0902_C01_008E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female"
+			},
+			{
+				"id": "S0902_C01_008M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female"
+			},
+			{
+				"id": "S0902_C02_008E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female"
+			},
+			{
+				"id": "S0902_C02_008M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female"
+			},
+			{
+				"id": "S0902_C03_008E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female"
+			},
+			{
+				"id": "S0902_C03_008M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female"
+			},
+			{
+				"id": "S0902_C04_008E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female"
+			},
+			{
+				"id": "S0902_C04_008M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female"
+			},
+			{
+				"id": "S0902_C01_009E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married"
+			},
+			{
+				"id": "S0902_C01_009M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married"
+			},
+			{
+				"id": "S0902_C02_009E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married"
+			},
+			{
+				"id": "S0902_C02_009M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married"
+			},
+			{
+				"id": "S0902_C03_009E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married"
+			},
+			{
+				"id": "S0902_C03_009M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married"
+			},
+			{
+				"id": "S0902_C04_009E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married"
+			},
+			{
+				"id": "S0902_C04_009M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married"
+			},
+			{
+				"id": "S0902_C01_010E",
+				"label": "Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months"
+			},
+			{
+				"id": "S0902_C01_010M",
+				"label": "Margin of Error!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months"
+			},
+			{
+				"id": "S0902_C02_010E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months"
+			},
+			{
+				"id": "S0902_C02_010M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months"
+			},
+			{
+				"id": "S0902_C03_010E",
+				"label": "Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months"
+			},
+			{
+				"id": "S0902_C03_010M",
+				"label": "Margin of Error!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months"
+			},
+			{
+				"id": "S0902_C04_010E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months"
+			},
+			{
+				"id": "S0902_C04_010M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months"
+			},
+			{
+				"id": "S0902_C01_011E",
+				"label": "Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households"
+			},
+			{
+				"id": "S0902_C01_011M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households"
+			},
+			{
+				"id": "S0902_C02_011E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households"
+			},
+			{
+				"id": "S0902_C02_011M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households"
+			},
+			{
+				"id": "S0902_C03_011E",
+				"label": "Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households"
+			},
+			{
+				"id": "S0902_C03_011M",
+				"label": "Margin of Error!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households"
+			},
+			{
+				"id": "S0902_C04_011E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households"
+			},
+			{
+				"id": "S0902_C04_011M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households"
+			},
+			{
+				"id": "S0902_C01_012E",
+				"label": "Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households"
+			},
+			{
+				"id": "S0902_C01_012M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households"
+			},
+			{
+				"id": "S0902_C02_012E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households"
+			},
+			{
+				"id": "S0902_C02_012M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households"
+			},
+			{
+				"id": "S0902_C03_012E",
+				"label": "Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households"
+			},
+			{
+				"id": "S0902_C03_012M",
+				"label": "Margin of Error!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households"
+			},
+			{
+				"id": "S0902_C04_012E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households"
+			},
+			{
+				"id": "S0902_C04_012M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households"
+			},
+			{
+				"id": "S0902_C01_013E",
+				"label": "Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C01_013M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C02_013E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C02_013M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C03_013E",
+				"label": "Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C03_013M",
+				"label": "Margin of Error!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C04_013E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C04_013M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C01_014E",
+				"label": "Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C01_014M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C02_014E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C02_014M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C03_014E",
+				"label": "Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C03_014M",
+				"label": "Margin of Error!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C04_014E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C04_014M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no spouse present, family households"
+			},
+			{
+				"id": "S0902_C01_015E",
+				"label": "Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households"
+			},
+			{
+				"id": "S0902_C01_015M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households"
+			},
+			{
+				"id": "S0902_C02_015E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households"
+			},
+			{
+				"id": "S0902_C02_015M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households"
+			},
+			{
+				"id": "S0902_C03_015E",
+				"label": "Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households"
+			},
+			{
+				"id": "S0902_C03_015M",
+				"label": "Margin of Error!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households"
+			},
+			{
+				"id": "S0902_C04_015E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households"
+			},
+			{
+				"id": "S0902_C04_015M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households"
+			},
+			{
+				"id": "S0902_C01_016E",
+				"label": "Estimate!!Total!!Population 16 to 19 years"
+			},
+			{
+				"id": "S0902_C01_016M",
+				"label": "Margin of Error!!Total!!Population 16 to 19 years"
+			},
+			{
+				"id": "S0902_C02_016E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years"
+			},
+			{
+				"id": "S0902_C02_016M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 16 to 19 years"
+			},
+			{
+				"id": "S0902_C03_016E",
+				"label": "Estimate!!Black or African American!!Population 16 to 19 years"
+			},
+			{
+				"id": "S0902_C03_016M",
+				"label": "Margin of Error!!Black or African American!!Population 16 to 19 years"
+			},
+			{
+				"id": "S0902_C04_016E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years"
+			},
+			{
+				"id": "S0902_C04_016M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years"
+			},
+			{
+				"id": "S0902_C01_017E",
+				"label": "Estimate!!Total!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force"
+			},
+			{
+				"id": "S0902_C01_017M",
+				"label": "Margin of Error!!Total!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force"
+			},
+			{
+				"id": "S0902_C02_017E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force"
+			},
+			{
+				"id": "S0902_C02_017M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force"
+			},
+			{
+				"id": "S0902_C03_017E",
+				"label": "Estimate!!Black or African American!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force"
+			},
+			{
+				"id": "S0902_C03_017M",
+				"label": "Margin of Error!!Black or African American!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force"
+			},
+			{
+				"id": "S0902_C04_017E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force"
+			},
+			{
+				"id": "S0902_C04_017M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force"
+			},
+			{
+				"id": "S0902_C01_018E",
+				"label": "Estimate!!Total!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force"
+			},
+			{
+				"id": "S0902_C01_018M",
+				"label": "Margin of Error!!Total!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force"
+			},
+			{
+				"id": "S0902_C02_018E",
+				"label": "Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force"
+			},
+			{
+				"id": "S0902_C02_018M",
+				"label": "Margin of Error!!White alone, not Hispanic or Latino!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force"
+			},
+			{
+				"id": "S0902_C03_018E",
+				"label": "Estimate!!Black or African American!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force"
+			},
+			{
+				"id": "S0902_C03_018M",
+				"label": "Margin of Error!!Black or African American!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force"
+			},
+			{
+				"id": "S0902_C04_018E",
+				"label": "Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force"
+			},
+			{
+				"id": "S0902_C04_018M",
+				"label": "Margin of Error!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S0902_C01_014E",
+			"S0902_C01_002E",
+			"S0902_C01_007MA",
+			"S0902_C02_016EA",
+			"S0902_C03_015M",
+			"S0902_C03_003M",
+			"S0902_C04_011EA",
+			"S0902_C03_006EA",
+			"S0902_C04_015MA",
+			"S0902_C03_015E",
+			"S0902_C03_003E",
+			"S0902_C01_014M",
+			"S0902_C01_002M",
+			"S0902_C01_003EA",
+			"S0902_C02_012MA",
+			"S0902_C03_002MA",
+			"S0902_C02_008MA",
+			"S0902_C01_013E",
+			"S0902_C01_011MA",
+			"S0902_C02_004EA",
+			"S0902_C03_010EA",
+			"S0902_C04_007EA",
+			"S0902_C03_016M",
+			"S0902_C03_004M",
+			"S0902_C03_018EA",
+			"S0902_C03_016E",
+			"S0902_C03_004E",
+			"S0902_C04_003MA",
+			"S0902_C01_001M",
+			"S0902_C01_013M",
+			"S0902_C03_014MA",
+			"S0902_C01_001E",
+			"S0902_C01_015EA",
+			"S0902_C01_016E",
+			"S0902_C01_004E",
+			"S0902_C01_006MA",
+			"S0902_C02_009E",
+			"S0902_C02_015EA",
+			"S0902_C03_017M",
+			"S0902_C04_012EA",
+			"S0902_C03_005M",
+			"S0902_C02_009M",
+			"S0902_C04_016MA",
+			"S0902_C03_007EA",
+			"S0902_C03_017E",
+			"S0902_C03_005E",
+			"S0902_C01_002EA",
+			"S0902_C02_011MA",
+			"S0902_C01_016M",
+			"S0902_C03_003MA",
+			"S0902_C01_004M",
+			"S0902_C01_003E",
+			"S0902_C02_007MA",
+			"S0902_C01_015E",
+			"S0902_C01_018MA",
+			"S0902_C02_003EA",
+			"S0902_C03_011EA",
+			"S0902_C04_008EA",
+			"S0902_C03_018M",
+			"S0902_C03_006M",
+			"S0902_C02_008E",
+			"S0902_C01_010MA",
+			"S0902_C03_018E",
+			"S0902_C03_006E",
+			"S0902_C04_004MA",
+			"S0902_C02_008M",
+			"S0902_C01_003M",
+			"S0902_C01_014EA",
+			"S0902_C03_015MA",
+			"S0902_C01_015M",
+			"S0902_C02_018MA",
+			"S0902_C04_008M",
+			"S0902_C02_014EA",
+			"S0902_C01_005MA",
+			"S0902_C03_007M",
+			"S0902_C04_013EA",
+			"S0902_C04_008E",
+			"S0902_C03_008EA",
+			"S0902_C04_017MA",
+			"S0902_C03_007E",
+			"S0902_C01_009EA",
+			"S0902_C02_011E",
+			"S0902_C01_010M",
+			"S0902_C02_010MA",
+			"S0902_C03_004MA",
+			"S0902_C01_001EA",
+			"S0902_C02_011M",
+			"S0902_C01_010E",
+			"S0902_C04_009M",
+			"S0902_C04_009EA",
+			"S0902_C02_002EA",
+			"S0902_C03_012EA",
+			"S0902_C01_017MA",
+			"S0902_C04_009E",
+			"S0902_C04_001EA",
+			"S0902_C04_005MA",
+			"NAME",
+			"S0902_C02_010E",
+			"S0902_C03_008M",
+			"S0902_C03_016MA",
+			"S0902_C01_013EA",
+			"S0902_C02_010M",
+			"S0902_C02_006MA",
+			"S0902_C03_008E",
+			"S0902_C02_013EA",
+			"S0902_C04_018M",
+			"S0902_C03_001EA",
+			"S0902_C04_006E",
+			"S0902_C01_004MA",
+			"S0902_C04_018E",
+			"S0902_C04_014EA",
+			"S0902_C03_009EA",
+			"S0902_C04_018MA",
+			"S0902_C01_008EA",
+			"S0902_C01_012M",
+			"S0902_C03_009M",
+			"S0902_C04_010MA",
+			"S0902_C03_005MA",
+			"S0902_C04_006M",
+			"S0902_C01_012E",
+			"S0902_C02_017MA",
+			"S0902_C03_009E",
+			"S0902_C04_007M",
+			"S0902_C02_001EA",
+			"S0902_C03_013EA",
+			"S0902_C01_016MA",
+			"S0902_C03_017MA",
+			"S0902_C04_002EA",
+			"S0902_C04_007E",
+			"S0902_C02_009EA",
+			"S0902_C04_006MA",
+			"S0902_C01_011M",
+			"S0902_C01_012EA",
+			"S0902_C01_011E",
+			"S0902_C02_005MA",
+			"S0902_C01_003MA",
+			"S0902_C02_012EA",
+			"S0902_C03_002EA",
+			"S0902_C04_016E",
+			"S0902_C03_006MA",
+			"S0902_C04_004E",
+			"S0902_C04_015EA",
+			"S0902_C02_003E",
+			"S0902_C02_015E",
+			"S0902_C02_003M",
+			"S0902_C04_011MA",
+			"S0902_C02_015M",
+			"S0902_C04_016M",
+			"S0902_C01_007EA",
+			"S0902_C02_016MA",
+			"S0902_C04_004M",
+			"S0902_C03_014EA",
+			"S0902_C04_005E",
+			"S0902_C04_017E",
+			"S0902_C01_009E",
+			"S0902_C03_018MA",
+			"S0902_C01_015MA",
+			"S0902_C02_008EA",
+			"S0902_C04_003EA",
+			"S0902_C02_002E",
+			"S0902_C02_014E",
+			"S0902_C04_007MA",
+			"S0902_C02_002M",
+			"S0902_C02_014M",
+			"S0902_C01_011EA",
+			"S0902_C02_004MA",
+			"S0902_C04_005M",
+			"S0902_C04_017M",
+			"S0902_C01_009M",
+			"S0902_C03_010MA",
+			"S0902_C01_002MA",
+			"S0902_C02_011EA",
+			"S0902_C04_002E",
+			"S0902_C03_003EA",
+			"S0902_C04_016EA",
+			"S0902_C03_007MA",
+			"S0902_C04_014E",
+			"S0902_C02_001E",
+			"S0902_C02_013E",
+			"S0902_C04_012MA",
+			"S0902_C02_001M",
+			"S0902_C02_013M",
+			"S0902_C04_002M",
+			"S0902_C01_006EA",
+			"S0902_C02_015MA",
+			"S0902_C04_014M",
+			"S0902_C01_014MA",
+			"S0902_C03_010M",
+			"S0902_C03_015EA",
+			"S0902_C01_010EA",
+			"S0902_C04_003E",
+			"S0902_C04_015E",
+			"S0902_C03_010E",
+			"S0902_C02_007EA",
+			"S0902_C04_004EA",
+			"S0902_C02_012E",
+			"S0902_C04_008MA",
+			"S0902_C02_012M",
+			"S0902_C01_018EA",
+			"S0902_C02_003MA",
+			"S0902_C03_011MA",
+			"S0902_C04_003M",
+			"S0902_C04_015M",
+			"S0902_C04_012E",
+			"S0902_C02_010EA",
+			"S0902_C03_004EA",
+			"S0902_C01_001MA",
+			"S0902_C01_018E",
+			"S0902_C01_006E",
+			"S0902_C03_008MA",
+			"S0902_C04_017EA",
+			"S0902_C02_018EA",
+			"S0902_C02_007E",
+			"S0902_C03_011M",
+			"S0902_C04_013MA",
+			"S0902_C02_007M",
+			"S0902_C03_011E",
+			"S0902_C04_012M",
+			"S0902_C01_009MA",
+			"S0902_C01_018M",
+			"S0902_C01_006M",
+			"S0902_C02_014MA",
+			"S0902_C01_005EA",
+			"S0902_C03_016EA",
+			"S0902_C04_001E",
+			"S0902_C01_013MA",
+			"S0902_C04_013E",
+			"S0902_C01_005E",
+			"S0902_C01_017E",
+			"S0902_C04_005EA",
+			"S0902_C02_006EA",
+			"S0902_C02_006E",
+			"S0902_C04_009MA",
+			"S0902_C02_018E",
+			"S0902_C03_012M",
+			"S0902_C02_006M",
+			"S0902_C04_001MA",
+			"S0902_C02_018M",
+			"S0902_C03_012E",
+			"S0902_C04_001M",
+			"S0902_C04_013M",
+			"S0902_C01_005M",
+			"S0902_C02_002MA",
+			"S0902_C03_012MA",
+			"S0902_C01_017EA",
+			"S0902_C01_017M",
+			"S0902_C03_005EA",
+			"S0902_C04_010E",
+			"S0902_C03_009MA",
+			"S0902_C04_018EA",
+			"S0902_C02_017EA",
+			"S0902_C01_008E",
+			"S0902_C02_005E",
+			"S0902_C02_017E",
+			"S0902_C03_013M",
+			"S0902_C03_001M",
+			"S0902_C04_010EA",
+			"S0902_C02_005M",
+			"S0902_C02_017M",
+			"S0902_C04_014MA",
+			"S0902_C03_013E",
+			"S0902_C03_001E",
+			"S0902_C01_008MA",
+			"S0902_C02_013MA",
+			"S0902_C04_010M",
+			"S0902_C03_001MA",
+			"S0902_C01_004EA",
+			"S0902_C01_008M",
+			"S0902_C01_012MA",
+			"S0902_C02_009MA",
+			"S0902_C04_011E",
+			"S0902_C01_007E",
+			"S0902_C04_006EA",
+			"S0902_C02_005EA",
+			"S0902_C02_016E",
+			"S0902_C03_014M",
+			"S0902_C03_002M",
+			"S0902_C02_004E",
+			"S0902_C03_017EA",
+			"GEO_ID",
+			"S0902_C02_016M",
+			"S0902_C04_002MA",
+			"S0902_C03_014E",
+			"S0902_C03_002E",
+			"S0902_C02_004M",
+			"S0902_C02_001MA",
+			"S0902_C03_013MA",
+			"S0902_C04_011M",
+			"S0902_C01_007M",
+			"S0902_C01_016EA"
+		],
+		[
+			"26.4",
+			"19536026",
+			null,
+			null,
+			"0.2",
+			"0.4",
+			null,
+			null,
+			null,
+			"2.6",
+			"89.4",
+			"0.2",
+			"42786",
+			null,
+			null,
+			null,
+			null,
+			"9.0",
+			null,
+			null,
+			null,
+			null,
+			"26488",
+			"0.4",
+			null,
+			"2393578",
+			"10.6",
+			null,
+			"41128",
+			"0.1",
+			null,
+			"22449564",
+			null,
+			"18106204",
+			"14.5",
+			null,
+			"1.2",
+			null,
+			"0.4",
+			null,
+			"12011",
+			"0.1",
+			null,
+			null,
+			"6.3",
+			"419752",
+			null,
+			null,
+			"54035",
+			null,
+			"0.2",
+			"85.5",
+			null,
+			"3.2",
+			null,
+			null,
+			null,
+			null,
+			"0.6",
+			"20706",
+			"5218083",
+			null,
+			"36.4",
+			"1512853",
+			null,
+			"17463",
+			"0.2",
+			null,
+			null,
+			"0.1",
+			null,
+			"12243",
+			null,
+			null,
+			"0.2",
+			null,
+			"2870875",
+			null,
+			null,
+			"0.8",
+			null,
+			"9568606",
+			"0.1",
+			null,
+			null,
+			null,
+			"24604",
+			"0.7",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"1.6",
+			null,
+			null,
+			"United States",
+			"0.6",
+			"20183",
+			null,
+			null,
+			"0.1",
+			null,
+			"1450802",
+			null,
+			"0.4",
+			null,
+			"3045063",
+			null,
+			"37.5",
+			null,
+			null,
+			null,
+			null,
+			"0.3",
+			"0.3",
+			null,
+			null,
+			"16335",
+			"61.4",
+			null,
+			"1.3",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1.3",
+			null,
+			null,
+			"43321",
+			null,
+			"20468393",
+			null,
+			null,
+			null,
+			null,
+			"4766930",
+			null,
+			"9.0",
+			null,
+			"81.7",
+			"3.9",
+			"0.2",
+			null,
+			"0.1",
+			"26785",
+			null,
+			null,
+			"0.3",
+			null,
+			"915860",
+			"6.1",
+			"1.3",
+			null,
+			null,
+			null,
+			null,
+			"9416628",
+			"18.3",
+			null,
+			"25290",
+			"0.3",
+			null,
+			null,
+			"21707",
+			"0.2",
+			"0.1",
+			null,
+			null,
+			null,
+			"5000078",
+			null,
+			null,
+			null,
+			"29.5",
+			"10721321",
+			"8.2",
+			null,
+			"22239",
+			"0.2",
+			"25529",
+			null,
+			null,
+			"0.5",
+			null,
+			"0.2",
+			null,
+			null,
+			"91.0",
+			"2.3",
+			"1.1",
+			null,
+			null,
+			"69.6",
+			null,
+			"0.3",
+			null,
+			null,
+			null,
+			"0.3",
+			"0.1",
+			"56.8",
+			null,
+			null,
+			null,
+			"40.3",
+			"11503628",
+			null,
+			null,
+			null,
+			"1.0",
+			"27027",
+			null,
+			"0.1",
+			"2696151",
+			"0.5",
+			null,
+			"0.2",
+			"31118",
+			null,
+			null,
+			null,
+			"5915938",
+			null,
+			"11.4",
+			"2913538",
+			"4.9",
+			null,
+			null,
+			"5503238",
+			null,
+			"44.3",
+			"0.9",
+			"17367",
+			null,
+			"0.3",
+			"36.5",
+			"19061",
+			"0.3",
+			"35511",
+			null,
+			null,
+			null,
+			"0.1",
+			null,
+			"0.9",
+			null,
+			null,
+			null,
+			"10945936",
+			"1304693",
+			"4.0",
+			"0.5",
+			"27817",
+			null,
+			"21756",
+			"0.1",
+			null,
+			"8.5",
+			"2963655",
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			"30482",
+			null,
+			null,
+			"5649873",
+			"1.1",
+			null,
+			null,
+			"8655810",
+			"0.8",
+			"28511",
+			"18.3",
+			null,
+			"0100000US",
+			"29146",
+			null,
+			"52.4",
+			"2543903",
+			"0.2",
+			null,
+			null,
+			"18630",
+			"0.1",
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:02.251Z"
+}

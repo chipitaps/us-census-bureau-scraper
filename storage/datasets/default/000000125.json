@@ -1,0 +1,536 @@
+{
+	"tableId": "ACSDT1Y2024.B03001",
+	"title": "Hispanic or Latino Origin by Specific Origin",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total population",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B03001",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B03001_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B03001_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B03001_002E",
+				"label": "Estimate!!Total:!!Not Hispanic or Latino"
+			},
+			{
+				"id": "B03001_002M",
+				"label": "Margin of Error!!Total:!!Not Hispanic or Latino"
+			},
+			{
+				"id": "B03001_003E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:"
+			},
+			{
+				"id": "B03001_003M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:"
+			},
+			{
+				"id": "B03001_004E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Mexican"
+			},
+			{
+				"id": "B03001_004M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Mexican"
+			},
+			{
+				"id": "B03001_005E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Puerto Rican"
+			},
+			{
+				"id": "B03001_005M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Puerto Rican"
+			},
+			{
+				"id": "B03001_006E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Cuban"
+			},
+			{
+				"id": "B03001_006M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Cuban"
+			},
+			{
+				"id": "B03001_007E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Dominican (Dominican Republic)"
+			},
+			{
+				"id": "B03001_007M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Dominican (Dominican Republic)"
+			},
+			{
+				"id": "B03001_008E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:"
+			},
+			{
+				"id": "B03001_008M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Central American:"
+			},
+			{
+				"id": "B03001_009E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:!!Costa Rican"
+			},
+			{
+				"id": "B03001_009M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Central American:!!Costa Rican"
+			},
+			{
+				"id": "B03001_010E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:!!Guatemalan"
+			},
+			{
+				"id": "B03001_010M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Central American:!!Guatemalan"
+			},
+			{
+				"id": "B03001_011E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:!!Honduran"
+			},
+			{
+				"id": "B03001_011M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Central American:!!Honduran"
+			},
+			{
+				"id": "B03001_012E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:!!Nicaraguan"
+			},
+			{
+				"id": "B03001_012M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Central American:!!Nicaraguan"
+			},
+			{
+				"id": "B03001_013E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:!!Panamanian"
+			},
+			{
+				"id": "B03001_013M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Central American:!!Panamanian"
+			},
+			{
+				"id": "B03001_014E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:!!Salvadoran"
+			},
+			{
+				"id": "B03001_014M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Central American:!!Salvadoran"
+			},
+			{
+				"id": "B03001_015E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:!!Other Central American"
+			},
+			{
+				"id": "B03001_015M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Central American:!!Other Central American"
+			},
+			{
+				"id": "B03001_016E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:"
+			},
+			{
+				"id": "B03001_016M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:"
+			},
+			{
+				"id": "B03001_017E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Argentinean"
+			},
+			{
+				"id": "B03001_017M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Argentinean"
+			},
+			{
+				"id": "B03001_018E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Bolivian"
+			},
+			{
+				"id": "B03001_018M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Bolivian"
+			},
+			{
+				"id": "B03001_019E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Chilean"
+			},
+			{
+				"id": "B03001_019M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Chilean"
+			},
+			{
+				"id": "B03001_020E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Colombian"
+			},
+			{
+				"id": "B03001_020M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Colombian"
+			},
+			{
+				"id": "B03001_021E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Ecuadorian"
+			},
+			{
+				"id": "B03001_021M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Ecuadorian"
+			},
+			{
+				"id": "B03001_022E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Paraguayan"
+			},
+			{
+				"id": "B03001_022M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Paraguayan"
+			},
+			{
+				"id": "B03001_023E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Peruvian"
+			},
+			{
+				"id": "B03001_023M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Peruvian"
+			},
+			{
+				"id": "B03001_024E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Uruguayan"
+			},
+			{
+				"id": "B03001_024M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Uruguayan"
+			},
+			{
+				"id": "B03001_025E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Venezuelan"
+			},
+			{
+				"id": "B03001_025M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Venezuelan"
+			},
+			{
+				"id": "B03001_026E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Other South American"
+			},
+			{
+				"id": "B03001_026M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!South American:!!Other South American"
+			},
+			{
+				"id": "B03001_027E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:"
+			},
+			{
+				"id": "B03001_027M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:"
+			},
+			{
+				"id": "B03001_028E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:!!Spaniard"
+			},
+			{
+				"id": "B03001_028M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:!!Spaniard"
+			},
+			{
+				"id": "B03001_029E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:!!Spanish"
+			},
+			{
+				"id": "B03001_029M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:!!Spanish"
+			},
+			{
+				"id": "B03001_030E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:!!Spanish American"
+			},
+			{
+				"id": "B03001_030M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:!!Spanish American"
+			},
+			{
+				"id": "B03001_031E",
+				"label": "Estimate!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:!!All other Hispanic or Latino"
+			},
+			{
+				"id": "B03001_031M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino:!!Other Hispanic or Latino:!!All other Hispanic or Latino"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B03001_004M",
+			"B03001_016M",
+			"B03001_020E",
+			"B03001_028M",
+			"B03001_019EA",
+			"B03001_004E",
+			"B03001_016E",
+			"B03001_028E",
+			"B03001_003MA",
+			"B03001_026MA",
+			"B03001_022MA",
+			"B03001_003EA",
+			"B03001_026EA",
+			"B03001_007MA",
+			"B03001_020M",
+			"B03001_022EA",
+			"B03001_003M",
+			"B03001_015M",
+			"B03001_027M",
+			"B03001_007EA",
+			"B03001_031E",
+			"B03001_003E",
+			"B03001_015E",
+			"B03001_027E",
+			"B03001_014MA",
+			"B03001_010MA",
+			"B03001_014EA",
+			"B03001_031M",
+			"B03001_010EA",
+			"B03001_018MA",
+			"B03001_006M",
+			"B03001_010E",
+			"B03001_018M",
+			"B03001_022E",
+			"B03001_006E",
+			"B03001_018E",
+			"B03001_004MA",
+			"B03001_027MA",
+			"B03001_023MA",
+			"B03001_004EA",
+			"B03001_027EA",
+			"B03001_008MA",
+			"B03001_023EA",
+			"B03001_010M",
+			"B03001_022M",
+			"B03001_005M",
+			"B03001_008EA",
+			"B03001_017M",
+			"B03001_021E",
+			"B03001_029M",
+			"B03001_030MA",
+			"B03001_005E",
+			"B03001_017E",
+			"B03001_029E",
+			"B03001_030EA",
+			"B03001_015MA",
+			"B03001_011MA",
+			"B03001_015EA",
+			"B03001_021M",
+			"B03001_011EA",
+			"B03001_019MA",
+			"B03001_012M",
+			"B03001_024M",
+			"B03001_008M",
+			"B03001_012E",
+			"B03001_020MA",
+			"B03001_024E",
+			"B03001_008E",
+			"B03001_009E",
+			"B03001_020EA",
+			"B03001_028MA",
+			"B03001_005MA",
+			"B03001_024MA",
+			"B03001_001MA",
+			"B03001_028EA",
+			"B03001_005EA",
+			"B03001_024EA",
+			"B03001_001EA",
+			"B03001_009MA",
+			"B03001_023M",
+			"B03001_007M",
+			"B03001_009EA",
+			"B03001_011E",
+			"B03001_019M",
+			"B03001_023E",
+			"B03001_031MA",
+			"B03001_007E",
+			"B03001_019E",
+			"NAME",
+			"B03001_016MA",
+			"B03001_031EA",
+			"B03001_012MA",
+			"B03001_016EA",
+			"B03001_012EA",
+			"B03001_011M",
+			"B03001_002M",
+			"B03001_014M",
+			"B03001_026M",
+			"B03001_030E",
+			"B03001_018EA",
+			"B03001_002E",
+			"B03001_014E",
+			"B03001_026E",
+			"B03001_006MA",
+			"B03001_025MA",
+			"B03001_002MA",
+			"B03001_021MA",
+			"B03001_006EA",
+			"B03001_025EA",
+			"B03001_030M",
+			"B03001_002EA",
+			"B03001_021EA",
+			"B03001_029MA",
+			"B03001_001M",
+			"B03001_013M",
+			"B03001_025M",
+			"B03001_029EA",
+			"B03001_001E",
+			"B03001_009M",
+			"B03001_013E",
+			"B03001_025E",
+			"GEO_ID",
+			"B03001_017MA",
+			"B03001_013MA",
+			"B03001_017EA",
+			"B03001_013EA"
+		],
+		[
+			"119679",
+			"67862",
+			"1765862",
+			"25735",
+			null,
+			"38990058",
+			"5692419",
+			"998504",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"42856",
+			null,
+			"8596",
+			"6717",
+			"69267",
+			null,
+			"2205980",
+			"68013553",
+			"28849",
+			"4214262",
+			null,
+			null,
+			null,
+			"51809",
+			null,
+			null,
+			"46657",
+			"2174242",
+			"13496",
+			"37069",
+			"2948426",
+			"153117",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"62325",
+			"6028",
+			"75801",
+			null,
+			"16479",
+			"1044023",
+			"31921",
+			null,
+			"6110356",
+			"345919",
+			"993844",
+			null,
+			null,
+			null,
+			null,
+			"36540",
+			null,
+			null,
+			"25962",
+			"9436",
+			"95473",
+			"606767",
+			null,
+			"81864",
+			"7518139",
+			"219912",
+			null,
+			null,
+			null,
+			null,
+			"*****",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"29673",
+			"53383",
+			null,
+			"1459863",
+			"16558",
+			"833694",
+			null,
+			"2539893",
+			"226993",
+			"United States",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"48903",
+			"8597",
+			"56911",
+			"5654",
+			"15934",
+			null,
+			"272097437",
+			"2767861",
+			"35607",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3113",
+			null,
+			null,
+			null,
+			"-555555555",
+			"15531",
+			"41619",
+			null,
+			"340110990",
+			"14616",
+			"260645",
+			"1168271",
+			"0100000US",
+			null,
+			null,
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:30.941Z"
+}

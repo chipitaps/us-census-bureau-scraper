@@ -1,0 +1,952 @@
+{
+	"tableId": "ACSDT1Y2024.B02024",
+	"title": "White Alone or in Any Combination by Selected Groups",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total White alone or in any combination who reported one or more responses",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B02024",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B02024_001E",
+				"label": "Estimate!!Total Groups Tallied:"
+			},
+			{
+				"id": "B02024_001M",
+				"label": "Margin of Error!!Total Groups Tallied:"
+			},
+			{
+				"id": "B02024_002E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Albanian"
+			},
+			{
+				"id": "B02024_002M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Albanian"
+			},
+			{
+				"id": "B02024_003E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Armenian"
+			},
+			{
+				"id": "B02024_003M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Armenian"
+			},
+			{
+				"id": "B02024_004E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Austrian"
+			},
+			{
+				"id": "B02024_004M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Austrian"
+			},
+			{
+				"id": "B02024_005E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Belgian"
+			},
+			{
+				"id": "B02024_005M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Belgian"
+			},
+			{
+				"id": "B02024_006E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Bosnian and Herzegovinian"
+			},
+			{
+				"id": "B02024_006M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Bosnian and Herzegovinian"
+			},
+			{
+				"id": "B02024_007E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!British"
+			},
+			{
+				"id": "B02024_007M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!British"
+			},
+			{
+				"id": "B02024_008E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Croatian"
+			},
+			{
+				"id": "B02024_008M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Croatian"
+			},
+			{
+				"id": "B02024_009E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Czech"
+			},
+			{
+				"id": "B02024_009M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Czech"
+			},
+			{
+				"id": "B02024_010E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Danish"
+			},
+			{
+				"id": "B02024_010M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Danish"
+			},
+			{
+				"id": "B02024_011E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Dutch"
+			},
+			{
+				"id": "B02024_011M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Dutch"
+			},
+			{
+				"id": "B02024_012E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!English"
+			},
+			{
+				"id": "B02024_012M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!English"
+			},
+			{
+				"id": "B02024_013E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Finnish"
+			},
+			{
+				"id": "B02024_013M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Finnish"
+			},
+			{
+				"id": "B02024_014E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!French"
+			},
+			{
+				"id": "B02024_014M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!French"
+			},
+			{
+				"id": "B02024_015E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!German"
+			},
+			{
+				"id": "B02024_015M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!German"
+			},
+			{
+				"id": "B02024_016E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Greek"
+			},
+			{
+				"id": "B02024_016M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Greek"
+			},
+			{
+				"id": "B02024_017E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Hungarian"
+			},
+			{
+				"id": "B02024_017M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Hungarian"
+			},
+			{
+				"id": "B02024_018E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Irish"
+			},
+			{
+				"id": "B02024_018M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Irish"
+			},
+			{
+				"id": "B02024_019E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Italian"
+			},
+			{
+				"id": "B02024_019M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Italian"
+			},
+			{
+				"id": "B02024_020E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Lithuanian"
+			},
+			{
+				"id": "B02024_020M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Lithuanian"
+			},
+			{
+				"id": "B02024_021E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Norwegian"
+			},
+			{
+				"id": "B02024_021M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Norwegian"
+			},
+			{
+				"id": "B02024_022E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Polish"
+			},
+			{
+				"id": "B02024_022M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Polish"
+			},
+			{
+				"id": "B02024_023E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Portuguese"
+			},
+			{
+				"id": "B02024_023M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Portuguese"
+			},
+			{
+				"id": "B02024_024E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Romanian"
+			},
+			{
+				"id": "B02024_024M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Romanian"
+			},
+			{
+				"id": "B02024_025E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Russian"
+			},
+			{
+				"id": "B02024_025M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Russian"
+			},
+			{
+				"id": "B02024_026E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Scandinavian"
+			},
+			{
+				"id": "B02024_026M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Scandinavian"
+			},
+			{
+				"id": "B02024_027E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Scots-Irish"
+			},
+			{
+				"id": "B02024_027M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Scots-Irish"
+			},
+			{
+				"id": "B02024_028E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Scottish"
+			},
+			{
+				"id": "B02024_028M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Scottish"
+			},
+			{
+				"id": "B02024_029E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Serbian"
+			},
+			{
+				"id": "B02024_029M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Serbian"
+			},
+			{
+				"id": "B02024_030E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Slovak"
+			},
+			{
+				"id": "B02024_030M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Slovak"
+			},
+			{
+				"id": "B02024_031E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Swedish"
+			},
+			{
+				"id": "B02024_031M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Swedish"
+			},
+			{
+				"id": "B02024_032E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Swiss"
+			},
+			{
+				"id": "B02024_032M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Swiss"
+			},
+			{
+				"id": "B02024_033E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Turkish"
+			},
+			{
+				"id": "B02024_033M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Turkish"
+			},
+			{
+				"id": "B02024_034E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Ukrainian"
+			},
+			{
+				"id": "B02024_034M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Ukrainian"
+			},
+			{
+				"id": "B02024_035E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Welsh"
+			},
+			{
+				"id": "B02024_035M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Welsh"
+			},
+			{
+				"id": "B02024_036E",
+				"label": "Estimate!!Total Groups Tallied:!!European:!!Other European"
+			},
+			{
+				"id": "B02024_036M",
+				"label": "Margin of Error!!Total Groups Tallied:!!European:!!Other European"
+			},
+			{
+				"id": "B02024_037E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Arab"
+			},
+			{
+				"id": "B02024_037M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Arab"
+			},
+			{
+				"id": "B02024_038E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Assyrian"
+			},
+			{
+				"id": "B02024_038M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Assyrian"
+			},
+			{
+				"id": "B02024_039E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Chaldean"
+			},
+			{
+				"id": "B02024_039M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Chaldean"
+			},
+			{
+				"id": "B02024_040E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Egyptian"
+			},
+			{
+				"id": "B02024_040M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Egyptian"
+			},
+			{
+				"id": "B02024_041E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Iranian"
+			},
+			{
+				"id": "B02024_041M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Iranian"
+			},
+			{
+				"id": "B02024_042E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Iraqi"
+			},
+			{
+				"id": "B02024_042M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Iraqi"
+			},
+			{
+				"id": "B02024_043E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Israeli"
+			},
+			{
+				"id": "B02024_043M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Israeli"
+			},
+			{
+				"id": "B02024_044E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Jordanian"
+			},
+			{
+				"id": "B02024_044M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Jordanian"
+			},
+			{
+				"id": "B02024_045E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Lebanese"
+			},
+			{
+				"id": "B02024_045M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Lebanese"
+			},
+			{
+				"id": "B02024_046E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Moroccan"
+			},
+			{
+				"id": "B02024_046M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Moroccan"
+			},
+			{
+				"id": "B02024_047E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Palestinian"
+			},
+			{
+				"id": "B02024_047M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Palestinian"
+			},
+			{
+				"id": "B02024_048E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Syrian"
+			},
+			{
+				"id": "B02024_048M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Syrian"
+			},
+			{
+				"id": "B02024_049E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Yemeni"
+			},
+			{
+				"id": "B02024_049M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Yemeni"
+			},
+			{
+				"id": "B02024_050E",
+				"label": "Estimate!!Total Groups Tallied:!!Middle Eastern or North African:!!Other Middle Eastern or North African"
+			},
+			{
+				"id": "B02024_050M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Middle Eastern or North African:!!Other Middle Eastern or North African"
+			},
+			{
+				"id": "B02024_051E",
+				"label": "Estimate!!Total Groups Tallied:!!Other White:!!Australian"
+			},
+			{
+				"id": "B02024_051M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other White:!!Australian"
+			},
+			{
+				"id": "B02024_052E",
+				"label": "Estimate!!Total Groups Tallied:!!Other White:!!Cajun"
+			},
+			{
+				"id": "B02024_052M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other White:!!Cajun"
+			},
+			{
+				"id": "B02024_053E",
+				"label": "Estimate!!Total Groups Tallied:!!Other White:!!Canadian"
+			},
+			{
+				"id": "B02024_053M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other White:!!Canadian"
+			},
+			{
+				"id": "B02024_054E",
+				"label": "Estimate!!Total Groups Tallied:!!Other White:!!French Canadian"
+			},
+			{
+				"id": "B02024_054M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other White:!!French Canadian"
+			},
+			{
+				"id": "B02024_055E",
+				"label": "Estimate!!Total Groups Tallied:!!Other White:!!Pennsylvania German"
+			},
+			{
+				"id": "B02024_055M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other White:!!Pennsylvania German"
+			},
+			{
+				"id": "B02024_056E",
+				"label": "Estimate!!Total Groups Tallied:!!Other White:!!Other White, specified"
+			},
+			{
+				"id": "B02024_056M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other White:!!Other White, specified"
+			},
+			{
+				"id": "B02024_057E",
+				"label": "Estimate!!Total Groups Tallied:!!Other White, not specified"
+			},
+			{
+				"id": "B02024_057M",
+				"label": "Margin of Error!!Total Groups Tallied:!!Other White, not specified"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B02024_042MA",
+			"B02024_004MA",
+			"B02024_027MA",
+			"B02024_023EA",
+			"B02024_046EA",
+			"B02024_022E",
+			"B02024_010E",
+			"B02024_046E",
+			"B02024_034E",
+			"B02024_022M",
+			"B02024_010M",
+			"B02024_046M",
+			"B02024_034M",
+			"B02024_054MA",
+			"B02024_031MA",
+			"B02024_050EA",
+			"B02024_016MA",
+			"B02024_039MA",
+			"B02024_012EA",
+			"B02024_035EA",
+			"B02024_011E",
+			"B02024_035E",
+			"B02024_023E",
+			"B02024_009EA",
+			"B02024_047E",
+			"B02024_011M",
+			"B02024_035M",
+			"B02024_023M",
+			"B02024_047M",
+			"B02024_043MA",
+			"B02024_020MA",
+			"B02024_020M",
+			"B02024_005MA",
+			"B02024_028MA",
+			"B02024_001EA",
+			"B02024_047EA",
+			"B02024_024EA",
+			"B02024_044E",
+			"B02024_032E",
+			"B02024_056E",
+			"B02024_044M",
+			"B02024_032M",
+			"B02024_056M",
+			"B02024_020E",
+			"B02024_032MA",
+			"B02024_055MA",
+			"B02024_051EA",
+			"B02024_017MA",
+			"B02024_013EA",
+			"B02024_036EA",
+			"B02024_033E",
+			"B02024_021E",
+			"B02024_057E",
+			"B02024_045E",
+			"B02024_033M",
+			"B02024_021M",
+			"B02024_057M",
+			"B02024_045M",
+			"B02024_002MA",
+			"B02024_025MA",
+			"B02024_048MA",
+			"B02024_021EA",
+			"B02024_044EA",
+			"B02024_002E",
+			"B02024_018EA",
+			"B02024_026E",
+			"B02024_014E",
+			"B02024_038E",
+			"B02024_002M",
+			"B02024_026M",
+			"B02024_040MA",
+			"B02024_014M",
+			"B02024_038M",
+			"B02024_052MA",
+			"B02024_037MA",
+			"B02024_014MA",
+			"B02024_033EA",
+			"B02024_010EA",
+			"B02024_056EA",
+			"NAME",
+			"B02024_007EA",
+			"B02024_015E",
+			"B02024_003E",
+			"B02024_039E",
+			"B02024_027E",
+			"B02024_015M",
+			"B02024_003M",
+			"B02024_039M",
+			"B02024_027M",
+			"B02024_041MA",
+			"B02024_026MA",
+			"B02024_003MA",
+			"B02024_022EA",
+			"B02024_049MA",
+			"B02024_045EA",
+			"B02024_019EA",
+			"B02024_024E",
+			"B02024_012E",
+			"B02024_048E",
+			"B02024_036E",
+			"B02024_024M",
+			"B02024_012M",
+			"B02024_048M",
+			"B02024_036M",
+			"B02024_030MA",
+			"B02024_053MA",
+			"B02024_015MA",
+			"B02024_011EA",
+			"B02024_038MA",
+			"B02024_034EA",
+			"B02024_057EA",
+			"B02024_008EA",
+			"B02024_013E",
+			"B02024_001E",
+			"B02024_037E",
+			"B02024_025E",
+			"B02024_049E",
+			"B02024_013M",
+			"B02024_001M",
+			"B02024_037M",
+			"B02024_025M",
+			"B02024_049M",
+			"B02024_050M",
+			"B02024_023MA",
+			"B02024_046MA",
+			"B02024_019E",
+			"B02024_007E",
+			"B02024_008MA",
+			"B02024_042EA",
+			"B02024_004EA",
+			"B02024_016EA",
+			"B02024_018M",
+			"B02024_039EA",
+			"B02024_006E",
+			"B02024_050E",
+			"B02024_006M",
+			"B02024_051M",
+			"B02024_012MA",
+			"B02024_035MA",
+			"B02024_008E",
+			"B02024_054EA",
+			"B02024_031EA",
+			"B02024_019M",
+			"B02024_005EA",
+			"B02024_007M",
+			"B02024_028EA",
+			"B02024_051E",
+			"B02024_050MA",
+			"B02024_001MA",
+			"B02024_047MA",
+			"B02024_024MA",
+			"B02024_029E",
+			"B02024_043EA",
+			"B02024_020EA",
+			"B02024_009MA",
+			"B02024_017EA",
+			"B02024_004E",
+			"B02024_028E",
+			"B02024_016E",
+			"B02024_004M",
+			"B02024_028M",
+			"B02024_016M",
+			"B02024_013MA",
+			"B02024_036MA",
+			"B02024_032EA",
+			"B02024_055EA",
+			"B02024_018E",
+			"B02024_006EA",
+			"B02024_029EA",
+			"B02024_029M",
+			"B02024_017E",
+			"B02024_005E",
+			"B02024_051MA",
+			"B02024_017M",
+			"B02024_005M",
+			"B02024_021MA",
+			"B02024_044MA",
+			"B02024_040EA",
+			"B02024_042M",
+			"B02024_030M",
+			"B02024_006MA",
+			"B02024_029MA",
+			"B02024_002EA",
+			"B02024_025EA",
+			"B02024_048EA",
+			"B02024_054E",
+			"B02024_054M",
+			"B02024_042E",
+			"B02024_030E",
+			"B02024_033MA",
+			"B02024_010MA",
+			"B02024_031M",
+			"B02024_056MA",
+			"B02024_018MA",
+			"B02024_052EA",
+			"B02024_037EA",
+			"B02024_014EA",
+			"B02024_055E",
+			"B02024_043E",
+			"B02024_049EA",
+			"B02024_055M",
+			"B02024_043M",
+			"B02024_031E",
+			"B02024_022MA",
+			"B02024_040M",
+			"B02024_045MA",
+			"B02024_052M",
+			"B02024_007MA",
+			"B02024_009E",
+			"B02024_041EA",
+			"B02024_026EA",
+			"B02024_003EA",
+			"B02024_008M",
+			"B02024_038EA",
+			"B02024_040E",
+			"B02024_052E",
+			"B02024_011MA",
+			"B02024_034MA",
+			"B02024_053M",
+			"B02024_057MA",
+			"B02024_041M",
+			"B02024_019MA",
+			"B02024_030EA",
+			"B02024_053EA",
+			"B02024_015EA",
+			"GEO_ID",
+			"B02024_027EA",
+			"B02024_009M",
+			"B02024_053E",
+			"B02024_041E"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"9415403",
+			"1453957",
+			"177042",
+			"1350922",
+			"86335",
+			"34959",
+			"14163",
+			"35255",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3821467",
+			"2123480",
+			"1669424",
+			null,
+			"212037",
+			"53023",
+			"39555",
+			"34124",
+			"14503",
+			null,
+			null,
+			"20214",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"121815",
+			"1032444",
+			"2559329",
+			"11516",
+			"26121",
+			"54538",
+			"738326",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"328053",
+			"4178910",
+			"93310362",
+			"825015",
+			"19797",
+			"54245",
+			"353447",
+			"27745",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"265583",
+			null,
+			"1332470",
+			"8342231",
+			"48007",
+			"17529",
+			"27132",
+			null,
+			"69093",
+			"6318",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			null,
+			"48653343",
+			"561496",
+			"51313",
+			"836732",
+			"215495",
+			"22822",
+			"8922",
+			"20977",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"442560",
+			"50336372",
+			"264154",
+			"6889659",
+			"18430",
+			"350163",
+			"19650",
+			"74322",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"761867",
+			"331228194",
+			"253179",
+			"2277264",
+			"104827",
+			"20439",
+			"602834",
+			"22074",
+			"42996",
+			"13021",
+			"24672",
+			null,
+			null,
+			"18702646",
+			"979119",
+			null,
+			null,
+			null,
+			null,
+			"169312",
+			null,
+			"130912",
+			"452786",
+			"12042",
+			"9065",
+			null,
+			null,
+			"504120",
+			null,
+			null,
+			"101178",
+			null,
+			"27027",
+			null,
+			"121374",
+			null,
+			null,
+			null,
+			null,
+			"205348",
+			null,
+			null,
+			null,
+			null,
+			"697350",
+			"10286752",
+			"1394217",
+			"20107",
+			"83432",
+			"36414",
+			null,
+			null,
+			null,
+			null,
+			"41479460",
+			null,
+			null,
+			"13053",
+			"1459829",
+			"403648",
+			null,
+			"32472",
+			"14303",
+			null,
+			null,
+			null,
+			"20027",
+			"19541",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"940239",
+			"22646",
+			"215793",
+			"685069",
+			null,
+			null,
+			"48828",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"182165",
+			"197982",
+			null,
+			"12983",
+			"14353",
+			"4131866",
+			null,
+			"25028",
+			null,
+			"8685",
+			null,
+			"1583263",
+			null,
+			null,
+			null,
+			"16311",
+			null,
+			"441197",
+			"126367",
+			null,
+			null,
+			"18790",
+			null,
+			"22996",
+			null,
+			null,
+			null,
+			null,
+			"0100000US",
+			null,
+			"29466",
+			"584711",
+			"582938"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:31.516Z"
+}

@@ -1,0 +1,88 @@
+{
+	"tableId": "ACSDT1Y2024.B05012PR",
+	"title": "Nativity in Puerto Rico",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total population in Puerto Rico",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B05012PR",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B05012PR_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B05012PR_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B05012PR_002E",
+				"label": "Estimate!!Total:!!Native"
+			},
+			{
+				"id": "B05012PR_002M",
+				"label": "Margin of Error!!Total:!!Native"
+			},
+			{
+				"id": "B05012PR_003E",
+				"label": "Estimate!!Total:!!Foreign-born"
+			},
+			{
+				"id": "B05012PR_003M",
+				"label": "Margin of Error!!Total:!!Foreign-born"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"NAME",
+			"GEO_ID",
+			"B05012PR_001EA",
+			"B05012PR_002EA",
+			"B05012PR_002M",
+			"B05012PR_003EA",
+			"B05012PR_001M",
+			"B05012PR_003M",
+			"B05012PR_001MA",
+			"B05012PR_002MA",
+			"B05012PR_002E",
+			"B05012PR_003MA",
+			"B05012PR_001E",
+			"B05012PR_003E"
+		],
+		[
+			"Puerto Rico",
+			"0400000US72",
+			null,
+			null,
+			"8019",
+			null,
+			"-555555555",
+			"8019",
+			"*****",
+			null,
+			"3116459",
+			null,
+			"3203295",
+			"86836"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:34.262Z"
+}

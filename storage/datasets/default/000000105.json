@@ -1,0 +1,200 @@
+{
+	"tableId": "ACSDT1Y2024.B02001",
+	"title": "Race",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total population",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B02001",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B02001_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B02001_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B02001_002E",
+				"label": "Estimate!!Total:!!White alone"
+			},
+			{
+				"id": "B02001_002M",
+				"label": "Margin of Error!!Total:!!White alone"
+			},
+			{
+				"id": "B02001_003E",
+				"label": "Estimate!!Total:!!Black or African American alone"
+			},
+			{
+				"id": "B02001_003M",
+				"label": "Margin of Error!!Total:!!Black or African American alone"
+			},
+			{
+				"id": "B02001_004E",
+				"label": "Estimate!!Total:!!American Indian and Alaska Native alone"
+			},
+			{
+				"id": "B02001_004M",
+				"label": "Margin of Error!!Total:!!American Indian and Alaska Native alone"
+			},
+			{
+				"id": "B02001_005E",
+				"label": "Estimate!!Total:!!Asian alone"
+			},
+			{
+				"id": "B02001_005M",
+				"label": "Margin of Error!!Total:!!Asian alone"
+			},
+			{
+				"id": "B02001_006E",
+				"label": "Estimate!!Total:!!Native Hawaiian and Other Pacific Islander alone"
+			},
+			{
+				"id": "B02001_006M",
+				"label": "Margin of Error!!Total:!!Native Hawaiian and Other Pacific Islander alone"
+			},
+			{
+				"id": "B02001_007E",
+				"label": "Estimate!!Total:!!Some Other Race alone"
+			},
+			{
+				"id": "B02001_007M",
+				"label": "Margin of Error!!Total:!!Some Other Race alone"
+			},
+			{
+				"id": "B02001_008E",
+				"label": "Estimate!!Total:!!Two or More Races:"
+			},
+			{
+				"id": "B02001_008M",
+				"label": "Margin of Error!!Total:!!Two or More Races:"
+			},
+			{
+				"id": "B02001_009E",
+				"label": "Estimate!!Total:!!Two or More Races:!!Two races including Some Other Race"
+			},
+			{
+				"id": "B02001_009M",
+				"label": "Margin of Error!!Total:!!Two or More Races:!!Two races including Some Other Race"
+			},
+			{
+				"id": "B02001_010E",
+				"label": "Estimate!!Total:!!Two or More Races:!!Two races excluding Some Other Race, and three or more races"
+			},
+			{
+				"id": "B02001_010M",
+				"label": "Margin of Error!!Total:!!Two or More Races:!!Two races excluding Some Other Race, and three or more races"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B02001_002EA",
+			"B02001_004M",
+			"B02001_003EA",
+			"B02001_004EA",
+			"B02001_006M",
+			"B02001_005EA",
+			"B02001_010E",
+			"B02001_006MA",
+			"B02001_007MA",
+			"B02001_002M",
+			"B02001_008MA",
+			"B02001_001EA",
+			"B02001_009MA",
+			"B02001_002MA",
+			"B02001_004E",
+			"B02001_003MA",
+			"B02001_004MA",
+			"B02001_006E",
+			"B02001_005MA",
+			"B02001_008M",
+			"B02001_002E",
+			"B02001_001MA",
+			"B02001_009E",
+			"B02001_010M",
+			"B02001_005M",
+			"B02001_007M",
+			"B02001_001M",
+			"B02001_010EA",
+			"B02001_003M",
+			"B02001_005E",
+			"B02001_007E",
+			"B02001_001E",
+			"B02001_009M",
+			"B02001_010MA",
+			"B02001_003E",
+			"NAME",
+			"GEO_ID",
+			"B02001_008E",
+			"B02001_006EA",
+			"B02001_007EA",
+			"B02001_008EA",
+			"B02001_009EA"
+		],
+		[
+			null,
+			"54565",
+			null,
+			null,
+			"18258",
+			null,
+			"15052073",
+			null,
+			null,
+			"126334",
+			null,
+			null,
+			null,
+			null,
+			"3433243",
+			null,
+			null,
+			"652181",
+			null,
+			"197808",
+			"203349963",
+			"*****",
+			"29891177",
+			"144463",
+			"46902",
+			"137517",
+			"-555555555",
+			null,
+			"105449",
+			"21333453",
+			"25282912",
+			"340110990",
+			"151631",
+			null,
+			"41115988",
+			"United States",
+			"0100000US",
+			"44943250",
+			null,
+			null,
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:29.352Z"
+}

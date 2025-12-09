@@ -1,0 +1,136 @@
+{
+	"tableId": "ACSDT1Y2024.B05001",
+	"title": "Nativity and Citizenship Status in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total population in the United States",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B05001",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B05001_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B05001_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B05001_002E",
+				"label": "Estimate!!Total:!!U.S. citizen, born in the United States"
+			},
+			{
+				"id": "B05001_002M",
+				"label": "Margin of Error!!Total:!!U.S. citizen, born in the United States"
+			},
+			{
+				"id": "B05001_003E",
+				"label": "Estimate!!Total:!!U.S. citizen, born in Puerto Rico or U.S. Island Areas"
+			},
+			{
+				"id": "B05001_003M",
+				"label": "Margin of Error!!Total:!!U.S. citizen, born in Puerto Rico or U.S. Island Areas"
+			},
+			{
+				"id": "B05001_004E",
+				"label": "Estimate!!Total:!!U.S. citizen, born abroad of American parent(s)"
+			},
+			{
+				"id": "B05001_004M",
+				"label": "Margin of Error!!Total:!!U.S. citizen, born abroad of American parent(s)"
+			},
+			{
+				"id": "B05001_005E",
+				"label": "Estimate!!Total:!!U.S. citizen by naturalization"
+			},
+			{
+				"id": "B05001_005M",
+				"label": "Margin of Error!!Total:!!U.S. citizen by naturalization"
+			},
+			{
+				"id": "B05001_006E",
+				"label": "Estimate!!Total:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05001_006M",
+				"label": "Margin of Error!!Total:!!Not a U.S. citizen"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B05001_001EA",
+			"B05001_002EA",
+			"B05001_003EA",
+			"B05001_004EA",
+			"B05001_005EA",
+			"B05001_006EA",
+			"B05001_001MA",
+			"B05001_002M",
+			"B05001_002MA",
+			"B05001_003MA",
+			"B05001_004MA",
+			"B05001_005MA",
+			"B05001_006MA",
+			"B05001_002E",
+			"B05001_006M",
+			"B05001_004M",
+			"B05001_006E",
+			"B05001_004E",
+			"B05001_001M",
+			"NAME",
+			"GEO_ID",
+			"B05001_001E",
+			"B05001_005M",
+			"B05001_003M",
+			"B05001_005E",
+			"B05001_003E"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"*****",
+			"156027",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"283989101",
+			"160731",
+			"47689",
+			"24396883",
+			"3847200",
+			"-555555555",
+			"United States",
+			"0100000US",
+			"340110990",
+			"113967",
+			"39190",
+			"25837975",
+			"2039831"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:30.896Z"
+}

@@ -1,0 +1,363 @@
+{
+	"tableId": "ACSST1Y2024.S1602",
+	"title": "Limited English Speaking Households",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S1602",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S1602_C01_001E",
+				"label": "Estimate!!Total!!All households"
+			},
+			{
+				"id": "S1602_C01_001M",
+				"label": "Margin of Error!!Total!!All households"
+			},
+			{
+				"id": "S1602_C02_001E",
+				"label": "Estimate!!Percent!!All households"
+			},
+			{
+				"id": "S1602_C02_001M",
+				"label": "Margin of Error!!Percent!!All households"
+			},
+			{
+				"id": "S1602_C03_001E",
+				"label": "Estimate!!Limited English-speaking households!!All households"
+			},
+			{
+				"id": "S1602_C03_001M",
+				"label": "Margin of Error!!Limited English-speaking households!!All households"
+			},
+			{
+				"id": "S1602_C04_001E",
+				"label": "Estimate!!Percent limited English-speaking households!!All households"
+			},
+			{
+				"id": "S1602_C04_001M",
+				"label": "Margin of Error!!Percent limited English-speaking households!!All households"
+			},
+			{
+				"id": "S1602_C01_002E",
+				"label": "Estimate!!Total!!All households!!Households speaking --!!Spanish"
+			},
+			{
+				"id": "S1602_C01_002M",
+				"label": "Margin of Error!!Total!!All households!!Households speaking --!!Spanish"
+			},
+			{
+				"id": "S1602_C02_002E",
+				"label": "Estimate!!Percent!!All households!!Households speaking --!!Spanish"
+			},
+			{
+				"id": "S1602_C02_002M",
+				"label": "Margin of Error!!Percent!!All households!!Households speaking --!!Spanish"
+			},
+			{
+				"id": "S1602_C03_002E",
+				"label": "Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Spanish"
+			},
+			{
+				"id": "S1602_C03_002M",
+				"label": "Margin of Error!!Limited English-speaking households!!All households!!Households speaking --!!Spanish"
+			},
+			{
+				"id": "S1602_C04_002E",
+				"label": "Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Spanish"
+			},
+			{
+				"id": "S1602_C04_002M",
+				"label": "Margin of Error!!Percent limited English-speaking households!!All households!!Households speaking --!!Spanish"
+			},
+			{
+				"id": "S1602_C01_003E",
+				"label": "Estimate!!Total!!All households!!Households speaking --!!Other Indo-European languages"
+			},
+			{
+				"id": "S1602_C01_003M",
+				"label": "Margin of Error!!Total!!All households!!Households speaking --!!Other Indo-European languages"
+			},
+			{
+				"id": "S1602_C02_003E",
+				"label": "Estimate!!Percent!!All households!!Households speaking --!!Other Indo-European languages"
+			},
+			{
+				"id": "S1602_C02_003M",
+				"label": "Margin of Error!!Percent!!All households!!Households speaking --!!Other Indo-European languages"
+			},
+			{
+				"id": "S1602_C03_003E",
+				"label": "Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Other Indo-European languages"
+			},
+			{
+				"id": "S1602_C03_003M",
+				"label": "Margin of Error!!Limited English-speaking households!!All households!!Households speaking --!!Other Indo-European languages"
+			},
+			{
+				"id": "S1602_C04_003E",
+				"label": "Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Other Indo-European languages"
+			},
+			{
+				"id": "S1602_C04_003M",
+				"label": "Margin of Error!!Percent limited English-speaking households!!All households!!Households speaking --!!Other Indo-European languages"
+			},
+			{
+				"id": "S1602_C01_004E",
+				"label": "Estimate!!Total!!All households!!Households speaking --!!Asian and Pacific Island languages"
+			},
+			{
+				"id": "S1602_C01_004M",
+				"label": "Margin of Error!!Total!!All households!!Households speaking --!!Asian and Pacific Island languages"
+			},
+			{
+				"id": "S1602_C02_004E",
+				"label": "Estimate!!Percent!!All households!!Households speaking --!!Asian and Pacific Island languages"
+			},
+			{
+				"id": "S1602_C02_004M",
+				"label": "Margin of Error!!Percent!!All households!!Households speaking --!!Asian and Pacific Island languages"
+			},
+			{
+				"id": "S1602_C03_004E",
+				"label": "Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Asian and Pacific Island languages"
+			},
+			{
+				"id": "S1602_C03_004M",
+				"label": "Margin of Error!!Limited English-speaking households!!All households!!Households speaking --!!Asian and Pacific Island languages"
+			},
+			{
+				"id": "S1602_C04_004E",
+				"label": "Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Asian and Pacific Island languages"
+			},
+			{
+				"id": "S1602_C04_004M",
+				"label": "Margin of Error!!Percent limited English-speaking households!!All households!!Households speaking --!!Asian and Pacific Island languages"
+			},
+			{
+				"id": "S1602_C01_005E",
+				"label": "Estimate!!Total!!All households!!Households speaking --!!Other languages"
+			},
+			{
+				"id": "S1602_C01_005M",
+				"label": "Margin of Error!!Total!!All households!!Households speaking --!!Other languages"
+			},
+			{
+				"id": "S1602_C02_005E",
+				"label": "Estimate!!Percent!!All households!!Households speaking --!!Other languages"
+			},
+			{
+				"id": "S1602_C02_005M",
+				"label": "Margin of Error!!Percent!!All households!!Households speaking --!!Other languages"
+			},
+			{
+				"id": "S1602_C03_005E",
+				"label": "Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Other languages"
+			},
+			{
+				"id": "S1602_C03_005M",
+				"label": "Margin of Error!!Limited English-speaking households!!All households!!Households speaking --!!Other languages"
+			},
+			{
+				"id": "S1602_C04_005E",
+				"label": "Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Other languages"
+			},
+			{
+				"id": "S1602_C04_005M",
+				"label": "Margin of Error!!Percent limited English-speaking households!!All households!!Households speaking --!!Other languages"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S1602_C02_003E",
+			"S1602_C03_003MA",
+			"S1602_C03_001EA",
+			"S1602_C01_002M",
+			"S1602_C03_005MA",
+			"S1602_C02_003M",
+			"S1602_C03_004E",
+			"S1602_C03_001MA",
+			"S1602_C04_004M",
+			"S1602_C01_002E",
+			"S1602_C03_004M",
+			"S1602_C04_004E",
+			"S1602_C03_003EA",
+			"S1602_C03_005EA",
+			"S1602_C04_003EA",
+			"S1602_C02_004E",
+			"S1602_C02_002MA",
+			"S1602_C04_001EA",
+			"S1602_C01_003M",
+			"S1602_C04_005EA",
+			"S1602_C03_005E",
+			"S1602_C02_004M",
+			"S1602_C02_002EA",
+			"S1602_C02_004MA",
+			"S1602_C04_003M",
+			"S1602_C01_003E",
+			"S1602_C01_005EA",
+			"NAME",
+			"S1602_C01_003EA",
+			"S1602_C03_005M",
+			"S1602_C01_001EA",
+			"S1602_C02_004EA",
+			"S1602_C03_001E",
+			"S1602_C04_003E",
+			"S1602_C01_005MA",
+			"S1602_C01_003MA",
+			"S1602_C04_003MA",
+			"S1602_C01_001MA",
+			"S1602_C04_001MA",
+			"S1602_C03_001M",
+			"S1602_C04_005MA",
+			"S1602_C03_004MA",
+			"S1602_C02_001E",
+			"S1602_C03_002MA",
+			"S1602_C04_002M",
+			"S1602_C01_004M",
+			"S1602_C02_005M",
+			"S1602_C02_001M",
+			"S1602_C04_002E",
+			"S1602_C01_004E",
+			"S1602_C03_002E",
+			"S1602_C03_004EA",
+			"S1602_C03_002EA",
+			"S1602_C02_005E",
+			"S1602_C03_002M",
+			"S1602_C01_001M",
+			"S1602_C04_004EA",
+			"S1602_C04_001M",
+			"S1602_C02_001MA",
+			"S1602_C02_002E",
+			"S1602_C04_002EA",
+			"S1602_C01_005M",
+			"S1602_C01_001E",
+			"S1602_C04_001E",
+			"S1602_C02_001EA",
+			"S1602_C02_002M",
+			"S1602_C01_005E",
+			"S1602_C02_003MA",
+			"S1602_C04_005M",
+			"S1602_C01_004EA",
+			"S1602_C02_005MA",
+			"GEO_ID",
+			"S1602_C01_002EA",
+			"S1602_C02_003EA",
+			"S1602_C03_003E",
+			"S1602_C04_005E",
+			"S1602_C01_004MA",
+			"S1602_C02_005EA",
+			"S1602_C01_002MA",
+			"S1602_C04_004MA",
+			"S1602_C04_002MA",
+			"S1602_C03_003M"
+		],
+		[
+			"4.7",
+			null,
+			null,
+			"54475",
+			null,
+			"0.1",
+			"1193964",
+			null,
+			"0.4",
+			"18025439",
+			"19773",
+			"22.0",
+			null,
+			null,
+			null,
+			"4.1",
+			null,
+			null,
+			"45331",
+			null,
+			"272983",
+			"0.1",
+			null,
+			null,
+			"0.3",
+			"6292513",
+			null,
+			"United States",
+			null,
+			"10701",
+			null,
+			null,
+			"5958791",
+			"14.8",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"54036",
+			null,
+			null,
+			"-888888888",
+			null,
+			"0.2",
+			"29796",
+			"0.1",
+			"-888888888",
+			"19.8",
+			"5438070",
+			"3561217",
+			null,
+			null,
+			"1.4",
+			"42955",
+			"140273",
+			null,
+			"0.1",
+			"(X)",
+			"13.6",
+			null,
+			"30640",
+			"132737146",
+			"4.5",
+			"(X)",
+			"0.1",
+			"1914449",
+			null,
+			"0.5",
+			null,
+			null,
+			"0100000US",
+			null,
+			null,
+			"930627",
+			"14.3",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"19789"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:02.279Z"
+}

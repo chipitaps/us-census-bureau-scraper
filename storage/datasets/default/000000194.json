@@ -1,0 +1,920 @@
+{
+	"tableId": "ACSDT1Y2024.B06010PR",
+	"title": "Place of Birth by Individual Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars) in Puerto Rico",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 15 years and over in Puerto Rico",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06010PR",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06010PR_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06010PR_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06010PR_002E",
+				"label": "Estimate!!Total:!!No income"
+			},
+			{
+				"id": "B06010PR_002M",
+				"label": "Margin of Error!!Total:!!No income"
+			},
+			{
+				"id": "B06010PR_003E",
+				"label": "Estimate!!Total:!!With income:"
+			},
+			{
+				"id": "B06010PR_003M",
+				"label": "Margin of Error!!Total:!!With income:"
+			},
+			{
+				"id": "B06010PR_004E",
+				"label": "Estimate!!Total:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_004M",
+				"label": "Margin of Error!!Total:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_005E",
+				"label": "Estimate!!Total:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_005M",
+				"label": "Margin of Error!!Total:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_006E",
+				"label": "Estimate!!Total:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_006M",
+				"label": "Margin of Error!!Total:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_007E",
+				"label": "Estimate!!Total:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_007M",
+				"label": "Margin of Error!!Total:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_008E",
+				"label": "Estimate!!Total:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_008M",
+				"label": "Margin of Error!!Total:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_009E",
+				"label": "Estimate!!Total:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_009M",
+				"label": "Margin of Error!!Total:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_010E",
+				"label": "Estimate!!Total:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_010M",
+				"label": "Margin of Error!!Total:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_011E",
+				"label": "Estimate!!Total:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_011M",
+				"label": "Margin of Error!!Total:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_012E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:"
+			},
+			{
+				"id": "B06010PR_012M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:"
+			},
+			{
+				"id": "B06010PR_013E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!No income"
+			},
+			{
+				"id": "B06010PR_013M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!No income"
+			},
+			{
+				"id": "B06010PR_014E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:"
+			},
+			{
+				"id": "B06010PR_014M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:"
+			},
+			{
+				"id": "B06010PR_015E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_015M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_016E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_016M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_017E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_017M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_018E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_018M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_019E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_019M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_020E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_020M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_021E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_021M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_022E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_022M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_023E",
+				"label": "Estimate!!Total:!!Born in the United States:"
+			},
+			{
+				"id": "B06010PR_023M",
+				"label": "Margin of Error!!Total:!!Born in the United States:"
+			},
+			{
+				"id": "B06010PR_024E",
+				"label": "Estimate!!Total:!!Born in the United States:!!No income"
+			},
+			{
+				"id": "B06010PR_024M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!No income"
+			},
+			{
+				"id": "B06010PR_025E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:"
+			},
+			{
+				"id": "B06010PR_025M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:"
+			},
+			{
+				"id": "B06010PR_026E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_026M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_027E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_027M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_028E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_028M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_029E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_029M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_030E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_030M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_031E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_031M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_032E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_032M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_033E",
+				"label": "Estimate!!Total:!!Born in the United States:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_033M",
+				"label": "Margin of Error!!Total:!!Born in the United States:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_034E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:"
+			},
+			{
+				"id": "B06010PR_034M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:"
+			},
+			{
+				"id": "B06010PR_035E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!No income"
+			},
+			{
+				"id": "B06010PR_035M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!No income"
+			},
+			{
+				"id": "B06010PR_036E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:"
+			},
+			{
+				"id": "B06010PR_036M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:"
+			},
+			{
+				"id": "B06010PR_037E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_037M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_038E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_038M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_039E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_039M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_040E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_040M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_041E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_041M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_042E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_042M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_043E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_043M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_044E",
+				"label": "Estimate!!Total:!!Native; born elsewhere:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_044M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_045E",
+				"label": "Estimate!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06010PR_045M",
+				"label": "Margin of Error!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06010PR_046E",
+				"label": "Estimate!!Total:!!Foreign born:!!No income"
+			},
+			{
+				"id": "B06010PR_046M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!No income"
+			},
+			{
+				"id": "B06010PR_047E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:"
+			},
+			{
+				"id": "B06010PR_047M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:"
+			},
+			{
+				"id": "B06010PR_048E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_048M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B06010PR_049E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_049M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B06010PR_050E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_050M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B06010PR_051E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_051M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B06010PR_052E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_052M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B06010PR_053E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_053M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B06010PR_054E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_054M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B06010PR_055E",
+				"label": "Estimate!!Total:!!Foreign born:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B06010PR_055M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!With income:!!$75,000 or more"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06010PR_030EA",
+			"B06010PR_019MA",
+			"B06010PR_050M",
+			"B06010PR_053EA",
+			"B06010PR_038EA",
+			"B06010PR_015EA",
+			"B06010PR_050E",
+			"B06010PR_018M",
+			"B06010PR_006M",
+			"B06010PR_018E",
+			"B06010PR_006E",
+			"B06010PR_034MA",
+			"B06010PR_011MA",
+			"B06010PR_046MA",
+			"B06010PR_008MA",
+			"B06010PR_042EA",
+			"B06010PR_027EA",
+			"B06010PR_004EA",
+			"B06010PR_051M",
+			"B06010PR_007M",
+			"B06010PR_051E",
+			"B06010PR_019M",
+			"B06010PR_007E",
+			"B06010PR_023MA",
+			"B06010PR_019E",
+			"B06010PR_035MA",
+			"B06010PR_031EA",
+			"B06010PR_054EA",
+			"B06010PR_016EA",
+			"B06010PR_052M",
+			"B06010PR_040M",
+			"B06010PR_039EA",
+			"B06010PR_052E",
+			"B06010PR_040E",
+			"B06010PR_008M",
+			"B06010PR_050MA",
+			"B06010PR_012MA",
+			"B06010PR_008E",
+			"B06010PR_024MA",
+			"B06010PR_047MA",
+			"B06010PR_009MA",
+			"B06010PR_020EA",
+			"B06010PR_043EA",
+			"B06010PR_053M",
+			"B06010PR_005EA",
+			"B06010PR_041M",
+			"B06010PR_028EA",
+			"B06010PR_053E",
+			"B06010PR_041E",
+			"B06010PR_009M",
+			"B06010PR_001MA",
+			"B06010PR_009E",
+			"B06010PR_013MA",
+			"B06010PR_036MA",
+			"B06010PR_055EA",
+			"B06010PR_032EA",
+			"B06010PR_014M",
+			"B06010PR_002M",
+			"B06010PR_017EA",
+			"B06010PR_038M",
+			"B06010PR_026M",
+			"B06010PR_014E",
+			"B06010PR_002E",
+			"B06010PR_051MA",
+			"B06010PR_038E",
+			"B06010PR_026E",
+			"B06010PR_002MA",
+			"B06010PR_048MA",
+			"B06010PR_025MA",
+			"B06010PR_044EA",
+			"B06010PR_021EA",
+			"B06010PR_003M",
+			"B06010PR_006EA",
+			"B06010PR_029EA",
+			"NAME",
+			"B06010PR_039M",
+			"B06010PR_027M",
+			"B06010PR_015M",
+			"B06010PR_003E",
+			"B06010PR_039E",
+			"B06010PR_040MA",
+			"B06010PR_027E",
+			"B06010PR_015E",
+			"B06010PR_014MA",
+			"B06010PR_037MA",
+			"B06010PR_010EA",
+			"B06010PR_033EA",
+			"B06010PR_018EA",
+			"B06010PR_028M",
+			"B06010PR_016M",
+			"B06010PR_004M",
+			"B06010PR_052MA",
+			"B06010PR_028E",
+			"B06010PR_016E",
+			"B06010PR_004E",
+			"B06010PR_003MA",
+			"B06010PR_026MA",
+			"B06010PR_049MA",
+			"B06010PR_022EA",
+			"B06010PR_045EA",
+			"B06010PR_007EA",
+			"B06010PR_029M",
+			"B06010PR_017M",
+			"B06010PR_005M",
+			"B06010PR_029E",
+			"B06010PR_041MA",
+			"B06010PR_017E",
+			"B06010PR_005E",
+			"B06010PR_038MA",
+			"B06010PR_015MA",
+			"B06010PR_034EA",
+			"B06010PR_011EA",
+			"B06010PR_010M",
+			"B06010PR_019EA",
+			"B06010PR_046M",
+			"B06010PR_034M",
+			"B06010PR_022M",
+			"B06010PR_010E",
+			"B06010PR_046E",
+			"B06010PR_034E",
+			"B06010PR_022E",
+			"B06010PR_030MA",
+			"B06010PR_053MA",
+			"B06010PR_027MA",
+			"B06010PR_004MA",
+			"B06010PR_023EA",
+			"B06010PR_046EA",
+			"B06010PR_047M",
+			"B06010PR_035M",
+			"B06010PR_023M",
+			"B06010PR_008EA",
+			"B06010PR_011M",
+			"B06010PR_047E",
+			"B06010PR_035E",
+			"B06010PR_023E",
+			"B06010PR_011E",
+			"B06010PR_042MA",
+			"B06010PR_016MA",
+			"B06010PR_050EA",
+			"B06010PR_012EA",
+			"B06010PR_039MA",
+			"B06010PR_035EA",
+			"B06010PR_036M",
+			"B06010PR_024M",
+			"B06010PR_012M",
+			"B06010PR_048M",
+			"B06010PR_036E",
+			"B06010PR_024E",
+			"B06010PR_012E",
+			"B06010PR_048E",
+			"B06010PR_031MA",
+			"B06010PR_054MA",
+			"B06010PR_005MA",
+			"B06010PR_001EA",
+			"B06010PR_028MA",
+			"B06010PR_024EA",
+			"B06010PR_047EA",
+			"B06010PR_025M",
+			"B06010PR_013M",
+			"B06010PR_001M",
+			"B06010PR_009EA",
+			"B06010PR_049M",
+			"B06010PR_037M",
+			"B06010PR_025E",
+			"B06010PR_013E",
+			"B06010PR_001E",
+			"B06010PR_049E",
+			"B06010PR_037E",
+			"B06010PR_020MA",
+			"B06010PR_043MA",
+			"B06010PR_051EA",
+			"B06010PR_017MA",
+			"B06010PR_054M",
+			"B06010PR_013EA",
+			"B06010PR_042M",
+			"B06010PR_030M",
+			"B06010PR_036EA",
+			"B06010PR_054E",
+			"B06010PR_042E",
+			"B06010PR_030E",
+			"B06010PR_055MA",
+			"B06010PR_032MA",
+			"B06010PR_040EA",
+			"B06010PR_006MA",
+			"B06010PR_029MA",
+			"B06010PR_043M",
+			"B06010PR_002EA",
+			"B06010PR_031M",
+			"B06010PR_048EA",
+			"B06010PR_025EA",
+			"B06010PR_055M",
+			"B06010PR_043E",
+			"B06010PR_031E",
+			"B06010PR_055E",
+			"B06010PR_044MA",
+			"B06010PR_021MA",
+			"B06010PR_052EA",
+			"B06010PR_018MA",
+			"B06010PR_014EA",
+			"B06010PR_032M",
+			"B06010PR_037EA",
+			"B06010PR_020M",
+			"B06010PR_044M",
+			"B06010PR_032E",
+			"B06010PR_020E",
+			"B06010PR_044E",
+			"B06010PR_010MA",
+			"B06010PR_033MA",
+			"B06010PR_041EA",
+			"B06010PR_007MA",
+			"B06010PR_003EA",
+			"B06010PR_021M",
+			"B06010PR_026EA",
+			"B06010PR_049EA",
+			"B06010PR_045M",
+			"B06010PR_033M",
+			"B06010PR_021E",
+			"GEO_ID",
+			"B06010PR_045E",
+			"B06010PR_033E",
+			"B06010PR_022MA",
+			"B06010PR_045MA"
+		],
+		[
+			null,
+			null,
+			"2611",
+			null,
+			null,
+			null,
+			"17271",
+			"12017",
+			"14797",
+			"258856",
+			"548914",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1300",
+			"12287",
+			"6765",
+			"10107",
+			"283889",
+			null,
+			"190473",
+			null,
+			null,
+			null,
+			null,
+			"1347",
+			"559",
+			null,
+			"5854",
+			"721",
+			"10594",
+			null,
+			null,
+			"209140",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1259",
+			null,
+			"489",
+			null,
+			"3561",
+			"813",
+			"6269",
+			null,
+			"99467",
+			null,
+			null,
+			null,
+			null,
+			"14683",
+			"13454",
+			null,
+			"539",
+			"3332",
+			"2062836",
+			"569524",
+			null,
+			"744",
+			"24324",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"12692",
+			null,
+			null,
+			"Puerto Rico",
+			"808",
+			"2328",
+			"15138",
+			"2260043",
+			"1345",
+			null,
+			"17655",
+			"525584",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3145",
+			"11500",
+			"15047",
+			null,
+			"27622",
+			"367107",
+			"569435",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2325",
+			"14522",
+			"12113",
+			"17547",
+			null,
+			"502676",
+			"397416",
+			null,
+			null,
+			null,
+			null,
+			"3539",
+			null,
+			"2234",
+			"2080",
+			"6868",
+			"40212",
+			"14216",
+			"8853",
+			"95127",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"6832",
+			"729",
+			"8796",
+			null,
+			"6954",
+			"70278",
+			"1340",
+			"149386",
+			"111570",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1881",
+			"4228",
+			"12622",
+			"2915",
+			"7513",
+			"29970",
+			"2586834",
+			"17839",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"6783",
+			"13238",
+			"2886",
+			null,
+			"2265",
+			"892",
+			"119416",
+			"523998",
+			"2829567",
+			"11910",
+			"1688",
+			null,
+			null,
+			null,
+			null,
+			"773",
+			null,
+			"185",
+			"2239",
+			null,
+			"1827",
+			"154",
+			"12000",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"446",
+			null,
+			"1760",
+			null,
+			null,
+			"1256",
+			"542",
+			"8474",
+			"5251",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"654",
+			null,
+			"5765",
+			"789",
+			"2108",
+			"87278",
+			"1506",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3278",
+			null,
+			null,
+			"7773",
+			"1596",
+			"35735",
+			"0400000US72",
+			"84494",
+			"9686",
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.691Z"
+}

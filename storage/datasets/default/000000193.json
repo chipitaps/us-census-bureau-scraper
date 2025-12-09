@@ -1,0 +1,136 @@
+{
+	"tableId": "ACSDT1Y2024.B07002",
+	"title": "Median Age by Geographical Mobility in the Past Year for Current Residence in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 1 year and over in the United States",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B07002",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B07002_001E",
+				"label": "Estimate!!Median age --!!Total:"
+			},
+			{
+				"id": "B07002_001M",
+				"label": "Margin of Error!!Median age --!!Total:"
+			},
+			{
+				"id": "B07002_002E",
+				"label": "Estimate!!Median age --!!Total:!!Same house 1 year ago"
+			},
+			{
+				"id": "B07002_002M",
+				"label": "Margin of Error!!Median age --!!Total:!!Same house 1 year ago"
+			},
+			{
+				"id": "B07002_003E",
+				"label": "Estimate!!Median age --!!Total:!!Moved within same county"
+			},
+			{
+				"id": "B07002_003M",
+				"label": "Margin of Error!!Median age --!!Total:!!Moved within same county"
+			},
+			{
+				"id": "B07002_004E",
+				"label": "Estimate!!Median age --!!Total:!!Moved from different county within same state"
+			},
+			{
+				"id": "B07002_004M",
+				"label": "Margin of Error!!Median age --!!Total:!!Moved from different county within same state"
+			},
+			{
+				"id": "B07002_005E",
+				"label": "Estimate!!Median age --!!Total:!!Moved from different state"
+			},
+			{
+				"id": "B07002_005M",
+				"label": "Margin of Error!!Median age --!!Total:!!Moved from different state"
+			},
+			{
+				"id": "B07002_006E",
+				"label": "Estimate!!Median age --!!Total:!!Moved from abroad"
+			},
+			{
+				"id": "B07002_006M",
+				"label": "Margin of Error!!Median age --!!Total:!!Moved from abroad"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B07002_003MA",
+			"B07002_002MA",
+			"B07002_005MA",
+			"B07002_004MA",
+			"B07002_001M",
+			"B07002_006MA",
+			"B07002_001EA",
+			"B07002_003M",
+			"B07002_003EA",
+			"B07002_002EA",
+			"B07002_005EA",
+			"B07002_004EA",
+			"B07002_006EA",
+			"B07002_005E",
+			"B07002_005M",
+			"B07002_001E",
+			"B07002_001MA",
+			"B07002_003E",
+			"B07002_002M",
+			"NAME",
+			"GEO_ID",
+			"B07002_004E",
+			"B07002_006E",
+			"B07002_004M",
+			"B07002_006M",
+			"B07002_002E"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			"0.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"29.1",
+			"0.2",
+			"39.6",
+			null,
+			"29.6",
+			"0.1",
+			"United States",
+			"0100000US",
+			"28.4",
+			"29.6",
+			"0.1",
+			"0.3",
+			"41.5"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.661Z"
+}

@@ -1,0 +1,440 @@
+{
+	"tableId": "ACSDT1Y2024.B05010",
+	"title": "Ratio of Income to Poverty Level in the Past 12 Months by Nativity of Children Under 18 Years in Families and Subfamilies by Living Arrangements and Nativity of Parents",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Own children under 18 years in families and subfamilies for whom poverty status is determined",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B05010",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B05010_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B05010_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B05010_002E",
+				"label": "Estimate!!Total:!!Under 1.00:"
+			},
+			{
+				"id": "B05010_002M",
+				"label": "Margin of Error!!Total:!!Under 1.00:"
+			},
+			{
+				"id": "B05010_003E",
+				"label": "Estimate!!Total:!!Under 1.00:!!Living with two parents:"
+			},
+			{
+				"id": "B05010_003M",
+				"label": "Margin of Error!!Total:!!Under 1.00:!!Living with two parents:"
+			},
+			{
+				"id": "B05010_004E",
+				"label": "Estimate!!Total:!!Under 1.00:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05010_004M",
+				"label": "Margin of Error!!Total:!!Under 1.00:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05010_005E",
+				"label": "Estimate!!Total:!!Under 1.00:!!Living with two parents:!!Both parents foreign-born"
+			},
+			{
+				"id": "B05010_005M",
+				"label": "Margin of Error!!Total:!!Under 1.00:!!Living with two parents:!!Both parents foreign-born"
+			},
+			{
+				"id": "B05010_006E",
+				"label": "Estimate!!Total:!!Under 1.00:!!Living with two parents:!!One native and one foreign-born parent"
+			},
+			{
+				"id": "B05010_006M",
+				"label": "Margin of Error!!Total:!!Under 1.00:!!Living with two parents:!!One native and one foreign-born parent"
+			},
+			{
+				"id": "B05010_007E",
+				"label": "Estimate!!Total:!!Under 1.00:!!Living with one parent:"
+			},
+			{
+				"id": "B05010_007M",
+				"label": "Margin of Error!!Total:!!Under 1.00:!!Living with one parent:"
+			},
+			{
+				"id": "B05010_008E",
+				"label": "Estimate!!Total:!!Under 1.00:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05010_008M",
+				"label": "Margin of Error!!Total:!!Under 1.00:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05010_009E",
+				"label": "Estimate!!Total:!!Under 1.00:!!Living with one parent:!!Foreign-born parent"
+			},
+			{
+				"id": "B05010_009M",
+				"label": "Margin of Error!!Total:!!Under 1.00:!!Living with one parent:!!Foreign-born parent"
+			},
+			{
+				"id": "B05010_010E",
+				"label": "Estimate!!Total:!!1.00 to 1.99:"
+			},
+			{
+				"id": "B05010_010M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.99:"
+			},
+			{
+				"id": "B05010_011E",
+				"label": "Estimate!!Total:!!1.00 to 1.99:!!Living with two parents:"
+			},
+			{
+				"id": "B05010_011M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.99:!!Living with two parents:"
+			},
+			{
+				"id": "B05010_012E",
+				"label": "Estimate!!Total:!!1.00 to 1.99:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05010_012M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.99:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05010_013E",
+				"label": "Estimate!!Total:!!1.00 to 1.99:!!Living with two parents:!!Both parents foreign-born"
+			},
+			{
+				"id": "B05010_013M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.99:!!Living with two parents:!!Both parents foreign-born"
+			},
+			{
+				"id": "B05010_014E",
+				"label": "Estimate!!Total:!!1.00 to 1.99:!!Living with two parents:!!One native and one foreign-born parent"
+			},
+			{
+				"id": "B05010_014M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.99:!!Living with two parents:!!One native and one foreign-born parent"
+			},
+			{
+				"id": "B05010_015E",
+				"label": "Estimate!!Total:!!1.00 to 1.99:!!Living with one parent:"
+			},
+			{
+				"id": "B05010_015M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.99:!!Living with one parent:"
+			},
+			{
+				"id": "B05010_016E",
+				"label": "Estimate!!Total:!!1.00 to 1.99:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05010_016M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.99:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05010_017E",
+				"label": "Estimate!!Total:!!1.00 to 1.99:!!Living with one parent:!!Foreign-born parent"
+			},
+			{
+				"id": "B05010_017M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.99:!!Living with one parent:!!Foreign-born parent"
+			},
+			{
+				"id": "B05010_018E",
+				"label": "Estimate!!Total:!!2.00 and over:"
+			},
+			{
+				"id": "B05010_018M",
+				"label": "Margin of Error!!Total:!!2.00 and over:"
+			},
+			{
+				"id": "B05010_019E",
+				"label": "Estimate!!Total:!!2.00 and over:!!Living with two parents:"
+			},
+			{
+				"id": "B05010_019M",
+				"label": "Margin of Error!!Total:!!2.00 and over:!!Living with two parents:"
+			},
+			{
+				"id": "B05010_020E",
+				"label": "Estimate!!Total:!!2.00 and over:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05010_020M",
+				"label": "Margin of Error!!Total:!!2.00 and over:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05010_021E",
+				"label": "Estimate!!Total:!!2.00 and over:!!Living with two parents:!!Both parents foreign-born"
+			},
+			{
+				"id": "B05010_021M",
+				"label": "Margin of Error!!Total:!!2.00 and over:!!Living with two parents:!!Both parents foreign-born"
+			},
+			{
+				"id": "B05010_022E",
+				"label": "Estimate!!Total:!!2.00 and over:!!Living with two parents:!!One native and one foreign-born parent"
+			},
+			{
+				"id": "B05010_022M",
+				"label": "Margin of Error!!Total:!!2.00 and over:!!Living with two parents:!!One native and one foreign-born parent"
+			},
+			{
+				"id": "B05010_023E",
+				"label": "Estimate!!Total:!!2.00 and over:!!Living with one parent:"
+			},
+			{
+				"id": "B05010_023M",
+				"label": "Margin of Error!!Total:!!2.00 and over:!!Living with one parent:"
+			},
+			{
+				"id": "B05010_024E",
+				"label": "Estimate!!Total:!!2.00 and over:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05010_024M",
+				"label": "Margin of Error!!Total:!!2.00 and over:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05010_025E",
+				"label": "Estimate!!Total:!!2.00 and over:!!Living with one parent:!!Foreign-born parent"
+			},
+			{
+				"id": "B05010_025M",
+				"label": "Margin of Error!!Total:!!2.00 and over:!!Living with one parent:!!Foreign-born parent"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B05010_016MA",
+			"B05010_021E",
+			"B05010_012EA",
+			"B05010_005M",
+			"B05010_017M",
+			"B05010_016EA",
+			"B05010_005E",
+			"B05010_017E",
+			"B05010_021M",
+			"B05010_012MA",
+			"B05010_004E",
+			"B05010_004MA",
+			"B05010_023EA",
+			"B05010_008MA",
+			"B05010_016M",
+			"B05010_020E",
+			"B05010_004EA",
+			"B05010_008EA",
+			"B05010_016E",
+			"B05010_004M",
+			"B05010_023MA",
+			"B05010_020M",
+			"B05010_003E",
+			"B05010_017MA",
+			"B05010_015E",
+			"B05010_013EA",
+			"B05010_017EA",
+			"B05010_003M",
+			"B05010_015M",
+			"B05010_013MA",
+			"B05010_014E",
+			"B05010_005MA",
+			"B05010_002E",
+			"B05010_024EA",
+			"B05010_001EA",
+			"B05010_009MA",
+			"B05010_020EA",
+			"B05010_005EA",
+			"B05010_009EA",
+			"B05010_014M",
+			"B05010_002M",
+			"B05010_024MA",
+			"B05010_001MA",
+			"B05010_020MA",
+			"B05010_018MA",
+			"B05010_025E",
+			"B05010_001E",
+			"B05010_009M",
+			"B05010_013E",
+			"B05010_014MA",
+			"B05010_010EA",
+			"B05010_018EA",
+			"B05010_009E",
+			"B05010_014EA",
+			"B05010_025M",
+			"B05010_001M",
+			"B05010_013M",
+			"B05010_010MA",
+			"B05010_006MA",
+			"B05010_021EA",
+			"B05010_012E",
+			"B05010_024E",
+			"B05010_002EA",
+			"B05010_025MA",
+			"B05010_008M",
+			"B05010_006EA",
+			"B05010_025EA",
+			"B05010_008E",
+			"NAME",
+			"B05010_021MA",
+			"B05010_012M",
+			"B05010_024M",
+			"B05010_002MA",
+			"B05010_019MA",
+			"B05010_015MA",
+			"B05010_023E",
+			"B05010_007M",
+			"B05010_011E",
+			"B05010_019M",
+			"B05010_011EA",
+			"B05010_019EA",
+			"B05010_015EA",
+			"B05010_007E",
+			"B05010_019E",
+			"B05010_023M",
+			"B05010_011M",
+			"B05010_011MA",
+			"B05010_022EA",
+			"B05010_003MA",
+			"B05010_010E",
+			"B05010_018M",
+			"B05010_022E",
+			"B05010_006M",
+			"B05010_007MA",
+			"B05010_003EA",
+			"B05010_018E",
+			"B05010_006E",
+			"B05010_007EA",
+			"GEO_ID",
+			"B05010_022MA",
+			"B05010_010M",
+			"B05010_022M"
+		],
+		[
+			null,
+			"5260511",
+			null,
+			"40388",
+			"41911",
+			null,
+			"1227672",
+			"1399683",
+			"57435",
+			null,
+			"1543909",
+			null,
+			null,
+			null,
+			"75474",
+			"26477730",
+			null,
+			null,
+			"5227104",
+			"41174",
+			null,
+			"142664",
+			"3158085",
+			null,
+			"6626787",
+			null,
+			null,
+			"60972",
+			"90924",
+			null,
+			"828440",
+			null,
+			"10172332",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"37207",
+			"125781",
+			null,
+			null,
+			null,
+			null,
+			"1590977",
+			"69108249",
+			"46044",
+			"2102587",
+			null,
+			null,
+			null,
+			"1538794",
+			null,
+			"39421",
+			"62360",
+			"48418",
+			null,
+			null,
+			null,
+			"3834617",
+			"8239812",
+			null,
+			null,
+			"85868",
+			null,
+			null,
+			"5475453",
+			"United States",
+			null,
+			"65669",
+			"78865",
+			null,
+			null,
+			null,
+			"9830789",
+			"100999",
+			"6765644",
+			"156107",
+			null,
+			null,
+			null,
+			"7014247",
+			"35712697",
+			"78005",
+			"87421",
+			null,
+			null,
+			null,
+			"13392431",
+			"166138",
+			"3974456",
+			"21207",
+			null,
+			null,
+			"45543486",
+			"386504",
+			null,
+			"0100000US",
+			null,
+			"130599",
+			"52924"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:34.215Z"
+}

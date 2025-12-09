@@ -1,0 +1,680 @@
+{
+	"tableId": "ACSDT1Y2024.B06007",
+	"title": "Place of Birth by Language Spoken at Home and Ability to Speak English in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 5 years and over in the United States",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06007",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06007_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06007_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06007_002E",
+				"label": "Estimate!!Total:!!Speak only English"
+			},
+			{
+				"id": "B06007_002M",
+				"label": "Margin of Error!!Total:!!Speak only English"
+			},
+			{
+				"id": "B06007_003E",
+				"label": "Estimate!!Total:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_003M",
+				"label": "Margin of Error!!Total:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_004E",
+				"label": "Estimate!!Total:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_004M",
+				"label": "Margin of Error!!Total:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_005E",
+				"label": "Estimate!!Total:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_005M",
+				"label": "Margin of Error!!Total:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_006E",
+				"label": "Estimate!!Total:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_006M",
+				"label": "Margin of Error!!Total:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_007E",
+				"label": "Estimate!!Total:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_007M",
+				"label": "Margin of Error!!Total:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_008E",
+				"label": "Estimate!!Total:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_008M",
+				"label": "Margin of Error!!Total:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_009E",
+				"label": "Estimate!!Total:!!Born in state of residence:"
+			},
+			{
+				"id": "B06007_009M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:"
+			},
+			{
+				"id": "B06007_010E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Speak only English"
+			},
+			{
+				"id": "B06007_010M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Speak only English"
+			},
+			{
+				"id": "B06007_011E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_011M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_012E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_012M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_013E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_013M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_014E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_014M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_015E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_015M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_016E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_016M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_017E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B06007_017M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B06007_018E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Speak only English"
+			},
+			{
+				"id": "B06007_018M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Speak only English"
+			},
+			{
+				"id": "B06007_019E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_019M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_020E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_020M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_021E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_021M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_022E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_022M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_023E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_023M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_024E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_024M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_025E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:"
+			},
+			{
+				"id": "B06007_025M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:"
+			},
+			{
+				"id": "B06007_026E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Speak only English"
+			},
+			{
+				"id": "B06007_026M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Speak only English"
+			},
+			{
+				"id": "B06007_027E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_027M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_028E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_028M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_029E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_029M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_030E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_030M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_031E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_031M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_032E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_032M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_033E",
+				"label": "Estimate!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06007_033M",
+				"label": "Margin of Error!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06007_034E",
+				"label": "Estimate!!Total:!!Foreign born:!!Speak only English"
+			},
+			{
+				"id": "B06007_034M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Speak only English"
+			},
+			{
+				"id": "B06007_035E",
+				"label": "Estimate!!Total:!!Foreign born:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_035M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Speak Spanish:"
+			},
+			{
+				"id": "B06007_036E",
+				"label": "Estimate!!Total:!!Foreign born:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_036M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Speak Spanish:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_037E",
+				"label": "Estimate!!Total:!!Foreign born:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_037M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Speak Spanish:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_038E",
+				"label": "Estimate!!Total:!!Foreign born:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_038M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Speak other languages:"
+			},
+			{
+				"id": "B06007_039E",
+				"label": "Estimate!!Total:!!Foreign born:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_039M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Speak other languages:!!Speak English \"very well\""
+			},
+			{
+				"id": "B06007_040E",
+				"label": "Estimate!!Total:!!Foreign born:!!Speak other languages:!!Speak English less than \"very well\""
+			},
+			{
+				"id": "B06007_040M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Speak other languages:!!Speak English less than \"very well\""
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06007_007E",
+			"B06007_006EA",
+			"B06007_019E",
+			"B06007_029EA",
+			"B06007_013MA",
+			"B06007_032EA",
+			"B06007_010M",
+			"B06007_034M",
+			"B06007_022M",
+			"B06007_036EA",
+			"B06007_013EA",
+			"B06007_032MA",
+			"B06007_010E",
+			"B06007_018M",
+			"B06007_006M",
+			"B06007_017MA",
+			"B06007_034E",
+			"B06007_022E",
+			"B06007_036MA",
+			"B06007_018E",
+			"B06007_006E",
+			"B06007_017EA",
+			"B06007_001MA",
+			"B06007_005M",
+			"B06007_020EA",
+			"B06007_028MA",
+			"B06007_021M",
+			"B06007_024EA",
+			"B06007_033M",
+			"B06007_001EA",
+			"B06007_005E",
+			"B06007_009MA",
+			"B06007_020MA",
+			"B06007_021E",
+			"B06007_029M",
+			"B06007_017M",
+			"B06007_005MA",
+			"B06007_024MA",
+			"B06007_033E",
+			"B06007_009EA",
+			"B06007_005EA",
+			"B06007_009E",
+			"B06007_028EA",
+			"B06007_040M",
+			"B06007_036M",
+			"B06007_024M",
+			"B06007_012MA",
+			"B06007_031EA",
+			"B06007_039MA",
+			"B06007_040E",
+			"B06007_012M",
+			"B06007_035EA",
+			"B06007_036E",
+			"B06007_024E",
+			"B06007_012EA",
+			"B06007_031MA",
+			"B06007_012E",
+			"B06007_016MA",
+			"B06007_035MA",
+			"B06007_008M",
+			"B06007_016EA",
+			"B06007_008E",
+			"B06007_039EA",
+			"B06007_027MA",
+			"B06007_035M",
+			"B06007_023EA",
+			"B06007_023M",
+			"B06007_011M",
+			"B06007_035E",
+			"B06007_008MA",
+			"B06007_007M",
+			"B06007_023MA",
+			"B06007_023E",
+			"B06007_004MA",
+			"B06007_011E",
+			"B06007_019M",
+			"B06007_008EA",
+			"B06007_039E",
+			"B06007_004EA",
+			"B06007_027EA",
+			"B06007_030M",
+			"B06007_014M",
+			"B06007_002M",
+			"B06007_030EA",
+			"B06007_038MA",
+			"B06007_030E",
+			"B06007_038M",
+			"B06007_011MA",
+			"B06007_026M",
+			"B06007_034EA",
+			"B06007_014E",
+			"B06007_002E",
+			"B06007_030MA",
+			"B06007_038E",
+			"B06007_011EA",
+			"B06007_019MA",
+			"B06007_026E",
+			"B06007_034MA",
+			"B06007_015MA",
+			"B06007_019EA",
+			"B06007_015EA",
+			"B06007_038EA",
+			"NAME",
+			"B06007_003MA",
+			"B06007_025M",
+			"B06007_026MA",
+			"B06007_013M",
+			"B06007_037M",
+			"B06007_022EA",
+			"B06007_001M",
+			"B06007_003EA",
+			"B06007_025E",
+			"B06007_013E",
+			"B06007_037E",
+			"B06007_007MA",
+			"B06007_022MA",
+			"B06007_001E",
+			"B06007_009M",
+			"B06007_007EA",
+			"B06007_029E",
+			"B06007_017E",
+			"B06007_026EA",
+			"B06007_014MA",
+			"B06007_037MA",
+			"B06007_016M",
+			"B06007_004M",
+			"B06007_010MA",
+			"B06007_032M",
+			"B06007_033EA",
+			"B06007_020M",
+			"B06007_014EA",
+			"B06007_016E",
+			"B06007_004E",
+			"B06007_010EA",
+			"B06007_018MA",
+			"B06007_032E",
+			"B06007_033MA",
+			"B06007_020E",
+			"B06007_028M",
+			"B06007_018EA",
+			"B06007_028E",
+			"B06007_037EA",
+			"B06007_003M",
+			"GEO_ID",
+			"B06007_002MA",
+			"B06007_040EA",
+			"B06007_027M",
+			"B06007_015M",
+			"B06007_021EA",
+			"B06007_029MA",
+			"B06007_031M",
+			"B06007_025EA",
+			"B06007_003E",
+			"B06007_002EA",
+			"B06007_040MA",
+			"B06007_027E",
+			"B06007_015E",
+			"B06007_021MA",
+			"B06007_006MA",
+			"B06007_031E",
+			"B06007_039M",
+			"B06007_025MA"
+		],
+		[
+			"18696607",
+			null,
+			"4638636",
+			null,
+			null,
+			null,
+			"203485",
+			"70344",
+			"28045",
+			null,
+			null,
+			null,
+			"153676691",
+			"194903",
+			"134915",
+			null,
+			"8122158",
+			"2363930",
+			null,
+			"83093875",
+			"29183134",
+			null,
+			null,
+			"123301",
+			null,
+			null,
+			"17247",
+			null,
+			"159991",
+			null,
+			"18432221",
+			null,
+			null,
+			"712213",
+			"19848",
+			"198745",
+			null,
+			null,
+			"49828046",
+			null,
+			null,
+			"176153621",
+			null,
+			"72961",
+			"60347",
+			"9437",
+			null,
+			null,
+			null,
+			"9106427",
+			"94771",
+			null,
+			"6721389",
+			"281367",
+			null,
+			null,
+			"14383955",
+			null,
+			null,
+			"78581",
+			null,
+			"10486527",
+			null,
+			null,
+			"107283",
+			null,
+			"26689",
+			"96282",
+			"21080363",
+			null,
+			"99283",
+			null,
+			"2082563",
+			null,
+			"16919983",
+			"52323",
+			null,
+			"11519098",
+			null,
+			null,
+			"21789",
+			"55869",
+			"225544",
+			null,
+			null,
+			"636732",
+			"114367",
+			null,
+			"36972",
+			null,
+			"5556947",
+			"247695110",
+			null,
+			"20625525",
+			null,
+			null,
+			"2802386",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			null,
+			"58221",
+			null,
+			"37907",
+			"112184",
+			null,
+			"18702",
+			null,
+			"5667835",
+			"2536028",
+			"14358974",
+			null,
+			null,
+			"321745943",
+			"198286",
+			null,
+			"825006",
+			"90096441",
+			null,
+			null,
+			null,
+			"24860",
+			"117269",
+			null,
+			"8714",
+			null,
+			"48681",
+			null,
+			"960042",
+			"26435478",
+			null,
+			null,
+			"138691",
+			null,
+			"3926423",
+			"31671",
+			null,
+			"1403711",
+			null,
+			"143192",
+			"0100000US",
+			null,
+			null,
+			"38181",
+			"50710",
+			null,
+			null,
+			"19815",
+			null,
+			"44867699",
+			null,
+			null,
+			"2228717",
+			"4596905",
+			null,
+			null,
+			"498041",
+			"80078",
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.833Z"
+}

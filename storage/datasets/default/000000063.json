@@ -1,0 +1,1483 @@
+{
+	"tableId": "ACSST1Y2024.S2703",
+	"title": "Private Health Insurance Coverage by Type and Selected Characteristics",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S2703",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S2703_C01_001E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2703_C01_001M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2703_C02_001E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2703_C02_001M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2703_C03_001E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2703_C03_001M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2703_C01_002E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C01_002M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C02_002E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C02_002M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C03_002E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C03_002M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C01_003E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C01_003M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C02_003E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C02_003M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C03_003E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C03_003M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C01_004E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C01_004M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C02_004E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C02_004M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C03_004E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C03_004M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C01_005E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C01_005M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C02_005E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C02_005M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C03_005E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C03_005M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C01_006E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C01_006M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C02_006E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C02_006M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C03_006E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C03_006M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C01_007E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C01_007M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C02_007E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C02_007M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C03_007E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C03_007M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C01_008E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C01_008M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C02_008E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C02_008M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C03_008E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C03_008M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C01_009E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C01_009M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C02_009E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C02_009M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C03_009E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C03_009M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Direct-purchase health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C01_010E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C01_010M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C02_010E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C02_010M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C03_010E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C03_010M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination"
+			},
+			{
+				"id": "S2703_C01_011E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C01_011M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C02_011E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C02_011M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C03_011E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C03_011M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!Under 19"
+			},
+			{
+				"id": "S2703_C01_012E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C01_012M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C02_012E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C02_012M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C03_012E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C03_012M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!19 to 64 years"
+			},
+			{
+				"id": "S2703_C01_013E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C01_013M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C02_013E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C02_013M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C03_013E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C03_013M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE OR IN COMBINATION!!Tricare/military  health insurance alone or in combination!!65 years and over"
+			},
+			{
+				"id": "S2703_C01_014E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C01_014M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C02_014E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C02_014M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C03_014E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C03_014M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C01_015E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C01_015M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C02_015E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C02_015M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C03_015E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C03_015M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold"
+			},
+			{
+				"id": "S2703_C01_016E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Worked full-time, year-round (19-64 years)"
+			},
+			{
+				"id": "S2703_C01_016M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Worked full-time, year-round (19-64 years)"
+			},
+			{
+				"id": "S2703_C02_016E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Worked full-time, year-round (19-64 years)"
+			},
+			{
+				"id": "S2703_C02_016M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Worked full-time, year-round (19-64 years)"
+			},
+			{
+				"id": "S2703_C03_016E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Worked full-time, year-round (19-64 years)"
+			},
+			{
+				"id": "S2703_C03_016M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Worked full-time, year-round (19-64 years)"
+			},
+			{
+				"id": "S2703_C01_017E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Under 6"
+			},
+			{
+				"id": "S2703_C01_017M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Under 6"
+			},
+			{
+				"id": "S2703_C02_017E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Under 6"
+			},
+			{
+				"id": "S2703_C02_017M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Under 6"
+			},
+			{
+				"id": "S2703_C03_017E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Under 6"
+			},
+			{
+				"id": "S2703_C03_017M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Under 6"
+			},
+			{
+				"id": "S2703_C01_018E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!6 to 18 years"
+			},
+			{
+				"id": "S2703_C01_018M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!6 to 18 years"
+			},
+			{
+				"id": "S2703_C02_018E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!6 to 18 years"
+			},
+			{
+				"id": "S2703_C02_018M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!6 to 18 years"
+			},
+			{
+				"id": "S2703_C03_018E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!6 to 18 years"
+			},
+			{
+				"id": "S2703_C03_018M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!6 to 18 years"
+			},
+			{
+				"id": "S2703_C01_019E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!19 to 25 years"
+			},
+			{
+				"id": "S2703_C01_019M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!19 to 25 years"
+			},
+			{
+				"id": "S2703_C02_019E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!19 to 25 years"
+			},
+			{
+				"id": "S2703_C02_019M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!19 to 25 years"
+			},
+			{
+				"id": "S2703_C03_019E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!19 to 25 years"
+			},
+			{
+				"id": "S2703_C03_019M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!19 to 25 years"
+			},
+			{
+				"id": "S2703_C01_020E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!26 to 34 years"
+			},
+			{
+				"id": "S2703_C01_020M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!26 to 34 years"
+			},
+			{
+				"id": "S2703_C02_020E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!26 to 34 years"
+			},
+			{
+				"id": "S2703_C02_020M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!26 to 34 years"
+			},
+			{
+				"id": "S2703_C03_020E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!26 to 34 years"
+			},
+			{
+				"id": "S2703_C03_020M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!26 to 34 years"
+			},
+			{
+				"id": "S2703_C01_021E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!35 to 44 years"
+			},
+			{
+				"id": "S2703_C01_021M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!35 to 44 years"
+			},
+			{
+				"id": "S2703_C02_021E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!35 to 44 years"
+			},
+			{
+				"id": "S2703_C02_021M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!35 to 44 years"
+			},
+			{
+				"id": "S2703_C03_021E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!35 to 44 years"
+			},
+			{
+				"id": "S2703_C03_021M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!35 to 44 years"
+			},
+			{
+				"id": "S2703_C01_022E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!45 to 54 years"
+			},
+			{
+				"id": "S2703_C01_022M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!45 to 54 years"
+			},
+			{
+				"id": "S2703_C02_022E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!45 to 54 years"
+			},
+			{
+				"id": "S2703_C02_022M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!45 to 54 years"
+			},
+			{
+				"id": "S2703_C03_022E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!45 to 54 years"
+			},
+			{
+				"id": "S2703_C03_022M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!45 to 54 years"
+			},
+			{
+				"id": "S2703_C01_023E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!55 to 64 years"
+			},
+			{
+				"id": "S2703_C01_023M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!55 to 64 years"
+			},
+			{
+				"id": "S2703_C02_023E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!55 to 64 years"
+			},
+			{
+				"id": "S2703_C02_023M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!55 to 64 years"
+			},
+			{
+				"id": "S2703_C03_023E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!55 to 64 years"
+			},
+			{
+				"id": "S2703_C03_023M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!55 to 64 years"
+			},
+			{
+				"id": "S2703_C01_024E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!65 to 74 years"
+			},
+			{
+				"id": "S2703_C01_024M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!65 to 74 years"
+			},
+			{
+				"id": "S2703_C02_024E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!65 to 74 years"
+			},
+			{
+				"id": "S2703_C02_024M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!65 to 74 years"
+			},
+			{
+				"id": "S2703_C03_024E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!65 to 74 years"
+			},
+			{
+				"id": "S2703_C03_024M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!65 to 74 years"
+			},
+			{
+				"id": "S2703_C01_025E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!75 years and over"
+			},
+			{
+				"id": "S2703_C01_025M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!75 years and over"
+			},
+			{
+				"id": "S2703_C02_025E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!75 years and over"
+			},
+			{
+				"id": "S2703_C02_025M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!75 years and over"
+			},
+			{
+				"id": "S2703_C03_025E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!75 years and over"
+			},
+			{
+				"id": "S2703_C03_025M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!75 years and over"
+			},
+			{
+				"id": "S2703_C01_026E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone"
+			},
+			{
+				"id": "S2703_C01_026M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone"
+			},
+			{
+				"id": "S2703_C02_026E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone"
+			},
+			{
+				"id": "S2703_C02_026M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone"
+			},
+			{
+				"id": "S2703_C03_026E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone"
+			},
+			{
+				"id": "S2703_C03_026M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone"
+			},
+			{
+				"id": "S2703_C01_027E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone"
+			},
+			{
+				"id": "S2703_C01_027M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone"
+			},
+			{
+				"id": "S2703_C02_027E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone"
+			},
+			{
+				"id": "S2703_C02_027M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone"
+			},
+			{
+				"id": "S2703_C03_027E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone"
+			},
+			{
+				"id": "S2703_C03_027M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone"
+			},
+			{
+				"id": "S2703_C01_028E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone"
+			},
+			{
+				"id": "S2703_C01_028M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone"
+			},
+			{
+				"id": "S2703_C02_028E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone"
+			},
+			{
+				"id": "S2703_C02_028M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone"
+			},
+			{
+				"id": "S2703_C03_028E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone"
+			},
+			{
+				"id": "S2703_C03_028M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone"
+			},
+			{
+				"id": "S2703_C01_029E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone"
+			},
+			{
+				"id": "S2703_C01_029M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone"
+			},
+			{
+				"id": "S2703_C02_029E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone"
+			},
+			{
+				"id": "S2703_C02_029M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone"
+			},
+			{
+				"id": "S2703_C03_029E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone"
+			},
+			{
+				"id": "S2703_C03_029M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone"
+			},
+			{
+				"id": "S2703_C01_030E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Subsidized market place coverage alone"
+			},
+			{
+				"id": "S2703_C01_030M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Subsidized market place coverage alone"
+			},
+			{
+				"id": "S2703_C02_030E",
+				"label": "Estimate!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Subsidized market place coverage alone"
+			},
+			{
+				"id": "S2703_C02_030M",
+				"label": "Margin of Error!!Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Subsidized market place coverage alone"
+			},
+			{
+				"id": "S2703_C03_030E",
+				"label": "Estimate!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Subsidized market place coverage alone"
+			},
+			{
+				"id": "S2703_C03_030M",
+				"label": "Margin of Error!!Percent Private Coverage!!Civilian noninstitutionalized population!!COVERAGE ALONE!!Private health insurance alone!!Subsidized market place coverage alone"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S2703_C02_029MA",
+			"S2703_C03_015EA",
+			"S2703_C02_006MA",
+			"S2703_C02_021MA",
+			"S2703_C01_012EA",
+			"S2703_C01_006M",
+			"S2703_C01_018M",
+			"S2703_C03_008E",
+			"S2703_C01_016MA",
+			"S2703_C02_011M",
+			"S2703_C01_006E",
+			"S2703_C02_023M",
+			"S2703_C01_018E",
+			"S2703_C03_008M",
+			"S2703_C03_011MA",
+			"S2703_C02_002EA",
+			"S2703_C02_011E",
+			"S2703_C02_023E",
+			"S2703_C02_025EA",
+			"S2703_C03_019MA",
+			"S2703_C03_030EA",
+			"S2703_C03_026EA",
+			"S2703_C03_003EA",
+			"S2703_C02_018MA",
+			"S2703_C01_023EA",
+			"S2703_C01_004MA",
+			"S2703_C03_009E",
+			"S2703_C01_007M",
+			"S2703_C02_010MA",
+			"S2703_C01_019M",
+			"S2703_C01_027MA",
+			"S2703_C01_008EA",
+			"S2703_C02_012M",
+			"S2703_C03_009M",
+			"S2703_C03_022MA",
+			"S2703_C01_007E",
+			"S2703_C02_024M",
+			"S2703_C01_019E",
+			"S2703_C02_014EA",
+			"S2703_C02_012E",
+			"S2703_C02_024E",
+			"S2703_C03_007MA",
+			"S2703_C02_005MA",
+			"S2703_C02_028MA",
+			"S2703_C03_014EA",
+			"S2703_C02_001EA",
+			"S2703_C02_020MA",
+			"S2703_C01_013EA",
+			"S2703_C01_017MA",
+			"S2703_C01_008M",
+			"S2703_C03_030E",
+			"S2703_C02_021M",
+			"S2703_C01_008E",
+			"S2703_C03_010MA",
+			"S2703_C03_030M",
+			"S2703_C02_021E",
+			"S2703_C02_009EA",
+			"S2703_C02_024EA",
+			"S2703_C03_018MA",
+			"S2703_C03_002EA",
+			"S2703_C03_025EA",
+			"S2703_C01_020MA",
+			"S2703_C02_017MA",
+			"S2703_C01_009M",
+			"S2703_C01_001EA",
+			"S2703_C01_024EA",
+			"S2703_C01_028MA",
+			"S2703_C01_005MA",
+			"S2703_C01_009E",
+			"S2703_C01_009EA",
+			"S2703_C02_010M",
+			"S2703_C02_022M",
+			"S2703_C03_021MA",
+			"S2703_C02_010E",
+			"S2703_C02_013EA",
+			"S2703_C02_022E",
+			"S2703_C03_006MA",
+			"S2703_C03_029MA",
+			"S2703_C02_015E",
+			"S2703_C01_002M",
+			"S2703_C01_010MA",
+			"S2703_C02_027E",
+			"S2703_C01_014M",
+			"S2703_C01_026M",
+			"S2703_C02_008MA",
+			"S2703_C03_017EA",
+			"S2703_C01_002E",
+			"S2703_C01_018MA",
+			"S2703_C01_014E",
+			"S2703_C01_026E",
+			"S2703_C02_023MA",
+			"S2703_C03_020E",
+			"S2703_C01_014EA",
+			"S2703_C02_003M",
+			"S2703_C02_015M",
+			"S2703_C03_013MA",
+			"S2703_C03_020M",
+			"S2703_C02_004EA",
+			"S2703_C02_027M",
+			"S2703_C02_003E",
+			"S2703_C02_027EA",
+			"S2703_C02_004E",
+			"S2703_C01_021MA",
+			"S2703_C02_016E",
+			"S2703_C03_009MA",
+			"S2703_C01_003M",
+			"S2703_C02_028E",
+			"S2703_C01_015M",
+			"S2703_C03_005EA",
+			"S2703_C03_028EA",
+			"S2703_C01_002EA",
+			"S2703_C01_003E",
+			"S2703_C01_029MA",
+			"S2703_C01_015E",
+			"S2703_C01_027M",
+			"S2703_C02_012MA",
+			"S2703_C01_006MA",
+			"NAME",
+			"S2703_C01_027E",
+			"S2703_C01_025EA",
+			"S2703_C03_021E",
+			"S2703_C02_004M",
+			"S2703_C02_016EA",
+			"S2703_C02_016M",
+			"S2703_C03_001MA",
+			"S2703_C02_028M",
+			"S2703_C03_024MA",
+			"S2703_C03_020EA",
+			"S2703_C03_021M",
+			"S2703_C01_011MA",
+			"S2703_C01_004M",
+			"S2703_C03_016EA",
+			"S2703_C02_007MA",
+			"S2703_C01_019MA",
+			"S2703_C02_022MA",
+			"S2703_C01_004E",
+			"S2703_C01_016M",
+			"S2703_C01_030EA",
+			"S2703_C01_028M",
+			"S2703_C01_015EA",
+			"S2703_C01_016E",
+			"S2703_C01_028E",
+			"S2703_C02_001M",
+			"S2703_C02_013M",
+			"S2703_C03_022E",
+			"S2703_C02_025M",
+			"S2703_C03_010E",
+			"S2703_C03_012MA",
+			"S2703_C02_003EA",
+			"S2703_C02_001E",
+			"S2703_C02_013E",
+			"S2703_C02_026EA",
+			"S2703_C03_022M",
+			"S2703_C02_025E",
+			"S2703_C03_010M",
+			"S2703_C01_022MA",
+			"S2703_C02_026E",
+			"S2703_C03_004EA",
+			"S2703_C02_019MA",
+			"S2703_C03_027EA",
+			"S2703_C02_030EA",
+			"S2703_C01_007MA",
+			"S2703_C01_005M",
+			"S2703_C01_017M",
+			"S2703_C02_011MA",
+			"S2703_C01_029M",
+			"S2703_C01_005E",
+			"S2703_C01_026EA",
+			"S2703_C01_003EA",
+			"S2703_C01_017E",
+			"S2703_C03_023E",
+			"S2703_C01_029E",
+			"S2703_C02_002M",
+			"S2703_C03_011E",
+			"S2703_C02_014M",
+			"S2703_C02_026M",
+			"S2703_C02_015EA",
+			"S2703_C03_023MA",
+			"S2703_C03_023M",
+			"S2703_C02_002E",
+			"S2703_C03_008MA",
+			"S2703_C03_011M",
+			"S2703_C02_014E",
+			"S2703_C02_021EA",
+			"S2703_C01_012MA",
+			"S2703_C02_002MA",
+			"S2703_C02_007E",
+			"S2703_C02_019E",
+			"S2703_C02_025MA",
+			"S2703_C03_019EA",
+			"S2703_C01_010M",
+			"S2703_C01_022M",
+			"S2703_C01_010E",
+			"S2703_C01_022E",
+			"S2703_C03_024E",
+			"S2703_C03_012E",
+			"S2703_C03_030MA",
+			"S2703_C01_016EA",
+			"S2703_C02_029EA",
+			"S2703_C03_015MA",
+			"S2703_C02_007M",
+			"S2703_C02_019M",
+			"S2703_C03_024M",
+			"S2703_C03_012M",
+			"S2703_C03_011EA",
+			"S2703_C02_006EA",
+			"S2703_C01_023M",
+			"S2703_C02_014MA",
+			"S2703_C01_023MA",
+			"S2703_C02_008E",
+			"S2703_C02_010EA",
+			"S2703_C01_011M",
+			"S2703_C03_007EA",
+			"S2703_C01_008MA",
+			"S2703_C01_023E",
+			"S2703_C03_025E",
+			"S2703_C01_011E",
+			"S2703_C03_025M",
+			"S2703_C01_004EA",
+			"S2703_C03_013E",
+			"S2703_C03_001E",
+			"S2703_C01_027EA",
+			"S2703_C03_026MA",
+			"S2703_C03_003MA",
+			"S2703_C02_008M",
+			"S2703_C03_013M",
+			"S2703_C03_001M",
+			"S2703_C03_022EA",
+			"S2703_C02_018EA",
+			"S2703_C01_012M",
+			"S2703_C02_020EA",
+			"S2703_C01_024M",
+			"S2703_C02_005E",
+			"S2703_C01_013MA",
+			"S2703_C02_017E",
+			"S2703_C02_029E",
+			"S2703_C02_009MA",
+			"S2703_C02_024MA",
+			"S2703_C03_018EA",
+			"S2703_C01_012E",
+			"S2703_C01_024E",
+			"S2703_C03_026E",
+			"S2703_C03_014E",
+			"S2703_C02_001MA",
+			"S2703_C03_026M",
+			"S2703_C03_014M",
+			"S2703_C03_002E",
+			"S2703_C01_017EA",
+			"S2703_C02_005EA",
+			"S2703_C02_028EA",
+			"S2703_C02_005M",
+			"S2703_C02_017M",
+			"S2703_C02_029M",
+			"S2703_C03_014MA",
+			"S2703_C03_002M",
+			"S2703_C03_010EA",
+			"S2703_C01_001M",
+			"S2703_C01_013M",
+			"S2703_C01_001MA",
+			"S2703_C01_024MA",
+			"S2703_C01_025M",
+			"S2703_C02_006E",
+			"S2703_C02_013MA",
+			"S2703_C02_018E",
+			"S2703_C03_006EA",
+			"S2703_C03_029EA",
+			"S2703_C01_001E",
+			"S2703_C01_013E",
+			"S2703_C03_027E",
+			"S2703_C01_025E",
+			"S2703_C03_015E",
+			"S2703_C01_009MA",
+			"S2703_C03_003E",
+			"S2703_C01_020EA",
+			"S2703_C03_027M",
+			"S2703_C03_015M",
+			"S2703_C03_003M",
+			"S2703_C01_028EA",
+			"S2703_C01_005EA",
+			"S2703_C03_002MA",
+			"S2703_C03_025MA",
+			"S2703_C02_006M",
+			"S2703_C02_018M",
+			"S2703_C03_021EA",
+			"S2703_C02_017EA",
+			"S2703_C03_013EA",
+			"S2703_C02_004MA",
+			"S2703_C02_023EA",
+			"S2703_C01_030M",
+			"S2703_C02_027MA",
+			"S2703_C03_028E",
+			"S2703_C01_010EA",
+			"S2703_C03_016E",
+			"S2703_C03_004E",
+			"S2703_C01_030E",
+			"S2703_C01_014MA",
+			"S2703_C03_028M",
+			"S2703_C01_018EA",
+			"S2703_C03_016M",
+			"S2703_C03_004M",
+			"S2703_C02_008EA",
+			"S2703_C03_017MA",
+			"S2703_C02_016MA",
+			"S2703_C03_001EA",
+			"S2703_C01_002MA",
+			"S2703_C03_024EA",
+			"S2703_C02_012EA",
+			"S2703_C03_017E",
+			"S2703_C01_021EA",
+			"S2703_C03_005E",
+			"S2703_C03_009EA",
+			"S2703_C01_025MA",
+			"S2703_C03_029E",
+			"S2703_C03_017M",
+			"S2703_C03_005M",
+			"S2703_C01_029EA",
+			"S2703_C02_020M",
+			"S2703_C01_006EA",
+			"S2703_C03_020MA",
+			"S2703_C03_029M",
+			"S2703_C02_020E",
+			"S2703_C03_005MA",
+			"S2703_C03_028MA",
+			"S2703_C03_012EA",
+			"S2703_C02_003MA",
+			"S2703_C02_022EA",
+			"S2703_C01_030MA",
+			"S2703_C01_020M",
+			"S2703_C02_009E",
+			"S2703_C02_026MA",
+			"S2703_C01_011EA",
+			"S2703_C03_006E",
+			"S2703_C01_015MA",
+			"S2703_C01_020E",
+			"S2703_C03_018E",
+			"S2703_C01_019EA",
+			"S2703_C03_006M",
+			"S2703_C03_018M",
+			"S2703_C02_009M",
+			"S2703_C03_016MA",
+			"S2703_C02_007EA",
+			"S2703_C02_015MA",
+			"S2703_C03_023EA",
+			"S2703_C02_011EA",
+			"S2703_C01_021M",
+			"S2703_C03_008EA",
+			"S2703_C01_022EA",
+			"S2703_C01_026MA",
+			"S2703_C01_003MA",
+			"S2703_C01_021E",
+			"S2703_C03_019E",
+			"S2703_C02_030MA",
+			"S2703_C03_007E",
+			"GEO_ID",
+			"S2703_C01_007EA",
+			"S2703_C02_030M",
+			"S2703_C03_019M",
+			"S2703_C03_007M",
+			"S2703_C02_030E",
+			"S2703_C03_004MA",
+			"S2703_C02_019EA",
+			"S2703_C03_027MA"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"-888888888",
+			"65587",
+			"12.5",
+			null,
+			"38498",
+			"-888888888",
+			"70259",
+			"55318609",
+			"0.1",
+			null,
+			null,
+			"2096682",
+			"31401103",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"27.0",
+			"52464",
+			null,
+			"68525",
+			"(X)",
+			null,
+			"47889",
+			"0.1",
+			null,
+			"77431038",
+			"63926",
+			"30393815",
+			null,
+			"3945168",
+			"17704939",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"49762",
+			"2.0",
+			"84353",
+			"197947158",
+			null,
+			"0.1",
+			"33573784",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"25206",
+			null,
+			null,
+			"(X)",
+			null,
+			"59812326",
+			null,
+			"84327",
+			"73856",
+			null,
+			"9246069",
+			null,
+			"31165852",
+			null,
+			null,
+			"204747353",
+			"-888888888",
+			"(X)",
+			"151767978",
+			"339284",
+			"-888888888",
+			null,
+			null,
+			"-888888888",
+			null,
+			"58224314",
+			"-888888888",
+			null,
+			"70.6",
+			null,
+			"159292",
+			"502507",
+			null,
+			"0.2",
+			null,
+			"358712",
+			"40761135",
+			null,
+			"124651784",
+			null,
+			"97967548",
+			null,
+			"52464",
+			"22454840",
+			"339393",
+			null,
+			null,
+			"(X)",
+			"77431038",
+			"(X)",
+			"272947933",
+			"-888888888",
+			null,
+			"(X)",
+			"United States",
+			"-888888888",
+			null,
+			"74.5",
+			"263213",
+			null,
+			"207639",
+			null,
+			"119835",
+			null,
+			null,
+			"0.2",
+			null,
+			"49762",
+			null,
+			null,
+			null,
+			null,
+			"197947158",
+			"145776",
+			"(X)",
+			"-888888888",
+			null,
+			"114884210",
+			"-888888888",
+			"467385",
+			"33169",
+			"77.2",
+			"54262",
+			"2.8",
+			null,
+			null,
+			"225157549",
+			"3204219",
+			null,
+			"0.2",
+			"13750041",
+			"0.1",
+			null,
+			"177092448",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"25206",
+			"43209",
+			null,
+			"-888888888",
+			"59812326",
+			"(X)",
+			null,
+			"22112429",
+			"76.0",
+			"-888888888",
+			"432566",
+			"2.7",
+			"124512",
+			"368307",
+			null,
+			null,
+			"0.2",
+			"182980095",
+			null,
+			"0.1",
+			"17503499",
+			null,
+			null,
+			null,
+			"6477053",
+			"21294654",
+			null,
+			null,
+			"-888888888",
+			"36145",
+			"-888888888",
+			"40345654",
+			"50.4",
+			"2.0",
+			null,
+			null,
+			null,
+			null,
+			"65522",
+			"71856",
+			"0.2",
+			"0.1",
+			null,
+			null,
+			"19085",
+			null,
+			null,
+			"24663895",
+			null,
+			"52464",
+			null,
+			null,
+			"41292992",
+			"55.7",
+			"77431038",
+			"0.2",
+			null,
+			"5.4",
+			"67.2",
+			"(X)",
+			null,
+			null,
+			"109850",
+			"0.1",
+			"0.1",
+			null,
+			null,
+			"49762",
+			null,
+			"20910",
+			"17567176",
+			null,
+			"13117901",
+			"2869630",
+			null,
+			null,
+			null,
+			"197947158",
+			"35138524",
+			"52.8",
+			"30.1",
+			null,
+			"0.1",
+			"0.2",
+			"54.6",
+			null,
+			null,
+			null,
+			"75071",
+			"70851",
+			"49321",
+			null,
+			"0.1",
+			null,
+			"20943",
+			"25206",
+			null,
+			null,
+			"16962",
+			"47308411",
+			null,
+			"34309393",
+			null,
+			null,
+			"335190522",
+			"59812326",
+			"45.3",
+			"24673802",
+			"75.0",
+			null,
+			"52.6",
+			null,
+			"0.1",
+			"0.1",
+			"0.2",
+			"(X)",
+			null,
+			null,
+			null,
+			"175120",
+			"123808",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"-888888888",
+			null,
+			"6.7",
+			"(X)",
+			"85.3",
+			"63.0",
+			"-888888888",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"(X)",
+			null,
+			null,
+			"59.3",
+			null,
+			"29.4",
+			null,
+			null,
+			"0.9",
+			"0.3",
+			"0.1",
+			"(X)",
+			"104700",
+			"(X)",
+			null,
+			"0.1",
+			"28839882",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"(X)",
+			"62440",
+			"16167463",
+			null,
+			null,
+			"14.1",
+			null,
+			"40840056",
+			"62.0",
+			null,
+			"0.1",
+			"0.2",
+			"72949",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"39454",
+			null,
+			null,
+			"(X)",
+			null,
+			"45074641",
+			"70.1",
+			null,
+			"8.4",
+			"0100000US",
+			null,
+			"69747",
+			"0.2",
+			"0.1",
+			"6779066",
+			null,
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:06.468Z"
+}

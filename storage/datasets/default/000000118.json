@@ -1,0 +1,968 @@
+{
+	"tableId": "ACSDT1Y2024.B02022",
+	"title": "White Alone by Selected Groups",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total White alone population",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B02022",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B02022_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B02022_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B02022_002E",
+				"label": "Estimate!!Total:!!European:!!Albanian"
+			},
+			{
+				"id": "B02022_002M",
+				"label": "Margin of Error!!Total:!!European:!!Albanian"
+			},
+			{
+				"id": "B02022_003E",
+				"label": "Estimate!!Total:!!European:!!Armenian"
+			},
+			{
+				"id": "B02022_003M",
+				"label": "Margin of Error!!Total:!!European:!!Armenian"
+			},
+			{
+				"id": "B02022_004E",
+				"label": "Estimate!!Total:!!European:!!Austrian"
+			},
+			{
+				"id": "B02022_004M",
+				"label": "Margin of Error!!Total:!!European:!!Austrian"
+			},
+			{
+				"id": "B02022_005E",
+				"label": "Estimate!!Total:!!European:!!Belgian"
+			},
+			{
+				"id": "B02022_005M",
+				"label": "Margin of Error!!Total:!!European:!!Belgian"
+			},
+			{
+				"id": "B02022_006E",
+				"label": "Estimate!!Total:!!European:!!Bosnian and Herzegovinian"
+			},
+			{
+				"id": "B02022_006M",
+				"label": "Margin of Error!!Total:!!European:!!Bosnian and Herzegovinian"
+			},
+			{
+				"id": "B02022_007E",
+				"label": "Estimate!!Total:!!European:!!British"
+			},
+			{
+				"id": "B02022_007M",
+				"label": "Margin of Error!!Total:!!European:!!British"
+			},
+			{
+				"id": "B02022_008E",
+				"label": "Estimate!!Total:!!European:!!Croatian"
+			},
+			{
+				"id": "B02022_008M",
+				"label": "Margin of Error!!Total:!!European:!!Croatian"
+			},
+			{
+				"id": "B02022_009E",
+				"label": "Estimate!!Total:!!European:!!Czech"
+			},
+			{
+				"id": "B02022_009M",
+				"label": "Margin of Error!!Total:!!European:!!Czech"
+			},
+			{
+				"id": "B02022_010E",
+				"label": "Estimate!!Total:!!European:!!Danish"
+			},
+			{
+				"id": "B02022_010M",
+				"label": "Margin of Error!!Total:!!European:!!Danish"
+			},
+			{
+				"id": "B02022_011E",
+				"label": "Estimate!!Total:!!European:!!Dutch"
+			},
+			{
+				"id": "B02022_011M",
+				"label": "Margin of Error!!Total:!!European:!!Dutch"
+			},
+			{
+				"id": "B02022_012E",
+				"label": "Estimate!!Total:!!European:!!English"
+			},
+			{
+				"id": "B02022_012M",
+				"label": "Margin of Error!!Total:!!European:!!English"
+			},
+			{
+				"id": "B02022_013E",
+				"label": "Estimate!!Total:!!European:!!Finnish"
+			},
+			{
+				"id": "B02022_013M",
+				"label": "Margin of Error!!Total:!!European:!!Finnish"
+			},
+			{
+				"id": "B02022_014E",
+				"label": "Estimate!!Total:!!European:!!French"
+			},
+			{
+				"id": "B02022_014M",
+				"label": "Margin of Error!!Total:!!European:!!French"
+			},
+			{
+				"id": "B02022_015E",
+				"label": "Estimate!!Total:!!European:!!German"
+			},
+			{
+				"id": "B02022_015M",
+				"label": "Margin of Error!!Total:!!European:!!German"
+			},
+			{
+				"id": "B02022_016E",
+				"label": "Estimate!!Total:!!European:!!Greek"
+			},
+			{
+				"id": "B02022_016M",
+				"label": "Margin of Error!!Total:!!European:!!Greek"
+			},
+			{
+				"id": "B02022_017E",
+				"label": "Estimate!!Total:!!European:!!Hungarian"
+			},
+			{
+				"id": "B02022_017M",
+				"label": "Margin of Error!!Total:!!European:!!Hungarian"
+			},
+			{
+				"id": "B02022_018E",
+				"label": "Estimate!!Total:!!European:!!Irish"
+			},
+			{
+				"id": "B02022_018M",
+				"label": "Margin of Error!!Total:!!European:!!Irish"
+			},
+			{
+				"id": "B02022_019E",
+				"label": "Estimate!!Total:!!European:!!Italian"
+			},
+			{
+				"id": "B02022_019M",
+				"label": "Margin of Error!!Total:!!European:!!Italian"
+			},
+			{
+				"id": "B02022_020E",
+				"label": "Estimate!!Total:!!European:!!Lithuanian"
+			},
+			{
+				"id": "B02022_020M",
+				"label": "Margin of Error!!Total:!!European:!!Lithuanian"
+			},
+			{
+				"id": "B02022_021E",
+				"label": "Estimate!!Total:!!European:!!Norwegian"
+			},
+			{
+				"id": "B02022_021M",
+				"label": "Margin of Error!!Total:!!European:!!Norwegian"
+			},
+			{
+				"id": "B02022_022E",
+				"label": "Estimate!!Total:!!European:!!Polish"
+			},
+			{
+				"id": "B02022_022M",
+				"label": "Margin of Error!!Total:!!European:!!Polish"
+			},
+			{
+				"id": "B02022_023E",
+				"label": "Estimate!!Total:!!European:!!Portuguese"
+			},
+			{
+				"id": "B02022_023M",
+				"label": "Margin of Error!!Total:!!European:!!Portuguese"
+			},
+			{
+				"id": "B02022_024E",
+				"label": "Estimate!!Total:!!European:!!Romanian"
+			},
+			{
+				"id": "B02022_024M",
+				"label": "Margin of Error!!Total:!!European:!!Romanian"
+			},
+			{
+				"id": "B02022_025E",
+				"label": "Estimate!!Total:!!European:!!Russian"
+			},
+			{
+				"id": "B02022_025M",
+				"label": "Margin of Error!!Total:!!European:!!Russian"
+			},
+			{
+				"id": "B02022_026E",
+				"label": "Estimate!!Total:!!European:!!Scandinavian"
+			},
+			{
+				"id": "B02022_026M",
+				"label": "Margin of Error!!Total:!!European:!!Scandinavian"
+			},
+			{
+				"id": "B02022_027E",
+				"label": "Estimate!!Total:!!European:!!Scots-Irish"
+			},
+			{
+				"id": "B02022_027M",
+				"label": "Margin of Error!!Total:!!European:!!Scots-Irish"
+			},
+			{
+				"id": "B02022_028E",
+				"label": "Estimate!!Total:!!European:!!Scottish"
+			},
+			{
+				"id": "B02022_028M",
+				"label": "Margin of Error!!Total:!!European:!!Scottish"
+			},
+			{
+				"id": "B02022_029E",
+				"label": "Estimate!!Total:!!European:!!Serbian"
+			},
+			{
+				"id": "B02022_029M",
+				"label": "Margin of Error!!Total:!!European:!!Serbian"
+			},
+			{
+				"id": "B02022_030E",
+				"label": "Estimate!!Total:!!European:!!Slovak"
+			},
+			{
+				"id": "B02022_030M",
+				"label": "Margin of Error!!Total:!!European:!!Slovak"
+			},
+			{
+				"id": "B02022_031E",
+				"label": "Estimate!!Total:!!European:!!Swedish"
+			},
+			{
+				"id": "B02022_031M",
+				"label": "Margin of Error!!Total:!!European:!!Swedish"
+			},
+			{
+				"id": "B02022_032E",
+				"label": "Estimate!!Total:!!European:!!Swiss"
+			},
+			{
+				"id": "B02022_032M",
+				"label": "Margin of Error!!Total:!!European:!!Swiss"
+			},
+			{
+				"id": "B02022_033E",
+				"label": "Estimate!!Total:!!European:!!Turkish"
+			},
+			{
+				"id": "B02022_033M",
+				"label": "Margin of Error!!Total:!!European:!!Turkish"
+			},
+			{
+				"id": "B02022_034E",
+				"label": "Estimate!!Total:!!European:!!Ukrainian"
+			},
+			{
+				"id": "B02022_034M",
+				"label": "Margin of Error!!Total:!!European:!!Ukrainian"
+			},
+			{
+				"id": "B02022_035E",
+				"label": "Estimate!!Total:!!European:!!Welsh"
+			},
+			{
+				"id": "B02022_035M",
+				"label": "Margin of Error!!Total:!!European:!!Welsh"
+			},
+			{
+				"id": "B02022_036E",
+				"label": "Estimate!!Total:!!European:!!Other European"
+			},
+			{
+				"id": "B02022_036M",
+				"label": "Margin of Error!!Total:!!European:!!Other European"
+			},
+			{
+				"id": "B02022_037E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Arab"
+			},
+			{
+				"id": "B02022_037M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Arab"
+			},
+			{
+				"id": "B02022_038E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Assyrian"
+			},
+			{
+				"id": "B02022_038M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Assyrian"
+			},
+			{
+				"id": "B02022_039E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Chaldean"
+			},
+			{
+				"id": "B02022_039M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Chaldean"
+			},
+			{
+				"id": "B02022_040E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Egyptian"
+			},
+			{
+				"id": "B02022_040M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Egyptian"
+			},
+			{
+				"id": "B02022_041E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Iranian"
+			},
+			{
+				"id": "B02022_041M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Iranian"
+			},
+			{
+				"id": "B02022_042E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Iraqi"
+			},
+			{
+				"id": "B02022_042M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Iraqi"
+			},
+			{
+				"id": "B02022_043E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Israeli"
+			},
+			{
+				"id": "B02022_043M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Israeli"
+			},
+			{
+				"id": "B02022_044E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Jordanian"
+			},
+			{
+				"id": "B02022_044M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Jordanian"
+			},
+			{
+				"id": "B02022_045E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Lebanese"
+			},
+			{
+				"id": "B02022_045M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Lebanese"
+			},
+			{
+				"id": "B02022_046E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Moroccan"
+			},
+			{
+				"id": "B02022_046M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Moroccan"
+			},
+			{
+				"id": "B02022_047E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Palestinian"
+			},
+			{
+				"id": "B02022_047M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Palestinian"
+			},
+			{
+				"id": "B02022_048E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Syrian"
+			},
+			{
+				"id": "B02022_048M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Syrian"
+			},
+			{
+				"id": "B02022_049E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Yemeni"
+			},
+			{
+				"id": "B02022_049M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Yemeni"
+			},
+			{
+				"id": "B02022_050E",
+				"label": "Estimate!!Total:!!Middle Eastern or North African:!!Other Middle Eastern or North African"
+			},
+			{
+				"id": "B02022_050M",
+				"label": "Margin of Error!!Total:!!Middle Eastern or North African:!!Other Middle Eastern or North African"
+			},
+			{
+				"id": "B02022_051E",
+				"label": "Estimate!!Total:!!Other White:!!Australian"
+			},
+			{
+				"id": "B02022_051M",
+				"label": "Margin of Error!!Total:!!Other White:!!Australian"
+			},
+			{
+				"id": "B02022_052E",
+				"label": "Estimate!!Total:!!Other White:!!Cajun"
+			},
+			{
+				"id": "B02022_052M",
+				"label": "Margin of Error!!Total:!!Other White:!!Cajun"
+			},
+			{
+				"id": "B02022_053E",
+				"label": "Estimate!!Total:!!Other White:!!Canadian"
+			},
+			{
+				"id": "B02022_053M",
+				"label": "Margin of Error!!Total:!!Other White:!!Canadian"
+			},
+			{
+				"id": "B02022_054E",
+				"label": "Estimate!!Total:!!Other White:!!French Canadian"
+			},
+			{
+				"id": "B02022_054M",
+				"label": "Margin of Error!!Total:!!Other White:!!French Canadian"
+			},
+			{
+				"id": "B02022_055E",
+				"label": "Estimate!!Total:!!Other White:!!Pennsylvania German"
+			},
+			{
+				"id": "B02022_055M",
+				"label": "Margin of Error!!Total:!!Other White:!!Pennsylvania German"
+			},
+			{
+				"id": "B02022_056E",
+				"label": "Estimate!!Total:!!Other White:!!Other White, specified"
+			},
+			{
+				"id": "B02022_056M",
+				"label": "Margin of Error!!Total:!!Other White:!!Other White, specified"
+			},
+			{
+				"id": "B02022_057E",
+				"label": "Estimate!!Total:!!Other White, not specified"
+			},
+			{
+				"id": "B02022_057M",
+				"label": "Margin of Error!!Total:!!Other White, not specified"
+			},
+			{
+				"id": "B02022_058E",
+				"label": "Estimate!!Total:!!Two or more White"
+			},
+			{
+				"id": "B02022_058M",
+				"label": "Margin of Error!!Total:!!Two or more White"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B02022_057M",
+			"B02022_045M",
+			"B02022_033E",
+			"B02022_021E",
+			"B02022_057E",
+			"B02022_045E",
+			"B02022_020EA",
+			"B02022_047MA",
+			"B02022_001MA",
+			"B02022_024MA",
+			"B02022_005EA",
+			"B02022_028EA",
+			"B02022_033M",
+			"B02022_021M",
+			"B02022_009MA",
+			"B02022_043EA",
+			"B02022_056M",
+			"B02022_044E",
+			"B02022_029EA",
+			"B02022_032E",
+			"B02022_020E",
+			"B02022_051MA",
+			"B02022_056E",
+			"B02022_036MA",
+			"B02022_013MA",
+			"B02022_017EA",
+			"B02022_044M",
+			"B02022_032M",
+			"B02022_020M",
+			"B02022_032EA",
+			"B02022_055EA",
+			"B02022_055E",
+			"B02022_043E",
+			"B02022_031E",
+			"B02022_042EA",
+			"B02022_046MA",
+			"B02022_023MA",
+			"B02022_004EA",
+			"B02022_027EA",
+			"B02022_055M",
+			"B02022_008MA",
+			"B02022_043M",
+			"B02022_031M",
+			"B02022_054E",
+			"B02022_042E",
+			"B02022_030E",
+			"B02022_050MA",
+			"B02022_031EA",
+			"B02022_058MA",
+			"B02022_035MA",
+			"B02022_012MA",
+			"B02022_039EA",
+			"B02022_016EA",
+			"B02022_054M",
+			"B02022_042M",
+			"B02022_030M",
+			"B02022_054EA",
+			"B02022_019EA",
+			"B02022_053E",
+			"B02022_041E",
+			"B02022_041MA",
+			"B02022_009M",
+			"B02022_003MA",
+			"B02022_026MA",
+			"B02022_049MA",
+			"B02022_022EA",
+			"B02022_045EA",
+			"B02022_053M",
+			"B02022_041M",
+			"B02022_040E",
+			"B02022_008M",
+			"B02022_008EA",
+			"B02022_052E",
+			"B02022_030MA",
+			"B02022_053MA",
+			"B02022_008E",
+			"NAME",
+			"B02022_015MA",
+			"B02022_038MA",
+			"B02022_009E",
+			"B02022_040M",
+			"B02022_011EA",
+			"B02022_034EA",
+			"B02022_057EA",
+			"B02022_052M",
+			"B02022_051E",
+			"B02022_019M",
+			"B02022_007M",
+			"B02022_018EA",
+			"B02022_040MA",
+			"B02022_019E",
+			"B02022_007E",
+			"B02022_025MA",
+			"B02022_048MA",
+			"B02022_002MA",
+			"B02022_051M",
+			"B02022_006EA",
+			"B02022_021EA",
+			"B02022_044EA",
+			"B02022_050E",
+			"B02022_007EA",
+			"B02022_018M",
+			"B02022_006M",
+			"B02022_052MA",
+			"B02022_018E",
+			"B02022_006E",
+			"B02022_014MA",
+			"B02022_037MA",
+			"B02022_050M",
+			"B02022_010EA",
+			"B02022_056EA",
+			"B02022_033EA",
+			"B02022_029M",
+			"B02022_017M",
+			"B02022_005M",
+			"B02022_020MA",
+			"B02022_029E",
+			"B02022_017E",
+			"B02022_005E",
+			"B02022_005MA",
+			"B02022_028MA",
+			"B02022_043MA",
+			"B02022_047EA",
+			"B02022_001EA",
+			"B02022_024EA",
+			"B02022_004M",
+			"B02022_028M",
+			"B02022_016M",
+			"B02022_004E",
+			"B02022_028E",
+			"B02022_016E",
+			"B02022_017MA",
+			"B02022_051EA",
+			"B02022_032MA",
+			"B02022_055MA",
+			"B02022_036EA",
+			"B02022_013EA",
+			"B02022_015M",
+			"B02022_003M",
+			"B02022_039M",
+			"B02022_027M",
+			"B02022_015E",
+			"B02022_003E",
+			"B02022_042MA",
+			"B02022_039E",
+			"B02022_027E",
+			"B02022_004MA",
+			"B02022_027MA",
+			"B02022_046EA",
+			"B02022_023EA",
+			"B02022_026M",
+			"B02022_014M",
+			"B02022_002M",
+			"B02022_009EA",
+			"B02022_038M",
+			"B02022_026E",
+			"B02022_014E",
+			"B02022_031MA",
+			"B02022_002E",
+			"B02022_038E",
+			"B02022_039MA",
+			"B02022_016MA",
+			"B02022_050EA",
+			"B02022_054MA",
+			"B02022_058EA",
+			"B02022_035EA",
+			"B02022_012EA",
+			"B02022_037M",
+			"B02022_025M",
+			"B02022_013M",
+			"B02022_001M",
+			"B02022_049M",
+			"B02022_037E",
+			"B02022_025E",
+			"B02022_013E",
+			"B02022_001E",
+			"B02022_049E",
+			"B02022_041EA",
+			"B02022_022MA",
+			"B02022_045MA",
+			"B02022_003EA",
+			"B02022_026EA",
+			"B02022_049EA",
+			"B02022_007MA",
+			"B02022_048M",
+			"B02022_036M",
+			"B02022_024M",
+			"B02022_012M",
+			"B02022_048E",
+			"B02022_036E",
+			"B02022_024E",
+			"B02022_012E",
+			"B02022_030EA",
+			"B02022_053EA",
+			"B02022_011MA",
+			"B02022_034MA",
+			"B02022_057MA",
+			"B02022_015EA",
+			"B02022_038EA",
+			"B02022_019MA",
+			"B02022_047M",
+			"B02022_035M",
+			"B02022_023M",
+			"B02022_011E",
+			"B02022_047E",
+			"B02022_035E",
+			"B02022_023E",
+			"B02022_006MA",
+			"B02022_040EA",
+			"B02022_021MA",
+			"B02022_044MA",
+			"B02022_025EA",
+			"B02022_048EA",
+			"B02022_011M",
+			"B02022_029MA",
+			"B02022_002EA",
+			"B02022_058M",
+			"B02022_046M",
+			"B02022_034M",
+			"B02022_022E",
+			"B02022_010E",
+			"B02022_058E",
+			"B02022_046E",
+			"B02022_034E",
+			"GEO_ID",
+			"B02022_052EA",
+			"B02022_010MA",
+			"B02022_056MA",
+			"B02022_033MA",
+			"B02022_014EA",
+			"B02022_037EA",
+			"B02022_022M",
+			"B02022_010M",
+			"B02022_018MA"
+		],
+		[
+			"291978",
+			"17655",
+			"241067",
+			"1149926",
+			"64842488",
+			"384942",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"16790",
+			"19900",
+			null,
+			null,
+			"52173",
+			"99796",
+			null,
+			"226888",
+			"180527",
+			null,
+			"2352336",
+			null,
+			null,
+			null,
+			"10016",
+			"12343",
+			"10231",
+			null,
+			null,
+			"100566",
+			"134262",
+			"873361",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"9597",
+			null,
+			"11913",
+			"20418",
+			"259211",
+			"175082",
+			"185246",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"10322",
+			"17900",
+			"8665",
+			null,
+			null,
+			"246151",
+			"404039",
+			null,
+			"12303",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"12662",
+			"18477",
+			"328449",
+			"9283",
+			null,
+			"79418",
+			null,
+			null,
+			"151943",
+			"United States",
+			null,
+			null,
+			"383209",
+			"21597",
+			null,
+			null,
+			null,
+			"7058",
+			"67183",
+			"63711",
+			"10514",
+			null,
+			null,
+			"7088611",
+			"221691",
+			null,
+			null,
+			null,
+			"6549",
+			null,
+			null,
+			null,
+			"331416",
+			null,
+			"66682",
+			"11467",
+			null,
+			"11927375",
+			"117260",
+			null,
+			null,
+			"21041",
+			null,
+			null,
+			null,
+			"8583",
+			"18661",
+			"6619",
+			null,
+			"94592",
+			"423950",
+			"107177",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"8203",
+			"23622",
+			"20793",
+			"139383",
+			"1927140",
+			"577845",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"93585",
+			"19808",
+			"7866",
+			"12615",
+			"16935444",
+			"378652",
+			null,
+			"38705",
+			"381418",
+			null,
+			null,
+			null,
+			null,
+			"14426",
+			"29311",
+			"16130",
+			null,
+			"5496",
+			"482611",
+			"1695261",
+			null,
+			"220526",
+			"30340",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"19523",
+			"26286",
+			"9015",
+			"126334",
+			"11774",
+			"179823",
+			"866004",
+			"224394",
+			"203349963",
+			"85257",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"15536",
+			"65693",
+			"13508",
+			"203374",
+			"141619",
+			"4829277",
+			"223835",
+			"27556362",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"13933",
+			"11659",
+			"21472",
+			"965597",
+			"161608",
+			"324993",
+			"639542",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"23242",
+			null,
+			null,
+			"174942",
+			"10604",
+			"26201",
+			"2867684",
+			"303945",
+			"47179240",
+			"105938",
+			"709358",
+			"0100000US",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"42066",
+			"12694",
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:29.728Z"
+}

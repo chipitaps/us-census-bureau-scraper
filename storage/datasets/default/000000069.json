@@ -1,0 +1,1777 @@
+{
+	"tableId": "ACSST1Y2024.S2601CPR",
+	"title": "Characteristics of the Group Quarters Population in Puerto Rico",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S2601CPR",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S2601CPR_C01_001E",
+				"label": "Estimate!!Total population!!Total population"
+			},
+			{
+				"id": "S2601CPR_C01_001M",
+				"label": "Margin of Error!!Total population!!Total population"
+			},
+			{
+				"id": "S2601CPR_C02_001E",
+				"label": "Estimate!!Total group quarters population!!Total population"
+			},
+			{
+				"id": "S2601CPR_C02_001M",
+				"label": "Margin of Error!!Total group quarters population!!Total population"
+			},
+			{
+				"id": "S2601CPR_C01_002E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_002M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_002E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_002M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_003E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_003M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_003E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_003M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_004E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!Under 15 years"
+			},
+			{
+				"id": "S2601CPR_C01_004M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!Under 15 years"
+			},
+			{
+				"id": "S2601CPR_C02_004E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!Under 15 years"
+			},
+			{
+				"id": "S2601CPR_C02_004M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!Under 15 years"
+			},
+			{
+				"id": "S2601CPR_C01_005E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!15 to 17 years"
+			},
+			{
+				"id": "S2601CPR_C01_005M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!15 to 17 years"
+			},
+			{
+				"id": "S2601CPR_C02_005E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!15 to 17 years"
+			},
+			{
+				"id": "S2601CPR_C02_005M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!15 to 17 years"
+			},
+			{
+				"id": "S2601CPR_C01_006E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!18 to 24 years"
+			},
+			{
+				"id": "S2601CPR_C01_006M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!18 to 24 years"
+			},
+			{
+				"id": "S2601CPR_C02_006E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!18 to 24 years"
+			},
+			{
+				"id": "S2601CPR_C02_006M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!18 to 24 years"
+			},
+			{
+				"id": "S2601CPR_C01_007E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!25 to 34 years"
+			},
+			{
+				"id": "S2601CPR_C01_007M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!25 to 34 years"
+			},
+			{
+				"id": "S2601CPR_C02_007E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!25 to 34 years"
+			},
+			{
+				"id": "S2601CPR_C02_007M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!25 to 34 years"
+			},
+			{
+				"id": "S2601CPR_C01_008E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!35 to 44 years"
+			},
+			{
+				"id": "S2601CPR_C01_008M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!35 to 44 years"
+			},
+			{
+				"id": "S2601CPR_C02_008E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!35 to 44 years"
+			},
+			{
+				"id": "S2601CPR_C02_008M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!35 to 44 years"
+			},
+			{
+				"id": "S2601CPR_C01_009E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!45 to 54 years"
+			},
+			{
+				"id": "S2601CPR_C01_009M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!45 to 54 years"
+			},
+			{
+				"id": "S2601CPR_C02_009E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!45 to 54 years"
+			},
+			{
+				"id": "S2601CPR_C02_009M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!45 to 54 years"
+			},
+			{
+				"id": "S2601CPR_C01_010E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!55 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C01_010M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!55 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C02_010E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!55 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C02_010M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!55 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C01_011E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!65 to 74 years"
+			},
+			{
+				"id": "S2601CPR_C01_011M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!65 to 74 years"
+			},
+			{
+				"id": "S2601CPR_C02_011E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!65 to 74 years"
+			},
+			{
+				"id": "S2601CPR_C02_011M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!65 to 74 years"
+			},
+			{
+				"id": "S2601CPR_C01_012E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!75 to 84 years"
+			},
+			{
+				"id": "S2601CPR_C01_012M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!75 to 84 years"
+			},
+			{
+				"id": "S2601CPR_C02_012E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!75 to 84 years"
+			},
+			{
+				"id": "S2601CPR_C02_012M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!75 to 84 years"
+			},
+			{
+				"id": "S2601CPR_C01_013E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!85 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_013M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!85 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_013E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!85 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_013M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!85 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_014E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!Under 18 years"
+			},
+			{
+				"id": "S2601CPR_C01_014M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!Under 18 years"
+			},
+			{
+				"id": "S2601CPR_C02_014E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!Under 18 years"
+			},
+			{
+				"id": "S2601CPR_C02_014M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!Under 18 years"
+			},
+			{
+				"id": "S2601CPR_C01_015E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!Under 18 years!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_015M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!Under 18 years!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_015E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!Under 18 years!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_015M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!Under 18 years!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_016E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!Under 18 years!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_016M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!Under 18 years!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_016E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!Under 18 years!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_016M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!Under 18 years!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_017E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!65 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_017M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!65 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_017E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!65 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_017M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!65 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_018E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!65 years and over!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_018M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!65 years and over!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_018E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!65 years and over!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_018M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!65 years and over!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_019E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!65 years and over!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_019M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!65 years and over!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_019E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!65 years and over!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_019M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!65 years and over!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_020E",
+				"label": "Estimate!!Total population!!Total population!!SEX AND AGE!!Median age (years)"
+			},
+			{
+				"id": "S2601CPR_C01_020M",
+				"label": "Margin of Error!!Total population!!Total population!!SEX AND AGE!!Median age (years)"
+			},
+			{
+				"id": "S2601CPR_C02_020E",
+				"label": "Estimate!!Total group quarters population!!Total population!!SEX AND AGE!!Median age (years)"
+			},
+			{
+				"id": "S2601CPR_C02_020M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!SEX AND AGE!!Median age (years)"
+			},
+			{
+				"id": "S2601CPR_C01_021E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S2601CPR_C01_021M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S2601CPR_C02_021E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S2601CPR_C02_021M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S2601CPR_C01_022E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S2601CPR_C01_022M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S2601CPR_C02_022E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S2601CPR_C02_022M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S2601CPR_C01_023E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S2601CPR_C01_023M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S2601CPR_C02_023E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S2601CPR_C02_023M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S2601CPR_C01_024E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2601CPR_C01_024M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2601CPR_C02_024E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2601CPR_C02_024M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2601CPR_C01_025E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S2601CPR_C01_025M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S2601CPR_C02_025E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S2601CPR_C02_025M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S2601CPR_C01_026E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2601CPR_C01_026M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2601CPR_C02_026E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2601CPR_C02_026M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2601CPR_C01_027E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S2601CPR_C01_027M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S2601CPR_C02_027E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S2601CPR_C02_027M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S2601CPR_C01_028E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2601CPR_C01_028M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2601CPR_C02_028E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2601CPR_C02_028M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2601CPR_C01_029E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Hispanic or Latino (of any race)"
+			},
+			{
+				"id": "S2601CPR_C01_029M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Hispanic or Latino (of any race)"
+			},
+			{
+				"id": "S2601CPR_C02_029E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Hispanic or Latino (of any race)"
+			},
+			{
+				"id": "S2601CPR_C02_029M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Hispanic or Latino (of any race)"
+			},
+			{
+				"id": "S2601CPR_C01_030E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Not Hispanic or Latino"
+			},
+			{
+				"id": "S2601CPR_C01_030M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Not Hispanic or Latino"
+			},
+			{
+				"id": "S2601CPR_C02_030E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Not Hispanic or Latino"
+			},
+			{
+				"id": "S2601CPR_C02_030M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Not Hispanic or Latino"
+			},
+			{
+				"id": "S2601CPR_C01_031E",
+				"label": "Estimate!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!White alone, Not Hispanic or Latino"
+			},
+			{
+				"id": "S2601CPR_C01_031M",
+				"label": "Margin of Error!!Total population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!White alone, Not Hispanic or Latino"
+			},
+			{
+				"id": "S2601CPR_C02_031E",
+				"label": "Estimate!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!White alone, Not Hispanic or Latino"
+			},
+			{
+				"id": "S2601CPR_C02_031M",
+				"label": "Margin of Error!!Total group quarters population!!Total population!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!White alone, Not Hispanic or Latino"
+			},
+			{
+				"id": "S2601CPR_C01_032E",
+				"label": "Estimate!!Total population!!MARITAL STATUS!!Population 15 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_032M",
+				"label": "Margin of Error!!Total population!!MARITAL STATUS!!Population 15 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_032E",
+				"label": "Estimate!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_032M",
+				"label": "Margin of Error!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_033E",
+				"label": "Estimate!!Total population!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated"
+			},
+			{
+				"id": "S2601CPR_C01_033M",
+				"label": "Margin of Error!!Total population!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated"
+			},
+			{
+				"id": "S2601CPR_C02_033E",
+				"label": "Estimate!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated"
+			},
+			{
+				"id": "S2601CPR_C02_033M",
+				"label": "Margin of Error!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated"
+			},
+			{
+				"id": "S2601CPR_C01_034E",
+				"label": "Estimate!!Total population!!MARITAL STATUS!!Population 15 years and over!!Widowed"
+			},
+			{
+				"id": "S2601CPR_C01_034M",
+				"label": "Margin of Error!!Total population!!MARITAL STATUS!!Population 15 years and over!!Widowed"
+			},
+			{
+				"id": "S2601CPR_C02_034E",
+				"label": "Estimate!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Widowed"
+			},
+			{
+				"id": "S2601CPR_C02_034M",
+				"label": "Margin of Error!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Widowed"
+			},
+			{
+				"id": "S2601CPR_C01_035E",
+				"label": "Estimate!!Total population!!MARITAL STATUS!!Population 15 years and over!!Divorced"
+			},
+			{
+				"id": "S2601CPR_C01_035M",
+				"label": "Margin of Error!!Total population!!MARITAL STATUS!!Population 15 years and over!!Divorced"
+			},
+			{
+				"id": "S2601CPR_C02_035E",
+				"label": "Estimate!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Divorced"
+			},
+			{
+				"id": "S2601CPR_C02_035M",
+				"label": "Margin of Error!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Divorced"
+			},
+			{
+				"id": "S2601CPR_C01_036E",
+				"label": "Estimate!!Total population!!MARITAL STATUS!!Population 15 years and over!!Separated"
+			},
+			{
+				"id": "S2601CPR_C01_036M",
+				"label": "Margin of Error!!Total population!!MARITAL STATUS!!Population 15 years and over!!Separated"
+			},
+			{
+				"id": "S2601CPR_C02_036E",
+				"label": "Estimate!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Separated"
+			},
+			{
+				"id": "S2601CPR_C02_036M",
+				"label": "Margin of Error!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Separated"
+			},
+			{
+				"id": "S2601CPR_C01_037E",
+				"label": "Estimate!!Total population!!MARITAL STATUS!!Population 15 years and over!!Never married"
+			},
+			{
+				"id": "S2601CPR_C01_037M",
+				"label": "Margin of Error!!Total population!!MARITAL STATUS!!Population 15 years and over!!Never married"
+			},
+			{
+				"id": "S2601CPR_C02_037E",
+				"label": "Estimate!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Never married"
+			},
+			{
+				"id": "S2601CPR_C02_037M",
+				"label": "Margin of Error!!Total group quarters population!!MARITAL STATUS!!Population 15 years and over!!Never married"
+			},
+			{
+				"id": "S2601CPR_C01_038E",
+				"label": "Estimate!!Total population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school"
+			},
+			{
+				"id": "S2601CPR_C01_038M",
+				"label": "Margin of Error!!Total population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school"
+			},
+			{
+				"id": "S2601CPR_C02_038E",
+				"label": "Estimate!!Total group quarters population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school"
+			},
+			{
+				"id": "S2601CPR_C02_038M",
+				"label": "Margin of Error!!Total group quarters population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school"
+			},
+			{
+				"id": "S2601CPR_C01_039E",
+				"label": "Estimate!!Total population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade"
+			},
+			{
+				"id": "S2601CPR_C01_039M",
+				"label": "Margin of Error!!Total population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade"
+			},
+			{
+				"id": "S2601CPR_C02_039E",
+				"label": "Estimate!!Total group quarters population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade"
+			},
+			{
+				"id": "S2601CPR_C02_039M",
+				"label": "Margin of Error!!Total group quarters population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade"
+			},
+			{
+				"id": "S2601CPR_C01_040E",
+				"label": "Estimate!!Total population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school"
+			},
+			{
+				"id": "S2601CPR_C01_040M",
+				"label": "Margin of Error!!Total population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school"
+			},
+			{
+				"id": "S2601CPR_C02_040E",
+				"label": "Estimate!!Total group quarters population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school"
+			},
+			{
+				"id": "S2601CPR_C02_040M",
+				"label": "Margin of Error!!Total group quarters population!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school"
+			},
+			{
+				"id": "S2601CPR_C01_041E",
+				"label": "Estimate!!Total population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_041M",
+				"label": "Margin of Error!!Total population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_041E",
+				"label": "Estimate!!Total group quarters population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_041M",
+				"label": "Margin of Error!!Total group quarters population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_042E",
+				"label": "Estimate!!Total population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher"
+			},
+			{
+				"id": "S2601CPR_C01_042M",
+				"label": "Margin of Error!!Total population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher"
+			},
+			{
+				"id": "S2601CPR_C02_042E",
+				"label": "Estimate!!Total group quarters population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher"
+			},
+			{
+				"id": "S2601CPR_C02_042M",
+				"label": "Margin of Error!!Total group quarters population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher"
+			},
+			{
+				"id": "S2601CPR_C01_043E",
+				"label": "Estimate!!Total population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S2601CPR_C01_043M",
+				"label": "Margin of Error!!Total population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S2601CPR_C02_043E",
+				"label": "Estimate!!Total group quarters population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S2601CPR_C02_043M",
+				"label": "Margin of Error!!Total group quarters population!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S2601CPR_C01_044E",
+				"label": "Estimate!!Total population!!VETERAN STATUS!!Civilian population 18 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_044M",
+				"label": "Margin of Error!!Total population!!VETERAN STATUS!!Civilian population 18 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_044E",
+				"label": "Estimate!!Total group quarters population!!VETERAN STATUS!!Civilian population 18 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_044M",
+				"label": "Margin of Error!!Total group quarters population!!VETERAN STATUS!!Civilian population 18 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_045E",
+				"label": "Estimate!!Total population!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran"
+			},
+			{
+				"id": "S2601CPR_C01_045M",
+				"label": "Margin of Error!!Total population!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran"
+			},
+			{
+				"id": "S2601CPR_C02_045E",
+				"label": "Estimate!!Total group quarters population!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran"
+			},
+			{
+				"id": "S2601CPR_C02_045M",
+				"label": "Margin of Error!!Total group quarters population!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran"
+			},
+			{
+				"id": "S2601CPR_C01_046E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Total population"
+			},
+			{
+				"id": "S2601CPR_C01_046M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Total population"
+			},
+			{
+				"id": "S2601CPR_C02_046E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Total population"
+			},
+			{
+				"id": "S2601CPR_C02_046M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Total population"
+			},
+			{
+				"id": "S2601CPR_C01_047E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Total population!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C01_047M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Total population!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C02_047E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Total population!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C02_047M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Total population!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C01_048E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Population under 18 years"
+			},
+			{
+				"id": "S2601CPR_C01_048M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Population under 18 years"
+			},
+			{
+				"id": "S2601CPR_C02_048E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Population under 18 years"
+			},
+			{
+				"id": "S2601CPR_C02_048M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Population under 18 years"
+			},
+			{
+				"id": "S2601CPR_C01_049E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Population under 18 years!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C01_049M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Population under 18 years!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C02_049E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Population under 18 years!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C02_049M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Population under 18 years!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C01_050E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Population 18 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C01_050M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Population 18 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C02_050E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Population 18 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C02_050M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Population 18 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C01_051E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C01_051M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C02_051E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C02_051M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C01_052E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Population 18 to 64 years!!No disability"
+			},
+			{
+				"id": "S2601CPR_C01_052M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Population 18 to 64 years!!No disability"
+			},
+			{
+				"id": "S2601CPR_C02_052E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Population 18 to 64 years!!No disability"
+			},
+			{
+				"id": "S2601CPR_C02_052M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Population 18 to 64 years!!No disability"
+			},
+			{
+				"id": "S2601CPR_C01_053E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Population 65 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_053M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Population 65 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_053E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Population 65 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_053M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Population 65 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_054E",
+				"label": "Estimate!!Total population!!DISABILITY STATUS!!Population 65 years and over!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C01_054M",
+				"label": "Margin of Error!!Total population!!DISABILITY STATUS!!Population 65 years and over!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C02_054E",
+				"label": "Estimate!!Total group quarters population!!DISABILITY STATUS!!Population 65 years and over!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C02_054M",
+				"label": "Margin of Error!!Total group quarters population!!DISABILITY STATUS!!Population 65 years and over!!With a disability"
+			},
+			{
+				"id": "S2601CPR_C01_055E",
+				"label": "Estimate!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over"
+			},
+			{
+				"id": "S2601CPR_C01_055M",
+				"label": "Margin of Error!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over"
+			},
+			{
+				"id": "S2601CPR_C02_055E",
+				"label": "Estimate!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over"
+			},
+			{
+				"id": "S2601CPR_C02_055M",
+				"label": "Margin of Error!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over"
+			},
+			{
+				"id": "S2601CPR_C01_056E",
+				"label": "Estimate!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address"
+			},
+			{
+				"id": "S2601CPR_C01_056M",
+				"label": "Margin of Error!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address"
+			},
+			{
+				"id": "S2601CPR_C02_056E",
+				"label": "Estimate!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address"
+			},
+			{
+				"id": "S2601CPR_C02_056M",
+				"label": "Margin of Error!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address"
+			},
+			{
+				"id": "S2601CPR_C01_057E",
+				"label": "Estimate!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States"
+			},
+			{
+				"id": "S2601CPR_C01_057M",
+				"label": "Margin of Error!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States"
+			},
+			{
+				"id": "S2601CPR_C02_057E",
+				"label": "Estimate!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States"
+			},
+			{
+				"id": "S2601CPR_C02_057M",
+				"label": "Margin of Error!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States"
+			},
+			{
+				"id": "S2601CPR_C01_058E",
+				"label": "Estimate!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico"
+			},
+			{
+				"id": "S2601CPR_C01_058M",
+				"label": "Margin of Error!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico"
+			},
+			{
+				"id": "S2601CPR_C02_058E",
+				"label": "Estimate!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico"
+			},
+			{
+				"id": "S2601CPR_C02_058M",
+				"label": "Margin of Error!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico"
+			},
+			{
+				"id": "S2601CPR_C01_059E",
+				"label": "Estimate!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico!!Same municipio"
+			},
+			{
+				"id": "S2601CPR_C01_059M",
+				"label": "Margin of Error!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico!!Same municipio"
+			},
+			{
+				"id": "S2601CPR_C02_059E",
+				"label": "Estimate!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico!!Same municipio"
+			},
+			{
+				"id": "S2601CPR_C02_059M",
+				"label": "Margin of Error!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico!!Same municipio"
+			},
+			{
+				"id": "S2601CPR_C01_060E",
+				"label": "Estimate!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico!!Different municipio"
+			},
+			{
+				"id": "S2601CPR_C01_060M",
+				"label": "Margin of Error!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico!!Different municipio"
+			},
+			{
+				"id": "S2601CPR_C02_060E",
+				"label": "Estimate!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico!!Different municipio"
+			},
+			{
+				"id": "S2601CPR_C02_060M",
+				"label": "Margin of Error!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In Puerto Rico!!Different municipio"
+			},
+			{
+				"id": "S2601CPR_C01_061E",
+				"label": "Estimate!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In the United States"
+			},
+			{
+				"id": "S2601CPR_C01_061M",
+				"label": "Margin of Error!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In the United States"
+			},
+			{
+				"id": "S2601CPR_C02_061E",
+				"label": "Estimate!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In the United States"
+			},
+			{
+				"id": "S2601CPR_C02_061M",
+				"label": "Margin of Error!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in Puerto Rico or the United States!!In the United States"
+			},
+			{
+				"id": "S2601CPR_C01_062E",
+				"label": "Estimate!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Elsewhere"
+			},
+			{
+				"id": "S2601CPR_C01_062M",
+				"label": "Margin of Error!!Total population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Elsewhere"
+			},
+			{
+				"id": "S2601CPR_C02_062E",
+				"label": "Estimate!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Elsewhere"
+			},
+			{
+				"id": "S2601CPR_C02_062M",
+				"label": "Margin of Error!!Total group quarters population!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Elsewhere"
+			},
+			{
+				"id": "S2601CPR_C01_063E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population"
+			},
+			{
+				"id": "S2601CPR_C01_063M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population"
+			},
+			{
+				"id": "S2601CPR_C02_063E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population"
+			},
+			{
+				"id": "S2601CPR_C02_063M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population"
+			},
+			{
+				"id": "S2601CPR_C01_064E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native"
+			},
+			{
+				"id": "S2601CPR_C01_064M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native"
+			},
+			{
+				"id": "S2601CPR_C02_064E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native"
+			},
+			{
+				"id": "S2601CPR_C02_064M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native"
+			},
+			{
+				"id": "S2601CPR_C01_065E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_065M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_065E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_065M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_066E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_066M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_066E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_066M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_067E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born"
+			},
+			{
+				"id": "S2601CPR_C01_067M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born"
+			},
+			{
+				"id": "S2601CPR_C02_067E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born"
+			},
+			{
+				"id": "S2601CPR_C02_067M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born"
+			},
+			{
+				"id": "S2601CPR_C01_068E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_068M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_068E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_068M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_069E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_069M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_069E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_069M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_070E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "S2601CPR_C01_070M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "S2601CPR_C02_070E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "S2601CPR_C02_070M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "S2601CPR_C01_071E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_071M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_071E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_071M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_072E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_072M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_072E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_072M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_073E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen"
+			},
+			{
+				"id": "S2601CPR_C01_073M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen"
+			},
+			{
+				"id": "S2601CPR_C02_073E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen"
+			},
+			{
+				"id": "S2601CPR_C02_073M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen"
+			},
+			{
+				"id": "S2601CPR_C01_074E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_074M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_074E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_074M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_075E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_075M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_075E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_075M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_076E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later"
+			},
+			{
+				"id": "S2601CPR_C01_076M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later"
+			},
+			{
+				"id": "S2601CPR_C02_076E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later"
+			},
+			{
+				"id": "S2601CPR_C02_076M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later"
+			},
+			{
+				"id": "S2601CPR_C01_077E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009"
+			},
+			{
+				"id": "S2601CPR_C01_077M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009"
+			},
+			{
+				"id": "S2601CPR_C02_077E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009"
+			},
+			{
+				"id": "S2601CPR_C02_077M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009"
+			},
+			{
+				"id": "S2601CPR_C01_078E",
+				"label": "Estimate!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000"
+			},
+			{
+				"id": "S2601CPR_C01_078M",
+				"label": "Margin of Error!!Total population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000"
+			},
+			{
+				"id": "S2601CPR_C02_078E",
+				"label": "Estimate!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000"
+			},
+			{
+				"id": "S2601CPR_C02_078M",
+				"label": "Margin of Error!!Total group quarters population!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000"
+			},
+			{
+				"id": "S2601CPR_C01_079E",
+				"label": "Estimate!!Total population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_079M",
+				"label": "Margin of Error!!Total population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_079E",
+				"label": "Estimate!!Total group quarters population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_079M",
+				"label": "Margin of Error!!Total group quarters population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_080E",
+				"label": "Estimate!!Total population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only"
+			},
+			{
+				"id": "S2601CPR_C01_080M",
+				"label": "Margin of Error!!Total population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only"
+			},
+			{
+				"id": "S2601CPR_C02_080E",
+				"label": "Estimate!!Total group quarters population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only"
+			},
+			{
+				"id": "S2601CPR_C02_080M",
+				"label": "Margin of Error!!Total group quarters population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only"
+			},
+			{
+				"id": "S2601CPR_C01_081E",
+				"label": "Estimate!!Total population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English"
+			},
+			{
+				"id": "S2601CPR_C01_081M",
+				"label": "Margin of Error!!Total population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English"
+			},
+			{
+				"id": "S2601CPR_C02_081E",
+				"label": "Estimate!!Total group quarters population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English"
+			},
+			{
+				"id": "S2601CPR_C02_081M",
+				"label": "Margin of Error!!Total group quarters population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English"
+			},
+			{
+				"id": "S2601CPR_C01_082E",
+				"label": "Estimate!!Total population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than \"very well\""
+			},
+			{
+				"id": "S2601CPR_C01_082M",
+				"label": "Margin of Error!!Total population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than \"very well\""
+			},
+			{
+				"id": "S2601CPR_C02_082E",
+				"label": "Estimate!!Total group quarters population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than \"very well\""
+			},
+			{
+				"id": "S2601CPR_C02_082M",
+				"label": "Margin of Error!!Total group quarters population!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than \"very well\""
+			},
+			{
+				"id": "S2601CPR_C01_083E",
+				"label": "Estimate!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_083M",
+				"label": "Margin of Error!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_083E",
+				"label": "Estimate!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_083M",
+				"label": "Margin of Error!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_084E",
+				"label": "Estimate!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S2601CPR_C01_084M",
+				"label": "Margin of Error!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S2601CPR_C02_084E",
+				"label": "Estimate!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S2601CPR_C02_084M",
+				"label": "Margin of Error!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S2601CPR_C01_085E",
+				"label": "Estimate!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force"
+			},
+			{
+				"id": "S2601CPR_C01_085M",
+				"label": "Margin of Error!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force"
+			},
+			{
+				"id": "S2601CPR_C02_085E",
+				"label": "Estimate!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force"
+			},
+			{
+				"id": "S2601CPR_C02_085M",
+				"label": "Margin of Error!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force"
+			},
+			{
+				"id": "S2601CPR_C01_086E",
+				"label": "Estimate!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed"
+			},
+			{
+				"id": "S2601CPR_C01_086M",
+				"label": "Margin of Error!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed"
+			},
+			{
+				"id": "S2601CPR_C02_086E",
+				"label": "Estimate!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed"
+			},
+			{
+				"id": "S2601CPR_C02_086M",
+				"label": "Margin of Error!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed"
+			},
+			{
+				"id": "S2601CPR_C01_087E",
+				"label": "Estimate!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed"
+			},
+			{
+				"id": "S2601CPR_C01_087M",
+				"label": "Margin of Error!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed"
+			},
+			{
+				"id": "S2601CPR_C02_087E",
+				"label": "Estimate!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed"
+			},
+			{
+				"id": "S2601CPR_C02_087M",
+				"label": "Margin of Error!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed"
+			},
+			{
+				"id": "S2601CPR_C01_088E",
+				"label": "Estimate!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force"
+			},
+			{
+				"id": "S2601CPR_C01_088M",
+				"label": "Margin of Error!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force"
+			},
+			{
+				"id": "S2601CPR_C02_088E",
+				"label": "Estimate!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force"
+			},
+			{
+				"id": "S2601CPR_C02_088M",
+				"label": "Margin of Error!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force"
+			},
+			{
+				"id": "S2601CPR_C01_089E",
+				"label": "Estimate!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces"
+			},
+			{
+				"id": "S2601CPR_C01_089M",
+				"label": "Margin of Error!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces"
+			},
+			{
+				"id": "S2601CPR_C02_089E",
+				"label": "Estimate!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces"
+			},
+			{
+				"id": "S2601CPR_C02_089M",
+				"label": "Margin of Error!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces"
+			},
+			{
+				"id": "S2601CPR_C01_090E",
+				"label": "Estimate!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S2601CPR_C01_090M",
+				"label": "Margin of Error!!Total population!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S2601CPR_C02_090E",
+				"label": "Estimate!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S2601CPR_C02_090M",
+				"label": "Margin of Error!!Total group quarters population!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S2601CPR_C01_091E",
+				"label": "Estimate!!Total population!!OCCUPATION!!Civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_091M",
+				"label": "Margin of Error!!Total population!!OCCUPATION!!Civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_091E",
+				"label": "Estimate!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_091M",
+				"label": "Margin of Error!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_092E",
+				"label": "Estimate!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations"
+			},
+			{
+				"id": "S2601CPR_C01_092M",
+				"label": "Margin of Error!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations"
+			},
+			{
+				"id": "S2601CPR_C02_092E",
+				"label": "Estimate!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations"
+			},
+			{
+				"id": "S2601CPR_C02_092M",
+				"label": "Margin of Error!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations"
+			},
+			{
+				"id": "S2601CPR_C01_093E",
+				"label": "Estimate!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations"
+			},
+			{
+				"id": "S2601CPR_C01_093M",
+				"label": "Margin of Error!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations"
+			},
+			{
+				"id": "S2601CPR_C02_093E",
+				"label": "Estimate!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations"
+			},
+			{
+				"id": "S2601CPR_C02_093M",
+				"label": "Margin of Error!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations"
+			},
+			{
+				"id": "S2601CPR_C01_094E",
+				"label": "Estimate!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations"
+			},
+			{
+				"id": "S2601CPR_C01_094M",
+				"label": "Margin of Error!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations"
+			},
+			{
+				"id": "S2601CPR_C02_094E",
+				"label": "Estimate!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations"
+			},
+			{
+				"id": "S2601CPR_C02_094M",
+				"label": "Margin of Error!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations"
+			},
+			{
+				"id": "S2601CPR_C01_095E",
+				"label": "Estimate!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations"
+			},
+			{
+				"id": "S2601CPR_C01_095M",
+				"label": "Margin of Error!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations"
+			},
+			{
+				"id": "S2601CPR_C02_095E",
+				"label": "Estimate!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations"
+			},
+			{
+				"id": "S2601CPR_C02_095M",
+				"label": "Margin of Error!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations"
+			},
+			{
+				"id": "S2601CPR_C01_096E",
+				"label": "Estimate!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations"
+			},
+			{
+				"id": "S2601CPR_C01_096M",
+				"label": "Margin of Error!!Total population!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations"
+			},
+			{
+				"id": "S2601CPR_C02_096E",
+				"label": "Estimate!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations"
+			},
+			{
+				"id": "S2601CPR_C02_096M",
+				"label": "Margin of Error!!Total group quarters population!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations"
+			},
+			{
+				"id": "S2601CPR_C01_097E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals"
+			},
+			{
+				"id": "S2601CPR_C01_097M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals"
+			},
+			{
+				"id": "S2601CPR_C02_097E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals"
+			},
+			{
+				"id": "S2601CPR_C02_097M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals"
+			},
+			{
+				"id": "S2601CPR_C01_098E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars)"
+			},
+			{
+				"id": "S2601CPR_C01_098M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars)"
+			},
+			{
+				"id": "S2601CPR_C02_098E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars)"
+			},
+			{
+				"id": "S2601CPR_C02_098M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars)"
+			},
+			{
+				"id": "S2601CPR_C01_099E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With earnings for full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_099M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With earnings for full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_099E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With earnings for full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_099M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With earnings for full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_100E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With earnings for full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_100M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With earnings for full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_100E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With earnings for full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_100M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With earnings for full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_101E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Mean earnings (dollars)  for full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_101M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Mean earnings (dollars)  for full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_101E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Mean earnings (dollars)  for full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_101M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Mean earnings (dollars)  for full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_102E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Mean earnings (dollars)  for full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_102M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Mean earnings (dollars)  for full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_102E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Mean earnings (dollars)  for full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_102M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Mean earnings (dollars)  for full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_103E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Median earnings (dollars) full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_103M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Median earnings (dollars) full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_103E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Median earnings (dollars) full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C02_103M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Median earnings (dollars) full-time, year-round workers:!!Male"
+			},
+			{
+				"id": "S2601CPR_C01_104E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Median earnings (dollars) full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_104M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Median earnings (dollars) full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_104E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Median earnings (dollars) full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C02_104M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Median earnings (dollars) full-time, year-round workers:!!Female"
+			},
+			{
+				"id": "S2601CPR_C01_105E",
+				"label": "Estimate!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S2601CPR_C01_105M",
+				"label": "Margin of Error!!Total population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S2601CPR_C02_105E",
+				"label": "Estimate!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S2601CPR_C02_105M",
+				"label": "Margin of Error!!Total group quarters population!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Individuals!!With Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S2601CPR_C01_106E",
+				"label": "Estimate!!Total population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people"
+			},
+			{
+				"id": "S2601CPR_C01_106M",
+				"label": "Margin of Error!!Total population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people"
+			},
+			{
+				"id": "S2601CPR_C02_106E",
+				"label": "Estimate!!Total group quarters population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people"
+			},
+			{
+				"id": "S2601CPR_C02_106M",
+				"label": "Margin of Error!!Total group quarters population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people"
+			},
+			{
+				"id": "S2601CPR_C01_107E",
+				"label": "Estimate!!Total population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_107M",
+				"label": "Margin of Error!!Total population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_107E",
+				"label": "Estimate!!Total group quarters population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_107M",
+				"label": "Margin of Error!!Total group quarters population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_108E",
+				"label": "Estimate!!Total population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C01_108M",
+				"label": "Margin of Error!!Total population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C02_108E",
+				"label": "Estimate!!Total group quarters population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C02_108M",
+				"label": "Margin of Error!!Total group quarters population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years"
+			},
+			{
+				"id": "S2601CPR_C01_109E",
+				"label": "Estimate!!Total population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over"
+			},
+			{
+				"id": "S2601CPR_C01_109M",
+				"label": "Margin of Error!!Total population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_109E",
+				"label": "Estimate!!Total group quarters population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over"
+			},
+			{
+				"id": "S2601CPR_C02_109M",
+				"label": "Margin of Error!!Total group quarters population!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"scrapedTimestamp": "2025-12-09T20:59:06.580Z"
+}

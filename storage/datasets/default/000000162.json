@@ -1,0 +1,120 @@
+{
+	"tableId": "ACSDT1Y2024.B06004F",
+	"title": "Place of Birth (Some Other Race Alone) in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Some other race alone population in the United States",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06004F",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06004F_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06004F_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06004F_002E",
+				"label": "Estimate!!Total:!!Born in state of residence"
+			},
+			{
+				"id": "B06004F_002M",
+				"label": "Margin of Error!!Total:!!Born in state of residence"
+			},
+			{
+				"id": "B06004F_003E",
+				"label": "Estimate!!Total:!!Born in other state in the United States"
+			},
+			{
+				"id": "B06004F_003M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States"
+			},
+			{
+				"id": "B06004F_004E",
+				"label": "Estimate!!Total:!!Native; born outside the United States"
+			},
+			{
+				"id": "B06004F_004M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States"
+			},
+			{
+				"id": "B06004F_005E",
+				"label": "Estimate!!Total:!!Foreign born"
+			},
+			{
+				"id": "B06004F_005M",
+				"label": "Margin of Error!!Total:!!Foreign born"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06004F_001M",
+			"B06004F_002M",
+			"NAME",
+			"GEO_ID",
+			"B06004F_005MA",
+			"B06004F_004MA",
+			"B06004F_005E",
+			"B06004F_003MA",
+			"B06004F_002MA",
+			"B06004F_003E",
+			"B06004F_001MA",
+			"B06004F_004E",
+			"B06004F_001E",
+			"B06004F_002E",
+			"B06004F_005EA",
+			"B06004F_004EA",
+			"B06004F_005M",
+			"B06004F_003EA",
+			"B06004F_002EA",
+			"B06004F_003M",
+			"B06004F_001EA",
+			"B06004F_004M"
+		],
+		[
+			"137517",
+			"89737",
+			"United States",
+			"0100000US",
+			null,
+			null,
+			"10231692",
+			null,
+			null,
+			"2652928",
+			null,
+			"1111730",
+			"25282912",
+			"11286562",
+			null,
+			null,
+			"91405",
+			null,
+			null,
+			"44337",
+			null,
+			"26918"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:37.178Z"
+}

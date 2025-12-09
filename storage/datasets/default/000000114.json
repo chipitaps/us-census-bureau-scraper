@@ -1,0 +1,88 @@
+{
+	"tableId": "ACSDT1Y2024.B01002F",
+	"title": "Median Age by Sex (Some Other Race Alone)",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "People who are Some Other Race alone",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B01002F",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B01002F_001E",
+				"label": "Estimate!!Median age --!!Total:"
+			},
+			{
+				"id": "B01002F_001M",
+				"label": "Margin of Error!!Median age --!!Total:"
+			},
+			{
+				"id": "B01002F_002E",
+				"label": "Estimate!!Median age --!!Male"
+			},
+			{
+				"id": "B01002F_002M",
+				"label": "Margin of Error!!Median age --!!Male"
+			},
+			{
+				"id": "B01002F_003E",
+				"label": "Estimate!!Median age --!!Female"
+			},
+			{
+				"id": "B01002F_003M",
+				"label": "Margin of Error!!Median age --!!Female"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B01002F_001MA",
+			"B01002F_001M",
+			"B01002F_003MA",
+			"B01002F_002MA",
+			"B01002F_003M",
+			"B01002F_002M",
+			"NAME",
+			"GEO_ID",
+			"B01002F_001EA",
+			"B01002F_001E",
+			"B01002F_003EA",
+			"B01002F_002EA",
+			"B01002F_003E",
+			"B01002F_002E"
+		],
+		[
+			null,
+			"0.2",
+			null,
+			null,
+			"0.2",
+			"0.2",
+			"United States",
+			"0100000US",
+			null,
+			"32.6",
+			null,
+			null,
+			"32.9",
+			"32.4"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:29.463Z"
+}

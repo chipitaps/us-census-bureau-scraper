@@ -114,12 +114,16 @@ export async function searchCensusData(
             // Use Census Bureau API search endpoint to get REAL table IDs directly
             // This returns actual table instances with real IDs, not base IDs that need to be constructed
             // Include year filter in URL if provided (this ensures the API filters at the source)
+            // Support pagination with from and size parameters
             let url = `${BASE_API_URL}/search?q=${encodeURIComponent(searchQuery)}&type=table`;
             if (yearFilter) {
                 url += `&y=${encodeURIComponent(yearFilter)}`;
             }
+            // Add pagination parameters (from and size)
+            const from = _page * _size;
+            url += `&from=${from}&size=${_size}`;
             
-            log.info('Fetching search results from Census Bureau API', { query: searchQuery, yearFilter, url });
+            log.info('Fetching search results from Census Bureau API', { query: searchQuery, yearFilter, from, size: _size, url });
 
             const response = await fetch(url, {
                 method: 'GET',
@@ -144,6 +148,9 @@ export async function searchCensusData(
             
             // Extract tables from response structure - these contain REAL table IDs in instances
             const tables = data.response?.tables?.tables || [];
+            const totalAvailable = data.response?.tables?.total || 0;
+            
+            log.info(`Page ${_page}: Got ${tables.length} tables (${tables.reduce((sum: number, t: any) => sum + (t.instances?.length || 0), 0)} instances) out of ${totalAvailable} total`);
             
             for (const table of tables) {
                 const instances = table.instances || [];

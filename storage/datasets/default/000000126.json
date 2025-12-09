@@ -1,0 +1,88 @@
+{
+	"tableId": "ACSDT1Y2024.B03003",
+	"title": "Hispanic or Latino Origin",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total population",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B03003",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B03003_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B03003_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B03003_002E",
+				"label": "Estimate!!Total:!!Not Hispanic or Latino"
+			},
+			{
+				"id": "B03003_002M",
+				"label": "Margin of Error!!Total:!!Not Hispanic or Latino"
+			},
+			{
+				"id": "B03003_003E",
+				"label": "Estimate!!Total:!!Hispanic or Latino"
+			},
+			{
+				"id": "B03003_003M",
+				"label": "Margin of Error!!Total:!!Hispanic or Latino"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B03003_003MA",
+			"B03003_001MA",
+			"B03003_002MA",
+			"B03003_003EA",
+			"B03003_001EA",
+			"B03003_002EA",
+			"NAME",
+			"GEO_ID",
+			"B03003_003M",
+			"B03003_001M",
+			"B03003_002M",
+			"B03003_003E",
+			"B03003_001E",
+			"B03003_002E"
+		],
+		[
+			null,
+			"*****",
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			"0100000US",
+			"8596",
+			"-555555555",
+			"8597",
+			"68013553",
+			"340110990",
+			"272097437"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:30.941Z"
+}

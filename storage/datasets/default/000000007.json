@@ -1,0 +1,3435 @@
+{
+	"tableId": "ACSST1Y2024.S0102",
+	"title": "Population 60 Years and Over in the United States",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S0102",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S0102_C01_001E",
+				"label": "Estimate!!Total!!Total population"
+			},
+			{
+				"id": "S0102_C01_001M",
+				"label": "Margin of Error!!Total!!Total population"
+			},
+			{
+				"id": "S0102_C02_001E",
+				"label": "Estimate!!60 years and over!!Total population"
+			},
+			{
+				"id": "S0102_C02_001M",
+				"label": "Margin of Error!!60 years and over!!Total population"
+			},
+			{
+				"id": "S0102_C01_002E",
+				"label": "Estimate!!Total!!Total population!!SEX AND AGE!!Male"
+			},
+			{
+				"id": "S0102_C01_002M",
+				"label": "Margin of Error!!Total!!Total population!!SEX AND AGE!!Male"
+			},
+			{
+				"id": "S0102_C02_002E",
+				"label": "Estimate!!60 years and over!!Total population!!SEX AND AGE!!Male"
+			},
+			{
+				"id": "S0102_C02_002M",
+				"label": "Margin of Error!!60 years and over!!Total population!!SEX AND AGE!!Male"
+			},
+			{
+				"id": "S0102_C01_003E",
+				"label": "Estimate!!Total!!Total population!!SEX AND AGE!!Female"
+			},
+			{
+				"id": "S0102_C01_003M",
+				"label": "Margin of Error!!Total!!Total population!!SEX AND AGE!!Female"
+			},
+			{
+				"id": "S0102_C02_003E",
+				"label": "Estimate!!60 years and over!!Total population!!SEX AND AGE!!Female"
+			},
+			{
+				"id": "S0102_C02_003M",
+				"label": "Margin of Error!!60 years and over!!Total population!!SEX AND AGE!!Female"
+			},
+			{
+				"id": "S0102_C01_004E",
+				"label": "Estimate!!Total!!Total population!!SEX AND AGE!!Median age (years)"
+			},
+			{
+				"id": "S0102_C01_004M",
+				"label": "Margin of Error!!Total!!Total population!!SEX AND AGE!!Median age (years)"
+			},
+			{
+				"id": "S0102_C02_004E",
+				"label": "Estimate!!60 years and over!!Total population!!SEX AND AGE!!Median age (years)"
+			},
+			{
+				"id": "S0102_C02_004M",
+				"label": "Margin of Error!!60 years and over!!Total population!!SEX AND AGE!!Median age (years)"
+			},
+			{
+				"id": "S0102_C01_005E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0102_C01_005M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0102_C02_005E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0102_C02_005M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0102_C01_006E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0102_C01_006M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0102_C02_006E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0102_C02_006M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0102_C01_007E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0102_C01_007M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0102_C02_007E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0102_C02_007M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0102_C01_008E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0102_C01_008M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0102_C02_008E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0102_C02_008M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0102_C01_009E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0102_C01_009M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0102_C02_009E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0102_C02_009M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0102_C01_010E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0102_C01_010M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0102_C02_010E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0102_C02_010M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0102_C01_011E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0102_C01_011M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0102_C02_011E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0102_C02_011M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0102_C01_012E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0102_C01_012M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0102_C02_012E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0102_C02_012M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0102_C01_013E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0102_C01_013M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0102_C02_013E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0102_C02_013M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0102_C01_014E",
+				"label": "Estimate!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0102_C01_014M",
+				"label": "Margin of Error!!Total!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0102_C02_014E",
+				"label": "Estimate!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0102_C02_014M",
+				"label": "Margin of Error!!60 years and over!!Total population!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0102_C01_015E",
+				"label": "Estimate!!Total!!RELATIONSHIP!!Population in households"
+			},
+			{
+				"id": "S0102_C01_015M",
+				"label": "Margin of Error!!Total!!RELATIONSHIP!!Population in households"
+			},
+			{
+				"id": "S0102_C02_015E",
+				"label": "Estimate!!60 years and over!!RELATIONSHIP!!Population in households"
+			},
+			{
+				"id": "S0102_C02_015M",
+				"label": "Margin of Error!!60 years and over!!RELATIONSHIP!!Population in households"
+			},
+			{
+				"id": "S0102_C01_016E",
+				"label": "Estimate!!Total!!RELATIONSHIP!!Population in households!!Householder or spouse"
+			},
+			{
+				"id": "S0102_C01_016M",
+				"label": "Margin of Error!!Total!!RELATIONSHIP!!Population in households!!Householder or spouse"
+			},
+			{
+				"id": "S0102_C02_016E",
+				"label": "Estimate!!60 years and over!!RELATIONSHIP!!Population in households!!Householder or spouse"
+			},
+			{
+				"id": "S0102_C02_016M",
+				"label": "Margin of Error!!60 years and over!!RELATIONSHIP!!Population in households!!Householder or spouse"
+			},
+			{
+				"id": "S0102_C01_017E",
+				"label": "Estimate!!Total!!RELATIONSHIP!!Population in households!!Parent"
+			},
+			{
+				"id": "S0102_C01_017M",
+				"label": "Margin of Error!!Total!!RELATIONSHIP!!Population in households!!Parent"
+			},
+			{
+				"id": "S0102_C02_017E",
+				"label": "Estimate!!60 years and over!!RELATIONSHIP!!Population in households!!Parent"
+			},
+			{
+				"id": "S0102_C02_017M",
+				"label": "Margin of Error!!60 years and over!!RELATIONSHIP!!Population in households!!Parent"
+			},
+			{
+				"id": "S0102_C01_018E",
+				"label": "Estimate!!Total!!RELATIONSHIP!!Population in households!!Other relatives"
+			},
+			{
+				"id": "S0102_C01_018M",
+				"label": "Margin of Error!!Total!!RELATIONSHIP!!Population in households!!Other relatives"
+			},
+			{
+				"id": "S0102_C02_018E",
+				"label": "Estimate!!60 years and over!!RELATIONSHIP!!Population in households!!Other relatives"
+			},
+			{
+				"id": "S0102_C02_018M",
+				"label": "Margin of Error!!60 years and over!!RELATIONSHIP!!Population in households!!Other relatives"
+			},
+			{
+				"id": "S0102_C01_019E",
+				"label": "Estimate!!Total!!RELATIONSHIP!!Population in households!!Nonrelatives"
+			},
+			{
+				"id": "S0102_C01_019M",
+				"label": "Margin of Error!!Total!!RELATIONSHIP!!Population in households!!Nonrelatives"
+			},
+			{
+				"id": "S0102_C02_019E",
+				"label": "Estimate!!60 years and over!!RELATIONSHIP!!Population in households!!Nonrelatives"
+			},
+			{
+				"id": "S0102_C02_019M",
+				"label": "Margin of Error!!60 years and over!!RELATIONSHIP!!Population in households!!Nonrelatives"
+			},
+			{
+				"id": "S0102_C01_020E",
+				"label": "Estimate!!Total!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner"
+			},
+			{
+				"id": "S0102_C01_020M",
+				"label": "Margin of Error!!Total!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner"
+			},
+			{
+				"id": "S0102_C02_020E",
+				"label": "Estimate!!60 years and over!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner"
+			},
+			{
+				"id": "S0102_C02_020M",
+				"label": "Margin of Error!!60 years and over!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner"
+			},
+			{
+				"id": "S0102_C01_021E",
+				"label": "Estimate!!Total!!HOUSEHOLDS BY TYPE!!Households"
+			},
+			{
+				"id": "S0102_C01_021M",
+				"label": "Margin of Error!!Total!!HOUSEHOLDS BY TYPE!!Households"
+			},
+			{
+				"id": "S0102_C02_021E",
+				"label": "Estimate!!60 years and over!!HOUSEHOLDS BY TYPE!!Households"
+			},
+			{
+				"id": "S0102_C02_021M",
+				"label": "Margin of Error!!60 years and over!!HOUSEHOLDS BY TYPE!!Households"
+			},
+			{
+				"id": "S0102_C01_022E",
+				"label": "Estimate!!Total!!HOUSEHOLDS BY TYPE!!Households!!Family households"
+			},
+			{
+				"id": "S0102_C01_022M",
+				"label": "Margin of Error!!Total!!HOUSEHOLDS BY TYPE!!Households!!Family households"
+			},
+			{
+				"id": "S0102_C02_022E",
+				"label": "Estimate!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Family households"
+			},
+			{
+				"id": "S0102_C02_022M",
+				"label": "Margin of Error!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Family households"
+			},
+			{
+				"id": "S0102_C01_023E",
+				"label": "Estimate!!Total!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family"
+			},
+			{
+				"id": "S0102_C01_023M",
+				"label": "Margin of Error!!Total!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family"
+			},
+			{
+				"id": "S0102_C02_023E",
+				"label": "Estimate!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family"
+			},
+			{
+				"id": "S0102_C02_023M",
+				"label": "Margin of Error!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family"
+			},
+			{
+				"id": "S0102_C01_024E",
+				"label": "Estimate!!Total!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no spouse present, family"
+			},
+			{
+				"id": "S0102_C01_024M",
+				"label": "Margin of Error!!Total!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no spouse present, family"
+			},
+			{
+				"id": "S0102_C02_024E",
+				"label": "Estimate!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no spouse present, family"
+			},
+			{
+				"id": "S0102_C02_024M",
+				"label": "Margin of Error!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no spouse present, family"
+			},
+			{
+				"id": "S0102_C01_025E",
+				"label": "Estimate!!Total!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households"
+			},
+			{
+				"id": "S0102_C01_025M",
+				"label": "Margin of Error!!Total!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households"
+			},
+			{
+				"id": "S0102_C02_025E",
+				"label": "Estimate!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households"
+			},
+			{
+				"id": "S0102_C02_025M",
+				"label": "Margin of Error!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households"
+			},
+			{
+				"id": "S0102_C01_026E",
+				"label": "Estimate!!Total!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone"
+			},
+			{
+				"id": "S0102_C01_026M",
+				"label": "Margin of Error!!Total!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone"
+			},
+			{
+				"id": "S0102_C02_026E",
+				"label": "Estimate!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone"
+			},
+			{
+				"id": "S0102_C02_026M",
+				"label": "Margin of Error!!60 years and over!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone"
+			},
+			{
+				"id": "S0102_C01_027E",
+				"label": "Estimate!!Total!!MARITAL STATUS!!Population 15 years and over"
+			},
+			{
+				"id": "S0102_C01_027M",
+				"label": "Margin of Error!!Total!!MARITAL STATUS!!Population 15 years and over"
+			},
+			{
+				"id": "S0102_C02_027E",
+				"label": "Estimate!!60 years and over!!MARITAL STATUS!!Population 15 years and over"
+			},
+			{
+				"id": "S0102_C02_027M",
+				"label": "Margin of Error!!60 years and over!!MARITAL STATUS!!Population 15 years and over"
+			},
+			{
+				"id": "S0102_C01_028E",
+				"label": "Estimate!!Total!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated"
+			},
+			{
+				"id": "S0102_C01_028M",
+				"label": "Margin of Error!!Total!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated"
+			},
+			{
+				"id": "S0102_C02_028E",
+				"label": "Estimate!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated"
+			},
+			{
+				"id": "S0102_C02_028M",
+				"label": "Margin of Error!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated"
+			},
+			{
+				"id": "S0102_C01_029E",
+				"label": "Estimate!!Total!!MARITAL STATUS!!Population 15 years and over!!Widowed"
+			},
+			{
+				"id": "S0102_C01_029M",
+				"label": "Margin of Error!!Total!!MARITAL STATUS!!Population 15 years and over!!Widowed"
+			},
+			{
+				"id": "S0102_C02_029E",
+				"label": "Estimate!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Widowed"
+			},
+			{
+				"id": "S0102_C02_029M",
+				"label": "Margin of Error!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Widowed"
+			},
+			{
+				"id": "S0102_C01_030E",
+				"label": "Estimate!!Total!!MARITAL STATUS!!Population 15 years and over!!Divorced"
+			},
+			{
+				"id": "S0102_C01_030M",
+				"label": "Margin of Error!!Total!!MARITAL STATUS!!Population 15 years and over!!Divorced"
+			},
+			{
+				"id": "S0102_C02_030E",
+				"label": "Estimate!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Divorced"
+			},
+			{
+				"id": "S0102_C02_030M",
+				"label": "Margin of Error!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Divorced"
+			},
+			{
+				"id": "S0102_C01_031E",
+				"label": "Estimate!!Total!!MARITAL STATUS!!Population 15 years and over!!Separated"
+			},
+			{
+				"id": "S0102_C01_031M",
+				"label": "Margin of Error!!Total!!MARITAL STATUS!!Population 15 years and over!!Separated"
+			},
+			{
+				"id": "S0102_C02_031E",
+				"label": "Estimate!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Separated"
+			},
+			{
+				"id": "S0102_C02_031M",
+				"label": "Margin of Error!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Separated"
+			},
+			{
+				"id": "S0102_C01_032E",
+				"label": "Estimate!!Total!!MARITAL STATUS!!Population 15 years and over!!Never married"
+			},
+			{
+				"id": "S0102_C01_032M",
+				"label": "Margin of Error!!Total!!MARITAL STATUS!!Population 15 years and over!!Never married"
+			},
+			{
+				"id": "S0102_C02_032E",
+				"label": "Estimate!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Never married"
+			},
+			{
+				"id": "S0102_C02_032M",
+				"label": "Margin of Error!!60 years and over!!MARITAL STATUS!!Population 15 years and over!!Never married"
+			},
+			{
+				"id": "S0102_C01_033E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over"
+			},
+			{
+				"id": "S0102_C01_033M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over"
+			},
+			{
+				"id": "S0102_C02_033E",
+				"label": "Estimate!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over"
+			},
+			{
+				"id": "S0102_C02_033M",
+				"label": "Margin of Error!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over"
+			},
+			{
+				"id": "S0102_C01_034E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate"
+			},
+			{
+				"id": "S0102_C01_034M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate"
+			},
+			{
+				"id": "S0102_C02_034E",
+				"label": "Estimate!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate"
+			},
+			{
+				"id": "S0102_C02_034M",
+				"label": "Margin of Error!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate"
+			},
+			{
+				"id": "S0102_C01_035E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative"
+			},
+			{
+				"id": "S0102_C01_035M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative"
+			},
+			{
+				"id": "S0102_C02_035E",
+				"label": "Estimate!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative"
+			},
+			{
+				"id": "S0102_C02_035M",
+				"label": "Margin of Error!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative"
+			},
+			{
+				"id": "S0102_C01_036E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree"
+			},
+			{
+				"id": "S0102_C01_036M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree"
+			},
+			{
+				"id": "S0102_C02_036E",
+				"label": "Estimate!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree"
+			},
+			{
+				"id": "S0102_C02_036M",
+				"label": "Margin of Error!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree"
+			},
+			{
+				"id": "S0102_C01_037E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S0102_C01_037M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S0102_C02_037E",
+				"label": "Estimate!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S0102_C02_037M",
+				"label": "Margin of Error!!60 years and over!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S0102_C01_038E",
+				"label": "Estimate!!Total!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over"
+			},
+			{
+				"id": "S0102_C01_038M",
+				"label": "Margin of Error!!Total!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over"
+			},
+			{
+				"id": "S0102_C02_038E",
+				"label": "Estimate!!60 years and over!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over"
+			},
+			{
+				"id": "S0102_C02_038M",
+				"label": "Margin of Error!!60 years and over!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over"
+			},
+			{
+				"id": "S0102_C01_039E",
+				"label": "Estimate!!Total!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)"
+			},
+			{
+				"id": "S0102_C01_039M",
+				"label": "Margin of Error!!Total!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)"
+			},
+			{
+				"id": "S0102_C02_039E",
+				"label": "Estimate!!60 years and over!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)"
+			},
+			{
+				"id": "S0102_C02_039M",
+				"label": "Margin of Error!!60 years and over!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)"
+			},
+			{
+				"id": "S0102_C01_040E",
+				"label": "Estimate!!Total!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren)"
+			},
+			{
+				"id": "S0102_C01_040M",
+				"label": "Margin of Error!!Total!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren)"
+			},
+			{
+				"id": "S0102_C02_040E",
+				"label": "Estimate!!60 years and over!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren)"
+			},
+			{
+				"id": "S0102_C02_040M",
+				"label": "Margin of Error!!60 years and over!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren)"
+			},
+			{
+				"id": "S0102_C01_041E",
+				"label": "Estimate!!Total!!VETERAN STATUS!!Civilian population 18 years and over"
+			},
+			{
+				"id": "S0102_C01_041M",
+				"label": "Margin of Error!!Total!!VETERAN STATUS!!Civilian population 18 years and over"
+			},
+			{
+				"id": "S0102_C02_041E",
+				"label": "Estimate!!60 years and over!!VETERAN STATUS!!Civilian population 18 years and over"
+			},
+			{
+				"id": "S0102_C02_041M",
+				"label": "Margin of Error!!60 years and over!!VETERAN STATUS!!Civilian population 18 years and over"
+			},
+			{
+				"id": "S0102_C01_042E",
+				"label": "Estimate!!Total!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran"
+			},
+			{
+				"id": "S0102_C01_042M",
+				"label": "Margin of Error!!Total!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran"
+			},
+			{
+				"id": "S0102_C02_042E",
+				"label": "Estimate!!60 years and over!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran"
+			},
+			{
+				"id": "S0102_C02_042M",
+				"label": "Margin of Error!!60 years and over!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran"
+			},
+			{
+				"id": "S0102_C01_043E",
+				"label": "Estimate!!Total!!DISABILITY STATUS!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S0102_C01_043M",
+				"label": "Margin of Error!!Total!!DISABILITY STATUS!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S0102_C02_043E",
+				"label": "Estimate!!60 years and over!!DISABILITY STATUS!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S0102_C02_043M",
+				"label": "Margin of Error!!60 years and over!!DISABILITY STATUS!!Civilian noninstitutionalized population"
+			},
+			{
+				"id": "S0102_C01_044E",
+				"label": "Estimate!!Total!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability"
+			},
+			{
+				"id": "S0102_C01_044M",
+				"label": "Margin of Error!!Total!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability"
+			},
+			{
+				"id": "S0102_C02_044E",
+				"label": "Estimate!!60 years and over!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability"
+			},
+			{
+				"id": "S0102_C02_044M",
+				"label": "Margin of Error!!60 years and over!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability"
+			},
+			{
+				"id": "S0102_C01_045E",
+				"label": "Estimate!!Total!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability"
+			},
+			{
+				"id": "S0102_C01_045M",
+				"label": "Margin of Error!!Total!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability"
+			},
+			{
+				"id": "S0102_C02_045E",
+				"label": "Estimate!!60 years and over!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability"
+			},
+			{
+				"id": "S0102_C02_045M",
+				"label": "Margin of Error!!60 years and over!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability"
+			},
+			{
+				"id": "S0102_C01_046E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over"
+			},
+			{
+				"id": "S0102_C01_046M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over"
+			},
+			{
+				"id": "S0102_C02_046E",
+				"label": "Estimate!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over"
+			},
+			{
+				"id": "S0102_C02_046M",
+				"label": "Margin of Error!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over"
+			},
+			{
+				"id": "S0102_C01_047E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house"
+			},
+			{
+				"id": "S0102_C01_047M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house"
+			},
+			{
+				"id": "S0102_C02_047E",
+				"label": "Estimate!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house"
+			},
+			{
+				"id": "S0102_C02_047M",
+				"label": "Margin of Error!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house"
+			},
+			{
+				"id": "S0102_C01_048E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States"
+			},
+			{
+				"id": "S0102_C01_048M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States"
+			},
+			{
+				"id": "S0102_C02_048E",
+				"label": "Estimate!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States"
+			},
+			{
+				"id": "S0102_C02_048M",
+				"label": "Margin of Error!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States"
+			},
+			{
+				"id": "S0102_C01_049E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county"
+			},
+			{
+				"id": "S0102_C01_049M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county"
+			},
+			{
+				"id": "S0102_C02_049E",
+				"label": "Estimate!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county"
+			},
+			{
+				"id": "S0102_C02_049M",
+				"label": "Margin of Error!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county"
+			},
+			{
+				"id": "S0102_C01_050E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county"
+			},
+			{
+				"id": "S0102_C01_050M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county"
+			},
+			{
+				"id": "S0102_C02_050E",
+				"label": "Estimate!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county"
+			},
+			{
+				"id": "S0102_C02_050M",
+				"label": "Margin of Error!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county"
+			},
+			{
+				"id": "S0102_C01_051E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state"
+			},
+			{
+				"id": "S0102_C01_051M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state"
+			},
+			{
+				"id": "S0102_C02_051E",
+				"label": "Estimate!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state"
+			},
+			{
+				"id": "S0102_C02_051M",
+				"label": "Margin of Error!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state"
+			},
+			{
+				"id": "S0102_C01_052E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state"
+			},
+			{
+				"id": "S0102_C01_052M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state"
+			},
+			{
+				"id": "S0102_C02_052E",
+				"label": "Estimate!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state"
+			},
+			{
+				"id": "S0102_C02_052M",
+				"label": "Margin of Error!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state"
+			},
+			{
+				"id": "S0102_C01_053E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad"
+			},
+			{
+				"id": "S0102_C01_053M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad"
+			},
+			{
+				"id": "S0102_C02_053E",
+				"label": "Estimate!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad"
+			},
+			{
+				"id": "S0102_C02_053M",
+				"label": "Margin of Error!!60 years and over!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad"
+			},
+			{
+				"id": "S0102_C01_054E",
+				"label": "Estimate!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population"
+			},
+			{
+				"id": "S0102_C01_054M",
+				"label": "Margin of Error!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population"
+			},
+			{
+				"id": "S0102_C02_054E",
+				"label": "Estimate!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population"
+			},
+			{
+				"id": "S0102_C02_054M",
+				"label": "Margin of Error!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population"
+			},
+			{
+				"id": "S0102_C01_055E",
+				"label": "Estimate!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native"
+			},
+			{
+				"id": "S0102_C01_055M",
+				"label": "Margin of Error!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native"
+			},
+			{
+				"id": "S0102_C02_055E",
+				"label": "Estimate!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native"
+			},
+			{
+				"id": "S0102_C02_055M",
+				"label": "Margin of Error!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native"
+			},
+			{
+				"id": "S0102_C01_056E",
+				"label": "Estimate!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born"
+			},
+			{
+				"id": "S0102_C01_056M",
+				"label": "Margin of Error!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born"
+			},
+			{
+				"id": "S0102_C02_056E",
+				"label": "Estimate!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born"
+			},
+			{
+				"id": "S0102_C02_056M",
+				"label": "Margin of Error!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born"
+			},
+			{
+				"id": "S0102_C01_057E",
+				"label": "Estimate!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  2010 or later"
+			},
+			{
+				"id": "S0102_C01_057M",
+				"label": "Margin of Error!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  2010 or later"
+			},
+			{
+				"id": "S0102_C02_057E",
+				"label": "Estimate!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  2010 or later"
+			},
+			{
+				"id": "S0102_C02_057M",
+				"label": "Margin of Error!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  2010 or later"
+			},
+			{
+				"id": "S0102_C01_058E",
+				"label": "Estimate!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  2000 to 2009"
+			},
+			{
+				"id": "S0102_C01_058M",
+				"label": "Margin of Error!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  2000 to 2009"
+			},
+			{
+				"id": "S0102_C02_058E",
+				"label": "Estimate!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  2000 to 2009"
+			},
+			{
+				"id": "S0102_C02_058M",
+				"label": "Margin of Error!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  2000 to 2009"
+			},
+			{
+				"id": "S0102_C01_059E",
+				"label": "Estimate!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  before 2000"
+			},
+			{
+				"id": "S0102_C01_059M",
+				"label": "Margin of Error!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  before 2000"
+			},
+			{
+				"id": "S0102_C02_059E",
+				"label": "Estimate!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  before 2000"
+			},
+			{
+				"id": "S0102_C02_059M",
+				"label": "Margin of Error!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered  before 2000"
+			},
+			{
+				"id": "S0102_C01_060E",
+				"label": "Estimate!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "S0102_C01_060M",
+				"label": "Margin of Error!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "S0102_C02_060E",
+				"label": "Estimate!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "S0102_C02_060M",
+				"label": "Margin of Error!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "S0102_C01_061E",
+				"label": "Estimate!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen"
+			},
+			{
+				"id": "S0102_C01_061M",
+				"label": "Margin of Error!!Total!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen"
+			},
+			{
+				"id": "S0102_C02_061E",
+				"label": "Estimate!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen"
+			},
+			{
+				"id": "S0102_C02_061M",
+				"label": "Margin of Error!!60 years and over!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen"
+			},
+			{
+				"id": "S0102_C01_062E",
+				"label": "Estimate!!Total!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over"
+			},
+			{
+				"id": "S0102_C01_062M",
+				"label": "Margin of Error!!Total!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over"
+			},
+			{
+				"id": "S0102_C02_062E",
+				"label": "Estimate!!60 years and over!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over"
+			},
+			{
+				"id": "S0102_C02_062M",
+				"label": "Margin of Error!!60 years and over!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over"
+			},
+			{
+				"id": "S0102_C01_063E",
+				"label": "Estimate!!Total!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only"
+			},
+			{
+				"id": "S0102_C01_063M",
+				"label": "Margin of Error!!Total!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only"
+			},
+			{
+				"id": "S0102_C02_063E",
+				"label": "Estimate!!60 years and over!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only"
+			},
+			{
+				"id": "S0102_C02_063M",
+				"label": "Margin of Error!!60 years and over!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only"
+			},
+			{
+				"id": "S0102_C01_064E",
+				"label": "Estimate!!Total!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English"
+			},
+			{
+				"id": "S0102_C01_064M",
+				"label": "Margin of Error!!Total!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English"
+			},
+			{
+				"id": "S0102_C02_064E",
+				"label": "Estimate!!60 years and over!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English"
+			},
+			{
+				"id": "S0102_C02_064M",
+				"label": "Margin of Error!!60 years and over!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English"
+			},
+			{
+				"id": "S0102_C01_065E",
+				"label": "Estimate!!Total!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than \"very well\""
+			},
+			{
+				"id": "S0102_C01_065M",
+				"label": "Margin of Error!!Total!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than \"very well\""
+			},
+			{
+				"id": "S0102_C02_065E",
+				"label": "Estimate!!60 years and over!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than \"very well\""
+			},
+			{
+				"id": "S0102_C02_065M",
+				"label": "Margin of Error!!60 years and over!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than \"very well\""
+			},
+			{
+				"id": "S0102_C01_066E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Population 16 years and over"
+			},
+			{
+				"id": "S0102_C01_066M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Population 16 years and over"
+			},
+			{
+				"id": "S0102_C02_066E",
+				"label": "Estimate!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over"
+			},
+			{
+				"id": "S0102_C02_066M",
+				"label": "Margin of Error!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over"
+			},
+			{
+				"id": "S0102_C01_067E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S0102_C01_067M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S0102_C02_067E",
+				"label": "Estimate!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S0102_C02_067M",
+				"label": "Margin of Error!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S0102_C01_068E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force"
+			},
+			{
+				"id": "S0102_C01_068M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force"
+			},
+			{
+				"id": "S0102_C02_068E",
+				"label": "Estimate!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force"
+			},
+			{
+				"id": "S0102_C02_068M",
+				"label": "Margin of Error!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force"
+			},
+			{
+				"id": "S0102_C01_069E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed"
+			},
+			{
+				"id": "S0102_C01_069M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed"
+			},
+			{
+				"id": "S0102_C02_069E",
+				"label": "Estimate!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed"
+			},
+			{
+				"id": "S0102_C02_069M",
+				"label": "Margin of Error!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed"
+			},
+			{
+				"id": "S0102_C01_070E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed"
+			},
+			{
+				"id": "S0102_C01_070M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed"
+			},
+			{
+				"id": "S0102_C02_070E",
+				"label": "Estimate!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed"
+			},
+			{
+				"id": "S0102_C02_070M",
+				"label": "Margin of Error!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed"
+			},
+			{
+				"id": "S0102_C01_071E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force"
+			},
+			{
+				"id": "S0102_C01_071M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force"
+			},
+			{
+				"id": "S0102_C02_071E",
+				"label": "Estimate!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force"
+			},
+			{
+				"id": "S0102_C02_071M",
+				"label": "Margin of Error!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force"
+			},
+			{
+				"id": "S0102_C01_072E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed forces"
+			},
+			{
+				"id": "S0102_C01_072M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed forces"
+			},
+			{
+				"id": "S0102_C02_072E",
+				"label": "Estimate!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed forces"
+			},
+			{
+				"id": "S0102_C02_072M",
+				"label": "Margin of Error!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed forces"
+			},
+			{
+				"id": "S0102_C01_073E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S0102_C01_073M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S0102_C02_073E",
+				"label": "Estimate!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S0102_C02_073M",
+				"label": "Margin of Error!!60 years and over!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S0102_C01_074E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households"
+			},
+			{
+				"id": "S0102_C01_074M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households"
+			},
+			{
+				"id": "S0102_C02_074E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households"
+			},
+			{
+				"id": "S0102_C02_074M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households"
+			},
+			{
+				"id": "S0102_C01_075E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings"
+			},
+			{
+				"id": "S0102_C01_075M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings"
+			},
+			{
+				"id": "S0102_C02_075E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings"
+			},
+			{
+				"id": "S0102_C02_075M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings"
+			},
+			{
+				"id": "S0102_C01_076E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars)"
+			},
+			{
+				"id": "S0102_C01_076M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars)"
+			},
+			{
+				"id": "S0102_C02_076E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars)"
+			},
+			{
+				"id": "S0102_C02_076M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars)"
+			},
+			{
+				"id": "S0102_C01_077E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income"
+			},
+			{
+				"id": "S0102_C01_077M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income"
+			},
+			{
+				"id": "S0102_C02_077E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income"
+			},
+			{
+				"id": "S0102_C02_077M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income"
+			},
+			{
+				"id": "S0102_C01_078E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars)"
+			},
+			{
+				"id": "S0102_C01_078M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars)"
+			},
+			{
+				"id": "S0102_C02_078E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars)"
+			},
+			{
+				"id": "S0102_C02_078M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars)"
+			},
+			{
+				"id": "S0102_C01_079E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income"
+			},
+			{
+				"id": "S0102_C01_079M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income"
+			},
+			{
+				"id": "S0102_C02_079E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income"
+			},
+			{
+				"id": "S0102_C02_079M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income"
+			},
+			{
+				"id": "S0102_C01_080E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars)"
+			},
+			{
+				"id": "S0102_C01_080M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars)"
+			},
+			{
+				"id": "S0102_C02_080E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars)"
+			},
+			{
+				"id": "S0102_C02_080M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars)"
+			},
+			{
+				"id": "S0102_C01_081E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income"
+			},
+			{
+				"id": "S0102_C01_081M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income"
+			},
+			{
+				"id": "S0102_C02_081E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income"
+			},
+			{
+				"id": "S0102_C02_081M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income"
+			},
+			{
+				"id": "S0102_C01_082E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars)"
+			},
+			{
+				"id": "S0102_C01_082M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars)"
+			},
+			{
+				"id": "S0102_C02_082E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars)"
+			},
+			{
+				"id": "S0102_C02_082M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars)"
+			},
+			{
+				"id": "S0102_C01_083E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income"
+			},
+			{
+				"id": "S0102_C01_083M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income"
+			},
+			{
+				"id": "S0102_C02_083E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income"
+			},
+			{
+				"id": "S0102_C02_083M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income"
+			},
+			{
+				"id": "S0102_C01_084E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars)"
+			},
+			{
+				"id": "S0102_C01_084M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars)"
+			},
+			{
+				"id": "S0102_C02_084E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars)"
+			},
+			{
+				"id": "S0102_C02_084M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars)"
+			},
+			{
+				"id": "S0102_C01_085E",
+				"label": "Estimate!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0102_C01_085M",
+				"label": "Margin of Error!!Total!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0102_C02_085E",
+				"label": "Estimate!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0102_C02_085M",
+				"label": "Margin of Error!!60 years and over!!INCOME IN THE PAST 12 MONTHS (IN 2024 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0102_C01_086E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined"
+			},
+			{
+				"id": "S0102_C01_086M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined"
+			},
+			{
+				"id": "S0102_C02_086E",
+				"label": "Estimate!!60 years and over!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined"
+			},
+			{
+				"id": "S0102_C02_086M",
+				"label": "Margin of Error!!60 years and over!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined"
+			},
+			{
+				"id": "S0102_C01_087E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C01_087M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C02_087E",
+				"label": "Estimate!!60 years and over!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C02_087M",
+				"label": "Margin of Error!!60 years and over!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C01_088E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C01_088M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C02_088E",
+				"label": "Estimate!!60 years and over!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C02_088M",
+				"label": "Margin of Error!!60 years and over!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C01_089E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C01_089M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C02_089E",
+				"label": "Estimate!!60 years and over!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C02_089M",
+				"label": "Margin of Error!!60 years and over!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "S0102_C01_090E",
+				"label": "Estimate!!Total!!Occupied housing units"
+			},
+			{
+				"id": "S0102_C01_090M",
+				"label": "Margin of Error!!Total!!Occupied housing units"
+			},
+			{
+				"id": "S0102_C02_090E",
+				"label": "Estimate!!60 years and over!!Occupied housing units"
+			},
+			{
+				"id": "S0102_C02_090M",
+				"label": "Margin of Error!!60 years and over!!Occupied housing units"
+			},
+			{
+				"id": "S0102_C01_091E",
+				"label": "Estimate!!Total!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units"
+			},
+			{
+				"id": "S0102_C01_091M",
+				"label": "Margin of Error!!Total!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units"
+			},
+			{
+				"id": "S0102_C02_091E",
+				"label": "Estimate!!60 years and over!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units"
+			},
+			{
+				"id": "S0102_C02_091M",
+				"label": "Margin of Error!!60 years and over!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units"
+			},
+			{
+				"id": "S0102_C01_092E",
+				"label": "Estimate!!Total!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units"
+			},
+			{
+				"id": "S0102_C01_092M",
+				"label": "Margin of Error!!Total!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units"
+			},
+			{
+				"id": "S0102_C02_092E",
+				"label": "Estimate!!60 years and over!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units"
+			},
+			{
+				"id": "S0102_C02_092M",
+				"label": "Margin of Error!!60 years and over!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units"
+			},
+			{
+				"id": "S0102_C01_093E",
+				"label": "Estimate!!Total!!Occupied housing units!!HOUSING TENURE!!Average household size of owner-occupied unit"
+			},
+			{
+				"id": "S0102_C01_093M",
+				"label": "Margin of Error!!Total!!Occupied housing units!!HOUSING TENURE!!Average household size of owner-occupied unit"
+			},
+			{
+				"id": "S0102_C02_093E",
+				"label": "Estimate!!60 years and over!!Occupied housing units!!HOUSING TENURE!!Average household size of owner-occupied unit"
+			},
+			{
+				"id": "S0102_C02_093M",
+				"label": "Margin of Error!!60 years and over!!Occupied housing units!!HOUSING TENURE!!Average household size of owner-occupied unit"
+			},
+			{
+				"id": "S0102_C01_094E",
+				"label": "Estimate!!Total!!Occupied housing units!!HOUSING TENURE!!Average household size of renter-occupied unit"
+			},
+			{
+				"id": "S0102_C01_094M",
+				"label": "Margin of Error!!Total!!Occupied housing units!!HOUSING TENURE!!Average household size of renter-occupied unit"
+			},
+			{
+				"id": "S0102_C02_094E",
+				"label": "Estimate!!60 years and over!!Occupied housing units!!HOUSING TENURE!!Average household size of renter-occupied unit"
+			},
+			{
+				"id": "S0102_C02_094M",
+				"label": "Margin of Error!!60 years and over!!Occupied housing units!!HOUSING TENURE!!Average household size of renter-occupied unit"
+			},
+			{
+				"id": "S0102_C01_095E",
+				"label": "Estimate!!Total!!Occupied housing units!!SELECTED CHARACTERISTICS!!No telephone service available"
+			},
+			{
+				"id": "S0102_C01_095M",
+				"label": "Margin of Error!!Total!!Occupied housing units!!SELECTED CHARACTERISTICS!!No telephone service available"
+			},
+			{
+				"id": "S0102_C02_095E",
+				"label": "Estimate!!60 years and over!!Occupied housing units!!SELECTED CHARACTERISTICS!!No telephone service available"
+			},
+			{
+				"id": "S0102_C02_095M",
+				"label": "Margin of Error!!60 years and over!!Occupied housing units!!SELECTED CHARACTERISTICS!!No telephone service available"
+			},
+			{
+				"id": "S0102_C01_096E",
+				"label": "Estimate!!Total!!Occupied housing units!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room"
+			},
+			{
+				"id": "S0102_C01_096M",
+				"label": "Margin of Error!!Total!!Occupied housing units!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room"
+			},
+			{
+				"id": "S0102_C02_096E",
+				"label": "Estimate!!60 years and over!!Occupied housing units!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room"
+			},
+			{
+				"id": "S0102_C02_096M",
+				"label": "Margin of Error!!60 years and over!!Occupied housing units!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room"
+			},
+			{
+				"id": "S0102_C01_097E",
+				"label": "Estimate!!Total!!Owner-occupied housing units"
+			},
+			{
+				"id": "S0102_C01_097M",
+				"label": "Margin of Error!!Total!!Owner-occupied housing units"
+			},
+			{
+				"id": "S0102_C02_097E",
+				"label": "Estimate!!60 years and over!!Owner-occupied housing units"
+			},
+			{
+				"id": "S0102_C02_097M",
+				"label": "Margin of Error!!60 years and over!!Owner-occupied housing units"
+			},
+			{
+				"id": "S0102_C01_098E",
+				"label": "Estimate!!Total!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent"
+			},
+			{
+				"id": "S0102_C01_098M",
+				"label": "Margin of Error!!Total!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent"
+			},
+			{
+				"id": "S0102_C02_098E",
+				"label": "Estimate!!60 years and over!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent"
+			},
+			{
+				"id": "S0102_C02_098M",
+				"label": "Margin of Error!!60 years and over!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent"
+			},
+			{
+				"id": "S0102_C01_099E",
+				"label": "Estimate!!Total!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more"
+			},
+			{
+				"id": "S0102_C01_099M",
+				"label": "Margin of Error!!Total!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more"
+			},
+			{
+				"id": "S0102_C02_099E",
+				"label": "Estimate!!60 years and over!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more"
+			},
+			{
+				"id": "S0102_C02_099M",
+				"label": "Margin of Error!!60 years and over!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more"
+			},
+			{
+				"id": "S0102_C01_100E",
+				"label": "Estimate!!Total!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median value (dollars)"
+			},
+			{
+				"id": "S0102_C01_100M",
+				"label": "Margin of Error!!Total!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median value (dollars)"
+			},
+			{
+				"id": "S0102_C02_100E",
+				"label": "Estimate!!60 years and over!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median value (dollars)"
+			},
+			{
+				"id": "S0102_C02_100M",
+				"label": "Margin of Error!!60 years and over!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median value (dollars)"
+			},
+			{
+				"id": "S0102_C01_101E",
+				"label": "Estimate!!Total!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars)"
+			},
+			{
+				"id": "S0102_C01_101M",
+				"label": "Margin of Error!!Total!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars)"
+			},
+			{
+				"id": "S0102_C02_101E",
+				"label": "Estimate!!60 years and over!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars)"
+			},
+			{
+				"id": "S0102_C02_101M",
+				"label": "Margin of Error!!60 years and over!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars)"
+			},
+			{
+				"id": "S0102_C01_102E",
+				"label": "Estimate!!Total!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars)"
+			},
+			{
+				"id": "S0102_C01_102M",
+				"label": "Margin of Error!!Total!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars)"
+			},
+			{
+				"id": "S0102_C02_102E",
+				"label": "Estimate!!60 years and over!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars)"
+			},
+			{
+				"id": "S0102_C02_102M",
+				"label": "Margin of Error!!60 years and over!!Owner-occupied housing units!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars)"
+			},
+			{
+				"id": "S0102_C01_103E",
+				"label": "Estimate!!Total!!Renter-occupied housing units"
+			},
+			{
+				"id": "S0102_C01_103M",
+				"label": "Margin of Error!!Total!!Renter-occupied housing units"
+			},
+			{
+				"id": "S0102_C02_103E",
+				"label": "Estimate!!60 years and over!!Renter-occupied housing units"
+			},
+			{
+				"id": "S0102_C02_103M",
+				"label": "Margin of Error!!60 years and over!!Renter-occupied housing units"
+			},
+			{
+				"id": "S0102_C01_104E",
+				"label": "Estimate!!Total!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent"
+			},
+			{
+				"id": "S0102_C01_104M",
+				"label": "Margin of Error!!Total!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent"
+			},
+			{
+				"id": "S0102_C02_104E",
+				"label": "Estimate!!60 years and over!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent"
+			},
+			{
+				"id": "S0102_C02_104M",
+				"label": "Margin of Error!!60 years and over!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent"
+			},
+			{
+				"id": "S0102_C01_105E",
+				"label": "Estimate!!Total!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more"
+			},
+			{
+				"id": "S0102_C01_105M",
+				"label": "Margin of Error!!Total!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more"
+			},
+			{
+				"id": "S0102_C02_105E",
+				"label": "Estimate!!60 years and over!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more"
+			},
+			{
+				"id": "S0102_C02_105M",
+				"label": "Margin of Error!!60 years and over!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more"
+			},
+			{
+				"id": "S0102_C01_106E",
+				"label": "Estimate!!Total!!Renter-occupied housing units!!GROSS RENT!!Median gross rent (dollars)"
+			},
+			{
+				"id": "S0102_C01_106M",
+				"label": "Margin of Error!!Total!!Renter-occupied housing units!!GROSS RENT!!Median gross rent (dollars)"
+			},
+			{
+				"id": "S0102_C02_106E",
+				"label": "Estimate!!60 years and over!!Renter-occupied housing units!!GROSS RENT!!Median gross rent (dollars)"
+			},
+			{
+				"id": "S0102_C02_106M",
+				"label": "Margin of Error!!60 years and over!!Renter-occupied housing units!!GROSS RENT!!Median gross rent (dollars)"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S0102_C02_062E",
+			"S0102_C02_086E",
+			"S0102_C01_083MA",
+			"S0102_C02_066EA",
+			"S0102_C02_061M",
+			"S0102_C02_085M",
+			"S0102_C02_024MA",
+			"S0102_C01_019MA",
+			"S0102_C02_020EA",
+			"S0102_C01_015EA",
+			"S0102_C01_090EA",
+			"S0102_C01_094MA",
+			"S0102_C02_063E",
+			"S0102_C02_087E",
+			"S0102_C02_055EA",
+			"S0102_C02_062M",
+			"S0102_C02_086M",
+			"S0102_C02_013MA",
+			"S0102_C02_059MA",
+			"S0102_C01_026EA",
+			"S0102_C01_104MA",
+			"S0102_C02_060E",
+			"S0102_C01_100EA",
+			"S0102_C02_084E",
+			"S0102_C02_044EA",
+			"S0102_C02_083M",
+			"S0102_C01_037EA",
+			"S0102_C02_002MA",
+			"S0102_C02_048MA",
+			"S0102_C02_061E",
+			"S0102_C01_070MA",
+			"S0102_C02_085E",
+			"S0102_C02_060M",
+			"S0102_C02_084M",
+			"S0102_C02_033EA",
+			"S0102_C01_006MA",
+			"S0102_C02_079EA",
+			"S0102_C01_002EA",
+			"S0102_C01_048EA",
+			"S0102_C02_037MA",
+			"S0102_C01_081E",
+			"S0102_C02_090MA",
+			"S0102_C02_082E",
+			"S0102_C01_081M",
+			"S0102_C01_081MA",
+			"S0102_C02_022EA",
+			"S0102_C02_068EA",
+			"S0102_C02_081M",
+			"S0102_C01_017MA",
+			"S0102_C01_059EA",
+			"S0102_C01_013EA",
+			"S0102_C02_026MA",
+			"S0102_C01_082E",
+			"S0102_C01_080E",
+			"S0102_C01_080M",
+			"S0102_C02_083E",
+			"S0102_C01_092MA",
+			"S0102_C02_011EA",
+			"S0102_C02_057EA",
+			"S0102_C02_082M",
+			"S0102_C01_028MA",
+			"S0102_C01_024EA",
+			"S0102_C02_015MA",
+			"S0102_C01_102MA",
+			"S0102_C01_083M",
+			"S0102_C02_046EA",
+			"S0102_C01_039MA",
+			"S0102_C01_035EA",
+			"S0102_C01_084E",
+			"S0102_C02_004MA",
+			"S0102_C01_060E",
+			"S0102_C01_082M",
+			"S0102_C02_081E",
+			"S0102_C02_035EA",
+			"S0102_C01_004MA",
+			"S0102_C02_080E",
+			"S0102_C02_039MA",
+			"S0102_C01_046EA",
+			"S0102_C02_080M",
+			"S0102_C01_083E",
+			"S0102_C02_046E",
+			"S0102_C01_019EA",
+			"S0102_C02_092MA",
+			"S0102_C02_046M",
+			"S0102_C01_041MA",
+			"S0102_C01_087MA",
+			"S0102_C02_022E",
+			"S0102_C02_024EA",
+			"S0102_C01_018E",
+			"S0102_C01_072EA",
+			"S0102_C01_103E",
+			"S0102_C02_021M",
+			"S0102_C01_018M",
+			"S0102_C02_028MA",
+			"S0102_C01_103M",
+			"S0102_C02_023E",
+			"S0102_C02_047E",
+			"S0102_C02_081MA",
+			"S0102_C01_052MA",
+			"S0102_C01_098MA",
+			"S0102_C02_023M",
+			"S0102_C02_047M",
+			"S0102_C01_017E",
+			"S0102_C02_013EA",
+			"S0102_C01_102E",
+			"S0102_C01_083EA",
+			"S0102_C02_022M",
+			"S0102_C02_059EA",
+			"S0102_C01_017M",
+			"S0102_C01_102M",
+			"S0102_C02_017MA",
+			"S0102_C02_068E",
+			"S0102_C02_070MA",
+			"S0102_C01_063MA",
+			"S0102_C02_068M",
+			"S0102_C02_020E",
+			"S0102_C01_104EA",
+			"S0102_C02_044E",
+			"S0102_C01_105E",
+			"S0102_C02_002EA",
+			"S0102_C01_094EA",
+			"S0102_C02_043M",
+			"S0102_C02_048EA",
+			"S0102_C01_105M",
+			"S0102_C02_006MA",
+			"S0102_C02_045E",
+			"S0102_C02_069E",
+			"S0102_C01_074MA",
+			"S0102_C02_045M",
+			"S0102_C02_105EA",
+			"S0102_C02_069M",
+			"S0102_C02_021E",
+			"S0102_C01_019E",
+			"S0102_C02_020M",
+			"S0102_C01_104E",
+			"S0102_C02_044M",
+			"S0102_C02_037EA",
+			"S0102_C01_019M",
+			"S0102_C01_006EA",
+			"S0102_C02_090EA",
+			"S0102_C01_104M",
+			"S0102_C02_094MA",
+			"S0102_C01_085MA",
+			"S0102_C02_042E",
+			"S0102_C02_066E",
+			"S0102_C01_070EA",
+			"S0102_C02_026EA",
+			"S0102_C02_041M",
+			"S0102_C02_065M",
+			"S0102_C01_017EA",
+			"S0102_C02_083MA",
+			"S0102_C02_067E",
+			"S0102_C02_067M",
+			"S0102_C01_096MA",
+			"S0102_C01_050MA",
+			"S0102_C02_043E",
+			"S0102_C01_106E",
+			"S0102_C02_019MA",
+			"S0102_C02_015EA",
+			"S0102_C02_042M",
+			"S0102_C02_066M",
+			"S0102_C01_081EA",
+			"S0102_C01_106M",
+			"S0102_C01_028EA",
+			"S0102_C02_072MA",
+			"S0102_C01_106MA",
+			"S0102_C02_040E",
+			"S0102_C01_102EA",
+			"S0102_C02_064E",
+			"S0102_C01_061MA",
+			"S0102_C02_088E",
+			"S0102_C02_008MA",
+			"S0102_C02_004EA",
+			"S0102_C02_063M",
+			"S0102_C01_092EA",
+			"S0102_C02_087M",
+			"S0102_C01_039EA",
+			"S0102_C02_089E",
+			"S0102_C02_061MA",
+			"S0102_C02_089M",
+			"S0102_C02_103EA",
+			"S0102_C02_041E",
+			"S0102_C01_072MA",
+			"S0102_C02_065E",
+			"S0102_C02_040M",
+			"S0102_C02_064M",
+			"S0102_C02_039EA",
+			"S0102_C02_088M",
+			"S0102_C01_008MA",
+			"S0102_C01_004EA",
+			"S0102_C02_092EA",
+			"S0102_C01_033M",
+			"S0102_C02_073MA",
+			"S0102_C02_006E",
+			"S0102_C02_006M",
+			"S0102_C01_053EA",
+			"S0102_C02_009MA",
+			"S0102_C01_011MA",
+			"S0102_C01_057MA",
+			"S0102_C02_005EA",
+			"S0102_C01_058E",
+			"S0102_C01_034E",
+			"S0102_C01_010E",
+			"S0102_C01_099EA",
+			"S0102_C01_058M",
+			"S0102_C01_056M",
+			"S0102_C01_032M",
+			"S0102_C02_062MA",
+			"S0102_C02_007E",
+			"S0102_C02_102EA",
+			"S0102_C02_106MA",
+			"S0102_C02_007M",
+			"S0102_C01_022MA",
+			"S0102_C01_064EA",
+			"S0102_C01_057E",
+			"S0102_C01_068MA",
+			"S0102_C01_033E",
+			"S0102_C01_057M",
+			"S0102_C02_093EA",
+			"S0102_C01_011M",
+			"S0102_C02_004E",
+			"S0102_C02_097MA",
+			"S0102_C02_028E",
+			"S0102_C02_051MA",
+			"S0102_C02_029EA",
+			"S0102_C02_004M",
+			"S0102_C02_028M",
+			"S0102_C01_033MA",
+			"S0102_C01_075EA",
+			"S0102_C01_036E",
+			"S0102_C01_079MA",
+			"S0102_C01_012E",
+			"S0102_C01_036M",
+			"S0102_C02_082EA",
+			"S0102_C01_034M",
+			"S0102_C01_010M",
+			"S0102_C02_086MA",
+			"S0102_C02_005E",
+			"S0102_C02_029E",
+			"S0102_C02_040MA",
+			"S0102_C02_018EA",
+			"S0102_C02_005M",
+			"S0102_C02_029M",
+			"S0102_C01_040EA",
+			"S0102_C01_086EA",
+			"S0102_C01_044MA",
+			"S0102_C01_059E",
+			"S0102_C01_035E",
+			"S0102_C01_011E",
+			"S0102_C02_071EA",
+			"S0102_C01_059M",
+			"S0102_C01_035M",
+			"S0102_C02_002E",
+			"S0102_C02_026E",
+			"S0102_C02_075MA",
+			"S0102_C02_002M",
+			"S0102_C02_007EA",
+			"S0102_C02_026M",
+			"S0102_C01_020MA",
+			"S0102_C01_051EA",
+			"S0102_C01_097EA",
+			"S0102_C01_055MA",
+			"S0102_C01_038E",
+			"S0102_C01_014E",
+			"S0102_C02_060EA",
+			"S0102_C01_038M",
+			"S0102_C01_014M",
+			"S0102_C02_104MA",
+			"S0102_C01_012M",
+			"S0102_C01_009EA",
+			"S0102_C02_003E",
+			"S0102_C02_064MA",
+			"S0102_C02_027E",
+			"S0102_C02_003M",
+			"S0102_C02_100EA",
+			"S0102_C01_031MA",
+			"S0102_C02_027M",
+			"NAME",
+			"S0102_C01_062EA",
+			"S0102_C01_037E",
+			"S0102_C01_066MA",
+			"S0102_C01_013E",
+			"S0102_C02_095EA",
+			"S0102_C01_037M",
+			"S0102_C02_099MA",
+			"S0102_C01_013M",
+			"S0102_C02_024E",
+			"S0102_C01_100M",
+			"S0102_C02_048E",
+			"S0102_C02_053MA",
+			"S0102_C02_024M",
+			"S0102_C01_042MA",
+			"S0102_C02_048M",
+			"S0102_C01_073EA",
+			"S0102_C01_016E",
+			"S0102_C01_077MA",
+			"S0102_C01_101E",
+			"S0102_C02_084EA",
+			"S0102_C01_016M",
+			"S0102_C01_101M",
+			"S0102_C02_088MA",
+			"S0102_C02_001E",
+			"S0102_C02_025E",
+			"S0102_C02_042MA",
+			"S0102_C02_049E",
+			"S0102_C02_001M",
+			"S0102_C01_053MA",
+			"S0102_C02_025M",
+			"S0102_C02_049M",
+			"S0102_C01_039E",
+			"S0102_C01_084EA",
+			"S0102_C01_015E",
+			"S0102_C01_088MA",
+			"S0102_C02_073EA",
+			"S0102_C01_039M",
+			"S0102_C01_100E",
+			"S0102_C01_015M",
+			"S0102_C02_077MA",
+			"S0102_C01_097M",
+			"S0102_C01_073M",
+			"S0102_C02_031MA",
+			"S0102_C02_009EA",
+			"S0102_C01_015MA",
+			"S0102_C02_066MA",
+			"S0102_C01_011EA",
+			"S0102_C01_098E",
+			"S0102_C01_074E",
+			"S0102_C01_057EA",
+			"S0102_C02_062EA",
+			"S0102_C01_050E",
+			"S0102_C01_090MA",
+			"S0102_C02_102MA",
+			"S0102_C01_096M",
+			"S0102_C02_020MA",
+			"S0102_C01_072M",
+			"S0102_C01_026MA",
+			"S0102_C02_090E",
+			"S0102_C01_097E",
+			"S0102_C02_055MA",
+			"S0102_C01_022EA",
+			"S0102_C02_097EA",
+			"S0102_C01_073E",
+			"S0102_C02_051EA",
+			"S0102_C01_068EA",
+			"S0102_C02_090M",
+			"S0102_C01_099M",
+			"S0102_C01_100MA",
+			"S0102_C01_075M",
+			"S0102_C01_051M",
+			"S0102_C01_037MA",
+			"S0102_C01_033EA",
+			"S0102_C01_076E",
+			"S0102_C02_044MA",
+			"S0102_C02_086EA",
+			"S0102_C01_052E",
+			"S0102_C01_079EA",
+			"S0102_C02_040EA",
+			"S0102_C01_098M",
+			"S0102_C01_074M",
+			"S0102_C01_050M",
+			"S0102_C01_002MA",
+			"S0102_C01_048MA",
+			"S0102_C01_099E",
+			"S0102_C01_075E",
+			"S0102_C02_033MA",
+			"S0102_C02_075EA",
+			"S0102_C01_044EA",
+			"S0102_C01_051E",
+			"S0102_C02_079MA",
+			"S0102_C01_077M",
+			"S0102_C01_053M",
+			"S0102_C01_059MA",
+			"S0102_C01_013MA",
+			"S0102_C02_022MA",
+			"S0102_C02_068MA",
+			"S0102_C01_078E",
+			"S0102_C01_054E",
+			"S0102_C01_055EA",
+			"S0102_C02_064EA",
+			"S0102_C01_030E",
+			"S0102_C01_076M",
+			"S0102_C02_100MA",
+			"S0102_C01_052M",
+			"S0102_C01_024MA",
+			"S0102_C02_099EA",
+			"S0102_C01_020EA",
+			"S0102_C01_077E",
+			"S0102_C02_011MA",
+			"S0102_C02_057MA",
+			"S0102_C01_053E",
+			"S0102_C02_053EA",
+			"S0102_C01_066EA",
+			"S0102_C01_055M",
+			"S0102_C01_031M",
+			"S0102_C02_008E",
+			"S0102_C02_008M",
+			"S0102_C01_035MA",
+			"S0102_C01_031EA",
+			"S0102_C02_088EA",
+			"S0102_C01_056E",
+			"S0102_C02_046MA",
+			"S0102_C01_032E",
+			"S0102_C01_077EA",
+			"S0102_C02_042EA",
+			"S0102_C01_078M",
+			"S0102_C02_009M",
+			"S0102_C01_054M",
+			"S0102_C01_030M",
+			"S0102_C01_042EA",
+			"S0102_C02_077EA",
+			"S0102_C01_046MA",
+			"S0102_C01_079E",
+			"S0102_C01_055E",
+			"S0102_C02_009E",
+			"S0102_C02_035MA",
+			"S0102_C01_031E",
+			"S0102_C02_031EA",
+			"S0102_C01_079M",
+			"S0102_C01_088EA",
+			"S0102_C01_105MA",
+			"S0102_C01_101EA",
+			"S0102_C02_050E",
+			"S0102_C02_074E",
+			"S0102_C01_060MA",
+			"S0102_C02_098E",
+			"S0102_C02_043EA",
+			"S0102_C02_073M",
+			"S0102_C02_097M",
+			"S0102_C01_091EA",
+			"S0102_C02_089EA",
+			"S0102_C01_038EA",
+			"S0102_C02_001MA",
+			"S0102_C02_047MA",
+			"S0102_C02_051E",
+			"S0102_C02_075E",
+			"S0102_C02_099E",
+			"S0102_C01_071MA",
+			"S0102_C02_032EA",
+			"S0102_C02_050M",
+			"S0102_C01_007MA",
+			"S0102_C02_074M",
+			"S0102_C02_078EA",
+			"S0102_C02_098M",
+			"S0102_C01_003EA",
+			"S0102_C01_049EA",
+			"S0102_C02_036MA",
+			"S0102_C01_091E",
+			"S0102_C01_091M",
+			"S0102_C02_072E",
+			"S0102_C01_082MA",
+			"S0102_C02_096E",
+			"S0102_C02_071M",
+			"S0102_C02_021EA",
+			"S0102_C02_067EA",
+			"S0102_C02_095M",
+			"S0102_C01_018MA",
+			"S0102_C01_014EA",
+			"S0102_C02_025MA",
+			"S0102_C01_090E",
+			"S0102_C02_073E",
+			"S0102_C01_090M",
+			"S0102_C01_093MA",
+			"S0102_C02_097E",
+			"S0102_C02_010EA",
+			"S0102_C02_056EA",
+			"S0102_C02_072M",
+			"S0102_C01_029MA",
+			"S0102_C02_096M",
+			"S0102_C01_025EA",
+			"S0102_C02_014MA",
+			"S0102_C01_103MA",
+			"S0102_C01_093M",
+			"S0102_C02_070E",
+			"S0102_C02_094E",
+			"S0102_C02_045EA",
+			"S0102_C02_093M",
+			"S0102_C02_003MA",
+			"S0102_C02_049MA",
+			"S0102_C01_036EA",
+			"S0102_C01_094E",
+			"S0102_C01_092E",
+			"S0102_C02_071E",
+			"S0102_C01_092M",
+			"S0102_C02_095E",
+			"S0102_C02_034EA",
+			"S0102_C02_070M",
+			"S0102_C02_094M",
+			"S0102_C01_005MA",
+			"S0102_C01_001EA",
+			"S0102_C02_038MA",
+			"S0102_C01_093E",
+			"S0102_C01_047EA",
+			"S0102_C01_095M",
+			"S0102_C02_091MA",
+			"S0102_C01_071M",
+			"S0102_C02_092E",
+			"S0102_C01_080MA",
+			"S0102_C02_023EA",
+			"S0102_C01_016MA",
+			"S0102_C02_091E",
+			"S0102_C02_069EA",
+			"S0102_C01_012EA",
+			"S0102_C01_096E",
+			"S0102_C02_091M",
+			"S0102_C01_058EA",
+			"S0102_C01_072E",
+			"S0102_C02_027MA",
+			"S0102_C01_070E",
+			"S0102_C02_080MA",
+			"S0102_C01_094M",
+			"S0102_C02_093E",
+			"S0102_C01_070M",
+			"S0102_C01_091MA",
+			"S0102_C02_092M",
+			"S0102_C02_012EA",
+			"S0102_C01_027MA",
+			"S0102_C02_058EA",
+			"S0102_C01_023EA",
+			"S0102_C01_095E",
+			"S0102_C01_069EA",
+			"S0102_C01_071E",
+			"S0102_C02_016MA",
+			"S0102_C02_034E",
+			"S0102_C02_058E",
+			"S0102_C02_034M",
+			"S0102_C01_064MA",
+			"S0102_C02_058M",
+			"S0102_C01_105EA",
+			"S0102_C02_010E",
+			"S0102_C01_006E",
+			"S0102_C01_095EA",
+			"S0102_C02_001EA",
+			"S0102_C01_099MA",
+			"S0102_C02_033M",
+			"S0102_C02_047EA",
+			"S0102_C01_006M",
+			"S0102_C02_005MA",
+			"S0102_C02_035E",
+			"S0102_C02_059E",
+			"S0102_C02_035M",
+			"S0102_C02_059M",
+			"S0102_C01_075MA",
+			"S0102_C02_011E",
+			"S0102_C01_029E",
+			"S0102_C01_005E",
+			"S0102_C02_036EA",
+			"S0102_C02_106EA",
+			"S0102_C01_060EA",
+			"S0102_C02_010M",
+			"S0102_C01_029M",
+			"S0102_C01_005M",
+			"S0102_C01_007EA",
+			"S0102_C02_056E",
+			"S0102_C02_093MA",
+			"S0102_C01_040MA",
+			"S0102_C01_086MA",
+			"S0102_C02_056M",
+			"S0102_C02_032E",
+			"S0102_C01_008E",
+			"S0102_C02_029MA",
+			"S0102_C02_031M",
+			"S0102_C02_025EA",
+			"S0102_C02_055M",
+			"S0102_C01_071EA",
+			"S0102_C01_008M",
+			"S0102_C01_018EA",
+			"S0102_C02_057E",
+			"S0102_C02_082MA",
+			"S0102_C01_051MA",
+			"S0102_C01_097MA",
+			"S0102_C02_057M",
+			"S0102_C02_033E",
+			"S0102_C02_018MA",
+			"S0102_C01_007E",
+			"S0102_C01_082EA",
+			"S0102_C02_014EA",
+			"S0102_C02_032M",
+			"S0102_C01_007M",
+			"S0102_C01_029EA",
+			"S0102_C02_071MA",
+			"S0102_C02_078E",
+			"S0102_C01_062MA",
+			"S0102_C02_078M",
+			"S0102_C01_103EA",
+			"S0102_C02_030E",
+			"S0102_C02_054E",
+			"S0102_C02_007MA",
+			"S0102_C01_093EA",
+			"S0102_C02_003EA",
+			"S0102_C02_049EA",
+			"S0102_C02_053M",
+			"S0102_C02_077M",
+			"S0102_C02_060MA",
+			"S0102_C02_079E",
+			"S0102_C02_079M",
+			"S0102_C02_104EA",
+			"S0102_C01_073MA",
+			"S0102_C02_031E",
+			"S0102_C02_055E",
+			"S0102_C01_009E",
+			"S0102_C02_038EA",
+			"S0102_C02_030M",
+			"S0102_C02_054M",
+			"S0102_C01_009M",
+			"S0102_C01_009MA",
+			"S0102_C02_091EA",
+			"S0102_C01_005EA",
+			"S0102_C02_095MA",
+			"S0102_C01_084MA",
+			"S0102_C02_052E",
+			"S0102_C02_076E",
+			"S0102_C02_051M",
+			"S0102_C02_075M",
+			"S0102_C02_099M",
+			"S0102_C02_027EA",
+			"S0102_C02_080EA",
+			"S0102_C01_016EA",
+			"S0102_C02_084MA",
+			"S0102_C01_095MA",
+			"S0102_C02_053E",
+			"S0102_C02_077E",
+			"GEO_ID",
+			"S0102_C02_052M",
+			"S0102_C01_080EA",
+			"S0102_C02_016EA",
+			"S0102_C02_076M",
+			"S0102_C01_027EA",
+			"S0102_C01_045M",
+			"S0102_C02_096MA",
+			"S0102_C02_103E",
+			"S0102_C01_021M",
+			"S0102_C02_018E",
+			"S0102_C02_050MA",
+			"S0102_C02_103M",
+			"S0102_C02_018M",
+			"S0102_C01_034MA",
+			"S0102_C01_076EA",
+			"S0102_C01_030EA",
+			"S0102_C01_046E",
+			"S0102_C02_028EA",
+			"S0102_C01_022E",
+			"S0102_C01_046M",
+			"S0102_C02_081EA",
+			"S0102_C01_044M",
+			"S0102_C01_020M",
+			"S0102_C02_085MA",
+			"S0102_C02_104E",
+			"S0102_C02_019E",
+			"S0102_C01_010MA",
+			"S0102_C02_104M",
+			"S0102_C02_019M",
+			"S0102_C01_041EA",
+			"S0102_C01_087EA",
+			"S0102_C01_045MA",
+			"S0102_C02_017EA",
+			"S0102_C01_069E",
+			"S0102_C01_045E",
+			"S0102_C02_070EA",
+			"S0102_C01_021E",
+			"S0102_C01_069M",
+			"S0102_C02_101E",
+			"S0102_C01_023M",
+			"S0102_C02_074MA",
+			"S0102_C02_016E",
+			"S0102_C02_101M",
+			"S0102_C01_021MA",
+			"S0102_C02_016M",
+			"S0102_C01_052EA",
+			"S0102_C01_098EA",
+			"S0102_C01_048E",
+			"S0102_C01_056MA",
+			"S0102_C01_024E",
+			"S0102_C02_006EA",
+			"S0102_C01_048M",
+			"S0102_C01_024M",
+			"S0102_C01_022M",
+			"S0102_C02_105MA",
+			"S0102_C02_102E",
+			"S0102_C02_017E",
+			"S0102_C02_063MA",
+			"S0102_C02_102M",
+			"S0102_C01_032MA",
+			"S0102_C02_017M",
+			"S0102_C02_101EA",
+			"S0102_C01_063EA",
+			"S0102_C01_067MA",
+			"S0102_C01_047E",
+			"S0102_C02_094EA",
+			"S0102_C01_023E",
+			"S0102_C02_098MA",
+			"S0102_C01_047M",
+			"S0102_C01_001M",
+			"S0102_C02_014E",
+			"S0102_C02_038E",
+			"S0102_C02_052MA",
+			"S0102_C01_043MA",
+			"S0102_C02_014M",
+			"S0102_C02_038M",
+			"S0102_C01_074EA",
+			"S0102_C01_026E",
+			"S0102_C01_078MA",
+			"S0102_C01_002E",
+			"S0102_C02_083EA",
+			"S0102_C01_026M",
+			"S0102_C02_087MA",
+			"S0102_C01_002M",
+			"S0102_C02_100E",
+			"S0102_C02_015E",
+			"S0102_C02_039E",
+			"S0102_C02_041MA",
+			"S0102_C02_019EA",
+			"S0102_C02_100M",
+			"S0102_C02_015M",
+			"S0102_C01_054MA",
+			"S0102_C02_039M",
+			"S0102_C01_085EA",
+			"S0102_C01_049E",
+			"S0102_C01_025E",
+			"S0102_C01_089MA",
+			"S0102_C01_001E",
+			"S0102_C02_076MA",
+			"S0102_C01_049M",
+			"S0102_C01_025M",
+			"S0102_C02_072EA",
+			"S0102_C02_012E",
+			"S0102_C02_036E",
+			"S0102_C02_030MA",
+			"S0102_C02_008EA",
+			"S0102_C02_012M",
+			"S0102_C01_065MA",
+			"S0102_C02_036M",
+			"S0102_C01_106EA",
+			"S0102_C01_028E",
+			"S0102_C01_096EA",
+			"S0102_C01_004E",
+			"S0102_C02_011M",
+			"S0102_C01_050EA",
+			"S0102_C01_028M",
+			"S0102_C02_065MA",
+			"S0102_C01_004M",
+			"S0102_C02_061EA",
+			"S0102_C02_013E",
+			"S0102_C01_008EA",
+			"S0102_C02_037E",
+			"S0102_C02_103MA",
+			"S0102_C02_013M",
+			"S0102_C01_076MA",
+			"S0102_C02_037M",
+			"S0102_C01_030MA",
+			"S0102_C01_027E",
+			"S0102_C01_061EA",
+			"S0102_C01_003E",
+			"S0102_C02_096EA",
+			"S0102_C02_054MA",
+			"S0102_C01_027M",
+			"S0102_C01_003M",
+			"S0102_C02_050EA",
+			"S0102_C01_101MA",
+			"S0102_C01_085M",
+			"S0102_C01_061M",
+			"S0102_C01_038MA",
+			"S0102_C01_034EA",
+			"S0102_C01_086E",
+			"S0102_C02_043MA",
+			"S0102_C02_085EA",
+			"S0102_C01_062E",
+			"S0102_C02_089MA",
+			"S0102_C01_084M",
+			"S0102_C01_060M",
+			"S0102_C01_003MA",
+			"S0102_C01_049MA",
+			"S0102_C02_032MA",
+			"S0102_C02_074EA",
+			"S0102_C01_045EA",
+			"S0102_C01_085E",
+			"S0102_C02_078MA",
+			"S0102_C01_061E",
+			"S0102_C01_087M",
+			"S0102_C01_063M",
+			"S0102_C01_014MA",
+			"S0102_C01_010EA",
+			"S0102_C01_088E",
+			"S0102_C02_021MA",
+			"S0102_C02_067MA",
+			"S0102_C01_064E",
+			"S0102_C01_040E",
+			"S0102_C01_056EA",
+			"S0102_C02_063EA",
+			"S0102_C01_086M",
+			"S0102_C01_062M",
+			"S0102_C02_101MA",
+			"S0102_C01_025MA",
+			"S0102_C01_021EA",
+			"S0102_C02_098EA",
+			"S0102_C02_010MA",
+			"S0102_C02_056MA",
+			"S0102_C01_087E",
+			"S0102_C01_067EA",
+			"S0102_C01_063E",
+			"S0102_C02_052EA",
+			"S0102_C01_089M",
+			"S0102_C01_065M",
+			"S0102_C01_041M",
+			"S0102_C01_032EA",
+			"S0102_C02_087EA",
+			"S0102_C01_036MA",
+			"S0102_C01_066E",
+			"S0102_C02_045MA",
+			"S0102_C01_042E",
+			"S0102_C01_078EA",
+			"S0102_C02_041EA",
+			"S0102_C01_088M",
+			"S0102_C01_064M",
+			"S0102_C01_040M",
+			"S0102_C01_001MA",
+			"S0102_C01_043EA",
+			"S0102_C02_076EA",
+			"S0102_C01_047MA",
+			"S0102_C02_034MA",
+			"S0102_C01_089E",
+			"S0102_C01_065E",
+			"S0102_C02_030EA",
+			"S0102_C01_041E",
+			"S0102_C01_089EA",
+			"S0102_C01_067M",
+			"S0102_C01_043M",
+			"S0102_C02_105E",
+			"S0102_C02_105M",
+			"S0102_C01_012MA",
+			"S0102_C01_054EA",
+			"S0102_C02_065EA",
+			"S0102_C01_068E",
+			"S0102_C01_058MA",
+			"S0102_C01_044E",
+			"S0102_C01_020E",
+			"S0102_C02_023MA",
+			"S0102_C01_068M",
+			"S0102_C02_069MA",
+			"S0102_C01_066M",
+			"S0102_C01_042M",
+			"S0102_C02_106E",
+			"S0102_C02_106M",
+			"S0102_C01_023MA",
+			"S0102_C01_065EA",
+			"S0102_C02_054EA",
+			"S0102_C01_069MA",
+			"S0102_C01_067E",
+			"S0102_C01_043E",
+			"S0102_C02_012MA",
+			"S0102_C02_058MA"
+		],
+		[
+			"82973748",
+			"81335646",
+			null,
+			null,
+			"0.3",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"83.1",
+			"11.2",
+			null,
+			"74037",
+			"74732",
+			null,
+			null,
+			null,
+			null,
+			"74.9",
+			null,
+			"34543",
+			null,
+			"0.2",
+			null,
+			null,
+			null,
+			"25.1",
+			null,
+			"11.0",
+			"0.3",
+			"147",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2.5",
+			null,
+			"3115",
+			"0.1",
+			null,
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"3634",
+			"11080",
+			"48",
+			"50.7",
+			null,
+			null,
+			null,
+			"71",
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"32291",
+			null,
+			"51.4",
+			"54",
+			"2.2",
+			null,
+			null,
+			"11263",
+			null,
+			null,
+			"60",
+			"24.4",
+			"82973748",
+			null,
+			null,
+			"74037",
+			null,
+			null,
+			"57.1",
+			null,
+			"34.1",
+			null,
+			"46101640",
+			"92472",
+			"0.1",
+			null,
+			"154221",
+			"45.5",
+			"94.3",
+			null,
+			null,
+			null,
+			"0.1",
+			"0.1",
+			"1.3",
+			null,
+			"664",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			"2",
+			null,
+			"30.3",
+			null,
+			null,
+			"0.1",
+			"1.5",
+			null,
+			"29.0",
+			"48.2",
+			null,
+			null,
+			"74750",
+			null,
+			"0.2",
+			null,
+			"71.0",
+			"29.4",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			"50225810",
+			"6.0",
+			"0.1",
+			"51.8",
+			"0.1",
+			null,
+			"0.1",
+			null,
+			null,
+			"0.2",
+			null,
+			null,
+			"11.2",
+			"82973748",
+			null,
+			null,
+			"74063",
+			"0.1",
+			null,
+			null,
+			"30.3",
+			"0.1",
+			null,
+			null,
+			"81335278",
+			"1487",
+			null,
+			null,
+			"0.1",
+			"74037",
+			null,
+			"3",
+			null,
+			null,
+			null,
+			"1.3",
+			null,
+			"16.9",
+			null,
+			"7.3",
+			null,
+			null,
+			"0.1",
+			null,
+			"0.1",
+			null,
+			"81.5",
+			null,
+			"0.1",
+			null,
+			"82972762",
+			null,
+			"9.4",
+			"0.1",
+			"0.1",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"69861",
+			null,
+			"72.6",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"21.1",
+			"10.1",
+			"0.2",
+			null,
+			"0.1",
+			"162664",
+			"0.1",
+			null,
+			"10.0",
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			"37.7",
+			null,
+			"235910719",
+			"0.2",
+			null,
+			"0.1",
+			"70.1",
+			null,
+			"57.9",
+			null,
+			null,
+			"0.1",
+			"0.1",
+			null,
+			null,
+			"27.3",
+			null,
+			"13.2",
+			"0.1",
+			null,
+			"0.1",
+			"0.1",
+			null,
+			"92.5",
+			"16.3",
+			null,
+			null,
+			"0.1",
+			"0.1",
+			null,
+			null,
+			null,
+			"41.2",
+			"25.7",
+			"7.4",
+			null,
+			"0.2",
+			"0.1",
+			"46.1",
+			"39.3",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"213586768",
+			"56.3",
+			null,
+			"53946",
+			"0.1",
+			null,
+			"0.1",
+			null,
+			"53.9",
+			null,
+			"82973748",
+			"0.1",
+			null,
+			null,
+			"74037",
+			"United States",
+			null,
+			"36.8",
+			null,
+			"20.0",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			"8.5",
+			"618",
+			"5.4",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			null,
+			"58.7",
+			null,
+			"2035",
+			null,
+			"0.1",
+			"4",
+			null,
+			"82973748",
+			"42.9",
+			null,
+			"2.9",
+			"74037",
+			null,
+			"0.1",
+			"0.1",
+			"3.1",
+			null,
+			"331722429",
+			null,
+			null,
+			"0.1",
+			"360600",
+			"-555555555",
+			null,
+			"272877",
+			"0.1",
+			null,
+			null,
+			"*****",
+			null,
+			null,
+			"76.6",
+			"132737146",
+			null,
+			null,
+			"5.1",
+			null,
+			null,
+			"0.1",
+			null,
+			"0.1",
+			null,
+			"50225810",
+			"86635506",
+			null,
+			null,
+			null,
+			"36.0",
+			null,
+			null,
+			"92472",
+			"0.1",
+			null,
+			"0.1",
+			"0.1",
+			null,
+			null,
+			"116533",
+			null,
+			null,
+			"2.1",
+			null,
+			null,
+			"0.1",
+			"140273",
+			"0.1",
+			null,
+			null,
+			"23.4",
+			"77.6",
+			null,
+			null,
+			null,
+			"3.0",
+			null,
+			"0.1",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"25033",
+			"340110990",
+			null,
+			null,
+			"10.3",
+			"225",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"31.6",
+			null,
+			null,
+			"0.8",
+			null,
+			null,
+			"162660",
+			"0.1",
+			"0.7",
+			"0.1",
+			null,
+			null,
+			null,
+			"50234858",
+			null,
+			"34.8",
+			null,
+			null,
+			"40",
+			"0.1",
+			"-555555555",
+			"0.1",
+			null,
+			null,
+			null,
+			"5.0",
+			"289876132",
+			"5.2",
+			null,
+			"1.6",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"2.4",
+			"50225810",
+			null,
+			"74.2",
+			null,
+			"0.1",
+			"110555",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1.3",
+			"49.3",
+			"25.8",
+			null,
+			null,
+			"0.1",
+			null,
+			"92472",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"65.3",
+			"0.1",
+			"0.0",
+			null,
+			"1.2",
+			"0.1",
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"132737146",
+			"69.7",
+			"140273",
+			null,
+			"39261776",
+			null,
+			null,
+			"0.1",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"0.01",
+			"0.9",
+			"1.64",
+			null,
+			"0.01",
+			null,
+			null,
+			null,
+			"2.26",
+			"34.7",
+			"2.9",
+			"0.1",
+			"0.9",
+			null,
+			"0.1",
+			"0.01",
+			null,
+			null,
+			null,
+			"2.63",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			"21.8",
+			null,
+			null,
+			null,
+			"78.2",
+			null,
+			null,
+			"3.5",
+			"0.1",
+			null,
+			"0.5",
+			null,
+			"2.9",
+			null,
+			"0.01",
+			"2.04",
+			"0.1",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"0.8",
+			null,
+			"4.6",
+			null,
+			"11.4",
+			"10.6",
+			"0.1",
+			null,
+			"0.2",
+			null,
+			"0.1",
+			"59.8",
+			null,
+			null,
+			null,
+			"74037",
+			null,
+			"0.1",
+			null,
+			"29.1",
+			"78.4",
+			"0.1",
+			"0.2",
+			null,
+			"3.9",
+			"5.4",
+			"86.8",
+			null,
+			null,
+			null,
+			"0.1",
+			"0.1",
+			"0.1",
+			null,
+			"12859568",
+			null,
+			null,
+			null,
+			"56870",
+			"8.1",
+			"1.0",
+			null,
+			"0.1",
+			null,
+			"95837",
+			null,
+			"0.1",
+			null,
+			"10.9",
+			null,
+			null,
+			null,
+			"0.2",
+			"82973748",
+			null,
+			"12.1",
+			null,
+			null,
+			"0.1",
+			"0.1",
+			null,
+			null,
+			"26251",
+			null,
+			"42",
+			null,
+			"16.2",
+			"82973748",
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			"0.1",
+			null,
+			"7.1",
+			"0.1",
+			null,
+			null,
+			"1.5",
+			"70114180",
+			"6.3",
+			null,
+			"0.1",
+			"74037",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1.1",
+			"92253",
+			"0.1",
+			"0.1",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.4",
+			"73.1",
+			"0100000US",
+			"0.1",
+			null,
+			null,
+			"389",
+			null,
+			"0.1",
+			null,
+			"10964034",
+			"140273",
+			"3.7",
+			null,
+			"62481",
+			"0.1",
+			null,
+			null,
+			null,
+			"336636468",
+			null,
+			"64.0",
+			"32733",
+			null,
+			"0.1",
+			"0.1",
+			null,
+			"45.0",
+			"3.0",
+			null,
+			"0.2",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"60.6",
+			"86.3",
+			null,
+			"132737146",
+			"0.1",
+			"1801",
+			"0.1",
+			null,
+			"89.3",
+			"5",
+			null,
+			"0.1",
+			null,
+			null,
+			"11.0",
+			null,
+			"12.1",
+			null,
+			"0.1",
+			"0.1",
+			"0.1",
+			null,
+			"662",
+			"4.0",
+			null,
+			"1",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"88.2",
+			null,
+			"46.7",
+			null,
+			"0.1",
+			"-555555555",
+			"71.0",
+			"82973748",
+			null,
+			null,
+			"0.1",
+			"74037",
+			null,
+			"28.9",
+			null,
+			"49.5",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			"344300",
+			"80812630",
+			"5.0",
+			null,
+			null,
+			"747",
+			"76829",
+			"*****",
+			"0.1",
+			null,
+			"5.9",
+			"36.0",
+			null,
+			"340110990",
+			null,
+			"0.1",
+			"0.1",
+			null,
+			"7.5",
+			"27.8",
+			null,
+			null,
+			"0.1",
+			null,
+			"0.1",
+			null,
+			"47.9",
+			null,
+			"39.2",
+			"0.1",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			null,
+			"10.6",
+			null,
+			"31.6",
+			null,
+			"0.1",
+			null,
+			"0.1",
+			null,
+			"280592838",
+			null,
+			"50.5",
+			null,
+			null,
+			"40130",
+			"0.1",
+			null,
+			null,
+			"0.1",
+			"0.2",
+			null,
+			null,
+			"332143258",
+			null,
+			null,
+			"321745943",
+			null,
+			"131",
+			"0.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"11.8",
+			null,
+			"48.6",
+			"0.1",
+			"0.1",
+			null,
+			null,
+			"7.2",
+			null,
+			null,
+			"23.0",
+			"0.9",
+			null,
+			null,
+			"27427",
+			"18702",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"12.1",
+			null,
+			"77.0",
+			null,
+			"0.1",
+			"0.1",
+			"36676",
+			null,
+			null,
+			null,
+			"276249478",
+			null,
+			"5.9",
+			null,
+			null,
+			"0.1",
+			"0.1",
+			"0.1",
+			"*****",
+			null,
+			null,
+			null,
+			null,
+			"80.6",
+			"9.0",
+			null,
+			"265909569",
+			null,
+			"0.1",
+			"20943",
+			"55.0",
+			"0.2",
+			null,
+			null,
+			null,
+			"63.5",
+			null,
+			"13.7",
+			"2.9",
+			null,
+			"0.1",
+			null,
+			"52420",
+			"0.1",
+			"1171",
+			"5",
+			null,
+			null,
+			null,
+			null,
+			"64.0",
+			"335190522",
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:58:59.250Z"
+}

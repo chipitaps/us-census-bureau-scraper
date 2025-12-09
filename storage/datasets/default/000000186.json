@@ -1,0 +1,360 @@
+{
+	"tableId": "ACSDT1Y2024.B06012",
+	"title": "Place of Birth by Poverty Status in the Past 12 Months in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population in the United States for whom poverty status is determined",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06012",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06012_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06012_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06012_002E",
+				"label": "Estimate!!Total:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_002M",
+				"label": "Margin of Error!!Total:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_003E",
+				"label": "Estimate!!Total:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_003M",
+				"label": "Margin of Error!!Total:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_004E",
+				"label": "Estimate!!Total:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_004M",
+				"label": "Margin of Error!!Total:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_005E",
+				"label": "Estimate!!Total:!!Born in state of residence:"
+			},
+			{
+				"id": "B06012_005M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:"
+			},
+			{
+				"id": "B06012_006E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_006M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_007E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_007M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_008E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_008M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_009E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B06012_009M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B06012_010E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_010M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_011E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_011M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_012E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_012M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_013E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:"
+			},
+			{
+				"id": "B06012_013M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:"
+			},
+			{
+				"id": "B06012_014E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_014M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_015E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_015M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_016E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_016M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_017E",
+				"label": "Estimate!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06012_017M",
+				"label": "Margin of Error!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06012_018E",
+				"label": "Estimate!!Total:!!Foreign born:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_018M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Below 100 percent of the poverty level"
+			},
+			{
+				"id": "B06012_019E",
+				"label": "Estimate!!Total:!!Foreign born:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_019M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "B06012_020E",
+				"label": "Estimate!!Total:!!Foreign born:!!At or above 150 percent of the poverty level"
+			},
+			{
+				"id": "B06012_020M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!At or above 150 percent of the poverty level"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06012_010MA",
+			"B06012_012MA",
+			"B06012_012M",
+			"B06012_020M",
+			"B06012_014EA",
+			"B06012_012E",
+			"B06012_016EA",
+			"B06012_008M",
+			"B06012_018EA",
+			"B06012_020E",
+			"B06012_016M",
+			"B06012_004M",
+			"B06012_014MA",
+			"B06012_016MA",
+			"B06012_008E",
+			"B06012_010EA",
+			"B06012_018MA",
+			"B06012_012EA",
+			"B06012_016E",
+			"B06012_004E",
+			"B06012_001MA",
+			"B06012_020MA",
+			"B06012_013M",
+			"B06012_001M",
+			"NAME",
+			"B06012_003EA",
+			"B06012_013E",
+			"B06012_001E",
+			"B06012_005EA",
+			"B06012_009M",
+			"B06012_007EA",
+			"B06012_017M",
+			"B06012_005M",
+			"B06012_009EA",
+			"B06012_003MA",
+			"B06012_005MA",
+			"B06012_009E",
+			"B06012_007MA",
+			"B06012_017E",
+			"B06012_001EA",
+			"B06012_005E",
+			"B06012_009MA",
+			"B06012_020EA",
+			"B06012_011MA",
+			"B06012_014M",
+			"B06012_002M",
+			"B06012_010M",
+			"B06012_014E",
+			"B06012_002E",
+			"B06012_013EA",
+			"B06012_015EA",
+			"B06012_010E",
+			"B06012_018M",
+			"B06012_006M",
+			"B06012_017EA",
+			"B06012_019EA",
+			"B06012_013MA",
+			"B06012_015MA",
+			"B06012_018E",
+			"B06012_006E",
+			"B06012_017MA",
+			"B06012_011EA",
+			"B06012_019MA",
+			"B06012_003M",
+			"B06012_011M",
+			"B06012_003E",
+			"GEO_ID",
+			"B06012_002EA",
+			"B06012_004EA",
+			"B06012_011E",
+			"B06012_019M",
+			"B06012_007M",
+			"B06012_006EA",
+			"B06012_008EA",
+			"B06012_015M",
+			"B06012_002MA",
+			"B06012_004MA",
+			"B06012_019E",
+			"B06012_007E",
+			"B06012_006MA",
+			"B06012_008MA",
+			"B06012_015E"
+		],
+		[
+			null,
+			null,
+			"225846",
+			"117404",
+			null,
+			"75213568",
+			null,
+			"300030",
+			null,
+			"38365392",
+			"54988",
+			"366249",
+			null,
+			null,
+			"149719837",
+			null,
+			null,
+			null,
+			"4570862",
+			"267869659",
+			null,
+			null,
+			"60239",
+			"27427",
+			"United States",
+			null,
+			"5772965",
+			"332143258",
+			null,
+			"205772",
+			null,
+			"166615",
+			"206702",
+			null,
+			null,
+			null,
+			"89158008",
+			null,
+			"49602557",
+			null,
+			"187609728",
+			null,
+			null,
+			null,
+			"20746",
+			"248561",
+			"79602",
+			"759945",
+			"40354267",
+			null,
+			null,
+			"8875252",
+			"86190",
+			"163408",
+			null,
+			null,
+			null,
+			null,
+			"6902972",
+			"23816098",
+			null,
+			null,
+			null,
+			"198143",
+			"64586",
+			"23919332",
+			"0100000US",
+			null,
+			null,
+			"5069188",
+			"67158",
+			"141495",
+			null,
+			null,
+			"17581",
+			null,
+			null,
+			"4334193",
+			"14073793",
+			null,
+			null,
+			"442158"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.443Z"
+}

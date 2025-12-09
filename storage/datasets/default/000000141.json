@@ -1,0 +1,2888 @@
+{
+	"tableId": "ACSDT1Y2024.B05006",
+	"title": "Place of Birth for the Foreign-Born Population in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Foreign-born population excluding population born at sea",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B05006",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B05006_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B05006_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B05006_002E",
+				"label": "Estimate!!Total:!!Europe:"
+			},
+			{
+				"id": "B05006_002M",
+				"label": "Margin of Error!!Total:!!Europe:"
+			},
+			{
+				"id": "B05006_003E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:"
+			},
+			{
+				"id": "B05006_003M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:"
+			},
+			{
+				"id": "B05006_004E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!Denmark"
+			},
+			{
+				"id": "B05006_004M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!Denmark"
+			},
+			{
+				"id": "B05006_005E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!Ireland"
+			},
+			{
+				"id": "B05006_005M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!Ireland"
+			},
+			{
+				"id": "B05006_006E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!Norway"
+			},
+			{
+				"id": "B05006_006M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!Norway"
+			},
+			{
+				"id": "B05006_007E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!Sweden"
+			},
+			{
+				"id": "B05006_007M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!Sweden"
+			},
+			{
+				"id": "B05006_008E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!United Kingdom (inc. Crown Dependencies):"
+			},
+			{
+				"id": "B05006_008M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!United Kingdom (inc. Crown Dependencies):"
+			},
+			{
+				"id": "B05006_009E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!United Kingdom (inc. Crown Dependencies):!!United Kingdom, excluding England and Scotland"
+			},
+			{
+				"id": "B05006_009M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!United Kingdom (inc. Crown Dependencies):!!United Kingdom, excluding England and Scotland"
+			},
+			{
+				"id": "B05006_010E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!United Kingdom (inc. Crown Dependencies):!!England"
+			},
+			{
+				"id": "B05006_010M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!United Kingdom (inc. Crown Dependencies):!!England"
+			},
+			{
+				"id": "B05006_011E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!United Kingdom (inc. Crown Dependencies):!!Scotland"
+			},
+			{
+				"id": "B05006_011M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!United Kingdom (inc. Crown Dependencies):!!Scotland"
+			},
+			{
+				"id": "B05006_012E",
+				"label": "Estimate!!Total:!!Europe:!!Northern Europe:!!Other Northern Europe"
+			},
+			{
+				"id": "B05006_012M",
+				"label": "Margin of Error!!Total:!!Europe:!!Northern Europe:!!Other Northern Europe"
+			},
+			{
+				"id": "B05006_013E",
+				"label": "Estimate!!Total:!!Europe:!!Western Europe:"
+			},
+			{
+				"id": "B05006_013M",
+				"label": "Margin of Error!!Total:!!Europe:!!Western Europe:"
+			},
+			{
+				"id": "B05006_014E",
+				"label": "Estimate!!Total:!!Europe:!!Western Europe:!!Austria"
+			},
+			{
+				"id": "B05006_014M",
+				"label": "Margin of Error!!Total:!!Europe:!!Western Europe:!!Austria"
+			},
+			{
+				"id": "B05006_015E",
+				"label": "Estimate!!Total:!!Europe:!!Western Europe:!!Belgium"
+			},
+			{
+				"id": "B05006_015M",
+				"label": "Margin of Error!!Total:!!Europe:!!Western Europe:!!Belgium"
+			},
+			{
+				"id": "B05006_016E",
+				"label": "Estimate!!Total:!!Europe:!!Western Europe:!!France"
+			},
+			{
+				"id": "B05006_016M",
+				"label": "Margin of Error!!Total:!!Europe:!!Western Europe:!!France"
+			},
+			{
+				"id": "B05006_017E",
+				"label": "Estimate!!Total:!!Europe:!!Western Europe:!!Germany"
+			},
+			{
+				"id": "B05006_017M",
+				"label": "Margin of Error!!Total:!!Europe:!!Western Europe:!!Germany"
+			},
+			{
+				"id": "B05006_018E",
+				"label": "Estimate!!Total:!!Europe:!!Western Europe:!!Netherlands"
+			},
+			{
+				"id": "B05006_018M",
+				"label": "Margin of Error!!Total:!!Europe:!!Western Europe:!!Netherlands"
+			},
+			{
+				"id": "B05006_019E",
+				"label": "Estimate!!Total:!!Europe:!!Western Europe:!!Switzerland"
+			},
+			{
+				"id": "B05006_019M",
+				"label": "Margin of Error!!Total:!!Europe:!!Western Europe:!!Switzerland"
+			},
+			{
+				"id": "B05006_020E",
+				"label": "Estimate!!Total:!!Europe:!!Western Europe:!!Other Western Europe"
+			},
+			{
+				"id": "B05006_020M",
+				"label": "Margin of Error!!Total:!!Europe:!!Western Europe:!!Other Western Europe"
+			},
+			{
+				"id": "B05006_021E",
+				"label": "Estimate!!Total:!!Europe:!!Southern Europe:"
+			},
+			{
+				"id": "B05006_021M",
+				"label": "Margin of Error!!Total:!!Europe:!!Southern Europe:"
+			},
+			{
+				"id": "B05006_022E",
+				"label": "Estimate!!Total:!!Europe:!!Southern Europe:!!Greece"
+			},
+			{
+				"id": "B05006_022M",
+				"label": "Margin of Error!!Total:!!Europe:!!Southern Europe:!!Greece"
+			},
+			{
+				"id": "B05006_023E",
+				"label": "Estimate!!Total:!!Europe:!!Southern Europe:!!Italy"
+			},
+			{
+				"id": "B05006_023M",
+				"label": "Margin of Error!!Total:!!Europe:!!Southern Europe:!!Italy"
+			},
+			{
+				"id": "B05006_024E",
+				"label": "Estimate!!Total:!!Europe:!!Southern Europe:!!Portugal"
+			},
+			{
+				"id": "B05006_024M",
+				"label": "Margin of Error!!Total:!!Europe:!!Southern Europe:!!Portugal"
+			},
+			{
+				"id": "B05006_025E",
+				"label": "Estimate!!Total:!!Europe:!!Southern Europe:!!Portugal!!Azores Islands"
+			},
+			{
+				"id": "B05006_025M",
+				"label": "Margin of Error!!Total:!!Europe:!!Southern Europe:!!Portugal!!Azores Islands"
+			},
+			{
+				"id": "B05006_026E",
+				"label": "Estimate!!Total:!!Europe:!!Southern Europe:!!Spain"
+			},
+			{
+				"id": "B05006_026M",
+				"label": "Margin of Error!!Total:!!Europe:!!Southern Europe:!!Spain"
+			},
+			{
+				"id": "B05006_027E",
+				"label": "Estimate!!Total:!!Europe:!!Southern Europe:!!Other Southern Europe"
+			},
+			{
+				"id": "B05006_027M",
+				"label": "Margin of Error!!Total:!!Europe:!!Southern Europe:!!Other Southern Europe"
+			},
+			{
+				"id": "B05006_028E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:"
+			},
+			{
+				"id": "B05006_028M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:"
+			},
+			{
+				"id": "B05006_029E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Albania"
+			},
+			{
+				"id": "B05006_029M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Albania"
+			},
+			{
+				"id": "B05006_030E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Belarus"
+			},
+			{
+				"id": "B05006_030M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Belarus"
+			},
+			{
+				"id": "B05006_031E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Bosnia and Herzegovina"
+			},
+			{
+				"id": "B05006_031M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Bosnia and Herzegovina"
+			},
+			{
+				"id": "B05006_032E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Bulgaria"
+			},
+			{
+				"id": "B05006_032M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Bulgaria"
+			},
+			{
+				"id": "B05006_033E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Croatia"
+			},
+			{
+				"id": "B05006_033M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Croatia"
+			},
+			{
+				"id": "B05006_034E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Czechoslovakia (includes Czech Republic and Slovakia)"
+			},
+			{
+				"id": "B05006_034M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Czechoslovakia (includes Czech Republic and Slovakia)"
+			},
+			{
+				"id": "B05006_035E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Hungary"
+			},
+			{
+				"id": "B05006_035M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Hungary"
+			},
+			{
+				"id": "B05006_036E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Latvia"
+			},
+			{
+				"id": "B05006_036M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Latvia"
+			},
+			{
+				"id": "B05006_037E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Lithuania"
+			},
+			{
+				"id": "B05006_037M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Lithuania"
+			},
+			{
+				"id": "B05006_038E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Moldova"
+			},
+			{
+				"id": "B05006_038M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Moldova"
+			},
+			{
+				"id": "B05006_039E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!North Macedonia (Macedonia)"
+			},
+			{
+				"id": "B05006_039M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!North Macedonia (Macedonia)"
+			},
+			{
+				"id": "B05006_040E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Poland"
+			},
+			{
+				"id": "B05006_040M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Poland"
+			},
+			{
+				"id": "B05006_041E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Romania"
+			},
+			{
+				"id": "B05006_041M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Romania"
+			},
+			{
+				"id": "B05006_042E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Russia"
+			},
+			{
+				"id": "B05006_042M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Russia"
+			},
+			{
+				"id": "B05006_043E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Serbia"
+			},
+			{
+				"id": "B05006_043M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Serbia"
+			},
+			{
+				"id": "B05006_044E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Ukraine"
+			},
+			{
+				"id": "B05006_044M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Ukraine"
+			},
+			{
+				"id": "B05006_045E",
+				"label": "Estimate!!Total:!!Europe:!!Eastern Europe:!!Other Eastern Europe"
+			},
+			{
+				"id": "B05006_045M",
+				"label": "Margin of Error!!Total:!!Europe:!!Eastern Europe:!!Other Eastern Europe"
+			},
+			{
+				"id": "B05006_046E",
+				"label": "Estimate!!Total:!!Europe:!!Europe, n.e.c."
+			},
+			{
+				"id": "B05006_046M",
+				"label": "Margin of Error!!Total:!!Europe:!!Europe, n.e.c."
+			},
+			{
+				"id": "B05006_047E",
+				"label": "Estimate!!Total:!!Asia:"
+			},
+			{
+				"id": "B05006_047M",
+				"label": "Margin of Error!!Total:!!Asia:"
+			},
+			{
+				"id": "B05006_048E",
+				"label": "Estimate!!Total:!!Asia:!!Eastern Asia:"
+			},
+			{
+				"id": "B05006_048M",
+				"label": "Margin of Error!!Total:!!Asia:!!Eastern Asia:"
+			},
+			{
+				"id": "B05006_049E",
+				"label": "Estimate!!Total:!!Asia:!!Eastern Asia:!!China:"
+			},
+			{
+				"id": "B05006_049M",
+				"label": "Margin of Error!!Total:!!Asia:!!Eastern Asia:!!China:"
+			},
+			{
+				"id": "B05006_050E",
+				"label": "Estimate!!Total:!!Asia:!!Eastern Asia:!!China:!!China, excluding Hong Kong and Taiwan"
+			},
+			{
+				"id": "B05006_050M",
+				"label": "Margin of Error!!Total:!!Asia:!!Eastern Asia:!!China:!!China, excluding Hong Kong and Taiwan"
+			},
+			{
+				"id": "B05006_051E",
+				"label": "Estimate!!Total:!!Asia:!!Eastern Asia:!!China:!!Hong Kong"
+			},
+			{
+				"id": "B05006_051M",
+				"label": "Margin of Error!!Total:!!Asia:!!Eastern Asia:!!China:!!Hong Kong"
+			},
+			{
+				"id": "B05006_052E",
+				"label": "Estimate!!Total:!!Asia:!!Eastern Asia:!!China:!!Taiwan"
+			},
+			{
+				"id": "B05006_052M",
+				"label": "Margin of Error!!Total:!!Asia:!!Eastern Asia:!!China:!!Taiwan"
+			},
+			{
+				"id": "B05006_053E",
+				"label": "Estimate!!Total:!!Asia:!!Eastern Asia:!!Japan"
+			},
+			{
+				"id": "B05006_053M",
+				"label": "Margin of Error!!Total:!!Asia:!!Eastern Asia:!!Japan"
+			},
+			{
+				"id": "B05006_054E",
+				"label": "Estimate!!Total:!!Asia:!!Eastern Asia:!!Korea"
+			},
+			{
+				"id": "B05006_054M",
+				"label": "Margin of Error!!Total:!!Asia:!!Eastern Asia:!!Korea"
+			},
+			{
+				"id": "B05006_055E",
+				"label": "Estimate!!Total:!!Asia:!!Eastern Asia:!!Other Eastern Asia"
+			},
+			{
+				"id": "B05006_055M",
+				"label": "Margin of Error!!Total:!!Asia:!!Eastern Asia:!!Other Eastern Asia"
+			},
+			{
+				"id": "B05006_056E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:"
+			},
+			{
+				"id": "B05006_056M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:"
+			},
+			{
+				"id": "B05006_057E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Afghanistan"
+			},
+			{
+				"id": "B05006_057M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Afghanistan"
+			},
+			{
+				"id": "B05006_058E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Bangladesh"
+			},
+			{
+				"id": "B05006_058M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Bangladesh"
+			},
+			{
+				"id": "B05006_059E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Bhutan"
+			},
+			{
+				"id": "B05006_059M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Bhutan"
+			},
+			{
+				"id": "B05006_060E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!India"
+			},
+			{
+				"id": "B05006_060M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!India"
+			},
+			{
+				"id": "B05006_061E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Iran"
+			},
+			{
+				"id": "B05006_061M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Iran"
+			},
+			{
+				"id": "B05006_062E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Kazakhstan"
+			},
+			{
+				"id": "B05006_062M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Kazakhstan"
+			},
+			{
+				"id": "B05006_063E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Nepal"
+			},
+			{
+				"id": "B05006_063M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Nepal"
+			},
+			{
+				"id": "B05006_064E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Pakistan"
+			},
+			{
+				"id": "B05006_064M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Pakistan"
+			},
+			{
+				"id": "B05006_065E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Sri Lanka"
+			},
+			{
+				"id": "B05006_065M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Sri Lanka"
+			},
+			{
+				"id": "B05006_066E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Uzbekistan"
+			},
+			{
+				"id": "B05006_066M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Uzbekistan"
+			},
+			{
+				"id": "B05006_067E",
+				"label": "Estimate!!Total:!!Asia:!!South Central Asia:!!Other South Central Asia"
+			},
+			{
+				"id": "B05006_067M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Central Asia:!!Other South Central Asia"
+			},
+			{
+				"id": "B05006_068E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:"
+			},
+			{
+				"id": "B05006_068M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:"
+			},
+			{
+				"id": "B05006_069E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Burma (Myanmar)"
+			},
+			{
+				"id": "B05006_069M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Burma (Myanmar)"
+			},
+			{
+				"id": "B05006_070E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Cambodia"
+			},
+			{
+				"id": "B05006_070M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Cambodia"
+			},
+			{
+				"id": "B05006_071E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Indonesia"
+			},
+			{
+				"id": "B05006_071M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Indonesia"
+			},
+			{
+				"id": "B05006_072E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Laos"
+			},
+			{
+				"id": "B05006_072M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Laos"
+			},
+			{
+				"id": "B05006_073E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Malaysia"
+			},
+			{
+				"id": "B05006_073M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Malaysia"
+			},
+			{
+				"id": "B05006_074E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Philippines"
+			},
+			{
+				"id": "B05006_074M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Philippines"
+			},
+			{
+				"id": "B05006_075E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Singapore"
+			},
+			{
+				"id": "B05006_075M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Singapore"
+			},
+			{
+				"id": "B05006_076E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Thailand"
+			},
+			{
+				"id": "B05006_076M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Thailand"
+			},
+			{
+				"id": "B05006_077E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Vietnam"
+			},
+			{
+				"id": "B05006_077M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Vietnam"
+			},
+			{
+				"id": "B05006_078E",
+				"label": "Estimate!!Total:!!Asia:!!South Eastern Asia:!!Other South Eastern Asia"
+			},
+			{
+				"id": "B05006_078M",
+				"label": "Margin of Error!!Total:!!Asia:!!South Eastern Asia:!!Other South Eastern Asia"
+			},
+			{
+				"id": "B05006_079E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:"
+			},
+			{
+				"id": "B05006_079M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:"
+			},
+			{
+				"id": "B05006_080E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Armenia"
+			},
+			{
+				"id": "B05006_080M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Armenia"
+			},
+			{
+				"id": "B05006_081E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Azerbaijan"
+			},
+			{
+				"id": "B05006_081M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Azerbaijan"
+			},
+			{
+				"id": "B05006_082E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Georgia"
+			},
+			{
+				"id": "B05006_082M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Georgia"
+			},
+			{
+				"id": "B05006_083E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Iraq"
+			},
+			{
+				"id": "B05006_083M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Iraq"
+			},
+			{
+				"id": "B05006_084E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Israel"
+			},
+			{
+				"id": "B05006_084M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Israel"
+			},
+			{
+				"id": "B05006_085E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Jordan"
+			},
+			{
+				"id": "B05006_085M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Jordan"
+			},
+			{
+				"id": "B05006_086E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Kuwait"
+			},
+			{
+				"id": "B05006_086M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Kuwait"
+			},
+			{
+				"id": "B05006_087E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Lebanon"
+			},
+			{
+				"id": "B05006_087M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Lebanon"
+			},
+			{
+				"id": "B05006_088E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Saudi Arabia"
+			},
+			{
+				"id": "B05006_088M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Saudi Arabia"
+			},
+			{
+				"id": "B05006_089E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Syria"
+			},
+			{
+				"id": "B05006_089M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Syria"
+			},
+			{
+				"id": "B05006_090E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Turkey"
+			},
+			{
+				"id": "B05006_090M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Turkey"
+			},
+			{
+				"id": "B05006_091E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!United Arab Emirates"
+			},
+			{
+				"id": "B05006_091M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!United Arab Emirates"
+			},
+			{
+				"id": "B05006_092E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Yemen"
+			},
+			{
+				"id": "B05006_092M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Yemen"
+			},
+			{
+				"id": "B05006_093E",
+				"label": "Estimate!!Total:!!Asia:!!Western Asia:!!Other Western Asia"
+			},
+			{
+				"id": "B05006_093M",
+				"label": "Margin of Error!!Total:!!Asia:!!Western Asia:!!Other Western Asia"
+			},
+			{
+				"id": "B05006_094E",
+				"label": "Estimate!!Total:!!Asia:!!Asia, n.e.c."
+			},
+			{
+				"id": "B05006_094M",
+				"label": "Margin of Error!!Total:!!Asia:!!Asia, n.e.c."
+			},
+			{
+				"id": "B05006_095E",
+				"label": "Estimate!!Total:!!Africa:"
+			},
+			{
+				"id": "B05006_095M",
+				"label": "Margin of Error!!Total:!!Africa:"
+			},
+			{
+				"id": "B05006_096E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:"
+			},
+			{
+				"id": "B05006_096M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:"
+			},
+			{
+				"id": "B05006_097E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:!!Eritrea"
+			},
+			{
+				"id": "B05006_097M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:!!Eritrea"
+			},
+			{
+				"id": "B05006_098E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:!!Ethiopia"
+			},
+			{
+				"id": "B05006_098M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:!!Ethiopia"
+			},
+			{
+				"id": "B05006_099E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:!!Kenya"
+			},
+			{
+				"id": "B05006_099M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:!!Kenya"
+			},
+			{
+				"id": "B05006_100E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:!!Somalia"
+			},
+			{
+				"id": "B05006_100M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:!!Somalia"
+			},
+			{
+				"id": "B05006_101E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:!!Tanzania"
+			},
+			{
+				"id": "B05006_101M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:!!Tanzania"
+			},
+			{
+				"id": "B05006_102E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:!!Uganda"
+			},
+			{
+				"id": "B05006_102M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:!!Uganda"
+			},
+			{
+				"id": "B05006_103E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:!!Zimbabwe"
+			},
+			{
+				"id": "B05006_103M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:!!Zimbabwe"
+			},
+			{
+				"id": "B05006_104E",
+				"label": "Estimate!!Total:!!Africa:!!Eastern Africa:!!Other Eastern Africa"
+			},
+			{
+				"id": "B05006_104M",
+				"label": "Margin of Error!!Total:!!Africa:!!Eastern Africa:!!Other Eastern Africa"
+			},
+			{
+				"id": "B05006_105E",
+				"label": "Estimate!!Total:!!Africa:!!Middle Africa:"
+			},
+			{
+				"id": "B05006_105M",
+				"label": "Margin of Error!!Total:!!Africa:!!Middle Africa:"
+			},
+			{
+				"id": "B05006_106E",
+				"label": "Estimate!!Total:!!Africa:!!Middle Africa:!!Cameroon"
+			},
+			{
+				"id": "B05006_106M",
+				"label": "Margin of Error!!Total:!!Africa:!!Middle Africa:!!Cameroon"
+			},
+			{
+				"id": "B05006_107E",
+				"label": "Estimate!!Total:!!Africa:!!Middle Africa:!!Congo"
+			},
+			{
+				"id": "B05006_107M",
+				"label": "Margin of Error!!Total:!!Africa:!!Middle Africa:!!Congo"
+			},
+			{
+				"id": "B05006_108E",
+				"label": "Estimate!!Total:!!Africa:!!Middle Africa:!!Democratic Republic of Congo (Zaire)"
+			},
+			{
+				"id": "B05006_108M",
+				"label": "Margin of Error!!Total:!!Africa:!!Middle Africa:!!Democratic Republic of Congo (Zaire)"
+			},
+			{
+				"id": "B05006_109E",
+				"label": "Estimate!!Total:!!Africa:!!Middle Africa:!!Other Middle Africa"
+			},
+			{
+				"id": "B05006_109M",
+				"label": "Margin of Error!!Total:!!Africa:!!Middle Africa:!!Other Middle Africa"
+			},
+			{
+				"id": "B05006_110E",
+				"label": "Estimate!!Total:!!Africa:!!Northern Africa:"
+			},
+			{
+				"id": "B05006_110M",
+				"label": "Margin of Error!!Total:!!Africa:!!Northern Africa:"
+			},
+			{
+				"id": "B05006_111E",
+				"label": "Estimate!!Total:!!Africa:!!Northern Africa:!!Algeria"
+			},
+			{
+				"id": "B05006_111M",
+				"label": "Margin of Error!!Total:!!Africa:!!Northern Africa:!!Algeria"
+			},
+			{
+				"id": "B05006_112E",
+				"label": "Estimate!!Total:!!Africa:!!Northern Africa:!!Egypt"
+			},
+			{
+				"id": "B05006_112M",
+				"label": "Margin of Error!!Total:!!Africa:!!Northern Africa:!!Egypt"
+			},
+			{
+				"id": "B05006_113E",
+				"label": "Estimate!!Total:!!Africa:!!Northern Africa:!!Morocco"
+			},
+			{
+				"id": "B05006_113M",
+				"label": "Margin of Error!!Total:!!Africa:!!Northern Africa:!!Morocco"
+			},
+			{
+				"id": "B05006_114E",
+				"label": "Estimate!!Total:!!Africa:!!Northern Africa:!!Sudan"
+			},
+			{
+				"id": "B05006_114M",
+				"label": "Margin of Error!!Total:!!Africa:!!Northern Africa:!!Sudan"
+			},
+			{
+				"id": "B05006_115E",
+				"label": "Estimate!!Total:!!Africa:!!Northern Africa:!!Other Northern Africa"
+			},
+			{
+				"id": "B05006_115M",
+				"label": "Margin of Error!!Total:!!Africa:!!Northern Africa:!!Other Northern Africa"
+			},
+			{
+				"id": "B05006_116E",
+				"label": "Estimate!!Total:!!Africa:!!Southern Africa:"
+			},
+			{
+				"id": "B05006_116M",
+				"label": "Margin of Error!!Total:!!Africa:!!Southern Africa:"
+			},
+			{
+				"id": "B05006_117E",
+				"label": "Estimate!!Total:!!Africa:!!Southern Africa:!!South Africa"
+			},
+			{
+				"id": "B05006_117M",
+				"label": "Margin of Error!!Total:!!Africa:!!Southern Africa:!!South Africa"
+			},
+			{
+				"id": "B05006_118E",
+				"label": "Estimate!!Total:!!Africa:!!Southern Africa:!!Other Southern Africa"
+			},
+			{
+				"id": "B05006_118M",
+				"label": "Margin of Error!!Total:!!Africa:!!Southern Africa:!!Other Southern Africa"
+			},
+			{
+				"id": "B05006_119E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:"
+			},
+			{
+				"id": "B05006_119M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:"
+			},
+			{
+				"id": "B05006_120E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Cabo Verde"
+			},
+			{
+				"id": "B05006_120M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Cabo Verde"
+			},
+			{
+				"id": "B05006_121E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Ghana"
+			},
+			{
+				"id": "B05006_121M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Ghana"
+			},
+			{
+				"id": "B05006_122E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Ivory Coast"
+			},
+			{
+				"id": "B05006_122M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Ivory Coast"
+			},
+			{
+				"id": "B05006_123E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Liberia"
+			},
+			{
+				"id": "B05006_123M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Liberia"
+			},
+			{
+				"id": "B05006_124E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Nigeria"
+			},
+			{
+				"id": "B05006_124M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Nigeria"
+			},
+			{
+				"id": "B05006_125E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Senegal"
+			},
+			{
+				"id": "B05006_125M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Senegal"
+			},
+			{
+				"id": "B05006_126E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Sierra Leone"
+			},
+			{
+				"id": "B05006_126M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Sierra Leone"
+			},
+			{
+				"id": "B05006_127E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Togo"
+			},
+			{
+				"id": "B05006_127M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Togo"
+			},
+			{
+				"id": "B05006_128E",
+				"label": "Estimate!!Total:!!Africa:!!Western Africa:!!Other Western Africa"
+			},
+			{
+				"id": "B05006_128M",
+				"label": "Margin of Error!!Total:!!Africa:!!Western Africa:!!Other Western Africa"
+			},
+			{
+				"id": "B05006_129E",
+				"label": "Estimate!!Total:!!Africa:!!Africa, n.e.c."
+			},
+			{
+				"id": "B05006_129M",
+				"label": "Margin of Error!!Total:!!Africa:!!Africa, n.e.c."
+			},
+			{
+				"id": "B05006_130E",
+				"label": "Estimate!!Total:!!Oceania:"
+			},
+			{
+				"id": "B05006_130M",
+				"label": "Margin of Error!!Total:!!Oceania:"
+			},
+			{
+				"id": "B05006_131E",
+				"label": "Estimate!!Total:!!Oceania:!!Australia and New Zealand Subregion:"
+			},
+			{
+				"id": "B05006_131M",
+				"label": "Margin of Error!!Total:!!Oceania:!!Australia and New Zealand Subregion:"
+			},
+			{
+				"id": "B05006_132E",
+				"label": "Estimate!!Total:!!Oceania:!!Australia and New Zealand Subregion:!!Australia"
+			},
+			{
+				"id": "B05006_132M",
+				"label": "Margin of Error!!Total:!!Oceania:!!Australia and New Zealand Subregion:!!Australia"
+			},
+			{
+				"id": "B05006_133E",
+				"label": "Estimate!!Total:!!Oceania:!!Australia and New Zealand Subregion:!!Other Australian and New Zealand Subregion"
+			},
+			{
+				"id": "B05006_133M",
+				"label": "Margin of Error!!Total:!!Oceania:!!Australia and New Zealand Subregion:!!Other Australian and New Zealand Subregion"
+			},
+			{
+				"id": "B05006_134E",
+				"label": "Estimate!!Total:!!Oceania:!!Fiji"
+			},
+			{
+				"id": "B05006_134M",
+				"label": "Margin of Error!!Total:!!Oceania:!!Fiji"
+			},
+			{
+				"id": "B05006_135E",
+				"label": "Estimate!!Total:!!Oceania:!!Marshall Islands"
+			},
+			{
+				"id": "B05006_135M",
+				"label": "Margin of Error!!Total:!!Oceania:!!Marshall Islands"
+			},
+			{
+				"id": "B05006_136E",
+				"label": "Estimate!!Total:!!Oceania:!!Micronesia"
+			},
+			{
+				"id": "B05006_136M",
+				"label": "Margin of Error!!Total:!!Oceania:!!Micronesia"
+			},
+			{
+				"id": "B05006_137E",
+				"label": "Estimate!!Total:!!Oceania:!!Oceania, n.e.c."
+			},
+			{
+				"id": "B05006_137M",
+				"label": "Margin of Error!!Total:!!Oceania:!!Oceania, n.e.c."
+			},
+			{
+				"id": "B05006_138E",
+				"label": "Estimate!!Total:!!Americas:"
+			},
+			{
+				"id": "B05006_138M",
+				"label": "Margin of Error!!Total:!!Americas:"
+			},
+			{
+				"id": "B05006_139E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:"
+			},
+			{
+				"id": "B05006_139M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:"
+			},
+			{
+				"id": "B05006_140E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:"
+			},
+			{
+				"id": "B05006_140M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:"
+			},
+			{
+				"id": "B05006_141E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Bahamas"
+			},
+			{
+				"id": "B05006_141M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Bahamas"
+			},
+			{
+				"id": "B05006_142E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Barbados"
+			},
+			{
+				"id": "B05006_142M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Barbados"
+			},
+			{
+				"id": "B05006_143E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Cuba"
+			},
+			{
+				"id": "B05006_143M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Cuba"
+			},
+			{
+				"id": "B05006_144E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Dominica"
+			},
+			{
+				"id": "B05006_144M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Dominica"
+			},
+			{
+				"id": "B05006_145E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Dominican Republic"
+			},
+			{
+				"id": "B05006_145M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Dominican Republic"
+			},
+			{
+				"id": "B05006_146E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Grenada"
+			},
+			{
+				"id": "B05006_146M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Grenada"
+			},
+			{
+				"id": "B05006_147E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Haiti"
+			},
+			{
+				"id": "B05006_147M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Haiti"
+			},
+			{
+				"id": "B05006_148E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Jamaica"
+			},
+			{
+				"id": "B05006_148M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Jamaica"
+			},
+			{
+				"id": "B05006_149E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!St. Lucia"
+			},
+			{
+				"id": "B05006_149M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!St. Lucia"
+			},
+			{
+				"id": "B05006_150E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!St. Vincent and the Grenadines"
+			},
+			{
+				"id": "B05006_150M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!St. Vincent and the Grenadines"
+			},
+			{
+				"id": "B05006_151E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Trinidad and Tobago"
+			},
+			{
+				"id": "B05006_151M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Trinidad and Tobago"
+			},
+			{
+				"id": "B05006_152E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!West Indies"
+			},
+			{
+				"id": "B05006_152M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!West Indies"
+			},
+			{
+				"id": "B05006_153E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Caribbean:!!Other Caribbean"
+			},
+			{
+				"id": "B05006_153M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Caribbean:!!Other Caribbean"
+			},
+			{
+				"id": "B05006_154E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:"
+			},
+			{
+				"id": "B05006_154M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:"
+			},
+			{
+				"id": "B05006_155E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!Belize"
+			},
+			{
+				"id": "B05006_155M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!Belize"
+			},
+			{
+				"id": "B05006_156E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!Costa Rica"
+			},
+			{
+				"id": "B05006_156M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!Costa Rica"
+			},
+			{
+				"id": "B05006_157E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!El Salvador"
+			},
+			{
+				"id": "B05006_157M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!El Salvador"
+			},
+			{
+				"id": "B05006_158E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!Guatemala"
+			},
+			{
+				"id": "B05006_158M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!Guatemala"
+			},
+			{
+				"id": "B05006_159E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!Honduras"
+			},
+			{
+				"id": "B05006_159M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!Honduras"
+			},
+			{
+				"id": "B05006_160E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!Mexico"
+			},
+			{
+				"id": "B05006_160M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!Mexico"
+			},
+			{
+				"id": "B05006_161E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!Nicaragua"
+			},
+			{
+				"id": "B05006_161M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!Nicaragua"
+			},
+			{
+				"id": "B05006_162E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!Panama"
+			},
+			{
+				"id": "B05006_162M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!Panama"
+			},
+			{
+				"id": "B05006_163E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!Central America:!!Other Central America"
+			},
+			{
+				"id": "B05006_163M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!Central America:!!Other Central America"
+			},
+			{
+				"id": "B05006_164E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:"
+			},
+			{
+				"id": "B05006_164M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:"
+			},
+			{
+				"id": "B05006_165E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Argentina"
+			},
+			{
+				"id": "B05006_165M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Argentina"
+			},
+			{
+				"id": "B05006_166E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Bolivia"
+			},
+			{
+				"id": "B05006_166M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Bolivia"
+			},
+			{
+				"id": "B05006_167E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Brazil"
+			},
+			{
+				"id": "B05006_167M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Brazil"
+			},
+			{
+				"id": "B05006_168E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Chile"
+			},
+			{
+				"id": "B05006_168M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Chile"
+			},
+			{
+				"id": "B05006_169E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Colombia"
+			},
+			{
+				"id": "B05006_169M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Colombia"
+			},
+			{
+				"id": "B05006_170E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Ecuador"
+			},
+			{
+				"id": "B05006_170M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Ecuador"
+			},
+			{
+				"id": "B05006_171E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Guyana"
+			},
+			{
+				"id": "B05006_171M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Guyana"
+			},
+			{
+				"id": "B05006_172E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Peru"
+			},
+			{
+				"id": "B05006_172M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Peru"
+			},
+			{
+				"id": "B05006_173E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Uruguay"
+			},
+			{
+				"id": "B05006_173M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Uruguay"
+			},
+			{
+				"id": "B05006_174E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Venezuela"
+			},
+			{
+				"id": "B05006_174M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Venezuela"
+			},
+			{
+				"id": "B05006_175E",
+				"label": "Estimate!!Total:!!Americas:!!Latin America:!!South America:!!Other South America"
+			},
+			{
+				"id": "B05006_175M",
+				"label": "Margin of Error!!Total:!!Americas:!!Latin America:!!South America:!!Other South America"
+			},
+			{
+				"id": "B05006_176E",
+				"label": "Estimate!!Total:!!Americas:!!Northern America:"
+			},
+			{
+				"id": "B05006_176M",
+				"label": "Margin of Error!!Total:!!Americas:!!Northern America:"
+			},
+			{
+				"id": "B05006_177E",
+				"label": "Estimate!!Total:!!Americas:!!Northern America:!!Canada"
+			},
+			{
+				"id": "B05006_177M",
+				"label": "Margin of Error!!Total:!!Americas:!!Northern America:!!Canada"
+			},
+			{
+				"id": "B05006_178E",
+				"label": "Estimate!!Total:!!Americas:!!Northern America:!!Other Northern America"
+			},
+			{
+				"id": "B05006_178M",
+				"label": "Margin of Error!!Total:!!Americas:!!Northern America:!!Other Northern America"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B05006_001MA",
+			"B05006_020EA",
+			"B05006_043EA",
+			"B05006_066EA",
+			"B05006_089EA",
+			"B05006_096E",
+			"B05006_084E",
+			"B05006_072E",
+			"B05006_060E",
+			"B05006_024MA",
+			"B05006_047MA",
+			"B05006_096M",
+			"B05006_084M",
+			"B05006_072M",
+			"B05006_110MA",
+			"B05006_133MA",
+			"B05006_152EA",
+			"B05006_060M",
+			"B05006_175EA",
+			"B05006_156MA",
+			"B05006_054EA",
+			"B05006_031EA",
+			"B05006_077EA",
+			"B05006_097E",
+			"B05006_085E",
+			"B05006_073E",
+			"B05006_061E",
+			"B05006_170E",
+			"B05006_012MA",
+			"B05006_058MA",
+			"B05006_035MA",
+			"B05006_097M",
+			"B05006_085M",
+			"B05006_073M",
+			"B05006_145MA",
+			"B05006_061M",
+			"B05006_170M",
+			"B05006_122MA",
+			"B05006_164EA",
+			"B05006_141EA",
+			"B05006_168MA",
+			"B05006_002MA",
+			"B05006_048MA",
+			"B05006_021EA",
+			"B05006_044EA",
+			"B05006_067EA",
+			"B05006_094E",
+			"B05006_082E",
+			"B05006_070E",
+			"B05006_025MA",
+			"B05006_134MA",
+			"B05006_094M",
+			"B05006_082M",
+			"B05006_111MA",
+			"B05006_153EA",
+			"B05006_070M",
+			"B05006_176EA",
+			"B05006_130EA",
+			"B05006_157MA",
+			"B05006_032EA",
+			"B05006_059MA",
+			"B05006_055EA",
+			"B05006_078EA",
+			"B05006_095E",
+			"B05006_083E",
+			"B05006_071E",
+			"B05006_013MA",
+			"B05006_036MA",
+			"B05006_100MA",
+			"B05006_123MA",
+			"B05006_146MA",
+			"B05006_169MA",
+			"B05006_095M",
+			"B05006_083M",
+			"B05006_071M",
+			"B05006_165EA",
+			"B05006_142EA",
+			"B05006_041EA",
+			"B05006_064EA",
+			"B05006_087EA",
+			"B05006_109EA",
+			"B05006_022MA",
+			"B05006_045MA",
+			"B05006_068MA",
+			"B05006_092E",
+			"B05006_080E",
+			"B05006_150EA",
+			"B05006_173EA",
+			"B05006_092M",
+			"B05006_131MA",
+			"B05006_080M",
+			"B05006_154MA",
+			"B05006_177MA",
+			"B05006_052EA",
+			"B05006_075EA",
+			"B05006_098EA",
+			"B05006_010MA",
+			"B05006_093E",
+			"B05006_079MA",
+			"B05006_081E",
+			"B05006_033MA",
+			"B05006_056MA",
+			"B05006_162EA",
+			"B05006_093M",
+			"B05006_143MA",
+			"B05006_081M",
+			"B05006_120MA",
+			"B05006_166MA",
+			"B05006_065EA",
+			"B05006_042EA",
+			"B05006_088EA",
+			"B05006_023MA",
+			"B05006_069MA",
+			"B05006_090E",
+			"B05006_046MA",
+			"B05006_151EA",
+			"B05006_174EA",
+			"B05006_132MA",
+			"B05006_090M",
+			"B05006_155MA",
+			"B05006_178MA",
+			"B05006_030EA",
+			"B05006_076EA",
+			"B05006_053EA",
+			"B05006_099EA",
+			"B05006_011MA",
+			"B05006_034MA",
+			"B05006_057MA",
+			"B05006_091E",
+			"B05006_121MA",
+			"B05006_144MA",
+			"B05006_163EA",
+			"B05006_091M",
+			"B05006_140EA",
+			"B05006_167MA",
+			"B05006_107EA",
+			"B05006_062EA",
+			"B05006_085EA",
+			"B05006_109M",
+			"B05006_020MA",
+			"B05006_043MA",
+			"B05006_066MA",
+			"B05006_089MA",
+			"B05006_152MA",
+			"B05006_175MA",
+			"B05006_171EA",
+			"B05006_073EA",
+			"B05006_096EA",
+			"B05006_119EA",
+			"B05006_054MA",
+			"B05006_031MA",
+			"B05006_050EA",
+			"B05006_077MA",
+			"B05006_009EA",
+			"B05006_141MA",
+			"B05006_164MA",
+			"B05006_160EA",
+			"B05006_108EA",
+			"B05006_040EA",
+			"B05006_086EA",
+			"B05006_063EA",
+			"B05006_107M",
+			"B05006_119M",
+			"B05006_021MA",
+			"B05006_044MA",
+			"B05006_067MA",
+			"B05006_172EA",
+			"B05006_130MA",
+			"B05006_153MA",
+			"B05006_108E",
+			"B05006_176MA",
+			"B05006_051EA",
+			"B05006_097EA",
+			"B05006_074EA",
+			"B05006_108M",
+			"B05006_032MA",
+			"B05006_055MA",
+			"B05006_078MA",
+			"B05006_161EA",
+			"B05006_142MA",
+			"B05006_109E",
+			"B05006_165MA",
+			"B05006_129M",
+			"B05006_008M",
+			"B05006_128EA",
+			"B05006_105M",
+			"B05006_105EA",
+			"B05006_117M",
+			"B05006_041MA",
+			"B05006_064MA",
+			"B05006_087MA",
+			"B05006_060EA",
+			"B05006_083EA",
+			"B05006_150MA",
+			"B05006_173MA",
+			"B05006_009E",
+			"B05006_019EA",
+			"B05006_118E",
+			"B05006_106E",
+			"B05006_009M",
+			"B05006_118M",
+			"B05006_117EA",
+			"B05006_106M",
+			"B05006_052MA",
+			"B05006_075MA",
+			"B05006_098MA",
+			"B05006_071EA",
+			"B05006_094EA",
+			"B05006_007EA",
+			"B05006_162MA",
+			"B05006_109MA",
+			"B05006_107E",
+			"B05006_119E",
+			"B05006_103E",
+			"B05006_115E",
+			"B05006_129EA",
+			"B05006_084EA",
+			"B05006_018M",
+			"B05006_106EA",
+			"B05006_127M",
+			"B05006_006M",
+			"B05006_139M",
+			"B05006_103M",
+			"B05006_065MA",
+			"B05006_115M",
+			"B05006_042MA",
+			"B05006_061EA",
+			"B05006_088MA",
+			"B05006_151MA",
+			"B05006_174MA",
+			"B05006_019E",
+			"B05006_007E",
+			"B05006_116E",
+			"B05006_170EA",
+			"B05006_128E",
+			"B05006_104E",
+			"B05006_118EA",
+			"B05006_095EA",
+			"B05006_019M",
+			"B05006_007M",
+			"B05006_116M",
+			"B05006_128M",
+			"B05006_030MA",
+			"B05006_076MA",
+			"B05006_104M",
+			"B05006_053MA",
+			"B05006_072EA",
+			"B05006_099MA",
+			"GEO_ID",
+			"B05006_008EA",
+			"B05006_140MA",
+			"B05006_163MA",
+			"B05006_129E",
+			"B05006_008E",
+			"B05006_105E",
+			"B05006_117E",
+			"B05006_016E",
+			"B05006_125E",
+			"B05006_004E",
+			"B05006_137E",
+			"B05006_101E",
+			"B05006_113E",
+			"B05006_103EA",
+			"B05006_149EA",
+			"B05006_149M",
+			"B05006_028M",
+			"B05006_126EA",
+			"B05006_171MA",
+			"B05006_016M",
+			"B05006_125M",
+			"B05006_004M",
+			"B05006_137M",
+			"B05006_009MA",
+			"B05006_062MA",
+			"B05006_085MA",
+			"B05006_101M",
+			"B05006_113M",
+			"B05006_081EA",
+			"B05006_017EA",
+			"B05006_118MA",
+			"B05006_029E",
+			"B05006_138E",
+			"B05006_017E",
+			"B05006_005E",
+			"B05006_114E",
+			"B05006_126E",
+			"B05006_102E",
+			"B05006_138EA",
+			"B05006_029M",
+			"B05006_138M",
+			"B05006_017M",
+			"B05006_115EA",
+			"B05006_160MA",
+			"B05006_005M",
+			"B05006_114M",
+			"B05006_126M",
+			"B05006_073MA",
+			"B05006_096MA",
+			"B05006_102M",
+			"B05006_092EA",
+			"B05006_005EA",
+			"B05006_050MA",
+			"B05006_107MA",
+			"B05006_028EA",
+			"B05006_018E",
+			"B05006_127E",
+			"B05006_006E",
+			"B05006_139E",
+			"B05006_038E",
+			"B05006_147E",
+			"B05006_026E",
+			"B05006_159E",
+			"B05006_014E",
+			"B05006_123E",
+			"B05006_002E",
+			"B05006_135E",
+			"B05006_104EA",
+			"B05006_127EA",
+			"B05006_111E",
+			"B05006_038M",
+			"B05006_147M",
+			"B05006_026M",
+			"B05006_040MA",
+			"B05006_086MA",
+			"B05006_159M",
+			"B05006_014M",
+			"B05006_123M",
+			"B05006_002M",
+			"B05006_063MA",
+			"B05006_135M",
+			"B05006_082EA",
+			"B05006_111M",
+			"B05006_172MA",
+			"B05006_018EA",
+			"B05006_119MA",
+			"B05006_039E",
+			"B05006_027E",
+			"B05006_136E",
+			"B05006_015E",
+			"B05006_148E",
+			"B05006_003E",
+			"B05006_112E",
+			"B05006_124E",
+			"B05006_116EA",
+			"B05006_139EA",
+			"B05006_100E",
+			"B05006_039M",
+			"B05006_027M",
+			"B05006_136M",
+			"B05006_015M",
+			"B05006_051MA",
+			"B05006_097MA",
+			"B05006_148M",
+			"B05006_003M",
+			"B05006_112M",
+			"B05006_074MA",
+			"B05006_124M",
+			"B05006_093EA",
+			"B05006_100M",
+			"B05006_070EA",
+			"B05006_006EA",
+			"B05006_108MA",
+			"B05006_161MA",
+			"B05006_029EA",
+			"B05006_149E",
+			"B05006_028E",
+			"B05006_169E",
+			"B05006_048E",
+			"B05006_036E",
+			"B05006_145E",
+			"B05006_024E",
+			"B05006_157E",
+			"B05006_012E",
+			"B05006_121E",
+			"B05006_133E",
+			"B05006_147EA",
+			"B05006_003EA",
+			"B05006_169M",
+			"B05006_048M",
+			"B05006_036M",
+			"B05006_145M",
+			"B05006_024M",
+			"B05006_157M",
+			"B05006_007MA",
+			"B05006_012M",
+			"B05006_121M",
+			"B05006_133M",
+			"B05006_060MA",
+			"B05006_083MA",
+			"B05006_015EA",
+			"B05006_038EA",
+			"B05006_112EA",
+			"B05006_135EA",
+			"B05006_116MA",
+			"B05006_139MA",
+			"B05006_049E",
+			"B05006_158E",
+			"B05006_037E",
+			"B05006_025E",
+			"B05006_134E",
+			"B05006_013E",
+			"B05006_018MA",
+			"B05006_146E",
+			"B05006_001E",
+			"B05006_110E",
+			"B05006_122E",
+			"B05006_014EA",
+			"B05006_136EA",
+			"B05006_049M",
+			"B05006_090EA",
+			"B05006_158M",
+			"B05006_037M",
+			"B05006_159EA",
+			"B05006_025M",
+			"B05006_134M",
+			"B05006_013M",
+			"B05006_146M",
+			"B05006_001M",
+			"B05006_110M",
+			"B05006_122M",
+			"NAME",
+			"B05006_071MA",
+			"B05006_094MA",
+			"B05006_026EA",
+			"B05006_049EA",
+			"B05006_124EA",
+			"B05006_101EA",
+			"B05006_128MA",
+			"B05006_105MA",
+			"B05006_058E",
+			"B05006_167E",
+			"B05006_046E",
+			"B05006_034E",
+			"B05006_143E",
+			"B05006_022E",
+			"B05006_155E",
+			"B05006_010E",
+			"B05006_125EA",
+			"B05006_148EA",
+			"B05006_170MA",
+			"B05006_131E",
+			"B05006_058M",
+			"B05006_167M",
+			"B05006_008MA",
+			"B05006_046M",
+			"B05006_084MA",
+			"B05006_034M",
+			"B05006_143M",
+			"B05006_022M",
+			"B05006_155M",
+			"B05006_010M",
+			"B05006_080EA",
+			"B05006_131M",
+			"B05006_061MA",
+			"B05006_016EA",
+			"B05006_113EA",
+			"B05006_039EA",
+			"B05006_117MA",
+			"B05006_059E",
+			"B05006_047E",
+			"B05006_156E",
+			"B05006_035E",
+			"B05006_168E",
+			"B05006_019MA",
+			"B05006_023E",
+			"B05006_132E",
+			"B05006_011E",
+			"B05006_144E",
+			"B05006_114EA",
+			"B05006_137EA",
+			"B05006_120E",
+			"B05006_059M",
+			"B05006_047M",
+			"B05006_156M",
+			"B05006_035M",
+			"B05006_095MA",
+			"B05006_168M",
+			"B05006_023M",
+			"B05006_132M",
+			"B05006_011M",
+			"B05006_144M",
+			"B05006_091EA",
+			"B05006_120M",
+			"B05006_072MA",
+			"B05006_004EA",
+			"B05006_027EA",
+			"B05006_102EA",
+			"B05006_129MA",
+			"B05006_106MA",
+			"B05006_028MA",
+			"B05006_068E",
+			"B05006_056E",
+			"B05006_165E",
+			"B05006_044E",
+			"B05006_177E",
+			"B05006_024EA",
+			"B05006_032E",
+			"B05006_047EA",
+			"B05006_141E",
+			"B05006_020E",
+			"B05006_153E",
+			"B05006_001EA",
+			"B05006_068M",
+			"B05006_056M",
+			"B05006_165M",
+			"B05006_044M",
+			"B05006_177M",
+			"B05006_005MA",
+			"B05006_032M",
+			"B05006_141M",
+			"B05006_020M",
+			"B05006_153M",
+			"B05006_081MA",
+			"B05006_156EA",
+			"B05006_059EA",
+			"B05006_110EA",
+			"B05006_133EA",
+			"B05006_114MA",
+			"B05006_137MA",
+			"B05006_016MA",
+			"B05006_069E",
+			"B05006_178E",
+			"B05006_039MA",
+			"B05006_057E",
+			"B05006_045E",
+			"B05006_154E",
+			"B05006_012EA",
+			"B05006_033E",
+			"B05006_058EA",
+			"B05006_166E",
+			"B05006_021E",
+			"B05006_130E",
+			"B05006_035EA",
+			"B05006_142E",
+			"B05006_069M",
+			"B05006_178M",
+			"B05006_057M",
+			"B05006_045M",
+			"B05006_154M",
+			"B05006_033M",
+			"B05006_166M",
+			"B05006_021M",
+			"B05006_130M",
+			"B05006_142M",
+			"B05006_092MA",
+			"B05006_168EA",
+			"B05006_145EA",
+			"B05006_122EA",
+			"B05006_103MA",
+			"B05006_149MA",
+			"B05006_126MA",
+			"B05006_029MA",
+			"B05006_078E",
+			"B05006_066E",
+			"B05006_054E",
+			"B05006_163E",
+			"B05006_025EA",
+			"B05006_042E",
+			"B05006_175E",
+			"B05006_030E",
+			"B05006_169EA",
+			"B05006_002EA",
+			"B05006_151E",
+			"B05006_078M",
+			"B05006_006MA",
+			"B05006_066M",
+			"B05006_054M",
+			"B05006_163M",
+			"B05006_042M",
+			"B05006_175M",
+			"B05006_030M",
+			"B05006_151M",
+			"B05006_082MA",
+			"B05006_157EA",
+			"B05006_037EA",
+			"B05006_134EA",
+			"B05006_111EA",
+			"B05006_138MA",
+			"B05006_115MA",
+			"B05006_017MA",
+			"B05006_079E",
+			"B05006_067E",
+			"B05006_176E",
+			"B05006_055E",
+			"B05006_013EA",
+			"B05006_036EA",
+			"B05006_043E",
+			"B05006_152E",
+			"B05006_031E",
+			"B05006_164E",
+			"B05006_158EA",
+			"B05006_140E",
+			"B05006_079M",
+			"B05006_067M",
+			"B05006_176M",
+			"B05006_055M",
+			"B05006_043M",
+			"B05006_152M",
+			"B05006_031M",
+			"B05006_164M",
+			"B05006_140M",
+			"B05006_093MA",
+			"B05006_070MA",
+			"B05006_100EA",
+			"B05006_123EA",
+			"B05006_146EA",
+			"B05006_048EA",
+			"B05006_104MA",
+			"B05006_127MA",
+			"B05006_003MA",
+			"B05006_026MA",
+			"B05006_049MA",
+			"B05006_022EA",
+			"B05006_045EA",
+			"B05006_068EA",
+			"B05006_088E",
+			"B05006_076E",
+			"B05006_064E",
+			"B05006_052E",
+			"B05006_161E",
+			"B05006_040E",
+			"B05006_173E",
+			"B05006_088M",
+			"B05006_076M",
+			"B05006_064M",
+			"B05006_052M",
+			"B05006_112MA",
+			"B05006_135MA",
+			"B05006_158MA",
+			"B05006_161M",
+			"B05006_040M",
+			"B05006_173M",
+			"B05006_154EA",
+			"B05006_177EA",
+			"B05006_131EA",
+			"B05006_037MA",
+			"B05006_010EA",
+			"B05006_079EA",
+			"B05006_089E",
+			"B05006_033EA",
+			"B05006_077E",
+			"B05006_065E",
+			"B05006_174E",
+			"B05006_053E",
+			"B05006_056EA",
+			"B05006_041E",
+			"B05006_150E",
+			"B05006_162E",
+			"B05006_089M",
+			"B05006_077M",
+			"B05006_065M",
+			"B05006_174M",
+			"B05006_014MA",
+			"B05006_053M",
+			"B05006_041M",
+			"B05006_090MA",
+			"B05006_150M",
+			"B05006_124MA",
+			"B05006_162M",
+			"B05006_101MA",
+			"B05006_166EA",
+			"B05006_143EA",
+			"B05006_120EA",
+			"B05006_147MA",
+			"B05006_027MA",
+			"B05006_023EA",
+			"B05006_069EA",
+			"B05006_098E",
+			"B05006_046EA",
+			"B05006_086E",
+			"B05006_074E",
+			"B05006_062E",
+			"B05006_050E",
+			"B05006_171E",
+			"B05006_098M",
+			"B05006_004MA",
+			"B05006_086M",
+			"B05006_074M",
+			"B05006_062M",
+			"B05006_113MA",
+			"B05006_159MA",
+			"B05006_050M",
+			"B05006_171M",
+			"B05006_155EA",
+			"B05006_080MA",
+			"B05006_178EA",
+			"B05006_132EA",
+			"B05006_136MA",
+			"B05006_015MA",
+			"B05006_038MA",
+			"B05006_011EA",
+			"B05006_034EA",
+			"B05006_057EA",
+			"B05006_099E",
+			"B05006_087E",
+			"B05006_075E",
+			"B05006_063E",
+			"B05006_172E",
+			"B05006_051E",
+			"B05006_160E",
+			"B05006_099M",
+			"B05006_087M",
+			"B05006_075M",
+			"B05006_063M",
+			"B05006_172M",
+			"B05006_051M",
+			"B05006_102MA",
+			"B05006_160M",
+			"B05006_167EA",
+			"B05006_091MA",
+			"B05006_121EA",
+			"B05006_144EA",
+			"B05006_125MA",
+			"B05006_148MA"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"859918",
+			"153622",
+			"163820",
+			"3162885",
+			null,
+			null,
+			"31860",
+			"9469",
+			"8517",
+			null,
+			null,
+			null,
+			"49783",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"45170",
+			"91008",
+			"84684",
+			"420227",
+			"621915",
+			null,
+			null,
+			null,
+			"7416",
+			"7265",
+			"6370",
+			null,
+			"16192",
+			"23794",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"69308",
+			"35886",
+			"145915",
+			null,
+			null,
+			"8400",
+			"4921",
+			null,
+			null,
+			"8765",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2968817",
+			"224492",
+			"107266",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"50968",
+			"17802",
+			"7908",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"79819",
+			"113871",
+			null,
+			null,
+			"10007",
+			null,
+			"9815",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"26364",
+			null,
+			"33476",
+			null,
+			null,
+			null,
+			"3135",
+			null,
+			"5090",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"184010",
+			null,
+			null,
+			null,
+			null,
+			"12961",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"33913",
+			null,
+			null,
+			null,
+			"3601",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"4393",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"9087",
+			"35971",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"61093",
+			null,
+			null,
+			null,
+			null,
+			"8133",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"24434",
+			null,
+			"12099",
+			"16505",
+			null,
+			"17488",
+			null,
+			"9945",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"330823",
+			null,
+			"6643",
+			"98249",
+			"11285",
+			"2028",
+			null,
+			"11402",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"53143",
+			"1146928",
+			"35156",
+			"31767",
+			null,
+			null,
+			"4495",
+			null,
+			"6748",
+			"2424",
+			"124090",
+			"5296",
+			null,
+			"5463",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"38004",
+			"45280",
+			"162737",
+			null,
+			"99004",
+			"106374",
+			null,
+			null,
+			"4272",
+			"4069",
+			"10428",
+			"11271",
+			null,
+			null,
+			"13135",
+			null,
+			null,
+			null,
+			"0100000US",
+			null,
+			null,
+			null,
+			"109251",
+			"682714",
+			"236919",
+			"156094",
+			"179804",
+			"42478",
+			"25182",
+			"59028",
+			"45689",
+			"97640",
+			null,
+			null,
+			"5437",
+			"39543",
+			null,
+			null,
+			"9686",
+			"6448",
+			"3083",
+			"6238",
+			null,
+			null,
+			null,
+			"6645",
+			"9250",
+			null,
+			null,
+			null,
+			"117128",
+			"26629240",
+			"519159",
+			"116641",
+			"62305",
+			"47627",
+			"43611",
+			null,
+			"10175",
+			"122763",
+			"13461",
+			null,
+			null,
+			"7555",
+			"8371",
+			"6924",
+			null,
+			null,
+			"6122",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"74774",
+			"37507",
+			"19842",
+			"25798758",
+			"55810",
+			"858650",
+			"136202",
+			"993829",
+			"37622",
+			"83875",
+			"4861535",
+			"20654",
+			null,
+			null,
+			"36031",
+			"6686",
+			"31968",
+			"10954",
+			null,
+			null,
+			"30864",
+			"3127",
+			"8161",
+			"55103",
+			null,
+			"3530",
+			null,
+			"4977",
+			null,
+			null,
+			null,
+			"31740",
+			"5460",
+			"37336",
+			"38468",
+			"888406",
+			"913864",
+			"225321",
+			"532602",
+			null,
+			null,
+			"98079",
+			"5724",
+			"1358",
+			"6193",
+			"4018",
+			null,
+			null,
+			"27278",
+			"18215",
+			"14146",
+			null,
+			"26797",
+			null,
+			"9741",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"29688",
+			"2348723",
+			"1153648",
+			"4473722",
+			"20381",
+			"1299961",
+			"150049",
+			"1539716",
+			"24205",
+			"222781",
+			"30908",
+			null,
+			null,
+			"30166",
+			"47739",
+			"2636",
+			"31233",
+			"8659",
+			"35166",
+			null,
+			"3475",
+			"13085",
+			"2779",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3023085",
+			"1365684",
+			"36300",
+			"22167",
+			"43872",
+			"890617",
+			null,
+			"29471",
+			"50234841",
+			"453064",
+			"33355",
+			null,
+			null,
+			"37321",
+			null,
+			"41387",
+			"4854",
+			null,
+			"2535",
+			"4561",
+			"18515",
+			"4814",
+			"162666",
+			"19656",
+			"6176",
+			"United States",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"353701",
+			"725419",
+			"14642",
+			"67865",
+			"1688798",
+			"117468",
+			"46299",
+			"298535",
+			null,
+			null,
+			null,
+			"142945",
+			"14795",
+			"26280",
+			null,
+			"3153",
+			null,
+			"5707",
+			"38400",
+			"6760",
+			"5112",
+			"10517",
+			null,
+			"7346",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"50080",
+			"15471414",
+			"107652",
+			"59578",
+			"137579",
+			null,
+			"284510",
+			"112037",
+			"53356",
+			"28766",
+			null,
+			null,
+			"47699",
+			"7563",
+			"68123",
+			"8295",
+			"4796",
+			null,
+			"10963",
+			"10458",
+			"7058",
+			"4417",
+			"4848",
+			null,
+			"7326",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"4520778",
+			"5075329",
+			"210909",
+			"510016",
+			"823843",
+			null,
+			"70116",
+			null,
+			"41246",
+			"2786",
+			"71044",
+			null,
+			"40266",
+			"62003",
+			"10712",
+			"22720",
+			"19482",
+			null,
+			"6140",
+			"5836",
+			"964",
+			"6705",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"157626",
+			"6639",
+			null,
+			"233938",
+			"151839",
+			"15711024",
+			null,
+			"40180",
+			null,
+			"90698",
+			"693689",
+			"303835",
+			null,
+			"48573",
+			"10002",
+			"1715",
+			"17888",
+			"8735",
+			"103282",
+			"3981",
+			"8199",
+			"19163",
+			"13393",
+			"5492",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"462",
+			"81552",
+			"1087657",
+			"14206",
+			null,
+			"424059",
+			"40941",
+			"72513",
+			null,
+			null,
+			"228549",
+			"290",
+			null,
+			"9091",
+			"24372",
+			"4200",
+			"15313",
+			"5379",
+			"6496",
+			"12861",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1332277",
+			"40404",
+			"830482",
+			"20012",
+			null,
+			null,
+			"35585",
+			"19878",
+			"108665",
+			"4833833",
+			null,
+			"5253901",
+			"34643",
+			"5698",
+			"19750",
+			"3374",
+			"3852",
+			"3482",
+			"8657",
+			"60682",
+			"67390",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"59727",
+			"268180",
+			"418535",
+			"400369",
+			"392764",
+			"390226",
+			"55742",
+			"7412",
+			"10105",
+			"19116",
+			"12551",
+			null,
+			null,
+			null,
+			"20553",
+			"14035",
+			"6469",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"121907",
+			null,
+			"1395775",
+			"58331",
+			"987647",
+			"342968",
+			null,
+			"156722",
+			"20871",
+			"107163",
+			"11893",
+			"28270",
+			"5722",
+			"36850",
+			null,
+			"12644",
+			"10043",
+			null,
+			"3954",
+			null,
+			"7141",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"304073",
+			null,
+			"36120",
+			"2157523",
+			"47270",
+			"2380223",
+			"273423",
+			"18341",
+			null,
+			"3554",
+			"33540",
+			"6855",
+			null,
+			null,
+			"33365",
+			"13880",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"181766",
+			"138062",
+			"39527",
+			"208406",
+			"535912",
+			"242493",
+			"11143711",
+			"12929",
+			"9177",
+			"3956",
+			"12646",
+			"21665",
+			"9352",
+			null,
+			"77843",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:33.733Z"
+}

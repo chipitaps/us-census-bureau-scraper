@@ -1,0 +1,763 @@
+{
+	"tableId": "ACSST1Y2024.S2409",
+	"title": "Class of Worker by Sex  for the Full-Time, Year-Round Civilian Employed Population 16 Years and Over",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S2409",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S2409_C01_001E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C01_001M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C02_001E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C02_001M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C03_001E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C03_001M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C04_001E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C04_001M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C05_001E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C05_001M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over"
+			},
+			{
+				"id": "S2409_C01_002E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C01_002M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C02_002E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C02_002M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C03_002E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C03_002M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C04_002E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C04_002M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C05_002E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C05_002M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:"
+			},
+			{
+				"id": "S2409_C01_003E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C01_003M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C02_003E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C02_003M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C03_003E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C03_003M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C04_003E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C04_003M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C05_003E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C05_003M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Employee of private company workers"
+			},
+			{
+				"id": "S2409_C01_004E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C01_004M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C02_004E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C02_004M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C03_004E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C03_004M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C04_004E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C04_004M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C05_004E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C05_004M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Private for-profit wage and salary workers:!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2409_C01_005E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C01_005M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C02_005E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C02_005M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C03_005E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C03_005M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C04_005E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C04_005M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C05_005E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C05_005M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2409_C01_006E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C01_006M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C02_006E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C02_006M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C03_006E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C03_006M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C04_006E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C04_006M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C05_006E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C05_006M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Local government workers"
+			},
+			{
+				"id": "S2409_C01_007E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C01_007M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C02_007E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C02_007M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C03_007E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C03_007M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C04_007E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C04_007M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C05_007E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C05_007M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!State government workers"
+			},
+			{
+				"id": "S2409_C01_008E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C01_008M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C02_008E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C02_008M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C03_008E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C03_008M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C04_008E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C04_008M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C05_008E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C05_008M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Federal government workers"
+			},
+			{
+				"id": "S2409_C01_009E",
+				"label": "Estimate!!Total!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C01_009M",
+				"label": "Margin of Error!!Total!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C02_009E",
+				"label": "Estimate!!Male!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C02_009M",
+				"label": "Margin of Error!!Male!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C03_009E",
+				"label": "Estimate!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C03_009M",
+				"label": "Margin of Error!!Percent Male!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C04_009E",
+				"label": "Estimate!!Female!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C04_009M",
+				"label": "Margin of Error!!Female!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C05_009E",
+				"label": "Estimate!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2409_C05_009M",
+				"label": "Margin of Error!!Percent Female!!Full-time, year-round civilian employed population 16 years and over!!Self-employed in own not incorporated business workers and unpaid family workers"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S2409_C02_007M",
+			"S2409_C05_007MA",
+			"S2409_C02_007EA",
+			"S2409_C05_001M",
+			"S2409_C05_003EA",
+			"S2409_C03_008M",
+			"S2409_C02_003EA",
+			"S2409_C03_004MA",
+			"S2409_C05_007EA",
+			"S2409_C01_006M",
+			"S2409_C02_007MA",
+			"S2409_C03_008E",
+			"S2409_C02_003MA",
+			"S2409_C03_004EA",
+			"S2409_C04_008M",
+			"S2409_C01_006E",
+			"S2409_C03_008MA",
+			"S2409_C05_009E",
+			"S2409_C02_007E",
+			"S2409_C04_008E",
+			"S2409_C03_008EA",
+			"S2409_C05_001E",
+			"S2409_C05_003MA",
+			"S2409_C05_009M",
+			"S2409_C03_007E",
+			"S2409_C01_009EA",
+			"S2409_C02_006M",
+			"S2409_C05_002M",
+			"S2409_C04_001MA",
+			"S2409_C04_001M",
+			"S2409_C01_001EA",
+			"S2409_C01_009MA",
+			"S2409_C01_005M",
+			"S2409_C01_005EA",
+			"S2409_C04_001E",
+			"S2409_C04_009M",
+			"S2409_C01_001MA",
+			"S2409_C01_005E",
+			"S2409_C04_005EA",
+			"S2409_C01_005MA",
+			"S2409_C04_009EA",
+			"S2409_C03_007M",
+			"S2409_C04_009E",
+			"S2409_C02_006E",
+			"S2409_C05_002E",
+			"S2409_C04_005MA",
+			"S2409_C04_001EA",
+			"S2409_C04_009MA",
+			"S2409_C02_005M",
+			"S2409_C05_003M",
+			"S2409_C05_006MA",
+			"S2409_C03_002E",
+			"S2409_C02_008EA",
+			"S2409_C05_002EA",
+			"S2409_C02_004EA",
+			"S2409_C03_005MA",
+			"S2409_C05_006EA",
+			"S2409_C04_006M",
+			"S2409_C01_008M",
+			"S2409_C02_008MA",
+			"S2409_C03_001MA",
+			"S2409_C02_004MA",
+			"S2409_C03_005EA",
+			"S2409_C04_006E",
+			"S2409_C01_008E",
+			"S2409_C03_001EA",
+			"S2409_C03_009MA",
+			"S2409_C02_005E",
+			"S2409_C05_003E",
+			"S2409_C03_002M",
+			"S2409_C03_009EA",
+			"S2409_C05_002MA",
+			"S2409_C01_008EA",
+			"S2409_C05_004M",
+			"S2409_C03_001E",
+			"S2409_C03_009M",
+			"S2409_C02_004M",
+			"S2409_C04_002MA",
+			"S2409_C01_008MA",
+			"S2409_C01_004EA",
+			"S2409_C01_007M",
+			"S2409_C03_009E",
+			"S2409_C04_007M",
+			"S2409_C04_006EA",
+			"S2409_C01_004MA",
+			"S2409_C01_007E",
+			"S2409_C04_007E",
+			"S2409_C04_006MA",
+			"S2409_C05_004E",
+			"S2409_C03_001M",
+			"S2409_C02_004E",
+			"S2409_C04_002EA",
+			"S2409_C05_005MA",
+			"S2409_C05_005M",
+			"S2409_C03_004E",
+			"S2409_C02_009EA",
+			"S2409_C05_001EA",
+			"S2409_C05_009MA",
+			"S2409_C02_003M",
+			"S2409_C02_005EA",
+			"S2409_C03_002MA",
+			"S2409_C05_005EA",
+			"S2409_C01_002M",
+			"S2409_C02_001EA",
+			"S2409_C02_009MA",
+			"S2409_C05_009EA",
+			"S2409_C04_004M",
+			"S2409_C02_005MA",
+			"S2409_C03_002EA",
+			"S2409_C01_002E",
+			"S2409_C02_001MA",
+			"S2409_C03_006MA",
+			"S2409_C04_004E",
+			"S2409_C05_005E",
+			"S2409_C03_004M",
+			"S2409_C03_006EA",
+			"S2409_C05_001MA",
+			"S2409_C02_003E",
+			"S2409_C03_003E",
+			"S2409_C04_003MA",
+			"S2409_C02_002M",
+			"S2409_C01_001M",
+			"S2409_C01_003EA",
+			"S2409_C04_005M",
+			"S2409_C01_001E",
+			"S2409_C01_009M",
+			"NAME",
+			"S2409_C01_007EA",
+			"S2409_C04_007EA",
+			"S2409_C01_003MA",
+			"S2409_C04_005E",
+			"S2409_C05_006E",
+			"S2409_C01_009E",
+			"S2409_C01_007MA",
+			"S2409_C04_007MA",
+			"S2409_C03_003M",
+			"S2409_C04_003EA",
+			"S2409_C02_002E",
+			"S2409_C05_006M",
+			"S2409_C03_006E",
+			"S2409_C05_004MA",
+			"S2409_C02_001M",
+			"S2409_C05_008MA",
+			"S2409_C02_006EA",
+			"S2409_C03_003MA",
+			"S2409_C04_002M",
+			"S2409_C05_004EA",
+			"S2409_C01_004M",
+			"S2409_C02_002EA",
+			"S2409_C05_008EA",
+			"S2409_C02_006MA",
+			"S2409_C03_003EA",
+			"S2409_C04_002E",
+			"S2409_C01_004E",
+			"S2409_C02_009E",
+			"S2409_C05_007E",
+			"S2409_C02_002MA",
+			"S2409_C03_007MA",
+			"S2409_C03_006M",
+			"S2409_C02_001E",
+			"S2409_C02_009M",
+			"S2409_C05_007M",
+			"S2409_C03_007EA",
+			"S2409_C03_005E",
+			"S2409_C02_008M",
+			"S2409_C04_004MA",
+			"S2409_C01_003M",
+			"S2409_C01_002EA",
+			"S2409_C01_006EA",
+			"S2409_C04_003M",
+			"GEO_ID",
+			"S2409_C01_003E",
+			"S2409_C04_008EA",
+			"S2409_C01_002MA",
+			"S2409_C01_006MA",
+			"S2409_C04_003E",
+			"S2409_C05_008E",
+			"S2409_C04_008MA",
+			"S2409_C03_005M",
+			"S2409_C02_008E",
+			"S2409_C04_004EA",
+			"S2409_C05_008M"
+		],
+		[
+			"32426",
+			null,
+			null,
+			"0.1",
+			null,
+			"0.5",
+			null,
+			null,
+			null,
+			"69967",
+			null,
+			"57.0",
+			null,
+			null,
+			"27110",
+			"9513203",
+			null,
+			"33.7",
+			"2372134",
+			"1734355",
+			null,
+			"44.0",
+			null,
+			"0.5",
+			"43.8",
+			null,
+			"39747",
+			"0.1",
+			null,
+			"106881",
+			null,
+			null,
+			"75562",
+			null,
+			"53097251",
+			"30886",
+			null,
+			"10773311",
+			null,
+			null,
+			null,
+			"0.4",
+			"1826721",
+			"4072907",
+			"40.1",
+			null,
+			null,
+			null,
+			"44274",
+			"0.1",
+			null,
+			"59.9",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"48468",
+			"44803",
+			null,
+			null,
+			null,
+			null,
+			"5440296",
+			"4031809",
+			null,
+			null,
+			"3946153",
+			"40.6",
+			"0.1",
+			null,
+			null,
+			null,
+			"0.4",
+			"56.0",
+			"0.5",
+			"33036",
+			null,
+			null,
+			null,
+			"44973",
+			"66.3",
+			"32448",
+			null,
+			null,
+			"5413805",
+			"3041671",
+			null,
+			"30.1",
+			"0.1",
+			"3283320",
+			null,
+			null,
+			"0.3",
+			"69.9",
+			null,
+			null,
+			null,
+			"106815",
+			null,
+			null,
+			null,
+			"170700",
+			null,
+			null,
+			null,
+			"22554",
+			null,
+			null,
+			"85428494",
+			null,
+			null,
+			"1413620",
+			"63.4",
+			"0.4",
+			null,
+			null,
+			"47918124",
+			"59.4",
+			null,
+			"107094",
+			"152270",
+			null,
+			"49900",
+			"120587898",
+			"48486",
+			"United States",
+			null,
+			null,
+			null,
+			"6827158",
+			"57.2",
+			"5427276",
+			null,
+			null,
+			"0.1",
+			null,
+			"51201444",
+			"0.3",
+			"42.8",
+			null,
+			"95460",
+			null,
+			null,
+			null,
+			"106272",
+			null,
+			"44278",
+			null,
+			null,
+			null,
+			null,
+			"34227050",
+			"4696940",
+			"3600555",
+			"56.2",
+			null,
+			null,
+			"0.3",
+			"67490647",
+			"43082",
+			"0.4",
+			null,
+			"36.6",
+			"31038",
+			null,
+			"163912",
+			null,
+			null,
+			"100743",
+			"0100000US",
+			"80731554",
+			null,
+			null,
+			null,
+			"32813430",
+			"43.0",
+			null,
+			"0.3",
+			"2297454",
+			null,
+			"0.5"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:04.447Z"
+}

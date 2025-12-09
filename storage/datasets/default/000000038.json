@@ -1,0 +1,2411 @@
+{
+	"tableId": "ACSST1Y2024.S0901",
+	"title": "Children Characteristics",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S0901",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S0901_C01_001E",
+				"label": "Estimate!!Total!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C01_001M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C02_001E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C02_001M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C03_001E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C03_001M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C04_001E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C04_001M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C01_002E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S0901_C01_002M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S0901_C02_002E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S0901_C02_002M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S0901_C03_002E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S0901_C03_002M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S0901_C04_002E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S0901_C04_002M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S0901_C01_003E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S0901_C01_003M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S0901_C02_003E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S0901_C02_003M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S0901_C03_003E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S0901_C03_003M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S0901_C04_003E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S0901_C04_003M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S0901_C01_004E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S0901_C01_004M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S0901_C02_004E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S0901_C02_004M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S0901_C03_004E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S0901_C03_004M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S0901_C04_004E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S0901_C04_004M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S0901_C01_005E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0901_C01_005M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0901_C02_005E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0901_C02_005M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0901_C03_005E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0901_C03_005M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0901_C04_005E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0901_C04_005M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S0901_C01_006E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0901_C01_006M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0901_C02_006E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0901_C02_006M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0901_C03_006E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0901_C03_006M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0901_C04_006E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0901_C04_006M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S0901_C01_007E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0901_C01_007M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0901_C02_007E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0901_C02_007M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0901_C03_007E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0901_C03_007M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0901_C04_007E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0901_C04_007M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S0901_C01_008E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0901_C01_008M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0901_C02_008E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0901_C02_008M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0901_C03_008E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0901_C03_008M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0901_C04_008E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0901_C04_008M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S0901_C01_009E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0901_C01_009M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0901_C02_009E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0901_C02_009M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0901_C03_009E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0901_C03_009M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0901_C04_009E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0901_C04_009M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S0901_C01_010E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0901_C01_010M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0901_C02_010E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0901_C02_010M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0901_C03_010E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0901_C03_010M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0901_C04_010E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0901_C04_010M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S0901_C01_011E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0901_C01_011M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0901_C02_011E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0901_C02_011M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0901_C03_011E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0901_C03_011M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0901_C04_011E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0901_C04_011M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S0901_C01_012E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0901_C01_012M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0901_C02_012E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0901_C02_012M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0901_C03_012E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0901_C03_012M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0901_C04_012E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0901_C04_012M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S0901_C01_013E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0901_C01_013M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0901_C02_013E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0901_C02_013M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0901_C03_013E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0901_C03_013M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0901_C04_013E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0901_C04_013M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S0901_C01_014E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0901_C01_014M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0901_C02_014E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0901_C02_014M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0901_C03_014E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0901_C03_014M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0901_C04_014E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0901_C04_014M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S0901_C01_015E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Own child (biological, step or adopted)"
+			},
+			{
+				"id": "S0901_C01_015M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Own child (biological, step or adopted)"
+			},
+			{
+				"id": "S0901_C02_015E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Own child (biological, step or adopted)"
+			},
+			{
+				"id": "S0901_C02_015M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Own child (biological, step or adopted)"
+			},
+			{
+				"id": "S0901_C03_015E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Own child (biological, step or adopted)"
+			},
+			{
+				"id": "S0901_C03_015M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Own child (biological, step or adopted)"
+			},
+			{
+				"id": "S0901_C04_015E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Own child (biological, step or adopted)"
+			},
+			{
+				"id": "S0901_C04_015M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Own child (biological, step or adopted)"
+			},
+			{
+				"id": "S0901_C01_016E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Grandchild"
+			},
+			{
+				"id": "S0901_C01_016M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Grandchild"
+			},
+			{
+				"id": "S0901_C02_016E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Grandchild"
+			},
+			{
+				"id": "S0901_C02_016M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Grandchild"
+			},
+			{
+				"id": "S0901_C03_016E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Grandchild"
+			},
+			{
+				"id": "S0901_C03_016M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Grandchild"
+			},
+			{
+				"id": "S0901_C04_016E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Grandchild"
+			},
+			{
+				"id": "S0901_C04_016M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Grandchild"
+			},
+			{
+				"id": "S0901_C01_017E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Other relatives"
+			},
+			{
+				"id": "S0901_C01_017M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Other relatives"
+			},
+			{
+				"id": "S0901_C02_017E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Other relatives"
+			},
+			{
+				"id": "S0901_C02_017M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Other relatives"
+			},
+			{
+				"id": "S0901_C03_017E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Other relatives"
+			},
+			{
+				"id": "S0901_C03_017M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Other relatives"
+			},
+			{
+				"id": "S0901_C04_017E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Other relatives"
+			},
+			{
+				"id": "S0901_C04_017M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Other relatives"
+			},
+			{
+				"id": "S0901_C01_018E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Foster child or other unrelated child"
+			},
+			{
+				"id": "S0901_C01_018M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Foster child or other unrelated child"
+			},
+			{
+				"id": "S0901_C02_018E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Foster child or other unrelated child"
+			},
+			{
+				"id": "S0901_C02_018M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Foster child or other unrelated child"
+			},
+			{
+				"id": "S0901_C03_018E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Foster child or other unrelated child"
+			},
+			{
+				"id": "S0901_C03_018M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Foster child or other unrelated child"
+			},
+			{
+				"id": "S0901_C04_018E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Foster child or other unrelated child"
+			},
+			{
+				"id": "S0901_C04_018M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!RELATIONSHIP TO HOUSEHOLDER!!Foster child or other unrelated child"
+			},
+			{
+				"id": "S0901_C01_019E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!NATIVITY!!Native"
+			},
+			{
+				"id": "S0901_C01_019M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!NATIVITY!!Native"
+			},
+			{
+				"id": "S0901_C02_019E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!NATIVITY!!Native"
+			},
+			{
+				"id": "S0901_C02_019M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!NATIVITY!!Native"
+			},
+			{
+				"id": "S0901_C03_019E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!NATIVITY!!Native"
+			},
+			{
+				"id": "S0901_C03_019M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!NATIVITY!!Native"
+			},
+			{
+				"id": "S0901_C04_019E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!NATIVITY!!Native"
+			},
+			{
+				"id": "S0901_C04_019M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!NATIVITY!!Native"
+			},
+			{
+				"id": "S0901_C01_020E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S0901_C01_020M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S0901_C02_020E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S0901_C02_020M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S0901_C03_020E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S0901_C03_020M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S0901_C04_020E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S0901_C04_020M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S0901_C01_021E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!PRESENCE OF OTHER ADULTS!!Unmarried partner of householder present"
+			},
+			{
+				"id": "S0901_C01_021M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!PRESENCE OF OTHER ADULTS!!Unmarried partner of householder present"
+			},
+			{
+				"id": "S0901_C02_021E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!PRESENCE OF OTHER ADULTS!!Unmarried partner of householder present"
+			},
+			{
+				"id": "S0901_C02_021M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!PRESENCE OF OTHER ADULTS!!Unmarried partner of householder present"
+			},
+			{
+				"id": "S0901_C03_021E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!PRESENCE OF OTHER ADULTS!!Unmarried partner of householder present"
+			},
+			{
+				"id": "S0901_C03_021M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!PRESENCE OF OTHER ADULTS!!Unmarried partner of householder present"
+			},
+			{
+				"id": "S0901_C04_021E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!PRESENCE OF OTHER ADULTS!!Unmarried partner of householder present"
+			},
+			{
+				"id": "S0901_C04_021M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!PRESENCE OF OTHER ADULTS!!Unmarried partner of householder present"
+			},
+			{
+				"id": "S0901_C01_022E",
+				"label": "Estimate!!Total!!DISABILITY STATUS!!Civilian children under 18 years in households"
+			},
+			{
+				"id": "S0901_C01_022M",
+				"label": "Margin of Error!!Total!!DISABILITY STATUS!!Civilian children under 18 years in households"
+			},
+			{
+				"id": "S0901_C02_022E",
+				"label": "Estimate!!In married-couple family household!!DISABILITY STATUS!!Civilian children under 18 years in households"
+			},
+			{
+				"id": "S0901_C02_022M",
+				"label": "Margin of Error!!In married-couple family household!!DISABILITY STATUS!!Civilian children under 18 years in households"
+			},
+			{
+				"id": "S0901_C03_022E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!DISABILITY STATUS!!Civilian children under 18 years in households"
+			},
+			{
+				"id": "S0901_C03_022M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!DISABILITY STATUS!!Civilian children under 18 years in households"
+			},
+			{
+				"id": "S0901_C04_022E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!DISABILITY STATUS!!Civilian children under 18 years in households"
+			},
+			{
+				"id": "S0901_C04_022M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!DISABILITY STATUS!!Civilian children under 18 years in households"
+			},
+			{
+				"id": "S0901_C01_023E",
+				"label": "Estimate!!Total!!DISABILITY STATUS!!Civilian children under 18 years in households!!With any disability"
+			},
+			{
+				"id": "S0901_C01_023M",
+				"label": "Margin of Error!!Total!!DISABILITY STATUS!!Civilian children under 18 years in households!!With any disability"
+			},
+			{
+				"id": "S0901_C02_023E",
+				"label": "Estimate!!In married-couple family household!!DISABILITY STATUS!!Civilian children under 18 years in households!!With any disability"
+			},
+			{
+				"id": "S0901_C02_023M",
+				"label": "Margin of Error!!In married-couple family household!!DISABILITY STATUS!!Civilian children under 18 years in households!!With any disability"
+			},
+			{
+				"id": "S0901_C03_023E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!DISABILITY STATUS!!Civilian children under 18 years in households!!With any disability"
+			},
+			{
+				"id": "S0901_C03_023M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!DISABILITY STATUS!!Civilian children under 18 years in households!!With any disability"
+			},
+			{
+				"id": "S0901_C04_023E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!DISABILITY STATUS!!Civilian children under 18 years in households!!With any disability"
+			},
+			{
+				"id": "S0901_C04_023M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!DISABILITY STATUS!!Civilian children under 18 years in households!!With any disability"
+			},
+			{
+				"id": "S0901_C01_024E",
+				"label": "Estimate!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households"
+			},
+			{
+				"id": "S0901_C01_024M",
+				"label": "Margin of Error!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households"
+			},
+			{
+				"id": "S0901_C02_024E",
+				"label": "Estimate!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households"
+			},
+			{
+				"id": "S0901_C02_024M",
+				"label": "Margin of Error!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households"
+			},
+			{
+				"id": "S0901_C03_024E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households"
+			},
+			{
+				"id": "S0901_C03_024M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households"
+			},
+			{
+				"id": "S0901_C04_024E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households"
+			},
+			{
+				"id": "S0901_C04_024M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households"
+			},
+			{
+				"id": "S0901_C01_025E",
+				"label": "Estimate!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school"
+			},
+			{
+				"id": "S0901_C01_025M",
+				"label": "Margin of Error!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school"
+			},
+			{
+				"id": "S0901_C02_025E",
+				"label": "Estimate!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school"
+			},
+			{
+				"id": "S0901_C02_025M",
+				"label": "Margin of Error!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school"
+			},
+			{
+				"id": "S0901_C03_025E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school"
+			},
+			{
+				"id": "S0901_C03_025M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school"
+			},
+			{
+				"id": "S0901_C04_025E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school"
+			},
+			{
+				"id": "S0901_C04_025M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school"
+			},
+			{
+				"id": "S0901_C01_026E",
+				"label": "Estimate!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0901_C01_026M",
+				"label": "Margin of Error!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0901_C02_026E",
+				"label": "Estimate!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0901_C02_026M",
+				"label": "Margin of Error!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0901_C03_026E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0901_C03_026M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0901_C04_026E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0901_C04_026M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Public"
+			},
+			{
+				"id": "S0901_C01_027E",
+				"label": "Estimate!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0901_C01_027M",
+				"label": "Margin of Error!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0901_C02_027E",
+				"label": "Estimate!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0901_C02_027M",
+				"label": "Margin of Error!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0901_C03_027E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0901_C03_027M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0901_C04_027E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0901_C04_027M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Enrolled in school!!Private"
+			},
+			{
+				"id": "S0901_C01_028E",
+				"label": "Estimate!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Not enrolled in school"
+			},
+			{
+				"id": "S0901_C01_028M",
+				"label": "Margin of Error!!Total!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Not enrolled in school"
+			},
+			{
+				"id": "S0901_C02_028E",
+				"label": "Estimate!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Not enrolled in school"
+			},
+			{
+				"id": "S0901_C02_028M",
+				"label": "Margin of Error!!In married-couple family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Not enrolled in school"
+			},
+			{
+				"id": "S0901_C03_028E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Not enrolled in school"
+			},
+			{
+				"id": "S0901_C03_028M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Not enrolled in school"
+			},
+			{
+				"id": "S0901_C04_028E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Not enrolled in school"
+			},
+			{
+				"id": "S0901_C04_028M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!SCHOOL ENROLLMENT!!Children 3 to 17 years in households!!Not enrolled in school"
+			},
+			{
+				"id": "S0901_C01_029E",
+				"label": "Estimate!!Total!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S0901_C01_029M",
+				"label": "Margin of Error!!Total!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S0901_C02_029E",
+				"label": "Estimate!!In married-couple family household!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S0901_C02_029M",
+				"label": "Margin of Error!!In married-couple family household!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S0901_C03_029E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S0901_C03_029M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S0901_C04_029E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S0901_C04_029M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S0901_C01_030E",
+				"label": "Estimate!!Total!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C01_030M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C02_030E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C02_030M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C03_030E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C03_030M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C04_030E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C04_030M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households"
+			},
+			{
+				"id": "S0901_C01_031E",
+				"label": "Estimate!!Total!!Children under 18 years in households!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0901_C01_031M",
+				"label": "Margin of Error!!Total!!Children under 18 years in households!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0901_C02_031E",
+				"label": "Estimate!!In married-couple family household!!Children under 18 years in households!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0901_C02_031M",
+				"label": "Margin of Error!!In married-couple family household!!Children under 18 years in households!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0901_C03_031E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!Children under 18 years in households!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0901_C03_031M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!Children under 18 years in households!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0901_C04_031E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!Children under 18 years in households!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0901_C04_031M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!Children under 18 years in households!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S0901_C01_032E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined"
+			},
+			{
+				"id": "S0901_C01_032M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined"
+			},
+			{
+				"id": "S0901_C02_032E",
+				"label": "Estimate!!In married-couple family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined"
+			},
+			{
+				"id": "S0901_C02_032M",
+				"label": "Margin of Error!!In married-couple family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined"
+			},
+			{
+				"id": "S0901_C03_032E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined"
+			},
+			{
+				"id": "S0901_C03_032M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined"
+			},
+			{
+				"id": "S0901_C04_032E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined"
+			},
+			{
+				"id": "S0901_C04_032M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined"
+			},
+			{
+				"id": "S0901_C01_033E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S0901_C01_033M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S0901_C02_033E",
+				"label": "Estimate!!In married-couple family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S0901_C02_033M",
+				"label": "Margin of Error!!In married-couple family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S0901_C03_033E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S0901_C03_033M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S0901_C04_033E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S0901_C04_033M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S0901_C01_034E",
+				"label": "Estimate!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S0901_C01_034M",
+				"label": "Margin of Error!!Total!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S0901_C02_034E",
+				"label": "Estimate!!In married-couple family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S0901_C02_034M",
+				"label": "Margin of Error!!In married-couple family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S0901_C03_034E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S0901_C03_034M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S0901_C04_034E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S0901_C04_034M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!POVERTY STATUS IN THE PAST 12 MONTHS!!Children in households for whom poverty status is determined!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S0901_C01_035E",
+				"label": "Estimate!!Total!!HOUSING TENURE!!Children under 18 years in occupied housing units"
+			},
+			{
+				"id": "S0901_C01_035M",
+				"label": "Margin of Error!!Total!!HOUSING TENURE!!Children under 18 years in occupied housing units"
+			},
+			{
+				"id": "S0901_C02_035E",
+				"label": "Estimate!!In married-couple family household!!HOUSING TENURE!!Children under 18 years in occupied housing units"
+			},
+			{
+				"id": "S0901_C02_035M",
+				"label": "Margin of Error!!In married-couple family household!!HOUSING TENURE!!Children under 18 years in occupied housing units"
+			},
+			{
+				"id": "S0901_C03_035E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units"
+			},
+			{
+				"id": "S0901_C03_035M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units"
+			},
+			{
+				"id": "S0901_C04_035E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units"
+			},
+			{
+				"id": "S0901_C04_035M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units"
+			},
+			{
+				"id": "S0901_C01_036E",
+				"label": "Estimate!!Total!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In owner-occupied housing units"
+			},
+			{
+				"id": "S0901_C01_036M",
+				"label": "Margin of Error!!Total!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In owner-occupied housing units"
+			},
+			{
+				"id": "S0901_C02_036E",
+				"label": "Estimate!!In married-couple family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In owner-occupied housing units"
+			},
+			{
+				"id": "S0901_C02_036M",
+				"label": "Margin of Error!!In married-couple family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In owner-occupied housing units"
+			},
+			{
+				"id": "S0901_C03_036E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In owner-occupied housing units"
+			},
+			{
+				"id": "S0901_C03_036M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In owner-occupied housing units"
+			},
+			{
+				"id": "S0901_C04_036E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In owner-occupied housing units"
+			},
+			{
+				"id": "S0901_C04_036M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In owner-occupied housing units"
+			},
+			{
+				"id": "S0901_C01_037E",
+				"label": "Estimate!!Total!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In renter-occupied housing units"
+			},
+			{
+				"id": "S0901_C01_037M",
+				"label": "Margin of Error!!Total!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In renter-occupied housing units"
+			},
+			{
+				"id": "S0901_C02_037E",
+				"label": "Estimate!!In married-couple family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In renter-occupied housing units"
+			},
+			{
+				"id": "S0901_C02_037M",
+				"label": "Margin of Error!!In married-couple family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In renter-occupied housing units"
+			},
+			{
+				"id": "S0901_C03_037E",
+				"label": "Estimate!!In male householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In renter-occupied housing units"
+			},
+			{
+				"id": "S0901_C03_037M",
+				"label": "Margin of Error!!In male householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In renter-occupied housing units"
+			},
+			{
+				"id": "S0901_C04_037E",
+				"label": "Estimate!!In female householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In renter-occupied housing units"
+			},
+			{
+				"id": "S0901_C04_037M",
+				"label": "Margin of Error!!In female householder, no spouse present, family household!!HOUSING TENURE!!Children under 18 years in occupied housing units!!In renter-occupied housing units"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S0901_C01_011MA",
+			"S0901_C03_010EA",
+			"S0901_C03_033EA",
+			"S0901_C04_008EA",
+			"S0901_C04_015E",
+			"S0901_C04_027E",
+			"S0901_C01_030EA",
+			"S0901_C01_009E",
+			"S0901_C01_034MA",
+			"S0901_C04_003E",
+			"S0901_C04_015M",
+			"S0901_C04_027M",
+			"S0901_C01_009M",
+			"S0901_C03_030M",
+			"S0901_C04_003M",
+			"S0901_C02_005EA",
+			"S0901_C02_028EA",
+			"S0901_C03_030E",
+			"S0901_C02_009MA",
+			"S0901_C03_037MA",
+			"S0901_C03_014MA",
+			"S0901_C01_022MA",
+			"S0901_C03_021EA",
+			"S0901_C04_004E",
+			"S0901_C04_016E",
+			"S0901_C04_028E",
+			"S0901_C01_008E",
+			"S0901_C04_004M",
+			"S0901_C04_016M",
+			"S0901_C04_028M",
+			"S0901_C04_031MA",
+			"S0901_C03_031M",
+			"S0901_C01_008M",
+			"S0901_C03_002MA",
+			"S0901_C02_017EA",
+			"S0901_C03_031E",
+			"S0901_C03_025MA",
+			"S0901_C03_032EA",
+			"S0901_C04_009EA",
+			"S0901_C04_005E",
+			"S0901_C01_031EA",
+			"S0901_C04_017E",
+			"S0901_C04_029E",
+			"S0901_C01_007E",
+			"S0901_C01_012MA",
+			"S0901_C01_035MA",
+			"S0901_C01_019E",
+			"S0901_C04_005M",
+			"S0901_C04_020MA",
+			"S0901_C04_017M",
+			"S0901_C04_029M",
+			"S0901_C01_007M",
+			"S0901_C01_019M",
+			"S0901_C02_004EA",
+			"S0901_C02_027EA",
+			"S0901_C03_013MA",
+			"S0901_C02_008MA",
+			"S0901_C03_036MA",
+			"S0901_C01_006E",
+			"S0901_C04_006E",
+			"S0901_C04_018E",
+			"S0901_C01_018E",
+			"S0901_C01_023MA",
+			"S0901_C01_006M",
+			"S0901_C04_006M",
+			"S0901_C04_018M",
+			"S0901_C04_032MA",
+			"S0901_C01_018M",
+			"S0901_C03_001MA",
+			"S0901_C03_024MA",
+			"S0901_C02_016EA",
+			"S0901_C03_020EA",
+			"S0901_C01_032MA",
+			"S0901_C02_007MA",
+			"S0901_C04_011E",
+			"S0901_C04_023E",
+			"S0901_C04_035E",
+			"S0901_C04_021MA",
+			"S0901_C04_011M",
+			"S0901_C04_023M",
+			"S0901_C04_035M",
+			"S0901_C03_035MA",
+			"S0901_C02_026EA",
+			"S0901_C03_012MA",
+			"S0901_C03_031EA",
+			"S0901_C02_003EA",
+			"S0901_C01_020MA",
+			"S0901_C04_012E",
+			"S0901_C04_024E",
+			"S0901_C04_036E",
+			"S0901_C04_010MA",
+			"S0901_C04_033MA",
+			"S0901_C04_012M",
+			"S0901_C04_024M",
+			"S0901_C04_036M",
+			"S0901_C02_015EA",
+			"S0901_C03_023MA",
+			"S0901_C02_019MA",
+			"S0901_C01_009EA",
+			"S0901_C01_010MA",
+			"S0901_C01_033MA",
+			"S0901_C02_006MA",
+			"S0901_C02_029MA",
+			"S0901_C04_037E",
+			"S0901_C04_001E",
+			"S0901_C04_013E",
+			"S0901_C04_025E",
+			"S0901_C04_037M",
+			"S0901_C04_022MA",
+			"S0901_C04_001M",
+			"S0901_C04_013M",
+			"S0901_C04_025M",
+			"S0901_C03_034MA",
+			"S0901_C03_011MA",
+			"S0901_C03_030EA",
+			"S0901_C02_002EA",
+			"S0901_C02_025EA",
+			"S0901_C01_021MA",
+			"S0901_C02_018MA",
+			"S0901_C04_026E",
+			"S0901_C04_002E",
+			"S0901_C04_014E",
+			"S0901_C04_026M",
+			"S0901_C04_034MA",
+			"S0901_C04_011MA",
+			"S0901_C04_030EA",
+			"S0901_C04_002M",
+			"S0901_C04_014M",
+			"S0901_C02_037EA",
+			"S0901_C03_022MA",
+			"S0901_C02_014EA",
+			"S0901_C01_030MA",
+			"S0901_C04_008MA",
+			"S0901_C02_020MA",
+			"S0901_C04_004EA",
+			"S0901_C04_027EA",
+			"S0901_C01_019EA",
+			"S0901_C04_031E",
+			"S0901_C02_009EA",
+			"S0901_C03_010MA",
+			"S0901_C03_033MA",
+			"S0901_C04_031M",
+			"S0901_C02_030M",
+			"S0901_C02_032MA",
+			"S0901_C02_030E",
+			"S0901_C04_016EA",
+			"S0901_C01_007EA",
+			"S0901_C04_020E",
+			"S0901_C04_032E",
+			"S0901_C04_020M",
+			"S0901_C03_021MA",
+			"S0901_C04_032M",
+			"S0901_C02_031M",
+			"S0901_C04_028EA",
+			"S0901_C01_031MA",
+			"S0901_C02_031E",
+			"S0901_C04_009MA",
+			"S0901_C04_033E",
+			"S0901_C04_005EA",
+			"S0901_C04_021E",
+			"S0901_C02_008EA",
+			"S0901_C04_033M",
+			"S0901_C03_032MA",
+			"S0901_C04_021M",
+			"S0901_C02_032M",
+			"S0901_C02_020M",
+			"S0901_C04_017EA",
+			"S0901_C02_032E",
+			"S0901_C03_009EA",
+			"S0901_C02_020E",
+			"S0901_C02_031MA",
+			"S0901_C04_022E",
+			"S0901_C04_034E",
+			"S0901_C01_008EA",
+			"S0901_C04_010E",
+			"S0901_C03_020MA",
+			"S0901_C04_022M",
+			"S0901_C04_034M",
+			"S0901_C04_010M",
+			"S0901_C02_021M",
+			"S0901_C04_006EA",
+			"S0901_C04_029EA",
+			"S0901_C02_033M",
+			"S0901_C02_021E",
+			"S0901_C02_033E",
+			"S0901_C01_017EA",
+			"S0901_C03_031MA",
+			"S0901_C02_007EA",
+			"S0901_C02_010M",
+			"S0901_C04_018EA",
+			"S0901_C02_034M",
+			"S0901_C02_022M",
+			"S0901_C02_010E",
+			"S0901_C02_030MA",
+			"S0901_C02_034E",
+			"S0901_C02_022E",
+			"S0901_C03_008EA",
+			"S0901_C01_005EA",
+			"S0901_C01_028EA",
+			"S0901_C02_019EA",
+			"S0901_C01_009MA",
+			"S0901_C04_007EA",
+			"S0901_C02_023M",
+			"S0901_C02_011M",
+			"S0901_C02_023E",
+			"S0901_C03_019EA",
+			"S0901_C02_011E",
+			"S0901_C02_035M",
+			"S0901_C01_018EA",
+			"S0901_C02_035E",
+			"S0901_C03_030MA",
+			"S0901_C02_006EA",
+			"S0901_C02_029EA",
+			"S0901_C02_012M",
+			"S0901_C04_019EA",
+			"S0901_C02_012E",
+			"S0901_C03_007EA",
+			"S0901_C02_036M",
+			"S0901_C02_024M",
+			"GEO_ID",
+			"S0901_C01_029EA",
+			"S0901_C04_030E",
+			"S0901_C01_006EA",
+			"S0901_C02_036E",
+			"S0901_C02_024E",
+			"S0901_C04_030M",
+			"S0901_C02_018EA",
+			"S0901_C04_030MA",
+			"S0901_C02_001M",
+			"S0901_C02_020EA",
+			"S0901_C02_001MA",
+			"S0901_C02_024MA",
+			"S0901_C01_019MA",
+			"S0901_C02_001E",
+			"S0901_C04_023EA",
+			"S0901_C03_018EA",
+			"S0901_C02_025M",
+			"S0901_C02_013M",
+			"S0901_C02_037M",
+			"S0901_C02_025E",
+			"S0901_C01_015EA",
+			"S0901_C02_013E",
+			"S0901_C04_004MA",
+			"S0901_C04_027MA",
+			"S0901_C02_037E",
+			"S0901_C02_032EA",
+			"S0901_C03_006EA",
+			"S0901_C02_013MA",
+			"S0901_C02_036MA",
+			"S0901_C01_007MA",
+			"S0901_C04_012EA",
+			"S0901_C03_029EA",
+			"S0901_C02_014M",
+			"S0901_C02_002M",
+			"S0901_C04_035EA",
+			"S0901_C02_026M",
+			"S0901_C01_003EA",
+			"S0901_C01_026EA",
+			"S0901_C02_014E",
+			"S0901_C02_002E",
+			"S0901_C04_016MA",
+			"S0901_C02_026E",
+			"S0901_C02_023MA",
+			"S0901_C03_017EA",
+			"S0901_C03_008E",
+			"S0901_C04_028MA",
+			"S0901_C04_001EA",
+			"S0901_C02_003M",
+			"S0901_C04_024EA",
+			"S0901_C02_027M",
+			"S0901_C02_015M",
+			"S0901_C01_016EA",
+			"S0901_C02_003E",
+			"S0901_C02_027E",
+			"S0901_C02_015E",
+			"S0901_C04_005MA",
+			"S0901_C03_008M",
+			"S0901_C03_009M",
+			"S0901_C03_009MA",
+			"S0901_C02_031EA",
+			"S0901_C03_005EA",
+			"S0901_C03_028EA",
+			"S0901_C02_012MA",
+			"S0901_C02_035MA",
+			"S0901_C03_009E",
+			"S0901_C01_008MA",
+			"S0901_C02_028M",
+			"S0901_C04_017MA",
+			"S0901_C04_013EA",
+			"S0901_C02_016M",
+			"S0901_C02_004M",
+			"S0901_C04_036EA",
+			"S0901_C02_028E",
+			"S0901_C01_027EA",
+			"S0901_C01_004EA",
+			"S0901_C02_016E",
+			"S0901_C02_004E",
+			"S0901_C02_022MA",
+			"S0901_C03_006E",
+			"S0901_C03_016EA",
+			"S0901_C03_018E",
+			"S0901_C02_029M",
+			"S0901_C04_006MA",
+			"S0901_C04_029MA",
+			"S0901_C02_017M",
+			"S0901_C01_017MA",
+			"S0901_C04_002EA",
+			"S0901_C04_025EA",
+			"S0901_C02_005M",
+			"S0901_C02_029E",
+			"S0901_C02_017E",
+			"S0901_C01_036EA",
+			"S0901_C01_021E",
+			"S0901_C02_005E",
+			"S0901_C01_013EA",
+			"S0901_C01_033E",
+			"S0901_C03_006M",
+			"S0901_C01_021M",
+			"S0901_C03_018M",
+			"S0901_C01_033M",
+			"S0901_C02_030EA",
+			"S0901_C03_008MA",
+			"S0901_C02_011MA",
+			"S0901_C02_034MA",
+			"S0901_C03_027EA",
+			"S0901_C03_007E",
+			"S0901_C03_004EA",
+			"S0901_C03_019E",
+			"S0901_C02_018M",
+			"S0901_C04_018MA",
+			"S0901_C02_006M",
+			"S0901_C01_005MA",
+			"S0901_C01_028MA",
+			"S0901_C04_014EA",
+			"S0901_C04_037EA",
+			"NAME",
+			"S0901_C02_018E",
+			"S0901_C01_020E",
+			"S0901_C02_006E",
+			"S0901_C01_001EA",
+			"S0901_C01_024EA",
+			"S0901_C01_032E",
+			"S0901_C01_020M",
+			"S0901_C01_032M",
+			"S0901_C03_007M",
+			"S0901_C03_019M",
+			"S0901_C03_019MA",
+			"S0901_C03_004E",
+			"S0901_C03_016E",
+			"S0901_C03_028E",
+			"S0901_C03_015EA",
+			"S0901_C01_018MA",
+			"S0901_C02_007M",
+			"S0901_C04_007MA",
+			"S0901_C02_021MA",
+			"S0901_C02_019M",
+			"S0901_C04_003EA",
+			"S0901_C04_026EA",
+			"S0901_C02_007E",
+			"S0901_C01_031E",
+			"S0901_C02_019E",
+			"S0901_C01_014EA",
+			"S0901_C01_037EA",
+			"S0901_C01_031M",
+			"S0901_C03_004M",
+			"S0901_C03_016M",
+			"S0901_C03_028M",
+			"S0901_C03_007MA",
+			"S0901_C03_005E",
+			"S0901_C02_033MA",
+			"S0901_C03_017E",
+			"S0901_C03_003EA",
+			"S0901_C03_026EA",
+			"S0901_C03_029E",
+			"S0901_C01_029MA",
+			"S0901_C01_006MA",
+			"S0901_C02_008M",
+			"S0901_C02_010MA",
+			"S0901_C04_019MA",
+			"S0901_C04_015EA",
+			"S0901_C01_030E",
+			"S0901_C02_008E",
+			"S0901_C01_025EA",
+			"S0901_C01_002EA",
+			"S0901_C01_030M",
+			"S0901_C03_005M",
+			"S0901_C03_017M",
+			"S0901_C03_029M",
+			"S0901_C02_005MA",
+			"S0901_C03_002E",
+			"S0901_C03_014E",
+			"S0901_C02_028MA",
+			"S0901_C03_018MA",
+			"S0901_C03_026E",
+			"S0901_C03_037EA",
+			"S0901_C03_014EA",
+			"S0901_C01_011EA",
+			"S0901_C01_025E",
+			"S0901_C02_009M",
+			"S0901_C01_037E",
+			"S0901_C01_015MA",
+			"S0901_C01_025M",
+			"S0901_C02_009E",
+			"S0901_C04_023MA",
+			"S0901_C01_037M",
+			"S0901_C01_001E",
+			"S0901_C01_013E",
+			"S0901_C01_034EA",
+			"S0901_C03_002M",
+			"S0901_C03_014M",
+			"S0901_C03_026M",
+			"S0901_C01_001M",
+			"S0901_C01_013M",
+			"S0901_C02_001EA",
+			"S0901_C02_024EA",
+			"S0901_C03_002EA",
+			"S0901_C02_017MA",
+			"S0901_C03_003E",
+			"S0901_C03_015E",
+			"S0901_C03_029MA",
+			"S0901_C03_027E",
+			"S0901_C03_025EA",
+			"S0901_C01_022EA",
+			"S0901_C01_036E",
+			"S0901_C04_031EA",
+			"S0901_C01_003MA",
+			"S0901_C01_026MA",
+			"S0901_C01_036M",
+			"S0901_C04_012MA",
+			"S0901_C01_012E",
+			"S0901_C01_024E",
+			"S0901_C04_035MA",
+			"S0901_C03_003M",
+			"S0901_C03_015M",
+			"S0901_C01_012M",
+			"S0901_C03_027M",
+			"S0901_C01_024M",
+			"S0901_C03_006MA",
+			"S0901_C02_013EA",
+			"S0901_C02_036EA",
+			"S0901_C02_004MA",
+			"S0901_C02_027MA",
+			"S0901_C03_012E",
+			"S0901_C03_013EA",
+			"S0901_C03_024E",
+			"S0901_C03_036E",
+			"S0901_C03_036EA",
+			"S0901_C04_020EA",
+			"S0901_C01_016MA",
+			"S0901_C04_001MA",
+			"S0901_C01_023E",
+			"S0901_C01_035E",
+			"S0901_C04_024MA",
+			"S0901_C01_012EA",
+			"S0901_C01_035EA",
+			"S0901_C01_011E",
+			"S0901_C03_012M",
+			"S0901_C03_024M",
+			"S0901_C03_036M",
+			"S0901_C01_023M",
+			"S0901_C02_023EA",
+			"S0901_C03_017MA",
+			"S0901_C01_035M",
+			"S0901_C01_011M",
+			"S0901_C03_001E",
+			"S0901_C03_001EA",
+			"S0901_C03_024EA",
+			"S0901_C02_016MA",
+			"S0901_C03_013E",
+			"S0901_C03_025E",
+			"S0901_C03_037E",
+			"S0901_C01_027MA",
+			"S0901_C04_032EA",
+			"S0901_C01_004MA",
+			"S0901_C01_034E",
+			"S0901_C04_013MA",
+			"S0901_C01_010E",
+			"S0901_C01_022E",
+			"S0901_C01_023EA",
+			"S0901_C04_036MA",
+			"S0901_C03_001M",
+			"S0901_C03_013M",
+			"S0901_C03_025M",
+			"S0901_C03_037M",
+			"S0901_C01_034M",
+			"S0901_C03_005MA",
+			"S0901_C03_028MA",
+			"S0901_C02_012EA",
+			"S0901_C01_010M",
+			"S0901_C01_022M",
+			"S0901_C02_035EA",
+			"S0901_C03_034E",
+			"S0901_C03_035EA",
+			"S0901_C02_026MA",
+			"S0901_C03_012EA",
+			"S0901_C04_019E",
+			"S0901_C02_003MA",
+			"S0901_C01_005E",
+			"S0901_C04_021EA",
+			"S0901_C01_017E",
+			"S0901_C01_032EA",
+			"S0901_C04_007E",
+			"S0901_C04_019M",
+			"S0901_C01_036MA",
+			"S0901_C01_029E",
+			"S0901_C01_013MA",
+			"S0901_C01_005M",
+			"S0901_C01_017M",
+			"S0901_C04_007M",
+			"S0901_C04_002MA",
+			"S0901_C04_025MA",
+			"S0901_C01_029M",
+			"S0901_C03_010M",
+			"S0901_C03_022M",
+			"S0901_C03_034M",
+			"S0901_C02_022EA",
+			"S0901_C03_016MA",
+			"S0901_C03_010E",
+			"S0901_C03_022E",
+			"S0901_C02_015MA",
+			"S0901_C03_023E",
+			"S0901_C03_023EA",
+			"S0901_C03_035E",
+			"S0901_C04_008E",
+			"S0901_C01_016E",
+			"S0901_C04_010EA",
+			"S0901_C04_033EA",
+			"S0901_C01_028E",
+			"S0901_C01_004E",
+			"S0901_C01_020EA",
+			"S0901_C04_008M",
+			"S0901_C01_001MA",
+			"S0901_C01_024MA",
+			"S0901_C01_016M",
+			"S0901_C01_028M",
+			"S0901_C01_004M",
+			"S0901_C04_014MA",
+			"S0901_C04_037MA",
+			"S0901_C03_011M",
+			"S0901_C03_023M",
+			"S0901_C03_035M",
+			"S0901_C02_011EA",
+			"S0901_C02_034EA",
+			"S0901_C03_027MA",
+			"S0901_C03_004MA",
+			"S0901_C03_011E",
+			"S0901_C03_034EA",
+			"S0901_C02_021EA",
+			"S0901_C03_011EA",
+			"S0901_C04_009E",
+			"S0901_C02_002MA",
+			"S0901_C02_025MA",
+			"S0901_C01_010EA",
+			"S0901_C01_027E",
+			"S0901_C01_033EA",
+			"S0901_C01_003E",
+			"S0901_C01_015E",
+			"S0901_C04_022EA",
+			"S0901_C01_014MA",
+			"S0901_C01_037MA",
+			"S0901_C04_009M",
+			"S0901_C01_027M",
+			"S0901_C01_003M",
+			"S0901_C01_015M",
+			"S0901_C03_020M",
+			"S0901_C04_003MA",
+			"S0901_C03_032M",
+			"S0901_C04_026MA",
+			"S0901_C03_020E",
+			"S0901_C03_015MA",
+			"S0901_C03_032E",
+			"S0901_C02_037MA",
+			"S0901_C03_022EA",
+			"S0901_C02_010EA",
+			"S0901_C02_014MA",
+			"S0901_C01_021EA",
+			"S0901_C04_034EA",
+			"S0901_C01_014E",
+			"S0901_C01_026E",
+			"S0901_C04_011EA",
+			"S0901_C01_025MA",
+			"S0901_C01_002MA",
+			"S0901_C01_014M",
+			"S0901_C01_026M",
+			"S0901_C01_002E",
+			"S0901_C03_021M",
+			"S0901_C03_033M",
+			"S0901_C04_015MA",
+			"S0901_C01_002M",
+			"S0901_C02_033EA",
+			"S0901_C03_003MA",
+			"S0901_C03_021E",
+			"S0901_C03_026MA",
+			"S0901_C03_033E"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			"80.1",
+			"9.6",
+			null,
+			"5.3",
+			null,
+			"33.8",
+			"0.3",
+			"0.2",
+			"0.1",
+			"66693",
+			"0.2",
+			null,
+			null,
+			"6079737",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"38.4",
+			"14.3",
+			"1479762",
+			"1.1",
+			"0.3",
+			"0.3",
+			"34383",
+			null,
+			"0.6",
+			"0.1",
+			null,
+			null,
+			"29.0",
+			null,
+			null,
+			null,
+			"78.3",
+			null,
+			"4.3",
+			"41305",
+			"13.1",
+			null,
+			null,
+			"95.7",
+			"0.3",
+			null,
+			"0.1",
+			"261",
+			"0.1",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"51.4",
+			"35.5",
+			"1.2",
+			"1.7",
+			null,
+			"0.1",
+			"0.4",
+			"0.1",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"10.6",
+			"7.7",
+			"17639909",
+			null,
+			"0.2",
+			"0.2",
+			"131222",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"21.7",
+			"15386411",
+			"40.0",
+			null,
+			null,
+			"0.3",
+			"121345",
+			"0.4",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"60.0",
+			"17639909",
+			"31.6",
+			"13906649",
+			"0.4",
+			null,
+			"131222",
+			"0.3",
+			"107399",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"90.4",
+			"27.8",
+			"28.8",
+			"0.2",
+			null,
+			null,
+			null,
+			"0.2",
+			"0.3",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"47.0",
+			null,
+			null,
+			null,
+			"0.4",
+			"135535",
+			null,
+			"48553644",
+			null,
+			null,
+			"3.5",
+			"17472916",
+			"0.1",
+			null,
+			"130215",
+			"0.2",
+			null,
+			null,
+			"14.4",
+			null,
+			"36.5",
+			null,
+			"18.9",
+			null,
+			"0.4",
+			null,
+			"0.3",
+			"136774",
+			"0.1",
+			null,
+			"48233491",
+			null,
+			"4.5",
+			null,
+			"17639909",
+			"63.5",
+			null,
+			"0.2",
+			null,
+			"131222",
+			"0.4",
+			"0.1",
+			"-888888888",
+			null,
+			null,
+			"0.1",
+			"-888888888",
+			"7.2",
+			null,
+			null,
+			null,
+			"0.1",
+			null,
+			"0.1",
+			"135535",
+			"0.2",
+			null,
+			"92.8",
+			"48553644",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			"0.1",
+			"4.2",
+			null,
+			"8.0",
+			"135535",
+			null,
+			"48553644",
+			null,
+			null,
+			null,
+			"0.2",
+			null,
+			"18.7",
+			null,
+			"0.2",
+			"122690",
+			"0100000US",
+			null,
+			"17639909",
+			null,
+			"77.7",
+			"41056210",
+			"131222",
+			null,
+			null,
+			"135535",
+			null,
+			null,
+			null,
+			null,
+			"48553644",
+			null,
+			null,
+			"116315",
+			"0.1",
+			"0.2",
+			"37460966",
+			null,
+			"24.1",
+			null,
+			null,
+			"22.3",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			"0.1",
+			null,
+			"0.2",
+			null,
+			null,
+			"53.2",
+			"31.3",
+			null,
+			"81.2",
+			null,
+			null,
+			"1.9",
+			null,
+			null,
+			"0.1",
+			null,
+			"0.2",
+			"0.1",
+			null,
+			"33.7",
+			"18.8",
+			"92.1",
+			null,
+			"0.2",
+			"0.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2.9",
+			null,
+			"42687",
+			null,
+			null,
+			"0.1",
+			"0.1",
+			null,
+			"3595244",
+			null,
+			null,
+			"5.8",
+			"35.0",
+			null,
+			"46.5",
+			null,
+			"2.9",
+			"428",
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"0.2",
+			"132959",
+			"1.3",
+			null,
+			"8.6",
+			"81.3",
+			null,
+			"15.4",
+			"0.6",
+			"0.1",
+			"0.2",
+			"0.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"13.1",
+			null,
+			"94.6",
+			"0.1",
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			"0.8",
+			"4.3",
+			"57.9",
+			null,
+			null,
+			"71743629",
+			"0.1",
+			"41312",
+			"0.4",
+			"0.3",
+			null,
+			"36.5",
+			"8.9",
+			"580033",
+			null,
+			null,
+			"0.1",
+			null,
+			"(X)",
+			"0.1",
+			null,
+			null,
+			"7.5",
+			"23.6",
+			"95.5",
+			null,
+			null,
+			"0.2",
+			"0.5",
+			"0.3",
+			"19113",
+			null,
+			"78.6",
+			null,
+			"8.0",
+			null,
+			null,
+			"61588",
+			null,
+			null,
+			"0.1",
+			null,
+			null,
+			null,
+			"72736534",
+			"0.9",
+			null,
+			null,
+			"31773",
+			"0.6",
+			"0.3",
+			"402",
+			null,
+			"30.3",
+			"41.0",
+			null,
+			null,
+			"90.2",
+			null,
+			null,
+			null,
+			"56289943",
+			"0.1",
+			"33.5",
+			null,
+			"57865",
+			"6.8",
+			null,
+			"0.3",
+			"72736534",
+			"26.9",
+			null,
+			"0.5",
+			"0.6",
+			"0.3",
+			"31773",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			"33.1",
+			"80.3",
+			null,
+			"9.8",
+			null,
+			null,
+			"66.5",
+			null,
+			null,
+			null,
+			"0.3",
+			null,
+			"19.6",
+			"61996283",
+			null,
+			"0.4",
+			"0.5",
+			"0.1",
+			"0.3",
+			"54770",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"21.4",
+			null,
+			"5160067",
+			"55.0",
+			null,
+			null,
+			null,
+			null,
+			"5.2",
+			"72736534",
+			null,
+			null,
+			null,
+			"9.1",
+			"0.6",
+			"56154",
+			"0.7",
+			"0.1",
+			null,
+			null,
+			"31773",
+			"0.1",
+			"6079737",
+			null,
+			null,
+			null,
+			"34.8",
+			"4580034",
+			"45.0",
+			null,
+			null,
+			null,
+			"84.6",
+			null,
+			"0.2",
+			"72736519",
+			null,
+			null,
+			"66693",
+			"0.6",
+			"53493",
+			"0.7",
+			"0.2",
+			null,
+			null,
+			null,
+			"0.1",
+			"31780",
+			null,
+			"81.2",
+			null,
+			null,
+			null,
+			"96.5",
+			null,
+			"80.4",
+			null,
+			"2.6",
+			null,
+			"28.5",
+			"0.1",
+			null,
+			"101167",
+			null,
+			"0.1",
+			"0.1",
+			"0.3",
+			null,
+			null,
+			"279",
+			"0.1",
+			"66696",
+			"0.5",
+			null,
+			null,
+			"0.4",
+			"6079722",
+			null,
+			"5.5",
+			null,
+			"6079737",
+			"1.5",
+			"8.1",
+			null,
+			null,
+			"5706340",
+			"36.0",
+			null,
+			"0.1",
+			null,
+			null,
+			"0.1",
+			"59139",
+			"0.1",
+			null,
+			null,
+			"0.4",
+			"0.2",
+			"66693",
+			null,
+			null,
+			null,
+			null,
+			"13.8",
+			null,
+			"(X)",
+			null,
+			"2.1",
+			null,
+			null,
+			null,
+			"15.7",
+			null,
+			"33.7",
+			"87.6",
+			null,
+			null,
+			null,
+			"0.1",
+			"0.1",
+			"0.1",
+			"0.1",
+			"0.3",
+			null,
+			"65350",
+			null,
+			"5.4",
+			null,
+			"5938967",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"46.2",
+			"84.3",
+			null,
+			null,
+			null,
+			"0.1",
+			"0.1",
+			"30.4",
+			"0.6",
+			"0.5",
+			null,
+			"0.1",
+			null,
+			null,
+			"44.3",
+			null,
+			"18.8"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:02.635Z"
+}

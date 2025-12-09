@@ -1,0 +1,472 @@
+{
+	"tableId": "ACSDT1Y2024.B05002",
+	"title": "Place of Birth by Nativity and Citizenship Status",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total population",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B05002",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B05002_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B05002_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B05002_002E",
+				"label": "Estimate!!Total:!!Native:"
+			},
+			{
+				"id": "B05002_002M",
+				"label": "Margin of Error!!Total:!!Native:"
+			},
+			{
+				"id": "B05002_003E",
+				"label": "Estimate!!Total:!!Native:!!Born in state of residence"
+			},
+			{
+				"id": "B05002_003M",
+				"label": "Margin of Error!!Total:!!Native:!!Born in state of residence"
+			},
+			{
+				"id": "B05002_004E",
+				"label": "Estimate!!Total:!!Native:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B05002_004M",
+				"label": "Margin of Error!!Total:!!Native:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B05002_005E",
+				"label": "Estimate!!Total:!!Native:!!Born in other state in the United States:!!Northeast"
+			},
+			{
+				"id": "B05002_005M",
+				"label": "Margin of Error!!Total:!!Native:!!Born in other state in the United States:!!Northeast"
+			},
+			{
+				"id": "B05002_006E",
+				"label": "Estimate!!Total:!!Native:!!Born in other state in the United States:!!Midwest"
+			},
+			{
+				"id": "B05002_006M",
+				"label": "Margin of Error!!Total:!!Native:!!Born in other state in the United States:!!Midwest"
+			},
+			{
+				"id": "B05002_007E",
+				"label": "Estimate!!Total:!!Native:!!Born in other state in the United States:!!South"
+			},
+			{
+				"id": "B05002_007M",
+				"label": "Margin of Error!!Total:!!Native:!!Born in other state in the United States:!!South"
+			},
+			{
+				"id": "B05002_008E",
+				"label": "Estimate!!Total:!!Native:!!Born in other state in the United States:!!West"
+			},
+			{
+				"id": "B05002_008M",
+				"label": "Margin of Error!!Total:!!Native:!!Born in other state in the United States:!!West"
+			},
+			{
+				"id": "B05002_009E",
+				"label": "Estimate!!Total:!!Native:!!Born outside the United States:"
+			},
+			{
+				"id": "B05002_009M",
+				"label": "Margin of Error!!Total:!!Native:!!Born outside the United States:"
+			},
+			{
+				"id": "B05002_010E",
+				"label": "Estimate!!Total:!!Native:!!Born outside the United States:!!Puerto Rico"
+			},
+			{
+				"id": "B05002_010M",
+				"label": "Margin of Error!!Total:!!Native:!!Born outside the United States:!!Puerto Rico"
+			},
+			{
+				"id": "B05002_011E",
+				"label": "Estimate!!Total:!!Native:!!Born outside the United States:!!U.S. Island Areas"
+			},
+			{
+				"id": "B05002_011M",
+				"label": "Margin of Error!!Total:!!Native:!!Born outside the United States:!!U.S. Island Areas"
+			},
+			{
+				"id": "B05002_012E",
+				"label": "Estimate!!Total:!!Native:!!Born outside the United States:!!Born abroad of American parent(s)"
+			},
+			{
+				"id": "B05002_012M",
+				"label": "Margin of Error!!Total:!!Native:!!Born outside the United States:!!Born abroad of American parent(s)"
+			},
+			{
+				"id": "B05002_013E",
+				"label": "Estimate!!Total:!!Foreign-born:"
+			},
+			{
+				"id": "B05002_013M",
+				"label": "Margin of Error!!Total:!!Foreign-born:"
+			},
+			{
+				"id": "B05002_014E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05002_014M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05002_015E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Europe"
+			},
+			{
+				"id": "B05002_015M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Europe"
+			},
+			{
+				"id": "B05002_016E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Asia"
+			},
+			{
+				"id": "B05002_016M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Asia"
+			},
+			{
+				"id": "B05002_017E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Africa"
+			},
+			{
+				"id": "B05002_017M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Africa"
+			},
+			{
+				"id": "B05002_018E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Oceania"
+			},
+			{
+				"id": "B05002_018M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Oceania"
+			},
+			{
+				"id": "B05002_019E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Latin America"
+			},
+			{
+				"id": "B05002_019M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Latin America"
+			},
+			{
+				"id": "B05002_020E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Northern America"
+			},
+			{
+				"id": "B05002_020M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Naturalized U.S. citizen!!Northern America"
+			},
+			{
+				"id": "B05002_021E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05002_021M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05002_022E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Not a U.S. citizen!!Europe"
+			},
+			{
+				"id": "B05002_022M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Not a U.S. citizen!!Europe"
+			},
+			{
+				"id": "B05002_023E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Not a U.S. citizen!!Asia"
+			},
+			{
+				"id": "B05002_023M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Not a U.S. citizen!!Asia"
+			},
+			{
+				"id": "B05002_024E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Not a U.S. citizen!!Africa"
+			},
+			{
+				"id": "B05002_024M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Not a U.S. citizen!!Africa"
+			},
+			{
+				"id": "B05002_025E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Not a U.S. citizen!!Oceania"
+			},
+			{
+				"id": "B05002_025M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Not a U.S. citizen!!Oceania"
+			},
+			{
+				"id": "B05002_026E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Not a U.S. citizen!!Latin America"
+			},
+			{
+				"id": "B05002_026M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Not a U.S. citizen!!Latin America"
+			},
+			{
+				"id": "B05002_027E",
+				"label": "Estimate!!Total:!!Foreign-born:!!Not a U.S. citizen!!Northern America"
+			},
+			{
+				"id": "B05002_027M",
+				"label": "Margin of Error!!Total:!!Foreign-born:!!Not a U.S. citizen!!Northern America"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B05002_013M",
+			"B05002_015EA",
+			"B05002_025M",
+			"B05002_001E",
+			"B05002_009M",
+			"B05002_011EA",
+			"B05002_019MA",
+			"B05002_013E",
+			"B05002_015MA",
+			"B05002_025E",
+			"B05002_009E",
+			"B05002_011MA",
+			"B05002_001M",
+			"B05002_008EA",
+			"B05002_004EA",
+			"B05002_024M",
+			"B05002_027EA",
+			"B05002_008M",
+			"B05002_012E",
+			"B05002_008MA",
+			"B05002_023EA",
+			"B05002_004MA",
+			"B05002_024E",
+			"B05002_027MA",
+			"B05002_008E",
+			"B05002_023MA",
+			"B05002_012M",
+			"B05002_018EA",
+			"B05002_011E",
+			"B05002_014EA",
+			"B05002_019M",
+			"B05002_023E",
+			"B05002_007M",
+			"B05002_010EA",
+			"B05002_018MA",
+			"B05002_014MA",
+			"B05002_019E",
+			"B05002_007E",
+			"B05002_010MA",
+			"B05002_011M",
+			"B05002_023M",
+			"B05002_007EA",
+			"B05002_026EA",
+			"B05002_022E",
+			"B05002_003EA",
+			"B05002_006M",
+			"B05002_010E",
+			"B05002_018M",
+			"B05002_022EA",
+			"B05002_007MA",
+			"B05002_026MA",
+			"B05002_003MA",
+			"B05002_006E",
+			"B05002_018E",
+			"B05002_022MA",
+			"B05002_022M",
+			"B05002_010M",
+			"B05002_019EA",
+			"B05002_005M",
+			"B05002_017EA",
+			"B05002_013EA",
+			"B05002_017M",
+			"B05002_021E",
+			"B05002_005E",
+			"B05002_017MA",
+			"B05002_013MA",
+			"B05002_017E",
+			"B05002_021M",
+			"B05002_004M",
+			"B05002_006EA",
+			"B05002_016M",
+			"B05002_002EA",
+			"B05002_025EA",
+			"B05002_020E",
+			"B05002_004E",
+			"B05002_006MA",
+			"B05002_021EA",
+			"B05002_016E",
+			"B05002_002MA",
+			"B05002_025MA",
+			"NAME",
+			"B05002_021MA",
+			"B05002_020M",
+			"B05002_015M",
+			"B05002_027M",
+			"B05002_016EA",
+			"B05002_003M",
+			"B05002_012EA",
+			"B05002_015E",
+			"B05002_027E",
+			"B05002_016MA",
+			"B05002_003E",
+			"B05002_012MA",
+			"B05002_009EA",
+			"B05002_026M",
+			"B05002_002M",
+			"B05002_005EA",
+			"B05002_014M",
+			"B05002_024EA",
+			"B05002_001EA",
+			"B05002_009MA",
+			"B05002_026E",
+			"B05002_020EA",
+			"B05002_002E",
+			"B05002_005MA",
+			"B05002_014E",
+			"B05002_024MA",
+			"B05002_001MA",
+			"GEO_ID",
+			"B05002_020MA"
+		],
+		[
+			"162664",
+			null,
+			"9531",
+			"340110990",
+			"60432",
+			null,
+			null,
+			"50234858",
+			null,
+			"169457",
+			"5887031",
+			null,
+			"-555555555",
+			null,
+			null,
+			"35466",
+			null,
+			"89467",
+			"3847200",
+			null,
+			null,
+			null,
+			"1143986",
+			null,
+			"18529948",
+			null,
+			"47689",
+			null,
+			"187475",
+			null,
+			"75260",
+			"5766449",
+			"122765",
+			null,
+			null,
+			null,
+			"10481615",
+			"28051598",
+			null,
+			"10171",
+			"64680",
+			null,
+			null,
+			"1603925",
+			null,
+			"95475",
+			"1852356",
+			"8731",
+			null,
+			null,
+			null,
+			null,
+			"23572618",
+			"134378",
+			null,
+			"36168",
+			"36587",
+			null,
+			"91712",
+			null,
+			null,
+			"33800",
+			"24396883",
+			"21642476",
+			null,
+			null,
+			"1824831",
+			"160731",
+			"204628",
+			null,
+			"55682",
+			null,
+			null,
+			"434576",
+			"91796640",
+			null,
+			null,
+			"9704965",
+			null,
+			null,
+			"United States",
+			null,
+			"12473",
+			"40282",
+			"13507",
+			null,
+			"201135",
+			null,
+			"3257610",
+			"395906",
+			null,
+			"192192461",
+			null,
+			null,
+			"122427",
+			"162660",
+			null,
+			"113967",
+			null,
+			null,
+			null,
+			"15317143",
+			null,
+			"289876132",
+			null,
+			"25837975",
+			null,
+			"*****",
+			"0100000US",
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:30.940Z"
+}

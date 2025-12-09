@@ -1,0 +1,1339 @@
+{
+	"tableId": "ACSST1Y2024.S1001",
+	"title": "Grandchildren Characteristics",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S1001",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S1001_C01_001E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C01_001M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C02_001E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C02_001M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C03_001E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C03_001M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C01_002E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S1001_C01_002M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S1001_C02_002E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S1001_C02_002M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S1001_C03_002E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S1001_C03_002M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!Under 6 years"
+			},
+			{
+				"id": "S1001_C01_003E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S1001_C01_003M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S1001_C02_003E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S1001_C02_003M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S1001_C03_003E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S1001_C03_003M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!6 to 11 years"
+			},
+			{
+				"id": "S1001_C01_004E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S1001_C01_004M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S1001_C02_004E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S1001_C02_004M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S1001_C03_004E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S1001_C03_004M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!AGE!!12 to 17 years"
+			},
+			{
+				"id": "S1001_C01_005E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1001_C01_005M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1001_C02_005E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1001_C02_005M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1001_C03_005E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1001_C03_005M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S1001_C01_006E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1001_C01_006M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1001_C02_006E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1001_C02_006M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1001_C03_006E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1001_C03_006M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White"
+			},
+			{
+				"id": "S1001_C01_007E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1001_C01_007M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1001_C02_007E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1001_C02_007M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1001_C03_007E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1001_C03_007M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American"
+			},
+			{
+				"id": "S1001_C01_008E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1001_C01_008M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1001_C02_008E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1001_C02_008M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1001_C03_008E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1001_C03_008M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S1001_C01_009E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1001_C01_009M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1001_C02_009E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1001_C02_009M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1001_C03_009E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1001_C03_009M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian"
+			},
+			{
+				"id": "S1001_C01_010E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1001_C01_010M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1001_C02_010E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1001_C02_010M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1001_C03_010E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1001_C03_010M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S1001_C01_011E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1001_C01_011M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1001_C02_011E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1001_C02_011M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1001_C03_011E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1001_C03_011M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race"
+			},
+			{
+				"id": "S1001_C01_012E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1001_C01_012M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1001_C02_012E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1001_C02_012M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1001_C03_012E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1001_C03_012M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S1001_C01_013E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1001_C01_013M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1001_C02_013E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1001_C02_013M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1001_C03_013E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1001_C03_013M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S1001_C01_014E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1001_C01_014M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1001_C02_014E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1001_C02_014M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1001_C03_014E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1001_C03_014M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S1001_C01_015E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1001_C01_015M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1001_C02_015E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1001_C02_015M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1001_C03_015E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1001_C03_015M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Native"
+			},
+			{
+				"id": "S1001_C01_016E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1001_C01_016M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1001_C02_016E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1001_C02_016M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1001_C03_016E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1001_C03_016M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!NATIVITY!!Foreign born"
+			},
+			{
+				"id": "S1001_C01_017E",
+				"label": "Estimate!!Total!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S1001_C01_017M",
+				"label": "Margin of Error!!Total!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S1001_C02_017E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S1001_C02_017M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S1001_C03_017E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S1001_C03_017M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Special Subject!!Median income (dollars)"
+			},
+			{
+				"id": "S1001_C01_018E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C01_018M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C02_018E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C02_018M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C03_018E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C03_018M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder"
+			},
+			{
+				"id": "S1001_C01_019E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Grandchildren living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S1001_C01_019M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Grandchildren living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S1001_C02_019E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Grandchildren living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S1001_C02_019M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Grandchildren living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S1001_C03_019E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Grandchildren living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S1001_C03_019M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!PUBLIC ASSISTANCE IN THE PAST 12 MONTHS!!Grandchildren living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp/SNAP benefits"
+			},
+			{
+				"id": "S1001_C01_020E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S1001_C01_020M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S1001_C02_020E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S1001_C02_020M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S1001_C03_020E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S1001_C03_020M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months below poverty level"
+			},
+			{
+				"id": "S1001_C01_021E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S1001_C01_021M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S1001_C02_021E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S1001_C02_021M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S1001_C03_021E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S1001_C03_021M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder!!POVERTY STATUS IN THE PAST 12 MONTHS!!Income in the past 12 months at or above poverty level"
+			},
+			{
+				"id": "S1001_C01_022E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units"
+			},
+			{
+				"id": "S1001_C01_022M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units"
+			},
+			{
+				"id": "S1001_C02_022E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units"
+			},
+			{
+				"id": "S1001_C02_022M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units"
+			},
+			{
+				"id": "S1001_C03_022E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units"
+			},
+			{
+				"id": "S1001_C03_022M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units"
+			},
+			{
+				"id": "S1001_C01_023E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In owner-occupied housing units"
+			},
+			{
+				"id": "S1001_C01_023M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In owner-occupied housing units"
+			},
+			{
+				"id": "S1001_C02_023E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In owner-occupied housing units"
+			},
+			{
+				"id": "S1001_C02_023M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In owner-occupied housing units"
+			},
+			{
+				"id": "S1001_C03_023E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In owner-occupied housing units"
+			},
+			{
+				"id": "S1001_C03_023M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In owner-occupied housing units"
+			},
+			{
+				"id": "S1001_C01_024E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In renter-occupied housing units"
+			},
+			{
+				"id": "S1001_C01_024M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In renter-occupied housing units"
+			},
+			{
+				"id": "S1001_C02_024E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In renter-occupied housing units"
+			},
+			{
+				"id": "S1001_C02_024M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In renter-occupied housing units"
+			},
+			{
+				"id": "S1001_C03_024E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In renter-occupied housing units"
+			},
+			{
+				"id": "S1001_C03_024M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!HOUSING TENURE!!In renter-occupied housing units"
+			},
+			{
+				"id": "S1001_C01_025E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 1-unit structures"
+			},
+			{
+				"id": "S1001_C01_025M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 1-unit structures"
+			},
+			{
+				"id": "S1001_C02_025E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 1-unit structures"
+			},
+			{
+				"id": "S1001_C02_025M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 1-unit structures"
+			},
+			{
+				"id": "S1001_C03_025E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 1-unit structures"
+			},
+			{
+				"id": "S1001_C03_025M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 1-unit structures"
+			},
+			{
+				"id": "S1001_C01_026E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 2-or-more-unit structures"
+			},
+			{
+				"id": "S1001_C01_026M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 2-or-more-unit structures"
+			},
+			{
+				"id": "S1001_C02_026E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 2-or-more-unit structures"
+			},
+			{
+				"id": "S1001_C02_026M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 2-or-more-unit structures"
+			},
+			{
+				"id": "S1001_C03_026E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 2-or-more-unit structures"
+			},
+			{
+				"id": "S1001_C03_026M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In 2-or-more-unit structures"
+			},
+			{
+				"id": "S1001_C01_027E",
+				"label": "Estimate!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In mobile homes and all other types of units"
+			},
+			{
+				"id": "S1001_C01_027M",
+				"label": "Margin of Error!!Total!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In mobile homes and all other types of units"
+			},
+			{
+				"id": "S1001_C02_027E",
+				"label": "Estimate!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In mobile homes and all other types of units"
+			},
+			{
+				"id": "S1001_C02_027M",
+				"label": "Margin of Error!!Total!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In mobile homes and all other types of units"
+			},
+			{
+				"id": "S1001_C03_027E",
+				"label": "Estimate!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In mobile homes and all other types of units"
+			},
+			{
+				"id": "S1001_C03_027M",
+				"label": "Margin of Error!!Grandchildren with no parent present!!With grandparent responsible!!Grandchildren under 18 years living with a grandparent householder in occupied housing units!!UNITS IN STRUCTURE!!In mobile homes and all other types of units"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S1001_C01_003EA",
+			"S1001_C01_026EA",
+			"S1001_C02_016EA",
+			"S1001_C03_003E",
+			"S1001_C03_015E",
+			"S1001_C03_027E",
+			"S1001_C01_025M",
+			"S1001_C01_001M",
+			"S1001_C01_013M",
+			"S1001_C01_007MA",
+			"S1001_C03_003M",
+			"S1001_C03_015M",
+			"S1001_C03_027M",
+			"S1001_C01_014E",
+			"S1001_C02_023MA",
+			"S1001_C03_021EA",
+			"S1001_C01_026E",
+			"S1001_C01_002E",
+			"S1001_C03_002M",
+			"S1001_C03_002MA",
+			"S1001_C03_025MA",
+			"S1001_C01_010MA",
+			"S1001_C03_006EA",
+			"S1001_C01_014EA",
+			"S1001_C02_005EA",
+			"S1001_C03_004E",
+			"S1001_C03_016E",
+			"S1001_C02_009MA",
+			"S1001_C01_012M",
+			"S1001_C01_024M",
+			"S1001_C02_020EA",
+			"S1001_C01_018MA",
+			"S1001_C03_004M",
+			"S1001_C03_016M",
+			"S1001_C02_024MA",
+			"S1001_C01_025E",
+			"S1001_C02_012MA",
+			"S1001_C01_001E",
+			"S1001_C01_013E",
+			"S1001_C03_013MA",
+			"S1001_C01_021MA",
+			"S1001_C03_017EA",
+			"S1001_C01_025EA",
+			"S1001_C02_017EA",
+			"S1001_C02_008M",
+			"S1001_C03_005E",
+			"S1001_C03_017E",
+			"S1001_C01_003M",
+			"S1001_C01_015M",
+			"S1001_C01_006MA",
+			"S1001_C02_008E",
+			"S1001_C03_005M",
+			"S1001_C01_002EA",
+			"S1001_C02_013MA",
+			"S1001_C03_017M",
+			"S1001_C01_004E",
+			"S1001_C02_001MA",
+			"S1001_C03_022EA",
+			"S1001_C03_026MA",
+			"S1001_C01_016M",
+			"S1001_C03_003MA",
+			"S1001_C03_007EA",
+			"S1001_C01_016E",
+			"S1001_C03_018E",
+			"S1001_C02_006EA",
+			"S1001_C02_009M",
+			"S1001_C03_006E",
+			"S1001_C01_014M",
+			"S1001_C03_018M",
+			"S1001_C01_026M",
+			"S1001_C01_017MA",
+			"S1001_C02_021EA",
+			"S1001_C01_002M",
+			"S1001_C02_009E",
+			"S1001_C01_013EA",
+			"S1001_C02_002MA",
+			"S1001_C02_025MA",
+			"S1001_C03_006M",
+			"S1001_C01_003E",
+			"S1001_C01_015E",
+			"S1001_C01_020MA",
+			"S1001_C03_010EA",
+			"S1001_C01_027M",
+			"S1001_C03_014MA",
+			"S1001_C03_018EA",
+			"S1001_C01_027E",
+			"S1001_C03_007E",
+			"S1001_C03_019E",
+			"S1001_C01_005EA",
+			"S1001_C02_010E",
+			"S1001_C02_022E",
+			"S1001_C02_014EA",
+			"S1001_C03_007M",
+			"S1001_C03_019M",
+			"S1001_C01_020EA",
+			"S1001_C02_018MA",
+			"S1001_C03_011MA",
+			"S1001_C01_021M",
+			"S1001_C01_009MA",
+			"S1001_C02_021MA",
+			"S1001_C03_008MA",
+			"S1001_C01_010E",
+			"S1001_C01_022E",
+			"S1001_C03_023MA",
+			"S1001_C01_012MA",
+			"S1001_C02_021M",
+			"S1001_C03_027EA",
+			"S1001_C03_004EA",
+			"S1001_C03_008E",
+			"S1001_C01_016EA",
+			"S1001_C02_023E",
+			"S1001_C02_011E",
+			"S1001_C02_026EA",
+			"S1001_C02_003EA",
+			"S1001_C03_008M",
+			"S1001_C03_022MA",
+			"S1001_C02_007MA",
+			"NAME",
+			"S1001_C01_020M",
+			"S1001_C02_010MA",
+			"S1001_C03_019MA",
+			"S1001_C01_021E",
+			"S1001_C01_023MA",
+			"S1001_C02_010M",
+			"S1001_C02_022M",
+			"S1001_C03_015EA",
+			"S1001_C01_004EA",
+			"S1001_C03_009E",
+			"S1001_C01_027EA",
+			"S1001_C02_020E",
+			"S1001_C02_015EA",
+			"S1001_C02_019MA",
+			"S1001_C01_023M",
+			"S1001_C03_009M",
+			"S1001_C01_008MA",
+			"S1001_C01_011M",
+			"S1001_C03_020EA",
+			"S1001_C02_022MA",
+			"S1001_C01_012E",
+			"S1001_C01_024E",
+			"S1001_C01_011MA",
+			"S1001_C03_001MA",
+			"S1001_C03_024MA",
+			"S1001_C03_005EA",
+			"S1001_C03_009MA",
+			"S1001_C01_015EA",
+			"S1001_C02_021E",
+			"S1001_C02_004EA",
+			"S1001_C02_027EA",
+			"S1001_C02_008MA",
+			"S1001_C01_010M",
+			"S1001_C01_019MA",
+			"S1001_C01_022M",
+			"S1001_C02_011MA",
+			"S1001_C01_023E",
+			"S1001_C01_022MA",
+			"S1001_C01_011E",
+			"S1001_C03_012MA",
+			"S1001_C03_016EA",
+			"S1001_C02_020M",
+			"S1001_C02_026M",
+			"S1001_C01_007EA",
+			"S1001_C02_014E",
+			"S1001_C02_002E",
+			"S1001_C01_003MA",
+			"S1001_C01_026MA",
+			"S1001_C02_012EA",
+			"S1001_C02_026E",
+			"S1001_C01_022EA",
+			"S1001_C02_016MA",
+			"S1001_C03_006MA",
+			"S1001_C02_001M",
+			"S1001_C03_002EA",
+			"S1001_C03_025EA",
+			"S1001_C02_025M",
+			"S1001_C02_013M",
+			"S1001_C02_027M",
+			"S1001_C02_009EA",
+			"S1001_C02_015M",
+			"S1001_C01_018EA",
+			"S1001_C02_003E",
+			"S1001_C02_024EA",
+			"S1001_C02_027E",
+			"S1001_C03_020MA",
+			"S1001_C01_014MA",
+			"S1001_C02_001EA",
+			"S1001_C02_015E",
+			"S1001_C01_010EA",
+			"S1001_C02_005MA",
+			"S1001_C03_020E",
+			"S1001_C03_017MA",
+			"S1001_C01_009M",
+			"S1001_C01_002MA",
+			"S1001_C01_009E",
+			"S1001_C03_013EA",
+			"S1001_C02_014M",
+			"S1001_C02_002M",
+			"S1001_C01_006EA",
+			"S1001_C02_012E",
+			"S1001_C02_013EA",
+			"S1001_C02_024E",
+			"S1001_C03_021E",
+			"S1001_C01_025MA",
+			"S1001_C02_017MA",
+			"S1001_C03_010MA",
+			"S1001_C01_021EA",
+			"S1001_C02_020MA",
+			"S1001_C03_007MA",
+			"S1001_C01_013MA",
+			"S1001_C01_020E",
+			"S1001_C03_020M",
+			"S1001_C02_023M",
+			"S1001_C02_011M",
+			"S1001_C03_026EA",
+			"S1001_C03_003EA",
+			"S1001_C01_017EA",
+			"S1001_C02_001E",
+			"S1001_C02_002EA",
+			"S1001_C02_025E",
+			"S1001_C02_025EA",
+			"S1001_C02_013E",
+			"S1001_C03_010E",
+			"S1001_C03_021MA",
+			"S1001_C03_022E",
+			"S1001_C02_006MA",
+			"S1001_C03_021M",
+			"S1001_C03_018MA",
+			"S1001_C01_001MA",
+			"S1001_C01_024MA",
+			"S1001_C02_012M",
+			"S1001_C02_024M",
+			"S1001_C03_014EA",
+			"S1001_C02_018EA",
+			"S1001_C02_018M",
+			"S1001_C02_006M",
+			"S1001_C01_009EA",
+			"S1001_C03_011E",
+			"S1001_C01_005MA",
+			"S1001_C02_010EA",
+			"S1001_C02_018E",
+			"S1001_C03_023E",
+			"S1001_C02_006E",
+			"S1001_C01_001EA",
+			"S1001_C01_024EA",
+			"S1001_C02_014MA",
+			"S1001_C03_010M",
+			"S1001_C03_022M",
+			"S1001_C03_027MA",
+			"S1001_C01_018M",
+			"S1001_C03_004MA",
+			"S1001_C01_006M",
+			"S1001_C03_008EA",
+			"S1001_C01_018E",
+			"S1001_C03_023EA",
+			"S1001_C01_006E",
+			"S1001_C02_007M",
+			"S1001_C02_007EA",
+			"S1001_C02_019M",
+			"S1001_C01_004M",
+			"S1001_C02_022EA",
+			"S1001_C02_007E",
+			"S1001_C03_012E",
+			"S1001_C01_016MA",
+			"S1001_C03_024E",
+			"S1001_C02_019E",
+			"S1001_C02_026MA",
+			"S1001_C01_012EA",
+			"S1001_C02_003MA",
+			"S1001_C03_011M",
+			"S1001_C03_011EA",
+			"S1001_C03_023M",
+			"S1001_C01_005M",
+			"S1001_C03_015MA",
+			"S1001_C01_017M",
+			"S1001_C03_019EA",
+			"S1001_C01_005E",
+			"S1001_C01_017E",
+			"S1001_C02_016M",
+			"S1001_C02_004M",
+			"S1001_C02_019EA",
+			"S1001_C03_025E",
+			"S1001_C01_008EA",
+			"S1001_C03_009EA",
+			"S1001_C02_016E",
+			"S1001_C01_004MA",
+			"S1001_C02_004E",
+			"S1001_C02_011EA",
+			"S1001_C03_001E",
+			"S1001_C01_027MA",
+			"S1001_C03_013E",
+			"S1001_C03_025M",
+			"S1001_C02_015MA",
+			"S1001_C01_023EA",
+			"S1001_C03_005MA",
+			"S1001_C03_012M",
+			"S1001_C03_024M",
+			"S1001_C01_008M",
+			"S1001_C01_008E",
+			"S1001_C03_001EA",
+			"S1001_C02_003M",
+			"S1001_C03_024EA",
+			"S1001_C02_005M",
+			"S1001_C02_008EA",
+			"S1001_C02_017M",
+			"S1001_C01_019EA",
+			"S1001_C03_014E",
+			"S1001_C03_026E",
+			"S1001_C01_015MA",
+			"S1001_C02_005E",
+			"S1001_C02_023EA",
+			"S1001_C02_017E",
+			"S1001_C03_002E",
+			"S1001_C01_011EA",
+			"S1001_C02_004MA",
+			"S1001_C02_027MA",
+			"S1001_C03_014M",
+			"S1001_C03_026M",
+			"GEO_ID",
+			"S1001_C03_016MA",
+			"S1001_C03_001M",
+			"S1001_C03_013M",
+			"S1001_C01_007M",
+			"S1001_C01_019M",
+			"S1001_C01_007E",
+			"S1001_C01_019E",
+			"S1001_C03_012EA"
+		],
+		[
+			null,
+			null,
+			null,
+			"34.3",
+			"98.4",
+			"11.5",
+			"0.5",
+			"66700",
+			"0.5",
+			null,
+			"1.1",
+			"0.3",
+			"0.7",
+			"35.2",
+			null,
+			null,
+			"12.7",
+			"38.2",
+			"0.9",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"46.6",
+			"1.6",
+			null,
+			"0.5",
+			"0.6",
+			null,
+			null,
+			"1.4",
+			"0.3",
+			null,
+			"78.6",
+			null,
+			"5856790",
+			"30.7",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.3",
+			"84.1",
+			"50819",
+			"0.4",
+			"0.2",
+			null,
+			"2.9",
+			"1.0",
+			null,
+			null,
+			"1364",
+			"29.0",
+			null,
+			null,
+			null,
+			"0.2",
+			null,
+			null,
+			"2.8",
+			"968176",
+			null,
+			"0.2",
+			"47.2",
+			"0.5",
+			"28845",
+			"0.4",
+			null,
+			null,
+			"0.4",
+			"1.7",
+			null,
+			null,
+			null,
+			"1.4",
+			"32.8",
+			"97.2",
+			null,
+			null,
+			"0.3",
+			null,
+			null,
+			"8.7",
+			"28.1",
+			"42.7",
+			null,
+			"0.3",
+			"2496690",
+			null,
+			"1.4",
+			"1.3",
+			null,
+			null,
+			null,
+			"0.6",
+			null,
+			null,
+			null,
+			"0.4",
+			"5856790",
+			null,
+			null,
+			"0.9",
+			null,
+			null,
+			"2.8",
+			null,
+			"69.6",
+			"7.9",
+			null,
+			null,
+			"0.4",
+			null,
+			null,
+			"United States",
+			"0.6",
+			null,
+			null,
+			"82.7",
+			null,
+			"0.1",
+			"44076",
+			null,
+			null,
+			"1.0",
+			null,
+			"23.8",
+			null,
+			null,
+			"0.6",
+			"0.2",
+			null,
+			"0.4",
+			null,
+			null,
+			"22.1",
+			"26.3",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"76.2",
+			null,
+			null,
+			null,
+			"0.1",
+			null,
+			"66700",
+			null,
+			"73.7",
+			null,
+			"10.5",
+			null,
+			null,
+			"0.9",
+			"0.7",
+			null,
+			"37.3",
+			"32.5",
+			null,
+			null,
+			null,
+			"14.1",
+			null,
+			null,
+			null,
+			"44076",
+			null,
+			null,
+			"0.8",
+			"0.9",
+			"0.5",
+			null,
+			"0.3",
+			null,
+			"33.4",
+			null,
+			"10.2",
+			null,
+			null,
+			null,
+			"97.4",
+			null,
+			null,
+			"32.8",
+			null,
+			"0.2",
+			null,
+			"2.7",
+			null,
+			"0.9",
+			"0.7",
+			null,
+			"20.3",
+			null,
+			"30.4",
+			"67.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"17.3",
+			"1.5",
+			"0.9",
+			"0.6",
+			null,
+			null,
+			null,
+			"2496690",
+			null,
+			"75.8",
+			null,
+			"25.1",
+			"0.2",
+			null,
+			"968176",
+			null,
+			"1.5",
+			null,
+			null,
+			null,
+			"0.7",
+			"0.9",
+			null,
+			null,
+			"44076",
+			"0.9",
+			null,
+			"4.8",
+			null,
+			null,
+			"2496690",
+			"67.6",
+			"41.9",
+			null,
+			null,
+			null,
+			"0.1",
+			"28845",
+			null,
+			"66700",
+			null,
+			"0.5",
+			null,
+			"5856790",
+			null,
+			"40.5",
+			"0.8",
+			null,
+			"0.9",
+			"0.4",
+			null,
+			"25.0",
+			"15.9",
+			null,
+			"32.4",
+			"48.6",
+			null,
+			null,
+			null,
+			"0.6",
+			null,
+			"1.5",
+			"0.5",
+			null,
+			"775",
+			null,
+			"77.9",
+			"90406",
+			"0.3",
+			"0.8",
+			null,
+			"72.6",
+			null,
+			null,
+			"2.6",
+			null,
+			"34.0",
+			null,
+			"968176",
+			null,
+			"16.2",
+			"1.2",
+			null,
+			null,
+			null,
+			"1.0",
+			"1.5",
+			"0.2",
+			"2.2",
+			null,
+			"0.7",
+			null,
+			"0.7",
+			null,
+			"1143",
+			null,
+			"44.0",
+			"15.9",
+			null,
+			"79.7",
+			null,
+			"73317",
+			"19.2",
+			null,
+			null,
+			null,
+			"1.4",
+			"1.1",
+			"0100000US",
+			null,
+			"28845",
+			"0.9",
+			"0.5",
+			"0.6",
+			"21.7",
+			"44.4",
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:02.250Z"
+}

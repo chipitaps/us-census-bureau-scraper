@@ -1,0 +1,408 @@
+{
+	"tableId": "ACSDT1Y2024.B05003D",
+	"title": "Sex by Age by Nativity and Citizenship Status (Asian Alone)",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "People who are Asian alone",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B05003D",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B05003D_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B05003D_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B05003D_002E",
+				"label": "Estimate!!Total:!!Male:"
+			},
+			{
+				"id": "B05003D_002M",
+				"label": "Margin of Error!!Total:!!Male:"
+			},
+			{
+				"id": "B05003D_003E",
+				"label": "Estimate!!Total:!!Male:!!Under 18 years:"
+			},
+			{
+				"id": "B05003D_003M",
+				"label": "Margin of Error!!Total:!!Male:!!Under 18 years:"
+			},
+			{
+				"id": "B05003D_004E",
+				"label": "Estimate!!Total:!!Male:!!Under 18 years:!!Native"
+			},
+			{
+				"id": "B05003D_004M",
+				"label": "Margin of Error!!Total:!!Male:!!Under 18 years:!!Native"
+			},
+			{
+				"id": "B05003D_005E",
+				"label": "Estimate!!Total:!!Male:!!Under 18 years:!!Foreign-born:"
+			},
+			{
+				"id": "B05003D_005M",
+				"label": "Margin of Error!!Total:!!Male:!!Under 18 years:!!Foreign-born:"
+			},
+			{
+				"id": "B05003D_006E",
+				"label": "Estimate!!Total:!!Male:!!Under 18 years:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05003D_006M",
+				"label": "Margin of Error!!Total:!!Male:!!Under 18 years:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05003D_007E",
+				"label": "Estimate!!Total:!!Male:!!Under 18 years:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05003D_007M",
+				"label": "Margin of Error!!Total:!!Male:!!Under 18 years:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05003D_008E",
+				"label": "Estimate!!Total:!!Male:!!18 years and over:"
+			},
+			{
+				"id": "B05003D_008M",
+				"label": "Margin of Error!!Total:!!Male:!!18 years and over:"
+			},
+			{
+				"id": "B05003D_009E",
+				"label": "Estimate!!Total:!!Male:!!18 years and over:!!Native"
+			},
+			{
+				"id": "B05003D_009M",
+				"label": "Margin of Error!!Total:!!Male:!!18 years and over:!!Native"
+			},
+			{
+				"id": "B05003D_010E",
+				"label": "Estimate!!Total:!!Male:!!18 years and over:!!Foreign-born:"
+			},
+			{
+				"id": "B05003D_010M",
+				"label": "Margin of Error!!Total:!!Male:!!18 years and over:!!Foreign-born:"
+			},
+			{
+				"id": "B05003D_011E",
+				"label": "Estimate!!Total:!!Male:!!18 years and over:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05003D_011M",
+				"label": "Margin of Error!!Total:!!Male:!!18 years and over:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05003D_012E",
+				"label": "Estimate!!Total:!!Male:!!18 years and over:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05003D_012M",
+				"label": "Margin of Error!!Total:!!Male:!!18 years and over:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05003D_013E",
+				"label": "Estimate!!Total:!!Female:"
+			},
+			{
+				"id": "B05003D_013M",
+				"label": "Margin of Error!!Total:!!Female:"
+			},
+			{
+				"id": "B05003D_014E",
+				"label": "Estimate!!Total:!!Female:!!Under 18 years:"
+			},
+			{
+				"id": "B05003D_014M",
+				"label": "Margin of Error!!Total:!!Female:!!Under 18 years:"
+			},
+			{
+				"id": "B05003D_015E",
+				"label": "Estimate!!Total:!!Female:!!Under 18 years:!!Native"
+			},
+			{
+				"id": "B05003D_015M",
+				"label": "Margin of Error!!Total:!!Female:!!Under 18 years:!!Native"
+			},
+			{
+				"id": "B05003D_016E",
+				"label": "Estimate!!Total:!!Female:!!Under 18 years:!!Foreign-born:"
+			},
+			{
+				"id": "B05003D_016M",
+				"label": "Margin of Error!!Total:!!Female:!!Under 18 years:!!Foreign-born:"
+			},
+			{
+				"id": "B05003D_017E",
+				"label": "Estimate!!Total:!!Female:!!Under 18 years:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05003D_017M",
+				"label": "Margin of Error!!Total:!!Female:!!Under 18 years:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05003D_018E",
+				"label": "Estimate!!Total:!!Female:!!Under 18 years:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05003D_018M",
+				"label": "Margin of Error!!Total:!!Female:!!Under 18 years:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05003D_019E",
+				"label": "Estimate!!Total:!!Female:!!18 years and over:"
+			},
+			{
+				"id": "B05003D_019M",
+				"label": "Margin of Error!!Total:!!Female:!!18 years and over:"
+			},
+			{
+				"id": "B05003D_020E",
+				"label": "Estimate!!Total:!!Female:!!18 years and over:!!Native"
+			},
+			{
+				"id": "B05003D_020M",
+				"label": "Margin of Error!!Total:!!Female:!!18 years and over:!!Native"
+			},
+			{
+				"id": "B05003D_021E",
+				"label": "Estimate!!Total:!!Female:!!18 years and over:!!Foreign-born:"
+			},
+			{
+				"id": "B05003D_021M",
+				"label": "Margin of Error!!Total:!!Female:!!18 years and over:!!Foreign-born:"
+			},
+			{
+				"id": "B05003D_022E",
+				"label": "Estimate!!Total:!!Female:!!18 years and over:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05003D_022M",
+				"label": "Margin of Error!!Total:!!Female:!!18 years and over:!!Foreign-born:!!Naturalized U.S. citizen"
+			},
+			{
+				"id": "B05003D_023E",
+				"label": "Estimate!!Total:!!Female:!!18 years and over:!!Foreign-born:!!Not a U.S. citizen"
+			},
+			{
+				"id": "B05003D_023M",
+				"label": "Margin of Error!!Total:!!Female:!!18 years and over:!!Foreign-born:!!Not a U.S. citizen"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B05003D_010EA",
+			"B05003D_018MA",
+			"B05003D_012EA",
+			"B05003D_014MA",
+			"B05003D_016MA",
+			"B05003D_015M",
+			"B05003D_003M",
+			"B05003D_018EA",
+			"B05003D_023M",
+			"B05003D_011M",
+			"B05003D_014EA",
+			"B05003D_016EA",
+			"B05003D_004E",
+			"B05003D_012E",
+			"B05003D_008M",
+			"B05003D_020E",
+			"B05003D_016M",
+			"B05003D_021MA",
+			"B05003D_002MA",
+			"B05003D_023MA",
+			"B05003D_008E",
+			"B05003D_016E",
+			"B05003D_007MA",
+			"B05003D_022EA",
+			"B05003D_001EA",
+			"B05003D_009MA",
+			"B05003D_003MA",
+			"B05003D_005MA",
+			"B05003D_020EA",
+			"B05003D_007EA",
+			"B05003D_014M",
+			"B05003D_002M",
+			"B05003D_009EA",
+			"B05003D_003EA",
+			"B05003D_022M",
+			"B05003D_010M",
+			"B05003D_005EA",
+			"NAME",
+			"B05003D_015E",
+			"B05003D_003E",
+			"B05003D_023E",
+			"B05003D_011E",
+			"B05003D_019M",
+			"B05003D_007M",
+			"B05003D_010MA",
+			"B05003D_012MA",
+			"B05003D_019E",
+			"B05003D_007E",
+			"B05003D_011EA",
+			"B05003D_019MA",
+			"B05003D_013EA",
+			"B05003D_015MA",
+			"B05003D_017MA",
+			"B05003D_019EA",
+			"B05003D_013M",
+			"B05003D_001M",
+			"B05003D_015EA",
+			"B05003D_021M",
+			"B05003D_017EA",
+			"B05003D_014E",
+			"B05003D_002E",
+			"B05003D_022E",
+			"B05003D_010E",
+			"B05003D_018M",
+			"B05003D_006M",
+			"B05003D_022MA",
+			"B05003D_001MA",
+			"B05003D_018E",
+			"B05003D_006E",
+			"B05003D_020MA",
+			"B05003D_008MA",
+			"B05003D_021EA",
+			"B05003D_002EA",
+			"B05003D_023EA",
+			"B05003D_004MA",
+			"B05003D_006MA",
+			"B05003D_004M",
+			"B05003D_008EA",
+			"B05003D_012M",
+			"B05003D_004EA",
+			"B05003D_020M",
+			"B05003D_006EA",
+			"GEO_ID",
+			"B05003D_013E",
+			"B05003D_001E",
+			"B05003D_009M",
+			"B05003D_021E",
+			"B05003D_017M",
+			"B05003D_005M",
+			"B05003D_011MA",
+			"B05003D_013MA",
+			"B05003D_009E",
+			"B05003D_017E",
+			"B05003D_005E"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"16709",
+			"18003",
+			null,
+			"28947",
+			"24373",
+			null,
+			null,
+			"1641270",
+			"2273168",
+			"20935",
+			"2286624",
+			"12438",
+			null,
+			null,
+			null,
+			"8224955",
+			"346339",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"15843",
+			"32060",
+			null,
+			null,
+			"25116",
+			"30745",
+			null,
+			"United States",
+			"1546454",
+			"1993382",
+			"2413898",
+			"3628224",
+			"20867",
+			"9148",
+			null,
+			null,
+			"9222323",
+			"243680",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"27500",
+			"46902",
+			null,
+			"26811",
+			null,
+			"1892793",
+			"10218337",
+			"4521801",
+			"5901392",
+			"9862",
+			"6766",
+			null,
+			null,
+			"239399",
+			"108432",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"17062",
+			null,
+			"31605",
+			null,
+			"27192",
+			null,
+			"0100000US",
+			"11115116",
+			"21333453",
+			"27010",
+			"6935699",
+			"7498",
+			"9869",
+			null,
+			null,
+			"2323563",
+			"106940",
+			"352112"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:32.835Z"
+}

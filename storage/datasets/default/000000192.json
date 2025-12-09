@@ -1,0 +1,120 @@
+{
+	"tableId": "ACSDT1Y2024.B06011",
+	"title": "Median Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars) by Place of Birth in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 15 years and over in the United States with income",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06011",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06011_001E",
+				"label": "Estimate!!Median income in the past 12 months --!!Total:"
+			},
+			{
+				"id": "B06011_001M",
+				"label": "Margin of Error!!Median income in the past 12 months --!!Total:"
+			},
+			{
+				"id": "B06011_002E",
+				"label": "Estimate!!Median income in the past 12 months --!!Total:!!Born in state of residence"
+			},
+			{
+				"id": "B06011_002M",
+				"label": "Margin of Error!!Median income in the past 12 months --!!Total:!!Born in state of residence"
+			},
+			{
+				"id": "B06011_003E",
+				"label": "Estimate!!Median income in the past 12 months --!!Total:!!Born in other state of the United States"
+			},
+			{
+				"id": "B06011_003M",
+				"label": "Margin of Error!!Median income in the past 12 months --!!Total:!!Born in other state of the United States"
+			},
+			{
+				"id": "B06011_004E",
+				"label": "Estimate!!Median income in the past 12 months --!!Total:!!Native; born outside the United States"
+			},
+			{
+				"id": "B06011_004M",
+				"label": "Margin of Error!!Median income in the past 12 months --!!Total:!!Native; born outside the United States"
+			},
+			{
+				"id": "B06011_005E",
+				"label": "Estimate!!Median income in the past 12 months --!!Total:!!Foreign born"
+			},
+			{
+				"id": "B06011_005M",
+				"label": "Margin of Error!!Median income in the past 12 months --!!Total:!!Foreign born"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06011_005E",
+			"B06011_001E",
+			"B06011_002E",
+			"B06011_003E",
+			"B06011_004E",
+			"B06011_002MA",
+			"B06011_005M",
+			"B06011_001MA",
+			"NAME",
+			"B06011_001M",
+			"GEO_ID",
+			"B06011_002M",
+			"B06011_005MA",
+			"B06011_003M",
+			"B06011_004MA",
+			"B06011_003MA",
+			"B06011_004M",
+			"B06011_002EA",
+			"B06011_001EA",
+			"B06011_005EA",
+			"B06011_004EA",
+			"B06011_003EA"
+		],
+		[
+			"39748",
+			"41765",
+			"40240",
+			"48160",
+			"40157",
+			null,
+			"234",
+			null,
+			"United States",
+			"58",
+			"0100000US",
+			"65",
+			null,
+			"165",
+			null,
+			null,
+			"356",
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.661Z"
+}

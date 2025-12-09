@@ -1,0 +1,56 @@
+{
+	"tableId": "ACSDT1Y2024.B02010",
+	"title": "American Indian and Alaska Native Alone or in Combination With One or More Other Races",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "American Indian or Alaska Native alone or in combination with one or more other races",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B02010",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B02010_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B02010_001M",
+				"label": "Margin of Error!!Total:"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"GEO_ID",
+			"B02010_001E",
+			"B02010_001MA",
+			"B02010_001M",
+			"B02010_001EA",
+			"NAME"
+		],
+		[
+			"0100000US",
+			"9107719",
+			null,
+			"82551",
+			null,
+			"United States"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:28.913Z"
+}

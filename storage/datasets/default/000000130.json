@@ -1,0 +1,392 @@
+{
+	"tableId": "ACSDT1Y2024.B02023",
+	"title": "Black or African American Alone by Selected Groups",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total Black or African American alone population",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B02023",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B02023_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B02023_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B02023_002E",
+				"label": "Estimate!!Total:!!African American"
+			},
+			{
+				"id": "B02023_002M",
+				"label": "Margin of Error!!Total:!!African American"
+			},
+			{
+				"id": "B02023_003E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Cameroonian"
+			},
+			{
+				"id": "B02023_003M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Cameroonian"
+			},
+			{
+				"id": "B02023_004E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Congolese"
+			},
+			{
+				"id": "B02023_004M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Congolese"
+			},
+			{
+				"id": "B02023_005E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Eritrean"
+			},
+			{
+				"id": "B02023_005M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Eritrean"
+			},
+			{
+				"id": "B02023_006E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Ethiopian"
+			},
+			{
+				"id": "B02023_006M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Ethiopian"
+			},
+			{
+				"id": "B02023_007E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Ghanaian"
+			},
+			{
+				"id": "B02023_007M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Ghanaian"
+			},
+			{
+				"id": "B02023_008E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Kenyan"
+			},
+			{
+				"id": "B02023_008M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Kenyan"
+			},
+			{
+				"id": "B02023_009E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Liberian"
+			},
+			{
+				"id": "B02023_009M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Liberian"
+			},
+			{
+				"id": "B02023_010E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Nigerian"
+			},
+			{
+				"id": "B02023_010M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Nigerian"
+			},
+			{
+				"id": "B02023_011E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Sierra Leonean"
+			},
+			{
+				"id": "B02023_011M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Sierra Leonean"
+			},
+			{
+				"id": "B02023_012E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Somali"
+			},
+			{
+				"id": "B02023_012M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Somali"
+			},
+			{
+				"id": "B02023_013E",
+				"label": "Estimate!!Total:!!Sub-Saharan African:!!Sudanese"
+			},
+			{
+				"id": "B02023_013M",
+				"label": "Margin of Error!!Total:!!Sub-Saharan African:!!Sudanese"
+			},
+			{
+				"id": "B02023_014E",
+				"label": "Estimate!!Total:!!Caribbean:!!Bahamian"
+			},
+			{
+				"id": "B02023_014M",
+				"label": "Margin of Error!!Total:!!Caribbean:!!Bahamian"
+			},
+			{
+				"id": "B02023_015E",
+				"label": "Estimate!!Total:!!Caribbean:!!Barbadian"
+			},
+			{
+				"id": "B02023_015M",
+				"label": "Margin of Error!!Total:!!Caribbean:!!Barbadian"
+			},
+			{
+				"id": "B02023_016E",
+				"label": "Estimate!!Total:!!Caribbean:!!Haitian"
+			},
+			{
+				"id": "B02023_016M",
+				"label": "Margin of Error!!Total:!!Caribbean:!!Haitian"
+			},
+			{
+				"id": "B02023_017E",
+				"label": "Estimate!!Total:!!Caribbean:!!Jamaican"
+			},
+			{
+				"id": "B02023_017M",
+				"label": "Margin of Error!!Total:!!Caribbean:!!Jamaican"
+			},
+			{
+				"id": "B02023_018E",
+				"label": "Estimate!!Total:!!Caribbean:!!Trinidadian and Tobagonian"
+			},
+			{
+				"id": "B02023_018M",
+				"label": "Margin of Error!!Total:!!Caribbean:!!Trinidadian and Tobagonian"
+			},
+			{
+				"id": "B02023_019E",
+				"label": "Estimate!!Total:!!Caribbean:!!West Indian"
+			},
+			{
+				"id": "B02023_019M",
+				"label": "Margin of Error!!Total:!!Caribbean:!!West Indian"
+			},
+			{
+				"id": "B02023_020E",
+				"label": "Estimate!!Total:!!Other Black or African American, specified"
+			},
+			{
+				"id": "B02023_020M",
+				"label": "Margin of Error!!Total:!!Other Black or African American, specified"
+			},
+			{
+				"id": "B02023_021E",
+				"label": "Estimate!!Total:!!Other Black or African American, not specified"
+			},
+			{
+				"id": "B02023_021M",
+				"label": "Margin of Error!!Total:!!Other Black or African American, not specified"
+			},
+			{
+				"id": "B02023_022E",
+				"label": "Estimate!!Total:!!Two or more Black or African American"
+			},
+			{
+				"id": "B02023_022M",
+				"label": "Margin of Error!!Total:!!Two or more Black or African American"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B02023_006E",
+			"B02023_018E",
+			"B02023_002E",
+			"B02023_014E",
+			"B02023_022E",
+			"B02023_006M",
+			"B02023_009EA",
+			"B02023_010E",
+			"B02023_018M",
+			"B02023_007EA",
+			"B02023_002M",
+			"B02023_014M",
+			"B02023_022M",
+			"B02023_012EA",
+			"B02023_010M",
+			"B02023_010EA",
+			"B02023_018MA",
+			"B02023_016EA",
+			"B02023_014EA",
+			"B02023_012MA",
+			"B02023_010MA",
+			"B02023_016MA",
+			"B02023_014MA",
+			"B02023_019E",
+			"B02023_017E",
+			"B02023_005E",
+			"B02023_013E",
+			"B02023_001E",
+			"B02023_009M",
+			"B02023_017M",
+			"B02023_021E",
+			"B02023_018EA",
+			"B02023_005M",
+			"B02023_013M",
+			"B02023_001M",
+			"NAME",
+			"B02023_008MA",
+			"B02023_021M",
+			"B02023_021EA",
+			"B02023_006MA",
+			"B02023_004EA",
+			"B02023_002EA",
+			"B02023_021MA",
+			"B02023_004MA",
+			"B02023_002MA",
+			"B02023_004E",
+			"B02023_016E",
+			"B02023_008M",
+			"B02023_012E",
+			"B02023_020E",
+			"B02023_008EA",
+			"B02023_004M",
+			"B02023_006EA",
+			"B02023_016M",
+			"B02023_012M",
+			"B02023_020M",
+			"B02023_011EA",
+			"B02023_019MA",
+			"B02023_017MA",
+			"B02023_015EA",
+			"B02023_013EA",
+			"B02023_011MA",
+			"B02023_015MA",
+			"B02023_009E",
+			"B02023_013MA",
+			"B02023_007E",
+			"B02023_015E",
+			"B02023_003E",
+			"B02023_011E",
+			"B02023_019M",
+			"B02023_007M",
+			"B02023_019EA",
+			"B02023_015M",
+			"B02023_017EA",
+			"B02023_003M",
+			"B02023_011M",
+			"B02023_009MA",
+			"GEO_ID",
+			"B02023_001EA",
+			"B02023_022EA",
+			"B02023_007MA",
+			"B02023_020EA",
+			"B02023_005EA",
+			"B02023_003EA",
+			"B02023_001MA",
+			"B02023_022MA",
+			"B02023_020MA",
+			"B02023_005MA",
+			"B02023_003MA",
+			"B02023_008E"
+		],
+		[
+			"381337",
+			"144242",
+			"20965880",
+			"31457",
+			"260210",
+			"25573",
+			null,
+			"701319",
+			"12138",
+			null,
+			"129188",
+			"5159",
+			"16010",
+			null,
+			"32688",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"89548",
+			"986647",
+			"71777",
+			"69540",
+			"41115988",
+			"11311",
+			"33742",
+			"13445903",
+			null,
+			"11915",
+			"12019",
+			"105449",
+			"United States",
+			null,
+			"126847",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"109528",
+			"1248214",
+			"13622",
+			"247769",
+			"1778085",
+			null,
+			"13831",
+			null,
+			"50112",
+			"23343",
+			"67223",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"73476",
+			null,
+			"227522",
+			"42138",
+			"78440",
+			"32199",
+			"10636",
+			"17352",
+			null,
+			"6085",
+			null,
+			"11276",
+			"6939",
+			null,
+			"0100000US",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"130757"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:31.421Z"
+}

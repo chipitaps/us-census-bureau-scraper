@@ -1,0 +1,1000 @@
+{
+	"tableId": "ACSDT1Y2024.B06001",
+	"title": "Place of Birth by Age in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total population in the United States",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06001",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06001_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06001_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06001_002E",
+				"label": "Estimate!!Total:!!Under 5 years"
+			},
+			{
+				"id": "B06001_002M",
+				"label": "Margin of Error!!Total:!!Under 5 years"
+			},
+			{
+				"id": "B06001_003E",
+				"label": "Estimate!!Total:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_003M",
+				"label": "Margin of Error!!Total:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_004E",
+				"label": "Estimate!!Total:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_004M",
+				"label": "Margin of Error!!Total:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_005E",
+				"label": "Estimate!!Total:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_005M",
+				"label": "Margin of Error!!Total:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_006E",
+				"label": "Estimate!!Total:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_006M",
+				"label": "Margin of Error!!Total:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_007E",
+				"label": "Estimate!!Total:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_007M",
+				"label": "Margin of Error!!Total:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_008E",
+				"label": "Estimate!!Total:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_008M",
+				"label": "Margin of Error!!Total:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_009E",
+				"label": "Estimate!!Total:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_009M",
+				"label": "Margin of Error!!Total:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_010E",
+				"label": "Estimate!!Total:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_010M",
+				"label": "Margin of Error!!Total:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_011E",
+				"label": "Estimate!!Total:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_011M",
+				"label": "Margin of Error!!Total:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_012E",
+				"label": "Estimate!!Total:!!75 years and over"
+			},
+			{
+				"id": "B06001_012M",
+				"label": "Margin of Error!!Total:!!75 years and over"
+			},
+			{
+				"id": "B06001_013E",
+				"label": "Estimate!!Total:!!Born in state of residence:"
+			},
+			{
+				"id": "B06001_013M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:"
+			},
+			{
+				"id": "B06001_014E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!Under 5 years"
+			},
+			{
+				"id": "B06001_014M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!Under 5 years"
+			},
+			{
+				"id": "B06001_015E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_015M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_016E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_016M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_017E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_017M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_018E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_018M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_019E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_019M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_020E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_020M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_021E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_021M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_022E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_022M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_023E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_023M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_024E",
+				"label": "Estimate!!Total:!!Born in state of residence:!!75 years and over"
+			},
+			{
+				"id": "B06001_024M",
+				"label": "Margin of Error!!Total:!!Born in state of residence:!!75 years and over"
+			},
+			{
+				"id": "B06001_025E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B06001_025M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:"
+			},
+			{
+				"id": "B06001_026E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!Under 5 years"
+			},
+			{
+				"id": "B06001_026M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!Under 5 years"
+			},
+			{
+				"id": "B06001_027E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_027M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_028E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_028M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_029E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_029M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_030E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_030M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_031E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_031M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_032E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_032M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_033E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_033M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_034E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_034M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_035E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_035M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_036E",
+				"label": "Estimate!!Total:!!Born in other state in the United States:!!75 years and over"
+			},
+			{
+				"id": "B06001_036M",
+				"label": "Margin of Error!!Total:!!Born in other state in the United States:!!75 years and over"
+			},
+			{
+				"id": "B06001_037E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:"
+			},
+			{
+				"id": "B06001_037M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:"
+			},
+			{
+				"id": "B06001_038E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!Under 5 years"
+			},
+			{
+				"id": "B06001_038M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!Under 5 years"
+			},
+			{
+				"id": "B06001_039E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_039M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_040E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_040M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_041E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_041M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_042E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_042M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_043E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_043M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_044E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_044M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_045E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_045M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_046E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_046M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_047E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_047M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_048E",
+				"label": "Estimate!!Total:!!Native; born outside the United States:!!75 years and over"
+			},
+			{
+				"id": "B06001_048M",
+				"label": "Margin of Error!!Total:!!Native; born outside the United States:!!75 years and over"
+			},
+			{
+				"id": "B06001_049E",
+				"label": "Estimate!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06001_049M",
+				"label": "Margin of Error!!Total:!!Foreign born:"
+			},
+			{
+				"id": "B06001_050E",
+				"label": "Estimate!!Total:!!Foreign born:!!Under 5 years"
+			},
+			{
+				"id": "B06001_050M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!Under 5 years"
+			},
+			{
+				"id": "B06001_051E",
+				"label": "Estimate!!Total:!!Foreign born:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_051M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!5 to 17 years"
+			},
+			{
+				"id": "B06001_052E",
+				"label": "Estimate!!Total:!!Foreign born:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_052M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!18 to 24 years"
+			},
+			{
+				"id": "B06001_053E",
+				"label": "Estimate!!Total:!!Foreign born:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_053M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!25 to 34 years"
+			},
+			{
+				"id": "B06001_054E",
+				"label": "Estimate!!Total:!!Foreign born:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_054M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!35 to 44 years"
+			},
+			{
+				"id": "B06001_055E",
+				"label": "Estimate!!Total:!!Foreign born:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_055M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!45 to 54 years"
+			},
+			{
+				"id": "B06001_056E",
+				"label": "Estimate!!Total:!!Foreign born:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_056M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!55 to 59 years"
+			},
+			{
+				"id": "B06001_057E",
+				"label": "Estimate!!Total:!!Foreign born:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_057M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!60 and 61 years"
+			},
+			{
+				"id": "B06001_058E",
+				"label": "Estimate!!Total:!!Foreign born:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_058M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!62 to 64 years"
+			},
+			{
+				"id": "B06001_059E",
+				"label": "Estimate!!Total:!!Foreign born:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_059M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!65 to 74 years"
+			},
+			{
+				"id": "B06001_060E",
+				"label": "Estimate!!Total:!!Foreign born:!!75 years and over"
+			},
+			{
+				"id": "B06001_060M",
+				"label": "Margin of Error!!Total:!!Foreign born:!!75 years and over"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B06001_014M",
+			"B06001_002M",
+			"B06001_020MA",
+			"B06001_043MA",
+			"B06001_005MA",
+			"B06001_026M",
+			"B06001_038M",
+			"B06001_014E",
+			"B06001_002E",
+			"B06001_001EA",
+			"B06001_028MA",
+			"B06001_024EA",
+			"B06001_047EA",
+			"B06001_026E",
+			"B06001_038E",
+			"B06001_009EA",
+			"B06001_055MA",
+			"B06001_025M",
+			"B06001_013M",
+			"B06001_001M",
+			"B06001_032MA",
+			"B06001_037M",
+			"B06001_049M",
+			"B06001_025E",
+			"B06001_013E",
+			"B06001_001E",
+			"B06001_017MA",
+			"B06001_051EA",
+			"B06001_013EA",
+			"B06001_036EA",
+			"B06001_037E",
+			"B06001_049E",
+			"B06001_059EA",
+			"B06001_024M",
+			"B06001_036M",
+			"B06001_012M",
+			"B06001_042MA",
+			"B06001_027MA",
+			"B06001_048M",
+			"B06001_004MA",
+			"B06001_023EA",
+			"B06001_024E",
+			"B06001_036E",
+			"B06001_012E",
+			"B06001_048E",
+			"B06001_046EA",
+			"B06001_008EA",
+			"B06001_054MA",
+			"B06001_035M",
+			"B06001_047M",
+			"B06001_023M",
+			"B06001_011M",
+			"B06001_031MA",
+			"B06001_016MA",
+			"B06001_059M",
+			"B06001_035E",
+			"B06001_012EA",
+			"B06001_047E",
+			"B06001_050EA",
+			"B06001_023E",
+			"B06001_011E",
+			"B06001_039MA",
+			"B06001_059E",
+			"B06001_035EA",
+			"B06001_058EA",
+			"B06001_050M",
+			"B06001_041MA",
+			"B06001_050E",
+			"B06001_003MA",
+			"B06001_018M",
+			"B06001_026MA",
+			"B06001_049MA",
+			"B06001_006M",
+			"B06001_022EA",
+			"B06001_045EA",
+			"B06001_060EA",
+			"B06001_018E",
+			"B06001_006E",
+			"B06001_007EA",
+			"B06001_030MA",
+			"B06001_053MA",
+			"NAME",
+			"B06001_015MA",
+			"B06001_029M",
+			"B06001_038MA",
+			"B06001_017M",
+			"B06001_005M",
+			"B06001_011EA",
+			"B06001_034EA",
+			"B06001_029E",
+			"B06001_017E",
+			"B06001_005E",
+			"B06001_019EA",
+			"B06001_057EA",
+			"B06001_060M",
+			"B06001_040MA",
+			"B06001_060E",
+			"B06001_002MA",
+			"B06001_028M",
+			"B06001_048MA",
+			"B06001_016M",
+			"B06001_004M",
+			"B06001_025MA",
+			"B06001_044EA",
+			"B06001_021EA",
+			"B06001_028E",
+			"B06001_016E",
+			"B06001_004E",
+			"B06001_006EA",
+			"B06001_029EA",
+			"B06001_003M",
+			"B06001_052MA",
+			"B06001_039M",
+			"B06001_037MA",
+			"B06001_027M",
+			"B06001_014MA",
+			"B06001_015M",
+			"B06001_056EA",
+			"B06001_003E",
+			"B06001_033EA",
+			"B06001_010EA",
+			"B06001_039E",
+			"B06001_027E",
+			"B06001_015E",
+			"B06001_018EA",
+			"B06001_042M",
+			"B06001_054M",
+			"B06001_030M",
+			"B06001_001MA",
+			"B06001_042E",
+			"B06001_054E",
+			"B06001_024MA",
+			"B06001_047MA",
+			"B06001_030E",
+			"B06001_009MA",
+			"B06001_020EA",
+			"B06001_043EA",
+			"B06001_005EA",
+			"B06001_028EA",
+			"B06001_053M",
+			"B06001_041M",
+			"B06001_051MA",
+			"B06001_053E",
+			"B06001_013MA",
+			"B06001_036MA",
+			"B06001_055EA",
+			"B06001_041E",
+			"B06001_009M",
+			"B06001_032EA",
+			"B06001_059MA",
+			"B06001_009E",
+			"B06001_017EA",
+			"B06001_040M",
+			"B06001_052M",
+			"B06001_023MA",
+			"B06001_040E",
+			"B06001_046MA",
+			"B06001_052E",
+			"B06001_008MA",
+			"B06001_008M",
+			"B06001_042EA",
+			"B06001_027EA",
+			"B06001_004EA",
+			"B06001_008E",
+			"B06001_051M",
+			"B06001_012MA",
+			"B06001_050MA",
+			"B06001_007M",
+			"B06001_054EA",
+			"B06001_051E",
+			"B06001_035MA",
+			"B06001_058MA",
+			"B06001_019M",
+			"B06001_031EA",
+			"B06001_007E",
+			"B06001_016EA",
+			"B06001_019E",
+			"B06001_039EA",
+			"B06001_010M",
+			"B06001_022MA",
+			"B06001_045MA",
+			"B06001_046M",
+			"B06001_060MA",
+			"B06001_058M",
+			"B06001_022M",
+			"B06001_034M",
+			"B06001_010E",
+			"B06001_041EA",
+			"B06001_046E",
+			"B06001_058E",
+			"B06001_007MA",
+			"B06001_022E",
+			"B06001_034E",
+			"B06001_003EA",
+			"B06001_026EA",
+			"B06001_049EA",
+			"B06001_021M",
+			"B06001_011MA",
+			"B06001_034MA",
+			"B06001_057M",
+			"B06001_033M",
+			"B06001_045M",
+			"B06001_021E",
+			"B06001_030EA",
+			"B06001_053EA",
+			"B06001_019MA",
+			"B06001_057E",
+			"B06001_057MA",
+			"B06001_033E",
+			"B06001_045E",
+			"B06001_015EA",
+			"B06001_038EA",
+			"B06001_020M",
+			"B06001_032M",
+			"B06001_044MA",
+			"B06001_044M",
+			"B06001_021MA",
+			"B06001_056M",
+			"B06001_020E",
+			"B06001_032E",
+			"B06001_040EA",
+			"B06001_006MA",
+			"B06001_044E",
+			"B06001_029MA",
+			"B06001_056E",
+			"B06001_002EA",
+			"B06001_048EA",
+			"B06001_025EA",
+			"B06001_031M",
+			"B06001_043M",
+			"B06001_056MA",
+			"B06001_033MA",
+			"B06001_055M",
+			"B06001_010MA",
+			"B06001_031E",
+			"GEO_ID",
+			"B06001_043E",
+			"B06001_055E",
+			"B06001_018MA",
+			"B06001_052EA",
+			"B06001_037EA",
+			"B06001_014EA"
+		],
+		[
+			"40461",
+			"18704",
+			null,
+			null,
+			null,
+			"28916",
+			"10715",
+			"16038840",
+			"18365047",
+			null,
+			null,
+			null,
+			null,
+			"1700199",
+			"219196",
+			null,
+			null,
+			"204628",
+			"201135",
+			"-555555555",
+			null,
+			"60432",
+			"162664",
+			"91796640",
+			"192192461",
+			"340110990",
+			null,
+			null,
+			null,
+			null,
+			"5887031",
+			"50234858",
+			null,
+			"40865",
+			"39788",
+			"16745",
+			null,
+			null,
+			"10371",
+			null,
+			null,
+			"11415367",
+			"10081227",
+			"25660192",
+			"356826",
+			null,
+			null,
+			null,
+			"47108",
+			"12899",
+			"48580",
+			"21264",
+			null,
+			null,
+			"29299",
+			"12943341",
+			null,
+			"569847",
+			null,
+			"16776998",
+			"35585091",
+			null,
+			"5294905",
+			null,
+			null,
+			"16892",
+			null,
+			"406812",
+			null,
+			"55243",
+			null,
+			null,
+			"36741",
+			null,
+			null,
+			null,
+			"22172404",
+			"45956885",
+			null,
+			null,
+			null,
+			"United States",
+			null,
+			"68094",
+			null,
+			"70450",
+			"43885",
+			null,
+			null,
+			"12719827",
+			"25284388",
+			"46198405",
+			null,
+			null,
+			"29091",
+			null,
+			"3806772",
+			null,
+			"47918",
+			null,
+			"70847",
+			"48363",
+			null,
+			null,
+			null,
+			"7290449",
+			"20509121",
+			"31270959",
+			null,
+			null,
+			"31737",
+			null,
+			"26944",
+			null,
+			"70660",
+			null,
+			"82397",
+			null,
+			"54564265",
+			null,
+			null,
+			"917906",
+			"8446366",
+			"42429298",
+			null,
+			"19466",
+			"50570",
+			"64634",
+			"*****",
+			"868873",
+			"10015582",
+			null,
+			null,
+			"12900026",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"60810",
+			"22326",
+			null,
+			"7354894",
+			null,
+			null,
+			null,
+			"839296",
+			"42843",
+			null,
+			null,
+			"8707441",
+			null,
+			"16301",
+			"41982",
+			null,
+			"550493",
+			null,
+			"2920896",
+			null,
+			"64318",
+			null,
+			null,
+			null,
+			"19958796",
+			"43022",
+			null,
+			null,
+			"34958",
+			null,
+			"2770695",
+			null,
+			null,
+			"53363",
+			null,
+			"40822885",
+			null,
+			"18319798",
+			null,
+			"58023",
+			null,
+			null,
+			"8891",
+			null,
+			"26908",
+			"38239",
+			"36622",
+			"13021024",
+			null,
+			"224045",
+			"2147550",
+			null,
+			"6183399",
+			"4466030",
+			null,
+			null,
+			null,
+			"32746",
+			null,
+			null,
+			"23814",
+			"31080",
+			"7049",
+			"4041641",
+			null,
+			null,
+			null,
+			"1610341",
+			null,
+			"2894755",
+			"160704",
+			null,
+			null,
+			"55226",
+			"43558",
+			null,
+			"13225",
+			null,
+			"35852",
+			"9021207",
+			"6371116",
+			null,
+			null,
+			"381407",
+			null,
+			"4185066",
+			null,
+			null,
+			null,
+			"53220",
+			"18681",
+			null,
+			null,
+			"44873",
+			null,
+			"11983304",
+			"0100000US",
+			"798438",
+			"9721345",
+			null,
+			null,
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:35.363Z"
+}

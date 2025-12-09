@@ -1,0 +1,3403 @@
+{
+	"tableId": "ACSST1Y2024.S2702PR",
+	"title": "Selected Characteristics of the Uninsured in Puerto Rico",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S2702PR",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S2702PR_C01_001E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2702PR_C01_001M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2702PR_C02_001E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2702PR_C02_001M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population"
+			},
+			{
+				"id": "S2702PR_C01_002E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!Under 19 years"
+			},
+			{
+				"id": "S2702PR_C01_002M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!Under 19 years"
+			},
+			{
+				"id": "S2702PR_C02_002E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!Under 19 years"
+			},
+			{
+				"id": "S2702PR_C02_002M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!Under 19 years"
+			},
+			{
+				"id": "S2702PR_C01_003E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!Under 19 years!!Under 6 years"
+			},
+			{
+				"id": "S2702PR_C01_003M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!Under 19 years!!Under 6 years"
+			},
+			{
+				"id": "S2702PR_C02_003E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!Under 19 years!!Under 6 years"
+			},
+			{
+				"id": "S2702PR_C02_003M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!Under 19 years!!Under 6 years"
+			},
+			{
+				"id": "S2702PR_C01_004E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!Under 19 years!!6 to 18 years"
+			},
+			{
+				"id": "S2702PR_C01_004M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!Under 19 years!!6 to 18 years"
+			},
+			{
+				"id": "S2702PR_C02_004E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!Under 19 years!!6 to 18 years"
+			},
+			{
+				"id": "S2702PR_C02_004M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!Under 19 years!!6 to 18 years"
+			},
+			{
+				"id": "S2702PR_C01_005E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years"
+			},
+			{
+				"id": "S2702PR_C01_005M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years"
+			},
+			{
+				"id": "S2702PR_C02_005E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years"
+			},
+			{
+				"id": "S2702PR_C02_005M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years"
+			},
+			{
+				"id": "S2702PR_C01_006E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!19 to 25 years"
+			},
+			{
+				"id": "S2702PR_C01_006M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!19 to 25 years"
+			},
+			{
+				"id": "S2702PR_C02_006E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!19 to 25 years"
+			},
+			{
+				"id": "S2702PR_C02_006M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!19 to 25 years"
+			},
+			{
+				"id": "S2702PR_C01_007E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!26 to 34 years"
+			},
+			{
+				"id": "S2702PR_C01_007M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!26 to 34 years"
+			},
+			{
+				"id": "S2702PR_C02_007E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!26 to 34 years"
+			},
+			{
+				"id": "S2702PR_C02_007M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!26 to 34 years"
+			},
+			{
+				"id": "S2702PR_C01_008E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!35 to 44 years"
+			},
+			{
+				"id": "S2702PR_C01_008M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!35 to 44 years"
+			},
+			{
+				"id": "S2702PR_C02_008E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!35 to 44 years"
+			},
+			{
+				"id": "S2702PR_C02_008M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!35 to 44 years"
+			},
+			{
+				"id": "S2702PR_C01_009E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!45 to 54 years"
+			},
+			{
+				"id": "S2702PR_C01_009M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!45 to 54 years"
+			},
+			{
+				"id": "S2702PR_C02_009E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!45 to 54 years"
+			},
+			{
+				"id": "S2702PR_C02_009M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!45 to 54 years"
+			},
+			{
+				"id": "S2702PR_C01_010E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!55 to 64 years"
+			},
+			{
+				"id": "S2702PR_C01_010M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!55 to 64 years"
+			},
+			{
+				"id": "S2702PR_C02_010E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!55 to 64 years"
+			},
+			{
+				"id": "S2702PR_C02_010M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!19 to 64 years!!55 to 64 years"
+			},
+			{
+				"id": "S2702PR_C01_011E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!65 years and older"
+			},
+			{
+				"id": "S2702PR_C01_011M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!65 years and older"
+			},
+			{
+				"id": "S2702PR_C02_011E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!65 years and older"
+			},
+			{
+				"id": "S2702PR_C02_011M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!65 years and older"
+			},
+			{
+				"id": "S2702PR_C01_012E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!65 years and older!!65 to 74 years"
+			},
+			{
+				"id": "S2702PR_C01_012M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!65 years and older!!65 to 74 years"
+			},
+			{
+				"id": "S2702PR_C02_012E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!65 years and older!!65 to 74 years"
+			},
+			{
+				"id": "S2702PR_C02_012M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!65 years and older!!65 to 74 years"
+			},
+			{
+				"id": "S2702PR_C01_013E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!65 years and older!!75 years and older"
+			},
+			{
+				"id": "S2702PR_C01_013M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!65 years and older!!75 years and older"
+			},
+			{
+				"id": "S2702PR_C02_013E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!65 years and older!!75 years and older"
+			},
+			{
+				"id": "S2702PR_C02_013M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!65 years and older!!75 years and older"
+			},
+			{
+				"id": "S2702PR_C01_014E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!AGE!!Median age (years)"
+			},
+			{
+				"id": "S2702PR_C01_014M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!AGE!!Median age (years)"
+			},
+			{
+				"id": "S2702PR_C02_014E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!Median age (years)"
+			},
+			{
+				"id": "S2702PR_C02_014M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!AGE!!Median age (years)"
+			},
+			{
+				"id": "S2702PR_C01_015E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!SEX!!Male"
+			},
+			{
+				"id": "S2702PR_C01_015M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!SEX!!Male"
+			},
+			{
+				"id": "S2702PR_C02_015E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!SEX!!Male"
+			},
+			{
+				"id": "S2702PR_C02_015M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!SEX!!Male"
+			},
+			{
+				"id": "S2702PR_C01_016E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!SEX!!Female"
+			},
+			{
+				"id": "S2702PR_C01_016M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!SEX!!Female"
+			},
+			{
+				"id": "S2702PR_C02_016E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!SEX!!Female"
+			},
+			{
+				"id": "S2702PR_C02_016M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!SEX!!Female"
+			},
+			{
+				"id": "S2702PR_C01_017E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S2702PR_C01_017M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S2702PR_C02_017E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S2702PR_C02_017M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race"
+			},
+			{
+				"id": "S2702PR_C01_018E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White alone"
+			},
+			{
+				"id": "S2702PR_C01_018M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White alone"
+			},
+			{
+				"id": "S2702PR_C02_018E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White alone"
+			},
+			{
+				"id": "S2702PR_C02_018M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White alone"
+			},
+			{
+				"id": "S2702PR_C01_019E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American alone"
+			},
+			{
+				"id": "S2702PR_C01_019M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American alone"
+			},
+			{
+				"id": "S2702PR_C02_019E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American alone"
+			},
+			{
+				"id": "S2702PR_C02_019M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American alone"
+			},
+			{
+				"id": "S2702PR_C01_020E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native alone"
+			},
+			{
+				"id": "S2702PR_C01_020M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native alone"
+			},
+			{
+				"id": "S2702PR_C02_020E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native alone"
+			},
+			{
+				"id": "S2702PR_C02_020M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native alone"
+			},
+			{
+				"id": "S2702PR_C01_021E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian alone"
+			},
+			{
+				"id": "S2702PR_C01_021M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian alone"
+			},
+			{
+				"id": "S2702PR_C02_021E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian alone"
+			},
+			{
+				"id": "S2702PR_C02_021M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian alone"
+			},
+			{
+				"id": "S2702PR_C01_022E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander alone"
+			},
+			{
+				"id": "S2702PR_C01_022M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander alone"
+			},
+			{
+				"id": "S2702PR_C02_022E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander alone"
+			},
+			{
+				"id": "S2702PR_C02_022M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander alone"
+			},
+			{
+				"id": "S2702PR_C01_023E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race alone"
+			},
+			{
+				"id": "S2702PR_C01_023M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race alone"
+			},
+			{
+				"id": "S2702PR_C02_023E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race alone"
+			},
+			{
+				"id": "S2702PR_C02_023M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race alone"
+			},
+			{
+				"id": "S2702PR_C01_024E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2702PR_C01_024M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2702PR_C02_024E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2702PR_C02_024M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2702PR_C01_025E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino (of any race)"
+			},
+			{
+				"id": "S2702PR_C01_025M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino (of any race)"
+			},
+			{
+				"id": "S2702PR_C02_025E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino (of any race)"
+			},
+			{
+				"id": "S2702PR_C02_025M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino (of any race)"
+			},
+			{
+				"id": "S2702PR_C01_026E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2702PR_C01_026M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2702PR_C02_026E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2702PR_C02_026M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2702PR_C01_027E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born"
+			},
+			{
+				"id": "S2702PR_C01_027M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born"
+			},
+			{
+				"id": "S2702PR_C02_027E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born"
+			},
+			{
+				"id": "S2702PR_C02_027M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born"
+			},
+			{
+				"id": "S2702PR_C01_028E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born"
+			},
+			{
+				"id": "S2702PR_C01_028M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born"
+			},
+			{
+				"id": "S2702PR_C02_028E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born"
+			},
+			{
+				"id": "S2702PR_C02_028M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born"
+			},
+			{
+				"id": "S2702PR_C01_029E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized"
+			},
+			{
+				"id": "S2702PR_C01_029M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized"
+			},
+			{
+				"id": "S2702PR_C02_029E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized"
+			},
+			{
+				"id": "S2702PR_C02_029M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized"
+			},
+			{
+				"id": "S2702PR_C01_030E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen"
+			},
+			{
+				"id": "S2702PR_C01_030M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen"
+			},
+			{
+				"id": "S2702PR_C02_030E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen"
+			},
+			{
+				"id": "S2702PR_C02_030M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen"
+			},
+			{
+				"id": "S2702PR_C01_031E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!DISABILITY STATUS!!With a disability"
+			},
+			{
+				"id": "S2702PR_C01_031M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!DISABILITY STATUS!!With a disability"
+			},
+			{
+				"id": "S2702PR_C02_031E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!DISABILITY STATUS!!With a disability"
+			},
+			{
+				"id": "S2702PR_C02_031M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!DISABILITY STATUS!!With a disability"
+			},
+			{
+				"id": "S2702PR_C01_032E",
+				"label": "Estimate!!Total!!Total civilian noninstitutionalized population!!DISABILITY STATUS!!No disability"
+			},
+			{
+				"id": "S2702PR_C01_032M",
+				"label": "Margin of Error!!Total!!Total civilian noninstitutionalized population!!DISABILITY STATUS!!No disability"
+			},
+			{
+				"id": "S2702PR_C02_032E",
+				"label": "Estimate!!Total Uninsured!!Total civilian noninstitutionalized population!!DISABILITY STATUS!!No disability"
+			},
+			{
+				"id": "S2702PR_C02_032M",
+				"label": "Margin of Error!!Total Uninsured!!Total civilian noninstitutionalized population!!DISABILITY STATUS!!No disability"
+			},
+			{
+				"id": "S2702PR_C01_033E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over"
+			},
+			{
+				"id": "S2702PR_C01_033M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over"
+			},
+			{
+				"id": "S2702PR_C02_033E",
+				"label": "Estimate!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over"
+			},
+			{
+				"id": "S2702PR_C02_033M",
+				"label": "Margin of Error!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over"
+			},
+			{
+				"id": "S2702PR_C01_034E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Same house"
+			},
+			{
+				"id": "S2702PR_C01_034M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Same house"
+			},
+			{
+				"id": "S2702PR_C02_034E",
+				"label": "Estimate!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Same house"
+			},
+			{
+				"id": "S2702PR_C02_034M",
+				"label": "Margin of Error!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Same house"
+			},
+			{
+				"id": "S2702PR_C01_035E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States"
+			},
+			{
+				"id": "S2702PR_C01_035M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States"
+			},
+			{
+				"id": "S2702PR_C02_035E",
+				"label": "Estimate!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States"
+			},
+			{
+				"id": "S2702PR_C02_035M",
+				"label": "Margin of Error!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States"
+			},
+			{
+				"id": "S2702PR_C01_036E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!In Puerto Rico"
+			},
+			{
+				"id": "S2702PR_C01_036M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!In Puerto Rico"
+			},
+			{
+				"id": "S2702PR_C02_036E",
+				"label": "Estimate!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!In Puerto Rico"
+			},
+			{
+				"id": "S2702PR_C02_036M",
+				"label": "Margin of Error!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!In Puerto Rico"
+			},
+			{
+				"id": "S2702PR_C01_037E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio"
+			},
+			{
+				"id": "S2702PR_C01_037M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio"
+			},
+			{
+				"id": "S2702PR_C02_037E",
+				"label": "Estimate!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio"
+			},
+			{
+				"id": "S2702PR_C02_037M",
+				"label": "Margin of Error!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio"
+			},
+			{
+				"id": "S2702PR_C01_038E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio!!Different municipio"
+			},
+			{
+				"id": "S2702PR_C01_038M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio!!Different municipio"
+			},
+			{
+				"id": "S2702PR_C02_038E",
+				"label": "Estimate!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio!!Different municipio"
+			},
+			{
+				"id": "S2702PR_C02_038M",
+				"label": "Margin of Error!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio!!Different municipio"
+			},
+			{
+				"id": "S2702PR_C01_039E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio!!In the United States"
+			},
+			{
+				"id": "S2702PR_C01_039M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio!!In the United States"
+			},
+			{
+				"id": "S2702PR_C02_039E",
+				"label": "Estimate!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio!!In the United States"
+			},
+			{
+				"id": "S2702PR_C02_039M",
+				"label": "Margin of Error!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Different House in Puerto Rico or the United States!!Same municipio!!In the United States"
+			},
+			{
+				"id": "S2702PR_C01_040E",
+				"label": "Estimate!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Elsewhere"
+			},
+			{
+				"id": "S2702PR_C01_040M",
+				"label": "Margin of Error!!Total!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Elsewhere"
+			},
+			{
+				"id": "S2702PR_C02_040E",
+				"label": "Estimate!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Elsewhere"
+			},
+			{
+				"id": "S2702PR_C02_040M",
+				"label": "Margin of Error!!Total Uninsured!!RESIDENCE 1 YEAR AGO!!Civilian noninstitutionalized population 1 year and over!!Elsewhere"
+			},
+			{
+				"id": "S2702PR_C01_041E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over"
+			},
+			{
+				"id": "S2702PR_C01_041M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over"
+			},
+			{
+				"id": "S2702PR_C02_041E",
+				"label": "Estimate!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over"
+			},
+			{
+				"id": "S2702PR_C02_041M",
+				"label": "Margin of Error!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over"
+			},
+			{
+				"id": "S2702PR_C01_042E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate"
+			},
+			{
+				"id": "S2702PR_C01_042M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate"
+			},
+			{
+				"id": "S2702PR_C02_042E",
+				"label": "Estimate!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate"
+			},
+			{
+				"id": "S2702PR_C02_042M",
+				"label": "Margin of Error!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate"
+			},
+			{
+				"id": "S2702PR_C01_043E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2702PR_C01_043M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2702PR_C02_043E",
+				"label": "Estimate!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2702PR_C02_043M",
+				"label": "Margin of Error!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2702PR_C01_044E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree"
+			},
+			{
+				"id": "S2702PR_C01_044M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree"
+			},
+			{
+				"id": "S2702PR_C02_044E",
+				"label": "Estimate!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree"
+			},
+			{
+				"id": "S2702PR_C02_044M",
+				"label": "Margin of Error!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree"
+			},
+			{
+				"id": "S2702PR_C01_045E",
+				"label": "Estimate!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S2702PR_C01_045M",
+				"label": "Margin of Error!!Total!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S2702PR_C02_045E",
+				"label": "Estimate!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S2702PR_C02_045M",
+				"label": "Margin of Error!!Total Uninsured!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher"
+			},
+			{
+				"id": "S2702PR_C01_046E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over"
+			},
+			{
+				"id": "S2702PR_C01_046M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over"
+			},
+			{
+				"id": "S2702PR_C02_046E",
+				"label": "Estimate!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over"
+			},
+			{
+				"id": "S2702PR_C02_046M",
+				"label": "Margin of Error!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over"
+			},
+			{
+				"id": "S2702PR_C01_047E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S2702PR_C01_047M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S2702PR_C02_047E",
+				"label": "Estimate!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S2702PR_C02_047M",
+				"label": "Margin of Error!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force"
+			},
+			{
+				"id": "S2702PR_C01_048E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force!!Employed"
+			},
+			{
+				"id": "S2702PR_C01_048M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force!!Employed"
+			},
+			{
+				"id": "S2702PR_C02_048E",
+				"label": "Estimate!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force!!Employed"
+			},
+			{
+				"id": "S2702PR_C02_048M",
+				"label": "Margin of Error!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force!!Employed"
+			},
+			{
+				"id": "S2702PR_C01_049E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force!!Unemployed"
+			},
+			{
+				"id": "S2702PR_C01_049M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force!!Unemployed"
+			},
+			{
+				"id": "S2702PR_C02_049E",
+				"label": "Estimate!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force!!Unemployed"
+			},
+			{
+				"id": "S2702PR_C02_049M",
+				"label": "Margin of Error!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!In labor force!!Unemployed"
+			},
+			{
+				"id": "S2702PR_C01_050E",
+				"label": "Estimate!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S2702PR_C01_050M",
+				"label": "Margin of Error!!Total!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S2702PR_C02_050E",
+				"label": "Estimate!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S2702PR_C02_050M",
+				"label": "Margin of Error!!Total Uninsured!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 16 years and over!!Not in labor force"
+			},
+			{
+				"id": "S2702PR_C01_051E",
+				"label": "Estimate!!Total!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years"
+			},
+			{
+				"id": "S2702PR_C01_051M",
+				"label": "Margin of Error!!Total!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years"
+			},
+			{
+				"id": "S2702PR_C02_051E",
+				"label": "Estimate!!Total Uninsured!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years"
+			},
+			{
+				"id": "S2702PR_C02_051M",
+				"label": "Margin of Error!!Total Uninsured!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years"
+			},
+			{
+				"id": "S2702PR_C01_052E",
+				"label": "Estimate!!Total!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Worked full-time, year round in the past 12 months"
+			},
+			{
+				"id": "S2702PR_C01_052M",
+				"label": "Margin of Error!!Total!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Worked full-time, year round in the past 12 months"
+			},
+			{
+				"id": "S2702PR_C02_052E",
+				"label": "Estimate!!Total Uninsured!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Worked full-time, year round in the past 12 months"
+			},
+			{
+				"id": "S2702PR_C02_052M",
+				"label": "Margin of Error!!Total Uninsured!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Worked full-time, year round in the past 12 months"
+			},
+			{
+				"id": "S2702PR_C01_053E",
+				"label": "Estimate!!Total!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Worked less than full-time, year round in the past 12 months"
+			},
+			{
+				"id": "S2702PR_C01_053M",
+				"label": "Margin of Error!!Total!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Worked less than full-time, year round in the past 12 months"
+			},
+			{
+				"id": "S2702PR_C02_053E",
+				"label": "Estimate!!Total Uninsured!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Worked less than full-time, year round in the past 12 months"
+			},
+			{
+				"id": "S2702PR_C02_053M",
+				"label": "Margin of Error!!Total Uninsured!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Worked less than full-time, year round in the past 12 months"
+			},
+			{
+				"id": "S2702PR_C01_054E",
+				"label": "Estimate!!Total!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Did not work"
+			},
+			{
+				"id": "S2702PR_C01_054M",
+				"label": "Margin of Error!!Total!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Did not work"
+			},
+			{
+				"id": "S2702PR_C02_054E",
+				"label": "Estimate!!Total Uninsured!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Did not work"
+			},
+			{
+				"id": "S2702PR_C02_054M",
+				"label": "Margin of Error!!Total Uninsured!!WORK EXPERIENCE!!Civilian noninstitutionalized population 16 to 64 years!!Did not work"
+			},
+			{
+				"id": "S2702PR_C01_055E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over"
+			},
+			{
+				"id": "S2702PR_C01_055M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over"
+			},
+			{
+				"id": "S2702PR_C02_055E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over"
+			},
+			{
+				"id": "S2702PR_C02_055M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over"
+			},
+			{
+				"id": "S2702PR_C01_056E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers"
+			},
+			{
+				"id": "S2702PR_C01_056M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers"
+			},
+			{
+				"id": "S2702PR_C02_056E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers"
+			},
+			{
+				"id": "S2702PR_C02_056M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers"
+			},
+			{
+				"id": "S2702PR_C01_057E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers!!Employee of private company workers"
+			},
+			{
+				"id": "S2702PR_C01_057M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers!!Employee of private company workers"
+			},
+			{
+				"id": "S2702PR_C02_057E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers!!Employee of private company workers"
+			},
+			{
+				"id": "S2702PR_C02_057M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers!!Employee of private company workers"
+			},
+			{
+				"id": "S2702PR_C01_058E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2702PR_C01_058M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2702PR_C02_058E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2702PR_C02_058M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers"
+			},
+			{
+				"id": "S2702PR_C01_059E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2702PR_C01_059M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2702PR_C02_059E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2702PR_C02_059M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2702PR_C01_060E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2702PR_C01_060M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2702PR_C02_060E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2702PR_C02_060M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2702PR_C01_061E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2702PR_C01_061M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2702PR_C02_061E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2702PR_C02_061M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2702PR_C01_062E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2702PR_C01_062M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2702PR_C02_062E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2702PR_C02_062M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2702PR_C01_063E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Self-employed workers in own not incorporated business workers"
+			},
+			{
+				"id": "S2702PR_C01_063M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Self-employed workers in own not incorporated business workers"
+			},
+			{
+				"id": "S2702PR_C02_063E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Self-employed workers in own not incorporated business workers"
+			},
+			{
+				"id": "S2702PR_C02_063M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Self-employed workers in own not incorporated business workers"
+			},
+			{
+				"id": "S2702PR_C01_064E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Unpaid family workers"
+			},
+			{
+				"id": "S2702PR_C01_064M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Unpaid family workers"
+			},
+			{
+				"id": "S2702PR_C02_064E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Unpaid family workers"
+			},
+			{
+				"id": "S2702PR_C02_064M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!CLASS OF WORKER!!Unpaid family workers"
+			},
+			{
+				"id": "S2702PR_C01_065E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining"
+			},
+			{
+				"id": "S2702PR_C01_065M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining"
+			},
+			{
+				"id": "S2702PR_C02_065E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining"
+			},
+			{
+				"id": "S2702PR_C02_065M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining"
+			},
+			{
+				"id": "S2702PR_C01_066E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2702PR_C01_066M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2702PR_C02_066E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2702PR_C02_066M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2702PR_C01_067E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2702PR_C01_067M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2702PR_C02_067E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2702PR_C02_067M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2702PR_C01_068E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2702PR_C01_068M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2702PR_C02_068E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2702PR_C02_068M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2702PR_C01_069E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2702PR_C01_069M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2702PR_C02_069E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2702PR_C02_069M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2702PR_C01_070E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Transportation and warehousing, and utilities"
+			},
+			{
+				"id": "S2702PR_C01_070M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Transportation and warehousing, and utilities"
+			},
+			{
+				"id": "S2702PR_C02_070E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Transportation and warehousing, and utilities"
+			},
+			{
+				"id": "S2702PR_C02_070M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Transportation and warehousing, and utilities"
+			},
+			{
+				"id": "S2702PR_C01_071E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2702PR_C01_071M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2702PR_C02_071E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2702PR_C02_071M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2702PR_C01_072E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing"
+			},
+			{
+				"id": "S2702PR_C01_072M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing"
+			},
+			{
+				"id": "S2702PR_C02_072E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing"
+			},
+			{
+				"id": "S2702PR_C02_072M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing"
+			},
+			{
+				"id": "S2702PR_C01_073E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services"
+			},
+			{
+				"id": "S2702PR_C01_073M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services"
+			},
+			{
+				"id": "S2702PR_C02_073E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services"
+			},
+			{
+				"id": "S2702PR_C02_073M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services"
+			},
+			{
+				"id": "S2702PR_C01_074E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Educational services, and health care and social assistance"
+			},
+			{
+				"id": "S2702PR_C01_074M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Educational services, and health care and social assistance"
+			},
+			{
+				"id": "S2702PR_C02_074E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Educational services, and health care and social assistance"
+			},
+			{
+				"id": "S2702PR_C02_074M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Educational services, and health care and social assistance"
+			},
+			{
+				"id": "S2702PR_C01_075E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation and food services"
+			},
+			{
+				"id": "S2702PR_C01_075M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation and food services"
+			},
+			{
+				"id": "S2702PR_C02_075E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation and food services"
+			},
+			{
+				"id": "S2702PR_C02_075M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation and food services"
+			},
+			{
+				"id": "S2702PR_C01_076E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2702PR_C01_076M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2702PR_C02_076E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2702PR_C02_076M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2702PR_C01_077E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2702PR_C01_077M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2702PR_C02_077E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2702PR_C02_077M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2702PR_C01_078E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Management, business, science, and arts occupations"
+			},
+			{
+				"id": "S2702PR_C01_078M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Management, business, science, and arts occupations"
+			},
+			{
+				"id": "S2702PR_C02_078E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Management, business, science, and arts occupations"
+			},
+			{
+				"id": "S2702PR_C02_078M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Management, business, science, and arts occupations"
+			},
+			{
+				"id": "S2702PR_C01_079E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Service occupations"
+			},
+			{
+				"id": "S2702PR_C01_079M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Service occupations"
+			},
+			{
+				"id": "S2702PR_C02_079E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Service occupations"
+			},
+			{
+				"id": "S2702PR_C02_079M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Service occupations"
+			},
+			{
+				"id": "S2702PR_C01_080E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Sales and office occupations"
+			},
+			{
+				"id": "S2702PR_C01_080M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Sales and office occupations"
+			},
+			{
+				"id": "S2702PR_C02_080E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Sales and office occupations"
+			},
+			{
+				"id": "S2702PR_C02_080M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Sales and office occupations"
+			},
+			{
+				"id": "S2702PR_C01_081E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Natural resources, construction, and maintenance occupations"
+			},
+			{
+				"id": "S2702PR_C01_081M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Natural resources, construction, and maintenance occupations"
+			},
+			{
+				"id": "S2702PR_C02_081E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Natural resources, construction, and maintenance occupations"
+			},
+			{
+				"id": "S2702PR_C02_081M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Natural resources, construction, and maintenance occupations"
+			},
+			{
+				"id": "S2702PR_C01_082E",
+				"label": "Estimate!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Production, transportation, and material moving occupations"
+			},
+			{
+				"id": "S2702PR_C01_082M",
+				"label": "Margin of Error!!Total!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Production, transportation, and material moving occupations"
+			},
+			{
+				"id": "S2702PR_C02_082E",
+				"label": "Estimate!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Production, transportation, and material moving occupations"
+			},
+			{
+				"id": "S2702PR_C02_082M",
+				"label": "Margin of Error!!Total Uninsured!!Civilian noninstitutionalized workers 16 years and over!!OCCUPATION!!Production, transportation, and material moving occupations"
+			},
+			{
+				"id": "S2702PR_C01_083E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings"
+			},
+			{
+				"id": "S2702PR_C01_083M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings"
+			},
+			{
+				"id": "S2702PR_C02_083E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings"
+			},
+			{
+				"id": "S2702PR_C02_083M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings"
+			},
+			{
+				"id": "S2702PR_C01_084E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$1 to $4,999 or loss"
+			},
+			{
+				"id": "S2702PR_C01_084M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$1 to $4,999 or loss"
+			},
+			{
+				"id": "S2702PR_C02_084E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$1 to $4,999 or loss"
+			},
+			{
+				"id": "S2702PR_C02_084M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$1 to $4,999 or loss"
+			},
+			{
+				"id": "S2702PR_C01_085E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$5,000 to $14,999"
+			},
+			{
+				"id": "S2702PR_C01_085M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$5,000 to $14,999"
+			},
+			{
+				"id": "S2702PR_C02_085E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$5,000 to $14,999"
+			},
+			{
+				"id": "S2702PR_C02_085M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$5,000 to $14,999"
+			},
+			{
+				"id": "S2702PR_C01_086E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$15,000 to $24,999"
+			},
+			{
+				"id": "S2702PR_C01_086M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$15,000 to $24,999"
+			},
+			{
+				"id": "S2702PR_C02_086E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$15,000 to $24,999"
+			},
+			{
+				"id": "S2702PR_C02_086M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$15,000 to $24,999"
+			},
+			{
+				"id": "S2702PR_C01_087E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$25,000 to $34,999"
+			},
+			{
+				"id": "S2702PR_C01_087M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$25,000 to $34,999"
+			},
+			{
+				"id": "S2702PR_C02_087E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$25,000 to $34,999"
+			},
+			{
+				"id": "S2702PR_C02_087M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$25,000 to $34,999"
+			},
+			{
+				"id": "S2702PR_C01_088E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$35,000 to $49,999"
+			},
+			{
+				"id": "S2702PR_C01_088M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$35,000 to $49,999"
+			},
+			{
+				"id": "S2702PR_C02_088E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$35,000 to $49,999"
+			},
+			{
+				"id": "S2702PR_C02_088M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$35,000 to $49,999"
+			},
+			{
+				"id": "S2702PR_C01_089E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$50,000 to $74,999"
+			},
+			{
+				"id": "S2702PR_C01_089M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$50,000 to $74,999"
+			},
+			{
+				"id": "S2702PR_C02_089E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$50,000 to $74,999"
+			},
+			{
+				"id": "S2702PR_C02_089M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$50,000 to $74,999"
+			},
+			{
+				"id": "S2702PR_C01_090E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$75,000 or more"
+			},
+			{
+				"id": "S2702PR_C01_090M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$75,000 or more"
+			},
+			{
+				"id": "S2702PR_C02_090E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$75,000 or more"
+			},
+			{
+				"id": "S2702PR_C02_090M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!$75,000 or more"
+			},
+			{
+				"id": "S2702PR_C01_091E",
+				"label": "Estimate!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!Median earnings (dollars)"
+			},
+			{
+				"id": "S2702PR_C01_091M",
+				"label": "Margin of Error!!Total!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!Median earnings (dollars)"
+			},
+			{
+				"id": "S2702PR_C02_091E",
+				"label": "Estimate!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!Median earnings (dollars)"
+			},
+			{
+				"id": "S2702PR_C02_091M",
+				"label": "Margin of Error!!Total Uninsured!!EARNINGS IN THE PAST 12 MONTHS (IN 2024 INFLATION ADJUSTED DOLLARS)!!Civilian noninstitutionalized population 16 years and older with earnings!!Median earnings (dollars)"
+			},
+			{
+				"id": "S2702PR_C01_092E",
+				"label": "Estimate!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population"
+			},
+			{
+				"id": "S2702PR_C01_092M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population"
+			},
+			{
+				"id": "S2702PR_C02_092E",
+				"label": "Estimate!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population"
+			},
+			{
+				"id": "S2702PR_C02_092M",
+				"label": "Margin of Error!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population"
+			},
+			{
+				"id": "S2702PR_C01_093E",
+				"label": "Estimate!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!Under $25,000"
+			},
+			{
+				"id": "S2702PR_C01_093M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!Under $25,000"
+			},
+			{
+				"id": "S2702PR_C02_093E",
+				"label": "Estimate!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!Under $25,000"
+			},
+			{
+				"id": "S2702PR_C02_093M",
+				"label": "Margin of Error!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!Under $25,000"
+			},
+			{
+				"id": "S2702PR_C01_094E",
+				"label": "Estimate!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999"
+			},
+			{
+				"id": "S2702PR_C01_094M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999"
+			},
+			{
+				"id": "S2702PR_C02_094E",
+				"label": "Estimate!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999"
+			},
+			{
+				"id": "S2702PR_C02_094M",
+				"label": "Margin of Error!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999"
+			},
+			{
+				"id": "S2702PR_C01_095E",
+				"label": "Estimate!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999"
+			},
+			{
+				"id": "S2702PR_C01_095M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999"
+			},
+			{
+				"id": "S2702PR_C02_095E",
+				"label": "Estimate!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999"
+			},
+			{
+				"id": "S2702PR_C02_095M",
+				"label": "Margin of Error!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999"
+			},
+			{
+				"id": "S2702PR_C01_096E",
+				"label": "Estimate!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999"
+			},
+			{
+				"id": "S2702PR_C01_096M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999"
+			},
+			{
+				"id": "S2702PR_C02_096E",
+				"label": "Estimate!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999"
+			},
+			{
+				"id": "S2702PR_C02_096M",
+				"label": "Margin of Error!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999"
+			},
+			{
+				"id": "S2702PR_C01_097E",
+				"label": "Estimate!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$100,000 and over"
+			},
+			{
+				"id": "S2702PR_C01_097M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$100,000 and over"
+			},
+			{
+				"id": "S2702PR_C02_097E",
+				"label": "Estimate!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$100,000 and over"
+			},
+			{
+				"id": "S2702PR_C02_097M",
+				"label": "Margin of Error!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!$100,000 and over"
+			},
+			{
+				"id": "S2702PR_C01_098E",
+				"label": "Estimate!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!Median household income of householders"
+			},
+			{
+				"id": "S2702PR_C01_098M",
+				"label": "Margin of Error!!Total!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!Median household income of householders"
+			},
+			{
+				"id": "S2702PR_C02_098E",
+				"label": "Estimate!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!Median household income of householders"
+			},
+			{
+				"id": "S2702PR_C02_098M",
+				"label": "Margin of Error!!Total Uninsured!!HOUSEHOLD INCOME (IN 2024 INFLATION ADJUSTED DOLLARS)!!Total household population!!Median household income of householders"
+			},
+			{
+				"id": "S2702PR_C01_099E",
+				"label": "Estimate!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined"
+			},
+			{
+				"id": "S2702PR_C01_099M",
+				"label": "Margin of Error!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined"
+			},
+			{
+				"id": "S2702PR_C02_099E",
+				"label": "Estimate!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined"
+			},
+			{
+				"id": "S2702PR_C02_099M",
+				"label": "Margin of Error!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined"
+			},
+			{
+				"id": "S2702PR_C01_100E",
+				"label": "Estimate!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 50 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_100M",
+				"label": "Margin of Error!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 50 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_100E",
+				"label": "Estimate!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 50 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_100M",
+				"label": "Margin of Error!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 50 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_101E",
+				"label": "Estimate!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!50 to 99 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_101M",
+				"label": "Margin of Error!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!50 to 99 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_101E",
+				"label": "Estimate!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!50 to 99 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_101M",
+				"label": "Margin of Error!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!50 to 99 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_102E",
+				"label": "Estimate!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_102M",
+				"label": "Margin of Error!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_102E",
+				"label": "Estimate!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_102M",
+				"label": "Margin of Error!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!100 to 149 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_103E",
+				"label": "Estimate!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!150 to 199 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_103M",
+				"label": "Margin of Error!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!150 to 199 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_103E",
+				"label": "Estimate!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!150 to 199 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_103M",
+				"label": "Margin of Error!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!150 to 199 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_104E",
+				"label": "Estimate!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 299 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_104M",
+				"label": "Margin of Error!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 299 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_104E",
+				"label": "Estimate!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 299 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_104M",
+				"label": "Margin of Error!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 299 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_105E",
+				"label": "Estimate!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 300 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C01_105M",
+				"label": "Margin of Error!!Total!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 300 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_105E",
+				"label": "Estimate!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 300 percent of the poverty level"
+			},
+			{
+				"id": "S2702PR_C02_105M",
+				"label": "Margin of Error!!Total Uninsured!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 300 percent of the poverty level"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S2702PR_C01_092E",
+			"S2702PR_C02_077E",
+			"S2702PR_C02_053E",
+			"S2702PR_C01_028EA",
+			"S2702PR_C02_077M",
+			"S2702PR_C02_079EA",
+			"S2702PR_C02_053M",
+			"S2702PR_C02_100MA",
+			"S2702PR_C01_081EA",
+			"S2702PR_C02_037MA",
+			"S2702PR_C01_085MA",
+			"S2702PR_C02_033EA",
+			"S2702PR_C01_091M",
+			"S2702PR_C01_091E",
+			"S2702PR_C02_076E",
+			"S2702PR_C01_017EA",
+			"S2702PR_C02_052E",
+			"S2702PR_C02_076M",
+			"S2702PR_C02_052M",
+			"S2702PR_C02_048MA",
+			"S2702PR_C01_070EA",
+			"S2702PR_C02_044EA",
+			"S2702PR_C01_074MA",
+			"S2702PR_C02_002MA",
+			"S2702PR_C01_090M",
+			"S2702PR_C02_079E",
+			"S2702PR_C02_055E",
+			"S2702PR_C02_031E",
+			"S2702PR_C01_006EA",
+			"S2702PR_C01_090E",
+			"S2702PR_C02_057EA",
+			"S2702PR_C02_079M",
+			"S2702PR_C02_055M",
+			"S2702PR_C01_104EA",
+			"S2702PR_C02_031M",
+			"S2702PR_C02_015MA",
+			"S2702PR_C01_063MA",
+			"S2702PR_C02_011EA",
+			"S2702PR_C02_078E",
+			"S2702PR_C02_054E",
+			"S2702PR_C02_030E",
+			"S2702PR_C02_090MA",
+			"S2702PR_C02_078M",
+			"S2702PR_C02_054M",
+			"S2702PR_C02_068EA",
+			"S2702PR_C02_030M",
+			"S2702PR_C01_052MA",
+			"S2702PR_C01_098MA",
+			"S2702PR_C02_026MA",
+			"S2702PR_C02_022EA",
+			"S2702PR_C01_094EA",
+			"S2702PR_C02_057E",
+			"S2702PR_C02_033E",
+			"S2702PR_C01_072E",
+			"S2702PR_C01_096M",
+			"S2702PR_C02_057M",
+			"S2702PR_C02_035EA",
+			"S2702PR_C02_033M",
+			"S2702PR_C01_096E",
+			"S2702PR_C02_102MA",
+			"S2702PR_C01_041MA",
+			"S2702PR_C01_087MA",
+			"S2702PR_C02_039MA",
+			"S2702PR_C01_071M",
+			"S2702PR_C02_092MA",
+			"S2702PR_C01_083EA",
+			"S2702PR_C02_056E",
+			"S2702PR_C01_071E",
+			"S2702PR_C02_032E",
+			"S2702PR_C01_095M",
+			"S2702PR_C01_019EA",
+			"S2702PR_C02_046EA",
+			"S2702PR_C02_056M",
+			"S2702PR_C02_032M",
+			"S2702PR_C01_095E",
+			"S2702PR_C01_030MA",
+			"S2702PR_C01_076MA",
+			"S2702PR_C01_070M",
+			"S2702PR_C01_094M",
+			"S2702PR_C02_004MA",
+			"S2702PR_C01_072EA",
+			"S2702PR_C02_035E",
+			"S2702PR_C01_070E",
+			"S2702PR_C02_011E",
+			"S2702PR_C01_094E",
+			"S2702PR_C02_059M",
+			"S2702PR_C01_008EA",
+			"S2702PR_C02_035M",
+			"S2702PR_C02_013EA",
+			"S2702PR_C02_011M",
+			"S2702PR_C02_059EA",
+			"S2702PR_C01_065MA",
+			"S2702PR_C02_017MA",
+			"S2702PR_C01_093M",
+			"S2702PR_C02_070MA",
+			"S2702PR_C01_061EA",
+			"S2702PR_C02_059E",
+			"S2702PR_C02_034E",
+			"S2702PR_C01_093E",
+			"S2702PR_C02_010E",
+			"S2702PR_C02_058M",
+			"S2702PR_C02_024EA",
+			"S2702PR_C02_034M",
+			"S2702PR_C02_010M",
+			"S2702PR_C02_028MA",
+			"S2702PR_C01_054MA",
+			"S2702PR_C01_092M",
+			"S2702PR_C01_050EA",
+			"S2702PR_C02_081MA",
+			"S2702PR_C01_096EA",
+			"S2702PR_C02_058E",
+			"S2702PR_C01_008M",
+			"S2702PR_C02_093E",
+			"S2702PR_C01_008E",
+			"S2702PR_C02_092M",
+			"S2702PR_C01_089MA",
+			"S2702PR_C02_079MA",
+			"S2702PR_C01_043MA",
+			"S2702PR_C02_075EA",
+			"S2702PR_C01_085EA",
+			"S2702PR_C02_033MA",
+			"S2702PR_C02_092E",
+			"S2702PR_C01_007M",
+			"S2702PR_C02_040EA",
+			"S2702PR_C02_091M",
+			"S2702PR_C01_078MA",
+			"S2702PR_C02_086EA",
+			"S2702PR_C01_007E",
+			"S2702PR_C01_032MA",
+			"S2702PR_C02_044MA",
+			"S2702PR_C01_074EA",
+			"S2702PR_C02_095E",
+			"S2702PR_C02_071E",
+			"S2702PR_C01_006M",
+			"S2702PR_C02_095M",
+			"S2702PR_C02_011MA",
+			"S2702PR_C02_057MA",
+			"S2702PR_C02_070M",
+			"S2702PR_C01_067MA",
+			"S2702PR_C02_053EA",
+			"S2702PR_C02_099EA",
+			"S2702PR_C01_006E",
+			"S2702PR_C01_021MA",
+			"S2702PR_C01_063EA",
+			"S2702PR_C02_094E",
+			"S2702PR_C02_070E",
+			"S2702PR_C01_005M",
+			"S2702PR_C01_029M",
+			"S2702PR_C02_094M",
+			"S2702PR_C02_093M",
+			"S2702PR_C02_068MA",
+			"S2702PR_C01_010MA",
+			"S2702PR_C01_056MA",
+			"S2702PR_C01_005E",
+			"S2702PR_C01_029E",
+			"S2702PR_C02_064EA",
+			"S2702PR_C01_052EA",
+			"S2702PR_C01_098EA",
+			"S2702PR_C02_022MA",
+			"S2702PR_C02_097E",
+			"S2702PR_C02_073E",
+			"S2702PR_C02_097M",
+			"S2702PR_C02_073M",
+			"S2702PR_C02_035MA",
+			"S2702PR_C01_045MA",
+			"S2702PR_C02_031EA",
+			"S2702PR_C02_077EA",
+			"S2702PR_C01_041EA",
+			"S2702PR_C01_087EA",
+			"S2702PR_C02_096E",
+			"S2702PR_C02_072E",
+			"S2702PR_C02_096M",
+			"S2702PR_C02_072M",
+			"S2702PR_C02_046MA",
+			"S2702PR_C02_071M",
+			"S2702PR_C02_042EA",
+			"S2702PR_C02_088EA",
+			"S2702PR_C01_034MA",
+			"S2702PR_C01_030EA",
+			"S2702PR_C01_076EA",
+			"S2702PR_C02_099E",
+			"S2702PR_C02_075E",
+			"S2702PR_C02_051E",
+			"S2702PR_C02_099M",
+			"S2702PR_C02_075M",
+			"S2702PR_C02_051M",
+			"S2702PR_C02_013MA",
+			"S2702PR_C02_059MA",
+			"S2702PR_C01_023MA",
+			"S2702PR_C02_055EA",
+			"S2702PR_C01_065EA",
+			"S2702PR_C01_069MA",
+			"S2702PR_C02_098E",
+			"S2702PR_C02_074E",
+			"S2702PR_C02_050E",
+			"S2702PR_C01_009M",
+			"S2702PR_C02_098M",
+			"S2702PR_C02_074M",
+			"S2702PR_C02_050M",
+			"S2702PR_C01_009E",
+			"S2702PR_C02_024MA",
+			"S2702PR_C02_020EA",
+			"S2702PR_C02_066EA",
+			"S2702PR_C01_012MA",
+			"S2702PR_C01_058MA",
+			"S2702PR_C01_054EA",
+			"S2702PR_C01_024M",
+			"S2702PR_C01_024E",
+			"S2702PR_C01_048M",
+			"S2702PR_C02_018EA",
+			"S2702PR_C02_071EA",
+			"S2702PR_C01_048E",
+			"S2702PR_C01_001MA",
+			"S2702PR_C01_047MA",
+			"S2702PR_C01_089EA",
+			"S2702PR_C01_043EA",
+			"S2702PR_C02_075MA",
+			"S2702PR_C01_023M",
+			"S2702PR_C01_047M",
+			"S2702PR_C02_105M",
+			"S2702PR_C01_023E",
+			"S2702PR_C01_047E",
+			"S2702PR_C02_029EA",
+			"S2702PR_C02_082EA",
+			"S2702PR_C02_040MA",
+			"S2702PR_C01_036MA",
+			"S2702PR_C01_078EA",
+			"S2702PR_C02_105E",
+			"S2702PR_C02_086MA",
+			"S2702PR_C01_032EA",
+			"S2702PR_C01_022M",
+			"S2702PR_C01_046M",
+			"S2702PR_C01_022E",
+			"S2702PR_C01_046E",
+			"S2702PR_C02_095EA",
+			"S2702PR_C02_105EA",
+			"S2702PR_C01_025MA",
+			"S2702PR_C01_067EA",
+			"S2702PR_C02_053MA",
+			"S2702PR_C02_099MA",
+			"S2702PR_C01_021EA",
+			"S2702PR_C01_045M",
+			"S2702PR_C02_007EA",
+			"S2702PR_C01_069M",
+			"S2702PR_C01_021M",
+			"S2702PR_C01_045E",
+			"S2702PR_C01_069E",
+			"S2702PR_C01_021E",
+			"S2702PR_C02_060EA",
+			"S2702PR_C01_014MA",
+			"S2702PR_C01_010EA",
+			"S2702PR_C01_056EA",
+			"S2702PR_C02_064MA",
+			"S2702PR_C01_004M",
+			"S2702PR_C01_028M",
+			"S2702PR_C02_073EA",
+			"S2702PR_C01_004E",
+			"S2702PR_C01_028E",
+			"S2702PR_C01_101MA",
+			"S2702PR_C01_003MA",
+			"S2702PR_C01_049MA",
+			"S2702PR_C01_045EA",
+			"S2702PR_C02_031MA",
+			"S2702PR_C02_077MA",
+			"S2702PR_C01_003M",
+			"S2702PR_C01_003E",
+			"S2702PR_C01_027M",
+			"NAME",
+			"S2702PR_C02_084EA",
+			"S2702PR_C01_027E",
+			"S2702PR_C01_038MA",
+			"S2702PR_C02_042MA",
+			"S2702PR_C02_088MA",
+			"S2702PR_C01_034EA",
+			"S2702PR_C01_002M",
+			"S2702PR_C01_069EA",
+			"S2702PR_C01_002E",
+			"S2702PR_C01_091MA",
+			"S2702PR_C01_026M",
+			"S2702PR_C02_051EA",
+			"S2702PR_C01_026E",
+			"S2702PR_C02_097EA",
+			"S2702PR_C01_027MA",
+			"S2702PR_C01_023EA",
+			"S2702PR_C02_055MA",
+			"S2702PR_C01_001M",
+			"S2702PR_C01_058EA",
+			"S2702PR_C01_025M",
+			"S2702PR_C01_001E",
+			"S2702PR_C01_080MA",
+			"S2702PR_C01_025E",
+			"S2702PR_C01_049M",
+			"S2702PR_C02_009EA",
+			"S2702PR_C02_062EA",
+			"S2702PR_C01_049E",
+			"S2702PR_C01_016MA",
+			"S2702PR_C02_020MA",
+			"S2702PR_C02_066MA",
+			"S2702PR_C01_012EA",
+			"S2702PR_C01_088M",
+			"S2702PR_C02_013E",
+			"S2702PR_C01_047EA",
+			"S2702PR_C01_040M",
+			"S2702PR_C01_064M",
+			"S2702PR_C02_037M",
+			"S2702PR_C01_088E",
+			"S2702PR_C02_013M",
+			"S2702PR_C02_014EA",
+			"S2702PR_C01_040E",
+			"S2702PR_C01_064E",
+			"S2702PR_C01_103MA",
+			"S2702PR_C02_018MA",
+			"S2702PR_C01_005MA",
+			"S2702PR_C02_071MA",
+			"S2702PR_C01_001EA",
+			"S2702PR_C02_037E",
+			"S2702PR_C02_012E",
+			"S2702PR_C01_036EA",
+			"S2702PR_C01_063M",
+			"S2702PR_C01_087M",
+			"S2702PR_C02_036M",
+			"S2702PR_C02_012M",
+			"S2702PR_C02_025EA",
+			"S2702PR_C01_063E",
+			"S2702PR_C01_087E",
+			"S2702PR_C01_093MA",
+			"S2702PR_C02_029MA",
+			"S2702PR_C02_082MA",
+			"S2702PR_C02_036E",
+			"S2702PR_C02_100E",
+			"S2702PR_C01_025EA",
+			"S2702PR_C01_062M",
+			"S2702PR_C02_039M",
+			"S2702PR_C01_086M",
+			"S2702PR_C02_015M",
+			"S2702PR_C02_105MA",
+			"S2702PR_C02_100M",
+			"S2702PR_C01_062E",
+			"S2702PR_C02_038EA",
+			"S2702PR_C01_086E",
+			"S2702PR_C01_082MA",
+			"S2702PR_C02_101EA",
+			"S2702PR_C02_095MA",
+			"S2702PR_C01_061M",
+			"S2702PR_C02_039E",
+			"S2702PR_C02_091EA",
+			"S2702PR_C02_015E",
+			"S2702PR_C01_029MA",
+			"S2702PR_C01_014EA",
+			"S2702PR_C01_061E",
+			"S2702PR_C01_085M",
+			"S2702PR_C02_003EA",
+			"S2702PR_C02_038M",
+			"S2702PR_C02_014M",
+			"S2702PR_C01_085E",
+			"S2702PR_C02_049EA",
+			"S2702PR_C01_071MA",
+			"S2702PR_C02_007MA",
+			"S2702PR_C01_060M",
+			"S2702PR_C02_060MA",
+			"S2702PR_C01_018MA",
+			"S2702PR_C02_038E",
+			"S2702PR_C02_014E",
+			"S2702PR_C01_003EA",
+			"S2702PR_C01_044M",
+			"S2702PR_C01_049EA",
+			"S2702PR_C01_068M",
+			"S2702PR_C02_017M",
+			"S2702PR_C01_020M",
+			"S2702PR_C02_102M",
+			"S2702PR_C01_044E",
+			"S2702PR_C01_068E",
+			"S2702PR_C02_016EA",
+			"S2702PR_C01_020E",
+			"S2702PR_C01_101EA",
+			"S2702PR_C01_105MA",
+			"S2702PR_C01_060MA",
+			"S2702PR_C02_073MA",
+			"S2702PR_C01_007MA",
+			"S2702PR_C02_017E",
+			"S2702PR_C02_102E",
+			"S2702PR_C02_101E",
+			"S2702PR_C01_038EA",
+			"S2702PR_C01_067M",
+			"S2702PR_C02_016M",
+			"S2702PR_C01_043M",
+			"S2702PR_C02_101M",
+			"S2702PR_C01_067E",
+			"S2702PR_C02_027EA",
+			"S2702PR_C01_043E",
+			"S2702PR_C01_091EA",
+			"S2702PR_C01_095MA",
+			"S2702PR_C02_084MA",
+			"S2702PR_C02_080EA",
+			"S2702PR_C02_016E",
+			"S2702PR_C01_066M",
+			"S2702PR_C01_027EA",
+			"S2702PR_C02_019M",
+			"S2702PR_C02_104M",
+			"S2702PR_C01_042M",
+			"S2702PR_C01_066E",
+			"S2702PR_C01_042E",
+			"S2702PR_C01_080EA",
+			"S2702PR_C02_093EA",
+			"S2702PR_C01_084MA",
+			"S2702PR_C02_103EA",
+			"S2702PR_C02_019E",
+			"S2702PR_C02_051MA",
+			"S2702PR_C02_104E",
+			"S2702PR_C02_097MA",
+			"S2702PR_C01_089M",
+			"S2702PR_C01_016EA",
+			"S2702PR_C02_005EA",
+			"S2702PR_C02_018M",
+			"S2702PR_C01_041M",
+			"S2702PR_C02_103M",
+			"S2702PR_C01_065M",
+			"S2702PR_C02_009MA",
+			"S2702PR_C01_089E",
+			"S2702PR_C01_041E",
+			"S2702PR_C01_065E",
+			"S2702PR_C01_073MA",
+			"S2702PR_C02_062MA",
+			"S2702PR_C02_018E",
+			"S2702PR_C02_103E",
+			"S2702PR_C01_080E",
+			"S2702PR_C02_089E",
+			"S2702PR_C01_005EA",
+			"S2702PR_C02_065E",
+			"S2702PR_C02_041E",
+			"S2702PR_C02_056EA",
+			"S2702PR_C02_089M",
+			"S2702PR_C02_065M",
+			"S2702PR_C01_103EA",
+			"S2702PR_C02_041M",
+			"S2702PR_C02_014MA",
+			"S2702PR_C01_062MA",
+			"S2702PR_C02_010EA",
+			"S2702PR_C01_009MA",
+			"S2702PR_C02_088E",
+			"S2702PR_C02_064E",
+			"S2702PR_C02_040E",
+			"S2702PR_C02_067EA",
+			"S2702PR_C02_088M",
+			"S2702PR_C02_064M",
+			"S2702PR_C02_040M",
+			"S2702PR_C01_051MA",
+			"S2702PR_C01_097MA",
+			"S2702PR_C02_025MA",
+			"S2702PR_C02_021EA",
+			"S2702PR_C01_093EA",
+			"S2702PR_C02_067E",
+			"S2702PR_C02_043E",
+			"S2702PR_C01_029EA",
+			"S2702PR_C02_034EA",
+			"S2702PR_C02_067M",
+			"S2702PR_C02_043M",
+			"S2702PR_C02_101MA",
+			"S2702PR_C01_040MA",
+			"S2702PR_C01_086MA",
+			"S2702PR_C02_038MA",
+			"S2702PR_C01_082EA",
+			"S2702PR_C02_066E",
+			"S2702PR_C01_018EA",
+			"S2702PR_C02_042E",
+			"S2702PR_C02_045EA",
+			"S2702PR_C02_066M",
+			"S2702PR_C02_042M",
+			"S2702PR_C01_075MA",
+			"S2702PR_C02_049MA",
+			"S2702PR_C01_071EA",
+			"S2702PR_C02_003MA",
+			"S2702PR_C02_045E",
+			"S2702PR_C01_060E",
+			"S2702PR_C02_021E",
+			"S2702PR_C01_007EA",
+			"S2702PR_C01_084M",
+			"S2702PR_C02_080MA",
+			"S2702PR_C02_069M",
+			"S2702PR_C02_012EA",
+			"S2702PR_C02_045M",
+			"S2702PR_C01_105EA",
+			"S2702PR_C02_021M",
+			"S2702PR_C02_058EA",
+			"S2702PR_C01_084E",
+			"S2702PR_C01_064MA",
+			"S2702PR_C02_016MA",
+			"S2702PR_C01_083M",
+			"S2702PR_C01_060EA",
+			"S2702PR_C02_069E",
+			"S2702PR_C02_068E",
+			"S2702PR_C02_044E",
+			"S2702PR_C01_083E",
+			"S2702PR_C02_020E",
+			"S2702PR_C02_091MA",
+			"S2702PR_C02_023EA",
+			"S2702PR_C02_068M",
+			"S2702PR_C02_069EA",
+			"S2702PR_C02_044M",
+			"S2702PR_C02_020M",
+			"S2702PR_C01_099MA",
+			"S2702PR_C02_027MA",
+			"S2702PR_C01_053MA",
+			"S2702PR_C01_082M",
+			"S2702PR_C01_095EA",
+			"S2702PR_C02_023E",
+			"S2702PR_C01_082E",
+			"S2702PR_C02_047M",
+			"S2702PR_C02_023M",
+			"S2702PR_C02_036EA",
+			"S2702PR_C02_103MA",
+			"S2702PR_C01_088MA",
+			"S2702PR_C01_042MA",
+			"S2702PR_C01_081M",
+			"S2702PR_C02_093MA",
+			"S2702PR_C01_084EA",
+			"S2702PR_C02_047E",
+			"S2702PR_C02_046E",
+			"S2702PR_C01_081E",
+			"S2702PR_C02_022E",
+			"S2702PR_C02_001EA",
+			"S2702PR_C02_046M",
+			"S2702PR_C02_022M",
+			"S2702PR_C02_047EA",
+			"S2702PR_C01_077MA",
+			"S2702PR_C01_031MA",
+			"S2702PR_C01_080M",
+			"S2702PR_C02_005MA",
+			"S2702PR_C01_073EA",
+			"S2702PR_C01_009EA",
+			"S2702PR_C02_081E",
+			"S2702PR_C01_105M",
+			"S2702PR_C02_010MA",
+			"S2702PR_C02_056MA",
+			"S2702PR_C01_066MA",
+			"S2702PR_C02_080M",
+			"S2702PR_C02_052EA",
+			"S2702PR_C02_098EA",
+			"S2702PR_C01_020MA",
+			"S2702PR_C01_105E",
+			"S2702PR_C01_062EA",
+			"S2702PR_C01_019M",
+			"S2702PR_C02_080E",
+			"S2702PR_C01_104M",
+			"S2702PR_C01_019E",
+			"S2702PR_C02_067MA",
+			"S2702PR_C01_055MA",
+			"S2702PR_C01_104E",
+			"S2702PR_C02_063EA",
+			"S2702PR_C01_051EA",
+			"S2702PR_C01_097EA",
+			"S2702PR_C02_021MA",
+			"S2702PR_C02_083E",
+			"S2702PR_C01_103M",
+			"S2702PR_C01_018M",
+			"S2702PR_C02_083M",
+			"S2702PR_C02_034MA",
+			"S2702PR_C02_082M",
+			"S2702PR_C01_103E",
+			"S2702PR_C02_030EA",
+			"S2702PR_C02_076EA",
+			"S2702PR_C01_044MA",
+			"S2702PR_C01_018E",
+			"S2702PR_C01_040EA",
+			"S2702PR_C01_086EA",
+			"S2702PR_C01_102M",
+			"S2702PR_C02_082E",
+			"S2702PR_C01_102E",
+			"S2702PR_C01_017M",
+			"S2702PR_C02_045MA",
+			"S2702PR_C02_081M",
+			"S2702PR_C01_033MA",
+			"S2702PR_C02_041EA",
+			"S2702PR_C02_087EA",
+			"S2702PR_C01_017E",
+			"S2702PR_C01_075EA",
+			"S2702PR_C01_079MA",
+			"S2702PR_C02_085E",
+			"S2702PR_C02_061E",
+			"S2702PR_C02_085M",
+			"S2702PR_C02_061M",
+			"S2702PR_C02_012MA",
+			"S2702PR_C02_060M",
+			"S2702PR_C02_058MA",
+			"S2702PR_C01_022MA",
+			"S2702PR_C02_054EA",
+			"S2702PR_C01_064EA",
+			"S2702PR_C01_068MA",
+			"S2702PR_C02_084E",
+			"S2702PR_C02_060E",
+			"S2702PR_C02_084M",
+			"S2702PR_C02_023MA",
+			"S2702PR_C02_069MA",
+			"S2702PR_C02_065EA",
+			"S2702PR_C01_011MA",
+			"S2702PR_C01_057MA",
+			"S2702PR_C01_099EA",
+			"S2702PR_C01_053EA",
+			"S2702PR_C02_087E",
+			"S2702PR_C02_063E",
+			"S2702PR_C02_078EA",
+			"S2702PR_C02_087M",
+			"S2702PR_C02_063M",
+			"S2702PR_C02_036MA",
+			"S2702PR_C02_032EA",
+			"S2702PR_C01_046MA",
+			"S2702PR_C01_088EA",
+			"S2702PR_C01_042EA",
+			"S2702PR_C02_086E",
+			"S2702PR_C02_062E",
+			"S2702PR_C02_089EA",
+			"S2702PR_C02_086M",
+			"S2702PR_C02_062M",
+			"GEO_ID",
+			"S2702PR_C02_047MA",
+			"S2702PR_C02_043EA",
+			"S2702PR_C01_035MA",
+			"S2702PR_C01_077EA",
+			"S2702PR_C01_031EA",
+			"S2702PR_C02_001MA",
+			"S2702PR_C01_012M",
+			"S2702PR_C02_009M",
+			"S2702PR_C01_036M",
+			"S2702PR_C01_012E",
+			"S2702PR_C01_036E",
+			"S2702PR_C02_094EA",
+			"S2702PR_C02_104EA",
+			"S2702PR_C02_009E",
+			"S2702PR_C01_024MA",
+			"S2702PR_C01_066EA",
+			"S2702PR_C02_052MA",
+			"S2702PR_C02_098MA",
+			"S2702PR_C01_020EA",
+			"S2702PR_C01_011M",
+			"S2702PR_C01_035M",
+			"S2702PR_C02_006EA",
+			"S2702PR_C02_008M",
+			"S2702PR_C01_011E",
+			"S2702PR_C01_035E",
+			"S2702PR_C01_059M",
+			"S2702PR_C01_059E",
+			"S2702PR_C01_013MA",
+			"S2702PR_C01_059MA",
+			"S2702PR_C02_008E",
+			"S2702PR_C01_055EA",
+			"S2702PR_C02_063MA",
+			"S2702PR_C01_034M",
+			"S2702PR_C01_058M",
+			"S2702PR_C01_010M",
+			"S2702PR_C01_034E",
+			"S2702PR_C01_058E",
+			"S2702PR_C01_010E",
+			"S2702PR_C02_019EA",
+			"S2702PR_C02_072EA",
+			"S2702PR_C01_100MA",
+			"S2702PR_C01_002MA",
+			"S2702PR_C01_048MA",
+			"S2702PR_C02_030MA",
+			"S2702PR_C02_076MA",
+			"S2702PR_C01_044EA",
+			"S2702PR_C01_033M",
+			"S2702PR_C01_057M",
+			"S2702PR_C01_079EA",
+			"S2702PR_C01_033E",
+			"S2702PR_C01_057E",
+			"S2702PR_C02_083EA",
+			"S2702PR_C01_037MA",
+			"S2702PR_C01_033EA",
+			"S2702PR_C02_041MA",
+			"S2702PR_C02_087MA",
+			"S2702PR_C01_101M",
+			"S2702PR_C01_068EA",
+			"S2702PR_C01_090MA",
+			"S2702PR_C01_101E",
+			"S2702PR_C01_016M",
+			"S2702PR_C02_050EA",
+			"S2702PR_C01_016E",
+			"S2702PR_C02_096EA",
+			"S2702PR_C01_026MA",
+			"S2702PR_C01_022EA",
+			"S2702PR_C02_054MA",
+			"S2702PR_C02_008EA",
+			"S2702PR_C01_100M",
+			"S2702PR_C01_057EA",
+			"S2702PR_C01_100E",
+			"S2702PR_C01_015M",
+			"S2702PR_C01_039M",
+			"S2702PR_C02_061EA",
+			"S2702PR_C01_015E",
+			"S2702PR_C01_039E",
+			"S2702PR_C01_015MA",
+			"S2702PR_C02_065MA",
+			"S2702PR_C01_011EA",
+			"S2702PR_C01_014M",
+			"S2702PR_C01_046EA",
+			"S2702PR_C02_091E",
+			"S2702PR_C01_014E",
+			"S2702PR_C01_038M",
+			"S2702PR_C02_078MA",
+			"S2702PR_C02_090M",
+			"S2702PR_C01_038E",
+			"S2702PR_C01_102MA",
+			"S2702PR_C02_074EA",
+			"S2702PR_C01_004MA",
+			"S2702PR_C02_032MA",
+			"S2702PR_C01_013M",
+			"S2702PR_C01_035EA",
+			"S2702PR_C01_013E",
+			"S2702PR_C02_090E",
+			"S2702PR_C01_037M",
+			"S2702PR_C02_089MA",
+			"S2702PR_C01_037E",
+			"S2702PR_C02_085EA",
+			"S2702PR_C01_039MA",
+			"S2702PR_C02_043MA",
+			"S2702PR_C02_001E",
+			"S2702PR_C01_024EA",
+			"S2702PR_C01_052M",
+			"S2702PR_C02_049M",
+			"S2702PR_C01_076M",
+			"S2702PR_C02_025M",
+			"S2702PR_C02_001M",
+			"S2702PR_C02_104MA",
+			"S2702PR_C01_092MA",
+			"S2702PR_C02_037EA",
+			"S2702PR_C01_052E",
+			"S2702PR_C01_076E",
+			"S2702PR_C02_100EA",
+			"S2702PR_C02_094MA",
+			"S2702PR_C02_049E",
+			"S2702PR_C02_090EA",
+			"S2702PR_C01_028MA",
+			"S2702PR_C02_025E",
+			"S2702PR_C01_099M",
+			"S2702PR_C02_024E",
+			"S2702PR_C01_013EA",
+			"S2702PR_C01_059EA",
+			"S2702PR_C01_051M",
+			"S2702PR_C01_075M",
+			"S2702PR_C02_002EA",
+			"S2702PR_C02_048M",
+			"S2702PR_C01_099E",
+			"S2702PR_C02_024M",
+			"S2702PR_C02_048EA",
+			"S2702PR_C01_081MA",
+			"S2702PR_C01_051E",
+			"S2702PR_C01_075E",
+			"S2702PR_C02_006MA",
+			"S2702PR_C01_050M",
+			"S2702PR_C01_017MA",
+			"S2702PR_C02_048E",
+			"S2702PR_C01_002EA",
+			"S2702PR_C01_048EA",
+			"S2702PR_C01_050E",
+			"S2702PR_C01_074M",
+			"S2702PR_C02_027M",
+			"S2702PR_C01_098M",
+			"S2702PR_C02_003M",
+			"S2702PR_C01_070MA",
+			"S2702PR_C02_015EA",
+			"S2702PR_C01_074E",
+			"S2702PR_C01_098E",
+			"S2702PR_C01_100EA",
+			"S2702PR_C01_104MA",
+			"S2702PR_C02_019MA",
+			"S2702PR_C02_072MA",
+			"S2702PR_C01_006MA",
+			"S2702PR_C02_027E",
+			"S2702PR_C02_003E",
+			"S2702PR_C01_037EA",
+			"S2702PR_C02_002E",
+			"S2702PR_C01_073M",
+			"S2702PR_C01_097M",
+			"S2702PR_C02_026M",
+			"S2702PR_C02_002M",
+			"S2702PR_C02_026EA",
+			"S2702PR_C01_073E",
+			"S2702PR_C01_097E",
+			"S2702PR_C01_090EA",
+			"S2702PR_C01_094MA",
+			"S2702PR_C02_083MA",
+			"S2702PR_C01_072M",
+			"S2702PR_C02_026E",
+			"S2702PR_C01_026EA",
+			"S2702PR_C01_056M",
+			"S2702PR_C02_029M",
+			"S2702PR_C02_005M",
+			"S2702PR_C01_032M",
+			"S2702PR_C01_056E",
+			"S2702PR_C02_039EA",
+			"S2702PR_C01_032E",
+			"S2702PR_C02_092EA",
+			"S2702PR_C01_083MA",
+			"S2702PR_C02_102EA",
+			"S2702PR_C02_029E",
+			"S2702PR_C02_050MA",
+			"S2702PR_C02_005E",
+			"S2702PR_C02_096MA",
+			"S2702PR_C01_055M",
+			"S2702PR_C01_079M",
+			"S2702PR_C01_015EA",
+			"S2702PR_C02_004EA",
+			"S2702PR_C02_028M",
+			"S2702PR_C01_031M",
+			"S2702PR_C02_004M",
+			"S2702PR_C01_055E",
+			"S2702PR_C01_079E",
+			"S2702PR_C01_031E",
+			"S2702PR_C01_072MA",
+			"S2702PR_C02_008MA",
+			"S2702PR_C02_061MA",
+			"S2702PR_C02_028E",
+			"S2702PR_C02_004E",
+			"S2702PR_C01_019MA",
+			"S2702PR_C01_078M",
+			"S2702PR_C01_004EA",
+			"S2702PR_C02_007M",
+			"S2702PR_C01_030M",
+			"S2702PR_C01_054M",
+			"S2702PR_C01_078E",
+			"S2702PR_C01_030E",
+			"S2702PR_C02_017EA",
+			"S2702PR_C01_102EA",
+			"S2702PR_C01_054E",
+			"S2702PR_C02_070EA",
+			"S2702PR_C01_061MA",
+			"S2702PR_C02_007E",
+			"S2702PR_C02_074MA",
+			"S2702PR_C01_008MA",
+			"S2702PR_C01_077M",
+			"S2702PR_C02_006M",
+			"S2702PR_C01_039EA",
+			"S2702PR_C01_053M",
+			"S2702PR_C01_077E",
+			"S2702PR_C02_028EA",
+			"S2702PR_C01_053E",
+			"S2702PR_C01_050MA",
+			"S2702PR_C01_092EA",
+			"S2702PR_C02_081EA",
+			"S2702PR_C01_096MA",
+			"S2702PR_C02_006E",
+			"S2702PR_C02_085MA"
+		],
+		[
+			"3161200",
+			"2.7",
+			"28.8",
+			null,
+			"1.2",
+			null,
+			"3.0",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"276",
+			"22253",
+			"8.5",
+			null,
+			"46.3",
+			"2.0",
+			"3.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.5",
+			"26.6",
+			"110559",
+			"9.7",
+			null,
+			"7.0",
+			null,
+			"2.8",
+			"7042",
+			null,
+			"1.4",
+			null,
+			null,
+			null,
+			"20.1",
+			"24.9",
+			"6.8",
+			null,
+			"2.3",
+			"2.2",
+			null,
+			"1.4",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"69.5",
+			"178498",
+			"5.8",
+			"0.5",
+			"3.4",
+			null,
+			"9513",
+			"8.3",
+			null,
+			null,
+			null,
+			null,
+			"0.2",
+			null,
+			null,
+			"72.1",
+			"1.5",
+			"90.3",
+			"0.7",
+			null,
+			null,
+			"3.3",
+			"1.4",
+			"15.4",
+			null,
+			null,
+			"0.4",
+			"0.8",
+			null,
+			null,
+			"7.8",
+			"4.0",
+			"3.3",
+			"27.2",
+			"0.8",
+			null,
+			"1.4",
+			null,
+			"0.9",
+			null,
+			null,
+			null,
+			"0.9",
+			null,
+			null,
+			"1.7",
+			"91.2",
+			"37.5",
+			"14.7",
+			"0.9",
+			null,
+			"1.5",
+			"1.8",
+			null,
+			null,
+			"1355",
+			null,
+			null,
+			null,
+			"2.6",
+			"0.2",
+			"33.2",
+			"12.3",
+			"9427",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"178336",
+			"0.3",
+			null,
+			"706",
+			null,
+			null,
+			"11.4",
+			null,
+			null,
+			null,
+			"17.1",
+			"1.1",
+			"0.2",
+			"2.2",
+			null,
+			null,
+			"1.2",
+			null,
+			null,
+			null,
+			"9.4",
+			null,
+			null,
+			"32.9",
+			"4.4",
+			"0.1",
+			"0.1",
+			"2.6",
+			"2.8",
+			null,
+			null,
+			null,
+			"59.0",
+			"1.5",
+			null,
+			null,
+			null,
+			null,
+			"7.8",
+			"14.1",
+			"1.8",
+			"2.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"9.1",
+			"2.9",
+			"1.6",
+			"1.0",
+			null,
+			"0.6",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"178063",
+			"13.6",
+			"162603",
+			"9431",
+			"2.3",
+			"8896",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"27017",
+			"13.1",
+			"26.5",
+			"0.2",
+			"3899",
+			"2.2",
+			"2.6",
+			"12.6",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.8",
+			"38.2",
+			"0.6",
+			null,
+			null,
+			"43.8",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.8",
+			"0.6",
+			"1.9",
+			"33.1",
+			"47.9",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"14.4",
+			null,
+			null,
+			"0.1",
+			"3915",
+			"0.0",
+			"2769602",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.7",
+			null,
+			"0.7",
+			"0.1",
+			"29.7",
+			"13.0",
+			"0.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.2",
+			"0.3",
+			null,
+			"12.9",
+			"2.7",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			"3.5",
+			"0.3",
+			"Puerto Rico",
+			null,
+			"97.3",
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			null,
+			"16.4",
+			null,
+			"0.1",
+			null,
+			"0.7",
+			null,
+			null,
+			null,
+			null,
+			"1355",
+			null,
+			"0.2",
+			"3176386",
+			null,
+			"98.9",
+			"0.3",
+			null,
+			null,
+			"4.0",
+			null,
+			null,
+			null,
+			null,
+			"0.7",
+			"1.3",
+			null,
+			"0.1",
+			"0.1",
+			"0.9",
+			"12.8",
+			"0.5",
+			null,
+			"0.2",
+			"0.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3.1",
+			"2.0",
+			null,
+			"0.7",
+			"0.8",
+			"1.2",
+			"0.7",
+			null,
+			"11.2",
+			"15.2",
+			null,
+			null,
+			null,
+			"5.7",
+			"16.5",
+			null,
+			"0.3",
+			"0.8",
+			"0.9",
+			"1.9",
+			null,
+			"2.2",
+			"1.8",
+			null,
+			"27.5",
+			null,
+			null,
+			null,
+			"0.6",
+			"2.1",
+			null,
+			"64.4",
+			null,
+			null,
+			"9.9",
+			"0.9",
+			null,
+			"0.8",
+			"0.8",
+			"22.2",
+			null,
+			null,
+			null,
+			"0.4",
+			null,
+			null,
+			"2.5",
+			"36.9",
+			null,
+			"0.6",
+			null,
+			"0.4",
+			"2.9",
+			"0.1",
+			"2.3",
+			"24.4",
+			"2.7",
+			null,
+			"0.3",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"63.9",
+			"22.1",
+			"15.9",
+			null,
+			"0.6",
+			"1.9",
+			"0.7",
+			"2.7",
+			"8.6",
+			null,
+			"27.8",
+			null,
+			null,
+			null,
+			null,
+			"35.6",
+			"0.5",
+			null,
+			"1.4",
+			"2.1",
+			"0.5",
+			"6.6",
+			"18.0",
+			null,
+			null,
+			null,
+			null,
+			"6.4",
+			null,
+			"16.1",
+			null,
+			"0.5",
+			null,
+			null,
+			"2.3",
+			"3667",
+			"2.0",
+			"0.2",
+			null,
+			"8.2",
+			"2402347",
+			"1.1",
+			null,
+			null,
+			"18.6",
+			"14.9",
+			"25.4",
+			"5.4",
+			null,
+			"1.1",
+			"147982",
+			null,
+			"1.4",
+			"0.6",
+			null,
+			"6915",
+			null,
+			null,
+			null,
+			null,
+			"8.9",
+			"0.1",
+			"1.0",
+			null,
+			"1.7",
+			"0.1",
+			"0.7",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"7.3",
+			"33.4",
+			null,
+			null,
+			"1.8",
+			"2.6",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"13.4",
+			null,
+			"14.5",
+			null,
+			"2.2",
+			"1.8",
+			null,
+			null,
+			null,
+			null,
+			"22.9",
+			"5.8",
+			"0.4",
+			null,
+			"0.5",
+			null,
+			"2.4",
+			null,
+			"2.4",
+			null,
+			"0.3",
+			null,
+			"7.1",
+			null,
+			null,
+			"15072",
+			null,
+			"14.0",
+			"3.9",
+			"29.1",
+			"1294016",
+			"0.3",
+			null,
+			null,
+			"1.4",
+			null,
+			"2.6",
+			"0.3",
+			null,
+			null,
+			null,
+			"0.6",
+			null,
+			"38.2",
+			"11.5",
+			"2.6",
+			"2.3",
+			null,
+			null,
+			null,
+			null,
+			"0.5",
+			null,
+			null,
+			"73.5",
+			"168542",
+			"8.9",
+			"0.0",
+			null,
+			"8725",
+			"0.2",
+			null,
+			null,
+			null,
+			"0.8",
+			null,
+			null,
+			null,
+			"17.1",
+			"0.7",
+			null,
+			null,
+			null,
+			"2.6",
+			null,
+			null,
+			null,
+			"17.7",
+			null,
+			"0.4",
+			"19.8",
+			"0.9",
+			"5.5",
+			null,
+			null,
+			"15.4",
+			null,
+			null,
+			null,
+			null,
+			"123399",
+			"0.6",
+			"0.6",
+			"7651",
+			null,
+			"2.3",
+			"12.9",
+			null,
+			null,
+			null,
+			"22.7",
+			null,
+			null,
+			"0.7",
+			"16.4",
+			"16.7",
+			"0.8",
+			null,
+			"2.3",
+			null,
+			null,
+			null,
+			"61.8",
+			null,
+			null,
+			"26.2",
+			"3.6",
+			"3.0",
+			"1.2",
+			null,
+			"1.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"6.7",
+			"2.5",
+			"1.7",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"14.3",
+			"19.6",
+			null,
+			"2.2",
+			"2.9",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"35.2",
+			"0.4",
+			null,
+			"2.7",
+			"0.3",
+			"0400000US72",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			"1.8",
+			"0.3",
+			"12.1",
+			"3.9",
+			null,
+			null,
+			"18.1",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			"0.3",
+			null,
+			"2.3",
+			"24.5",
+			"4.7",
+			"0.3",
+			"3.2",
+			null,
+			null,
+			"18.8",
+			null,
+			null,
+			"0.3",
+			"0.5",
+			"0.1",
+			"95.1",
+			"3.4",
+			"13.4",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2783",
+			"1.0",
+			null,
+			"3161548",
+			"64.7",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.8",
+			null,
+			null,
+			"19.5",
+			"0.1",
+			null,
+			"52.8",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"0.7",
+			null,
+			"17.8",
+			"0.1",
+			"0.1",
+			null,
+			"47.2",
+			"0.8",
+			null,
+			null,
+			null,
+			"0.2",
+			null,
+			"20211",
+			"45.3",
+			"0.2",
+			null,
+			"0.9",
+			"1.6",
+			null,
+			null,
+			null,
+			null,
+			"0.1",
+			null,
+			"12.4",
+			"3.3",
+			"0.2",
+			null,
+			"2.3",
+			null,
+			null,
+			null,
+			"178626",
+			null,
+			"0.8",
+			"1.6",
+			"0.4",
+			"0.9",
+			"9504",
+			null,
+			null,
+			null,
+			"41.1",
+			"6.4",
+			null,
+			null,
+			"7.9",
+			null,
+			null,
+			"97.6",
+			"1635",
+			"36.1",
+			null,
+			null,
+			"3942",
+			"0.6",
+			null,
+			"2.7",
+			"3172655",
+			"2.9",
+			null,
+			null,
+			"1990700",
+			"9.7",
+			null,
+			"0.6",
+			null,
+			"65.6",
+			null,
+			null,
+			"52.1",
+			"0.8",
+			"1.7",
+			"740",
+			"0.7",
+			null,
+			null,
+			"21.1",
+			"27160",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"90.6",
+			"1.4",
+			null,
+			"7.2",
+			"0.7",
+			"0.7",
+			"0.8",
+			"1.4",
+			null,
+			"12.1",
+			"11.6",
+			null,
+			null,
+			null,
+			"0.4",
+			"1.6",
+			null,
+			"1.0",
+			"0.8",
+			"1.6",
+			"0.5",
+			"68.1",
+			null,
+			"76.6",
+			null,
+			null,
+			null,
+			"2.5",
+			null,
+			"89.5",
+			null,
+			"16481",
+			"0.8",
+			null,
+			null,
+			"1.7",
+			"0.5",
+			"1.3",
+			"1213487",
+			"21.1",
+			"23.4",
+			null,
+			null,
+			null,
+			"9.4",
+			"5.8",
+			null,
+			"0.9",
+			null,
+			"2.2",
+			"0.2",
+			"0.7",
+			"33.0",
+			"1.2",
+			null,
+			null,
+			"38.1",
+			null,
+			null,
+			"25.0",
+			null,
+			null,
+			"0.6",
+			"2.1",
+			null,
+			"0.7",
+			"7.4",
+			null,
+			"20.7",
+			null,
+			null,
+			null,
+			null,
+			"13.0",
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:07.928Z"
+}

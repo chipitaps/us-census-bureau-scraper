@@ -1,0 +1,632 @@
+{
+	"tableId": "ACSDT1Y2024.B05009",
+	"title": "Age and Nativity of Own Children Under 18 Years in Families and Subfamilies by Number and Nativity of Parents",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Own children under 18 years in families and subfamilies",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B05009",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B05009_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B05009_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B05009_002E",
+				"label": "Estimate!!Total:!!Under 6 years:"
+			},
+			{
+				"id": "B05009_002M",
+				"label": "Margin of Error!!Total:!!Under 6 years:"
+			},
+			{
+				"id": "B05009_003E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:"
+			},
+			{
+				"id": "B05009_003M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:"
+			},
+			{
+				"id": "B05009_004E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!Child is native"
+			},
+			{
+				"id": "B05009_004M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!Child is native"
+			},
+			{
+				"id": "B05009_005E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_005M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_006E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05009_006M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05009_007E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!Both parents foreign-born:"
+			},
+			{
+				"id": "B05009_007M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!Both parents foreign-born:"
+			},
+			{
+				"id": "B05009_008E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!Both parents foreign-born:!!Child is native"
+			},
+			{
+				"id": "B05009_008M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!Both parents foreign-born:!!Child is native"
+			},
+			{
+				"id": "B05009_009E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!Both parents foreign-born:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_009M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!Both parents foreign-born:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_010E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!One native and one foreign-born parent:"
+			},
+			{
+				"id": "B05009_010M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!One native and one foreign-born parent:"
+			},
+			{
+				"id": "B05009_011E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!One native and one foreign-born parent:!!Child is native"
+			},
+			{
+				"id": "B05009_011M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!One native and one foreign-born parent:!!Child is native"
+			},
+			{
+				"id": "B05009_012E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with two parents:!!One native and one foreign-born parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_012M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with two parents:!!One native and one foreign-born parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_013E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with one parent:"
+			},
+			{
+				"id": "B05009_013M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with one parent:"
+			},
+			{
+				"id": "B05009_014E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with one parent:!!Child is native"
+			},
+			{
+				"id": "B05009_014M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with one parent:!!Child is native"
+			},
+			{
+				"id": "B05009_015E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with one parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_015M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with one parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_016E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05009_016M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05009_017E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with one parent:!!Foreign-born parent:"
+			},
+			{
+				"id": "B05009_017M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with one parent:!!Foreign-born parent:"
+			},
+			{
+				"id": "B05009_018E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with one parent:!!Foreign-born parent:!!Child is native"
+			},
+			{
+				"id": "B05009_018M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with one parent:!!Foreign-born parent:!!Child is native"
+			},
+			{
+				"id": "B05009_019E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Living with one parent:!!Foreign-born parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_019M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Living with one parent:!!Foreign-born parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_020E",
+				"label": "Estimate!!Total:!!6 to 17 years:"
+			},
+			{
+				"id": "B05009_020M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:"
+			},
+			{
+				"id": "B05009_021E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:"
+			},
+			{
+				"id": "B05009_021M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:"
+			},
+			{
+				"id": "B05009_022E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!Child is native"
+			},
+			{
+				"id": "B05009_022M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!Child is native"
+			},
+			{
+				"id": "B05009_023E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_023M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_024E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05009_024M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!Both parents native"
+			},
+			{
+				"id": "B05009_025E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!Both parents foreign-born:"
+			},
+			{
+				"id": "B05009_025M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!Both parents foreign-born:"
+			},
+			{
+				"id": "B05009_026E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!Both parents foreign-born:!!Child is native"
+			},
+			{
+				"id": "B05009_026M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!Both parents foreign-born:!!Child is native"
+			},
+			{
+				"id": "B05009_027E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!Both parents foreign-born:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_027M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!Both parents foreign-born:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_028E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!One native and one foreign-born parent:"
+			},
+			{
+				"id": "B05009_028M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!One native and one foreign-born parent:"
+			},
+			{
+				"id": "B05009_029E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!One native and one foreign-born parent:!!Child is native"
+			},
+			{
+				"id": "B05009_029M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!One native and one foreign-born parent:!!Child is native"
+			},
+			{
+				"id": "B05009_030E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:!!One native and one foreign-born parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_030M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with two parents:!!One native and one foreign-born parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_031E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with one parent:"
+			},
+			{
+				"id": "B05009_031M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with one parent:"
+			},
+			{
+				"id": "B05009_032E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with one parent:!!Child is native"
+			},
+			{
+				"id": "B05009_032M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with one parent:!!Child is native"
+			},
+			{
+				"id": "B05009_033E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with one parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_033M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with one parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_034E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05009_034M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with one parent:!!Native parent"
+			},
+			{
+				"id": "B05009_035E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with one parent:!!Foreign-born parent:"
+			},
+			{
+				"id": "B05009_035M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with one parent:!!Foreign-born parent:"
+			},
+			{
+				"id": "B05009_036E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with one parent:!!Foreign-born parent:!!Child is native"
+			},
+			{
+				"id": "B05009_036M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with one parent:!!Foreign-born parent:!!Child is native"
+			},
+			{
+				"id": "B05009_037E",
+				"label": "Estimate!!Total:!!6 to 17 years:!!Living with one parent:!!Foreign-born parent:!!Child is foreign-born"
+			},
+			{
+				"id": "B05009_037M",
+				"label": "Margin of Error!!Total:!!6 to 17 years:!!Living with one parent:!!Foreign-born parent:!!Child is foreign-born"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B05009_006E",
+			"B05009_018E",
+			"B05009_036EA",
+			"B05009_013EA",
+			"B05009_017EA",
+			"B05009_001MA",
+			"B05009_024MA",
+			"B05009_021M",
+			"B05009_033M",
+			"B05009_005MA",
+			"B05009_020EA",
+			"B05009_028MA",
+			"B05009_005M",
+			"B05009_017M",
+			"B05009_021E",
+			"B05009_029M",
+			"B05009_033E",
+			"B05009_020MA",
+			"B05009_009EA",
+			"B05009_007E",
+			"B05009_019E",
+			"B05009_001EA",
+			"B05009_009MA",
+			"B05009_024EA",
+			"B05009_005EA",
+			"B05009_028EA",
+			"B05009_012MA",
+			"B05009_035MA",
+			"B05009_010M",
+			"B05009_022M",
+			"B05009_016MA",
+			"B05009_031EA",
+			"B05009_034M",
+			"B05009_006M",
+			"B05009_010E",
+			"B05009_018M",
+			"B05009_022E",
+			"B05009_031MA",
+			"B05009_034E",
+			"B05009_004E",
+			"B05009_016E",
+			"B05009_028E",
+			"B05009_012EA",
+			"B05009_035EA",
+			"B05009_016EA",
+			"B05009_004MA",
+			"B05009_023MA",
+			"B05009_031M",
+			"B05009_008MA",
+			"B05009_027MA",
+			"B05009_003M",
+			"B05009_015M",
+			"B05009_027M",
+			"B05009_031E",
+			"B05009_005E",
+			"B05009_017E",
+			"B05009_029E",
+			"B05009_004EA",
+			"B05009_023EA",
+			"B05009_008EA",
+			"B05009_027EA",
+			"B05009_015MA",
+			"B05009_020M",
+			"B05009_034MA",
+			"B05009_032M",
+			"B05009_011EA",
+			"B05009_019MA",
+			"B05009_030EA",
+			"B05009_004M",
+			"B05009_016M",
+			"B05009_020E",
+			"B05009_028M",
+			"B05009_032E",
+			"B05009_011MA",
+			"B05009_030MA",
+			"B05009_014E",
+			"B05009_026E",
+			"B05009_015EA",
+			"B05009_034EA",
+			"B05009_019EA",
+			"B05009_003MA",
+			"B05009_026MA",
+			"B05009_007MA",
+			"B05009_022EA",
+			"B05009_001M",
+			"B05009_013M",
+			"B05009_025M",
+			"B05009_037M",
+			"B05009_022MA",
+			"B05009_001E",
+			"B05009_009M",
+			"B05009_013E",
+			"B05009_003E",
+			"B05009_015E",
+			"B05009_027E",
+			"B05009_003EA",
+			"B05009_026EA",
+			"B05009_007EA",
+			"NAME",
+			"B05009_014MA",
+			"B05009_037MA",
+			"B05009_030M",
+			"B05009_010EA",
+			"B05009_018MA",
+			"B05009_033EA",
+			"B05009_002M",
+			"B05009_014M",
+			"B05009_026M",
+			"B05009_030E",
+			"B05009_010MA",
+			"B05009_033MA",
+			"B05009_002E",
+			"B05009_036E",
+			"B05009_008E",
+			"B05009_014EA",
+			"B05009_037EA",
+			"B05009_018EA",
+			"B05009_025MA",
+			"B05009_002MA",
+			"B05009_011M",
+			"B05009_021EA",
+			"B05009_029MA",
+			"B05009_023M",
+			"B05009_006MA",
+			"B05009_035M",
+			"B05009_007M",
+			"B05009_011E",
+			"B05009_019M",
+			"B05009_021MA",
+			"B05009_023E",
+			"B05009_035E",
+			"B05009_025E",
+			"B05009_037E",
+			"B05009_009E",
+			"B05009_025EA",
+			"B05009_002EA",
+			"B05009_029EA",
+			"B05009_006EA",
+			"GEO_ID",
+			"B05009_036MA",
+			"B05009_013MA",
+			"B05009_032EA",
+			"B05009_012M",
+			"B05009_017MA",
+			"B05009_024M",
+			"B05009_036M",
+			"B05009_008M",
+			"B05009_032MA",
+			"B05009_012E",
+			"B05009_024E"
+		],
+		[
+			"10171530",
+			"1021974",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"106774",
+			"23476",
+			null,
+			null,
+			null,
+			"14254",
+			"28138",
+			"31459669",
+			"51164",
+			"769093",
+			null,
+			null,
+			"2290951",
+			"164346",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"25956",
+			"106487",
+			null,
+			null,
+			"90152",
+			"63075",
+			"1714276",
+			"27448",
+			"29818055",
+			null,
+			"13134689",
+			"13875740",
+			"5807680",
+			"3475124",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"114180",
+			null,
+			null,
+			"62653",
+			"11957",
+			"33584",
+			"16477823",
+			"301017",
+			"1186320",
+			"3389455",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"62397",
+			null,
+			"110768",
+			null,
+			null,
+			null,
+			"61966",
+			"59869",
+			"47937492",
+			"52604",
+			"15708730",
+			null,
+			null,
+			"6818135",
+			"4795285",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"62360",
+			"69665",
+			"57360",
+			"23375",
+			null,
+			"69108249",
+			"14293",
+			"6994000",
+			"14176757",
+			"175865",
+			"1504534",
+			null,
+			null,
+			null,
+			"United States",
+			null,
+			null,
+			"7046",
+			null,
+			null,
+			null,
+			"47020",
+			"69893",
+			"54428",
+			"85669",
+			null,
+			null,
+			"21170757",
+			"2611368",
+			"2002418",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"25750",
+			null,
+			null,
+			"34840",
+			null,
+			"51961",
+			"37752",
+			"1703281",
+			"10908",
+			null,
+			"1641614",
+			"3343134",
+			"6299819",
+			"731766",
+			"288533",
+			null,
+			null,
+			null,
+			null,
+			"0100000US",
+			null,
+			null,
+			null,
+			"2744",
+			null,
+			"107299",
+			"51707",
+			"36504",
+			null,
+			"10995",
+			"21684726"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:34.355Z"
+}

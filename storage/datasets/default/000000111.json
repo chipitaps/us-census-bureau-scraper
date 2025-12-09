@@ -1,0 +1,264 @@
+{
+	"tableId": "ACSDT1Y2024.B02016",
+	"title": "Native Hawaiian and Other Pacific Islander Alone by Selected Groups",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Total Native Hawaiian and Other Pacific Islander alone population",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B02016",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B02016_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B02016_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B02016_002E",
+				"label": "Estimate!!Total:!!Polynesian:!!Native Hawaiian"
+			},
+			{
+				"id": "B02016_002M",
+				"label": "Margin of Error!!Total:!!Polynesian:!!Native Hawaiian"
+			},
+			{
+				"id": "B02016_003E",
+				"label": "Estimate!!Total:!!Polynesian:!!Samoan"
+			},
+			{
+				"id": "B02016_003M",
+				"label": "Margin of Error!!Total:!!Polynesian:!!Samoan"
+			},
+			{
+				"id": "B02016_004E",
+				"label": "Estimate!!Total:!!Polynesian:!!Tongan"
+			},
+			{
+				"id": "B02016_004M",
+				"label": "Margin of Error!!Total:!!Polynesian:!!Tongan"
+			},
+			{
+				"id": "B02016_005E",
+				"label": "Estimate!!Total:!!Polynesian:!!Other Polynesian"
+			},
+			{
+				"id": "B02016_005M",
+				"label": "Margin of Error!!Total:!!Polynesian:!!Other Polynesian"
+			},
+			{
+				"id": "B02016_006E",
+				"label": "Estimate!!Total:!!Micronesian:!!Chamorro"
+			},
+			{
+				"id": "B02016_006M",
+				"label": "Margin of Error!!Total:!!Micronesian:!!Chamorro"
+			},
+			{
+				"id": "B02016_007E",
+				"label": "Estimate!!Total:!!Micronesian:!!Chuukese"
+			},
+			{
+				"id": "B02016_007M",
+				"label": "Margin of Error!!Total:!!Micronesian:!!Chuukese"
+			},
+			{
+				"id": "B02016_008E",
+				"label": "Estimate!!Total:!!Micronesian:!!Guamanian"
+			},
+			{
+				"id": "B02016_008M",
+				"label": "Margin of Error!!Total:!!Micronesian:!!Guamanian"
+			},
+			{
+				"id": "B02016_009E",
+				"label": "Estimate!!Total:!!Micronesian:!!Marshallese"
+			},
+			{
+				"id": "B02016_009M",
+				"label": "Margin of Error!!Total:!!Micronesian:!!Marshallese"
+			},
+			{
+				"id": "B02016_010E",
+				"label": "Estimate!!Total:!!Micronesian:!!Other Micronesian"
+			},
+			{
+				"id": "B02016_010M",
+				"label": "Margin of Error!!Total:!!Micronesian:!!Other Micronesian"
+			},
+			{
+				"id": "B02016_011E",
+				"label": "Estimate!!Total:!!Melanesian:!!Fijian"
+			},
+			{
+				"id": "B02016_011M",
+				"label": "Margin of Error!!Total:!!Melanesian:!!Fijian"
+			},
+			{
+				"id": "B02016_012E",
+				"label": "Estimate!!Total:!!Melanesian:!!Other Melanesian"
+			},
+			{
+				"id": "B02016_012M",
+				"label": "Margin of Error!!Total:!!Melanesian:!!Other Melanesian"
+			},
+			{
+				"id": "B02016_013E",
+				"label": "Estimate!!Total:!!Other Native Hawaiian and Other Pacific Islander, not specified"
+			},
+			{
+				"id": "B02016_013M",
+				"label": "Margin of Error!!Total:!!Other Native Hawaiian and Other Pacific Islander, not specified"
+			},
+			{
+				"id": "B02016_014E",
+				"label": "Estimate!!Total:!!Two or more Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "B02016_014M",
+				"label": "Margin of Error!!Total:!!Two or more Native Hawaiian and Other Pacific Islander"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B02016_007MA",
+			"B02016_001EA",
+			"B02016_009MA",
+			"B02016_003MA",
+			"B02016_007E",
+			"B02016_005MA",
+			"B02016_001MA",
+			"B02016_002M",
+			"B02016_014M",
+			"B02016_010M",
+			"B02016_002E",
+			"B02016_014E",
+			"B02016_006M",
+			"B02016_013EA",
+			"B02016_010E",
+			"B02016_010EA",
+			"B02016_008E",
+			"B02016_012EA",
+			"B02016_014MA",
+			"B02016_004E",
+			"B02016_010MA",
+			"B02016_012MA",
+			"NAME",
+			"B02016_003M",
+			"B02016_011M",
+			"B02016_003E",
+			"B02016_007EA",
+			"B02016_011E",
+			"B02016_009EA",
+			"B02016_003EA",
+			"B02016_007M",
+			"B02016_005EA",
+			"B02016_006MA",
+			"B02016_008MA",
+			"B02016_009E",
+			"B02016_002MA",
+			"B02016_004MA",
+			"B02016_005E",
+			"B02016_012M",
+			"B02016_008M",
+			"B02016_012E",
+			"B02016_014EA",
+			"B02016_004M",
+			"B02016_011EA",
+			"B02016_006E",
+			"B02016_013MA",
+			"B02016_011MA",
+			"B02016_013M",
+			"GEO_ID",
+			"B02016_001M",
+			"B02016_006EA",
+			"B02016_013E",
+			"B02016_008EA",
+			"B02016_001E",
+			"B02016_009M",
+			"B02016_002EA",
+			"B02016_004EA",
+			"B02016_005M"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			"7678",
+			null,
+			null,
+			"11497",
+			"4605",
+			"9813",
+			"180818",
+			"20265",
+			"8213",
+			null,
+			"62727",
+			null,
+			"5394",
+			null,
+			null,
+			"40779",
+			null,
+			null,
+			"United States",
+			"12083",
+			"4269",
+			"123994",
+			null,
+			"36706",
+			null,
+			null,
+			"3291",
+			null,
+			null,
+			null,
+			"37747",
+			null,
+			null,
+			"7893",
+			"469",
+			"1720",
+			"824",
+			null,
+			"6586",
+			null,
+			"83961",
+			null,
+			null,
+			"6060",
+			"0100000US",
+			"18258",
+			null,
+			"43395",
+			null,
+			"652181",
+			"5858",
+			null,
+			null,
+			"3699"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:29.446Z"
+}

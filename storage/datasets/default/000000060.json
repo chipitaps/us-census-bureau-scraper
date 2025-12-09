@@ -1,0 +1,4779 @@
+{
+	"tableId": "ACSST1Y2024.S2002",
+	"title": "Median Earnings in the Past 12 Months (in 2024 Inflation-Adjusted Dollars) of Workers by Sex and Women's Earnings as a Percentage of Men's Earnings by Selected Characteristics",
+	"survey": "ACS 1-Year Estimates Subject Tables",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSST1Y2024.S2002",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "S2002_C01_001E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C01_001M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C02_001E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C02_001M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C03_001E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C03_001M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C04_001E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C04_001M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C01_002E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!White"
+			},
+			{
+				"id": "S2002_C01_002M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!White"
+			},
+			{
+				"id": "S2002_C02_002E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!White"
+			},
+			{
+				"id": "S2002_C02_002M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!White"
+			},
+			{
+				"id": "S2002_C03_002E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!White"
+			},
+			{
+				"id": "S2002_C03_002M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!White"
+			},
+			{
+				"id": "S2002_C04_002E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!White"
+			},
+			{
+				"id": "S2002_C04_002M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!White"
+			},
+			{
+				"id": "S2002_C01_003E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Black or African American"
+			},
+			{
+				"id": "S2002_C01_003M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Black or African American"
+			},
+			{
+				"id": "S2002_C02_003E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Black or African American"
+			},
+			{
+				"id": "S2002_C02_003M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Black or African American"
+			},
+			{
+				"id": "S2002_C03_003E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Black or African American"
+			},
+			{
+				"id": "S2002_C03_003M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Black or African American"
+			},
+			{
+				"id": "S2002_C04_003E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Black or African American"
+			},
+			{
+				"id": "S2002_C04_003M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Black or African American"
+			},
+			{
+				"id": "S2002_C01_004E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2002_C01_004M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2002_C02_004E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2002_C02_004M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2002_C03_004E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2002_C03_004M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2002_C04_004E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2002_C04_004M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!American Indian and Alaska Native"
+			},
+			{
+				"id": "S2002_C01_005E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Asian"
+			},
+			{
+				"id": "S2002_C01_005M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Asian"
+			},
+			{
+				"id": "S2002_C02_005E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Asian"
+			},
+			{
+				"id": "S2002_C02_005M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Asian"
+			},
+			{
+				"id": "S2002_C03_005E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Asian"
+			},
+			{
+				"id": "S2002_C03_005M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Asian"
+			},
+			{
+				"id": "S2002_C04_005E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Asian"
+			},
+			{
+				"id": "S2002_C04_005M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Asian"
+			},
+			{
+				"id": "S2002_C01_006E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2002_C01_006M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2002_C02_006E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2002_C02_006M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2002_C03_006E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2002_C03_006M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2002_C04_006E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2002_C04_006M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Native Hawaiian and Other Pacific Islander"
+			},
+			{
+				"id": "S2002_C01_007E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Some other race"
+			},
+			{
+				"id": "S2002_C01_007M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Some other race"
+			},
+			{
+				"id": "S2002_C02_007E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Some other race"
+			},
+			{
+				"id": "S2002_C02_007M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Some other race"
+			},
+			{
+				"id": "S2002_C03_007E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Some other race"
+			},
+			{
+				"id": "S2002_C03_007M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Some other race"
+			},
+			{
+				"id": "S2002_C04_007E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Some other race"
+			},
+			{
+				"id": "S2002_C04_007M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!One race--!!Some other race"
+			},
+			{
+				"id": "S2002_C01_008E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2002_C01_008M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2002_C02_008E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2002_C02_008M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2002_C03_008E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2002_C03_008M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2002_C04_008E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2002_C04_008M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races"
+			},
+			{
+				"id": "S2002_C01_009E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S2002_C01_009M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S2002_C02_009E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S2002_C02_009M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S2002_C03_009E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S2002_C03_009M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S2002_C04_009E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S2002_C04_009M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race)"
+			},
+			{
+				"id": "S2002_C01_010E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2002_C01_010M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2002_C02_010E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2002_C02_010M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2002_C03_010E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2002_C03_010M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2002_C04_010E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2002_C04_010M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round workers 16 years and over with earnings!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino"
+			},
+			{
+				"id": "S2002_C01_011E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings"
+			},
+			{
+				"id": "S2002_C01_011M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings"
+			},
+			{
+				"id": "S2002_C02_011E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings"
+			},
+			{
+				"id": "S2002_C02_011M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings"
+			},
+			{
+				"id": "S2002_C03_011E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings"
+			},
+			{
+				"id": "S2002_C03_011M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings"
+			},
+			{
+				"id": "S2002_C04_011E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings"
+			},
+			{
+				"id": "S2002_C04_011M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings"
+			},
+			{
+				"id": "S2002_C01_012E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate"
+			},
+			{
+				"id": "S2002_C01_012M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate"
+			},
+			{
+				"id": "S2002_C02_012E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate"
+			},
+			{
+				"id": "S2002_C02_012M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate"
+			},
+			{
+				"id": "S2002_C03_012E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate"
+			},
+			{
+				"id": "S2002_C03_012M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate"
+			},
+			{
+				"id": "S2002_C04_012E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate"
+			},
+			{
+				"id": "S2002_C04_012M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate"
+			},
+			{
+				"id": "S2002_C01_013E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2002_C01_013M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2002_C02_013E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2002_C02_013M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2002_C03_013E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2002_C03_013M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2002_C04_013E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2002_C04_013M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency)"
+			},
+			{
+				"id": "S2002_C01_014E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree"
+			},
+			{
+				"id": "S2002_C01_014M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree"
+			},
+			{
+				"id": "S2002_C02_014E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree"
+			},
+			{
+				"id": "S2002_C02_014M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree"
+			},
+			{
+				"id": "S2002_C03_014E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree"
+			},
+			{
+				"id": "S2002_C03_014M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree"
+			},
+			{
+				"id": "S2002_C04_014E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree"
+			},
+			{
+				"id": "S2002_C04_014M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree"
+			},
+			{
+				"id": "S2002_C01_015E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree"
+			},
+			{
+				"id": "S2002_C01_015M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree"
+			},
+			{
+				"id": "S2002_C02_015E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree"
+			},
+			{
+				"id": "S2002_C02_015M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree"
+			},
+			{
+				"id": "S2002_C03_015E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree"
+			},
+			{
+				"id": "S2002_C03_015M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree"
+			},
+			{
+				"id": "S2002_C04_015E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree"
+			},
+			{
+				"id": "S2002_C04_015M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree"
+			},
+			{
+				"id": "S2002_C01_016E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree"
+			},
+			{
+				"id": "S2002_C01_016M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree"
+			},
+			{
+				"id": "S2002_C02_016E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree"
+			},
+			{
+				"id": "S2002_C02_016M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree"
+			},
+			{
+				"id": "S2002_C03_016E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree"
+			},
+			{
+				"id": "S2002_C03_016M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree"
+			},
+			{
+				"id": "S2002_C04_016E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree"
+			},
+			{
+				"id": "S2002_C04_016M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree"
+			},
+			{
+				"id": "S2002_C01_017E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C01_017M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C02_017E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C02_017M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C03_017E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C03_017M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C04_017E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C04_017M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings"
+			},
+			{
+				"id": "S2002_C01_018E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Management occupations"
+			},
+			{
+				"id": "S2002_C01_018M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Management occupations"
+			},
+			{
+				"id": "S2002_C02_018E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Management occupations"
+			},
+			{
+				"id": "S2002_C02_018M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Management occupations"
+			},
+			{
+				"id": "S2002_C03_018E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Management occupations"
+			},
+			{
+				"id": "S2002_C03_018M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Management occupations"
+			},
+			{
+				"id": "S2002_C04_018E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Management occupations"
+			},
+			{
+				"id": "S2002_C04_018M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Management occupations"
+			},
+			{
+				"id": "S2002_C01_019E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Business and financial operations occupations"
+			},
+			{
+				"id": "S2002_C01_019M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Business and financial operations occupations"
+			},
+			{
+				"id": "S2002_C02_019E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Business and financial operations occupations"
+			},
+			{
+				"id": "S2002_C02_019M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Business and financial operations occupations"
+			},
+			{
+				"id": "S2002_C03_019E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Business and financial operations occupations"
+			},
+			{
+				"id": "S2002_C03_019M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Business and financial operations occupations"
+			},
+			{
+				"id": "S2002_C04_019E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Business and financial operations occupations"
+			},
+			{
+				"id": "S2002_C04_019M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Business and financial operations occupations"
+			},
+			{
+				"id": "S2002_C01_020E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Computer and mathematical occupations"
+			},
+			{
+				"id": "S2002_C01_020M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Computer and mathematical occupations"
+			},
+			{
+				"id": "S2002_C02_020E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Computer and mathematical occupations"
+			},
+			{
+				"id": "S2002_C02_020M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Computer and mathematical occupations"
+			},
+			{
+				"id": "S2002_C03_020E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Computer and mathematical occupations"
+			},
+			{
+				"id": "S2002_C03_020M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Computer and mathematical occupations"
+			},
+			{
+				"id": "S2002_C04_020E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Computer and mathematical occupations"
+			},
+			{
+				"id": "S2002_C04_020M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Computer and mathematical occupations"
+			},
+			{
+				"id": "S2002_C01_021E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Architecture and engineering occupations"
+			},
+			{
+				"id": "S2002_C01_021M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Architecture and engineering occupations"
+			},
+			{
+				"id": "S2002_C02_021E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Architecture and engineering occupations"
+			},
+			{
+				"id": "S2002_C02_021M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Architecture and engineering occupations"
+			},
+			{
+				"id": "S2002_C03_021E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Architecture and engineering occupations"
+			},
+			{
+				"id": "S2002_C03_021M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Architecture and engineering occupations"
+			},
+			{
+				"id": "S2002_C04_021E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Architecture and engineering occupations"
+			},
+			{
+				"id": "S2002_C04_021M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Architecture and engineering occupations"
+			},
+			{
+				"id": "S2002_C01_022E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Life, physical, and social science occupations"
+			},
+			{
+				"id": "S2002_C01_022M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Life, physical, and social science occupations"
+			},
+			{
+				"id": "S2002_C02_022E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Life, physical, and social science occupations"
+			},
+			{
+				"id": "S2002_C02_022M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Life, physical, and social science occupations"
+			},
+			{
+				"id": "S2002_C03_022E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Life, physical, and social science occupations"
+			},
+			{
+				"id": "S2002_C03_022M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Life, physical, and social science occupations"
+			},
+			{
+				"id": "S2002_C04_022E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Life, physical, and social science occupations"
+			},
+			{
+				"id": "S2002_C04_022M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Life, physical, and social science occupations"
+			},
+			{
+				"id": "S2002_C01_023E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Community and social services occupations"
+			},
+			{
+				"id": "S2002_C01_023M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Community and social services occupations"
+			},
+			{
+				"id": "S2002_C02_023E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Community and social services occupations"
+			},
+			{
+				"id": "S2002_C02_023M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Community and social services occupations"
+			},
+			{
+				"id": "S2002_C03_023E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Community and social services occupations"
+			},
+			{
+				"id": "S2002_C03_023M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Community and social services occupations"
+			},
+			{
+				"id": "S2002_C04_023E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Community and social services occupations"
+			},
+			{
+				"id": "S2002_C04_023M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Community and social services occupations"
+			},
+			{
+				"id": "S2002_C01_024E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Legal occupations"
+			},
+			{
+				"id": "S2002_C01_024M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Legal occupations"
+			},
+			{
+				"id": "S2002_C02_024E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Legal occupations"
+			},
+			{
+				"id": "S2002_C02_024M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Legal occupations"
+			},
+			{
+				"id": "S2002_C03_024E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Legal occupations"
+			},
+			{
+				"id": "S2002_C03_024M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Legal occupations"
+			},
+			{
+				"id": "S2002_C04_024E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Legal occupations"
+			},
+			{
+				"id": "S2002_C04_024M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Legal occupations"
+			},
+			{
+				"id": "S2002_C01_025E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Education, training, and library occupations"
+			},
+			{
+				"id": "S2002_C01_025M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Education, training, and library occupations"
+			},
+			{
+				"id": "S2002_C02_025E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Education, training, and library occupations"
+			},
+			{
+				"id": "S2002_C02_025M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Education, training, and library occupations"
+			},
+			{
+				"id": "S2002_C03_025E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Education, training, and library occupations"
+			},
+			{
+				"id": "S2002_C03_025M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Education, training, and library occupations"
+			},
+			{
+				"id": "S2002_C04_025E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Education, training, and library occupations"
+			},
+			{
+				"id": "S2002_C04_025M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Education, training, and library occupations"
+			},
+			{
+				"id": "S2002_C01_026E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Arts, design, entertainment, sports, and media occupations"
+			},
+			{
+				"id": "S2002_C01_026M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Arts, design, entertainment, sports, and media occupations"
+			},
+			{
+				"id": "S2002_C02_026E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Arts, design, entertainment, sports, and media occupations"
+			},
+			{
+				"id": "S2002_C02_026M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Arts, design, entertainment, sports, and media occupations"
+			},
+			{
+				"id": "S2002_C03_026E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Arts, design, entertainment, sports, and media occupations"
+			},
+			{
+				"id": "S2002_C03_026M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Arts, design, entertainment, sports, and media occupations"
+			},
+			{
+				"id": "S2002_C04_026E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Arts, design, entertainment, sports, and media occupations"
+			},
+			{
+				"id": "S2002_C04_026M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Arts, design, entertainment, sports, and media occupations"
+			},
+			{
+				"id": "S2002_C01_027E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare practitioner and technical occupations"
+			},
+			{
+				"id": "S2002_C01_027M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare practitioner and technical occupations"
+			},
+			{
+				"id": "S2002_C02_027E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare practitioner and technical occupations"
+			},
+			{
+				"id": "S2002_C02_027M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare practitioner and technical occupations"
+			},
+			{
+				"id": "S2002_C03_027E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare practitioner and technical occupations"
+			},
+			{
+				"id": "S2002_C03_027M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare practitioner and technical occupations"
+			},
+			{
+				"id": "S2002_C04_027E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare practitioner and technical occupations"
+			},
+			{
+				"id": "S2002_C04_027M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare practitioner and technical occupations"
+			},
+			{
+				"id": "S2002_C01_028E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare support occupations"
+			},
+			{
+				"id": "S2002_C01_028M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare support occupations"
+			},
+			{
+				"id": "S2002_C02_028E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare support occupations"
+			},
+			{
+				"id": "S2002_C02_028M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare support occupations"
+			},
+			{
+				"id": "S2002_C03_028E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare support occupations"
+			},
+			{
+				"id": "S2002_C03_028M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare support occupations"
+			},
+			{
+				"id": "S2002_C04_028E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare support occupations"
+			},
+			{
+				"id": "S2002_C04_028M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Healthcare support occupations"
+			},
+			{
+				"id": "S2002_C01_029E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Protective service occupations"
+			},
+			{
+				"id": "S2002_C01_029M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Protective service occupations"
+			},
+			{
+				"id": "S2002_C02_029E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Protective service occupations"
+			},
+			{
+				"id": "S2002_C02_029M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Protective service occupations"
+			},
+			{
+				"id": "S2002_C03_029E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Protective service occupations"
+			},
+			{
+				"id": "S2002_C03_029M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Protective service occupations"
+			},
+			{
+				"id": "S2002_C04_029E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Protective service occupations"
+			},
+			{
+				"id": "S2002_C04_029M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Protective service occupations"
+			},
+			{
+				"id": "S2002_C01_030E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Food preparation and serving related occupations"
+			},
+			{
+				"id": "S2002_C01_030M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Food preparation and serving related occupations"
+			},
+			{
+				"id": "S2002_C02_030E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Food preparation and serving related occupations"
+			},
+			{
+				"id": "S2002_C02_030M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Food preparation and serving related occupations"
+			},
+			{
+				"id": "S2002_C03_030E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Food preparation and serving related occupations"
+			},
+			{
+				"id": "S2002_C03_030M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Food preparation and serving related occupations"
+			},
+			{
+				"id": "S2002_C04_030E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Food preparation and serving related occupations"
+			},
+			{
+				"id": "S2002_C04_030M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Food preparation and serving related occupations"
+			},
+			{
+				"id": "S2002_C01_031E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Building and grounds cleaning and maintenance occupations"
+			},
+			{
+				"id": "S2002_C01_031M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Building and grounds cleaning and maintenance occupations"
+			},
+			{
+				"id": "S2002_C02_031E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Building and grounds cleaning and maintenance occupations"
+			},
+			{
+				"id": "S2002_C02_031M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Building and grounds cleaning and maintenance occupations"
+			},
+			{
+				"id": "S2002_C03_031E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Building and grounds cleaning and maintenance occupations"
+			},
+			{
+				"id": "S2002_C03_031M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Building and grounds cleaning and maintenance occupations"
+			},
+			{
+				"id": "S2002_C04_031E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Building and grounds cleaning and maintenance occupations"
+			},
+			{
+				"id": "S2002_C04_031M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Building and grounds cleaning and maintenance occupations"
+			},
+			{
+				"id": "S2002_C01_032E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Personal care and service occupations"
+			},
+			{
+				"id": "S2002_C01_032M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Personal care and service occupations"
+			},
+			{
+				"id": "S2002_C02_032E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Personal care and service occupations"
+			},
+			{
+				"id": "S2002_C02_032M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Personal care and service occupations"
+			},
+			{
+				"id": "S2002_C03_032E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Personal care and service occupations"
+			},
+			{
+				"id": "S2002_C03_032M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Personal care and service occupations"
+			},
+			{
+				"id": "S2002_C04_032E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Personal care and service occupations"
+			},
+			{
+				"id": "S2002_C04_032M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Personal care and service occupations"
+			},
+			{
+				"id": "S2002_C01_033E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Sales and related occupations"
+			},
+			{
+				"id": "S2002_C01_033M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Sales and related occupations"
+			},
+			{
+				"id": "S2002_C02_033E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Sales and related occupations"
+			},
+			{
+				"id": "S2002_C02_033M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Sales and related occupations"
+			},
+			{
+				"id": "S2002_C03_033E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Sales and related occupations"
+			},
+			{
+				"id": "S2002_C03_033M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Sales and related occupations"
+			},
+			{
+				"id": "S2002_C04_033E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Sales and related occupations"
+			},
+			{
+				"id": "S2002_C04_033M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Sales and related occupations"
+			},
+			{
+				"id": "S2002_C01_034E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Office and administrative support occupations"
+			},
+			{
+				"id": "S2002_C01_034M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Office and administrative support occupations"
+			},
+			{
+				"id": "S2002_C02_034E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Office and administrative support occupations"
+			},
+			{
+				"id": "S2002_C02_034M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Office and administrative support occupations"
+			},
+			{
+				"id": "S2002_C03_034E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Office and administrative support occupations"
+			},
+			{
+				"id": "S2002_C03_034M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Office and administrative support occupations"
+			},
+			{
+				"id": "S2002_C04_034E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Office and administrative support occupations"
+			},
+			{
+				"id": "S2002_C04_034M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Office and administrative support occupations"
+			},
+			{
+				"id": "S2002_C01_035E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Farming, fishing, and forestry occupations"
+			},
+			{
+				"id": "S2002_C01_035M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Farming, fishing, and forestry occupations"
+			},
+			{
+				"id": "S2002_C02_035E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Farming, fishing, and forestry occupations"
+			},
+			{
+				"id": "S2002_C02_035M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Farming, fishing, and forestry occupations"
+			},
+			{
+				"id": "S2002_C03_035E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Farming, fishing, and forestry occupations"
+			},
+			{
+				"id": "S2002_C03_035M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Farming, fishing, and forestry occupations"
+			},
+			{
+				"id": "S2002_C04_035E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Farming, fishing, and forestry occupations"
+			},
+			{
+				"id": "S2002_C04_035M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Farming, fishing, and forestry occupations"
+			},
+			{
+				"id": "S2002_C01_036E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Construction and extraction occupations"
+			},
+			{
+				"id": "S2002_C01_036M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Construction and extraction occupations"
+			},
+			{
+				"id": "S2002_C02_036E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Construction and extraction occupations"
+			},
+			{
+				"id": "S2002_C02_036M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Construction and extraction occupations"
+			},
+			{
+				"id": "S2002_C03_036E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Construction and extraction occupations"
+			},
+			{
+				"id": "S2002_C03_036M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Construction and extraction occupations"
+			},
+			{
+				"id": "S2002_C04_036E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Construction and extraction occupations"
+			},
+			{
+				"id": "S2002_C04_036M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Construction and extraction occupations"
+			},
+			{
+				"id": "S2002_C01_037E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Installation, maintenance, and repair occupations"
+			},
+			{
+				"id": "S2002_C01_037M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Installation, maintenance, and repair occupations"
+			},
+			{
+				"id": "S2002_C02_037E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Installation, maintenance, and repair occupations"
+			},
+			{
+				"id": "S2002_C02_037M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Installation, maintenance, and repair occupations"
+			},
+			{
+				"id": "S2002_C03_037E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Installation, maintenance, and repair occupations"
+			},
+			{
+				"id": "S2002_C03_037M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Installation, maintenance, and repair occupations"
+			},
+			{
+				"id": "S2002_C04_037E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Installation, maintenance, and repair occupations"
+			},
+			{
+				"id": "S2002_C04_037M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Installation, maintenance, and repair occupations"
+			},
+			{
+				"id": "S2002_C01_038E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Production occupations"
+			},
+			{
+				"id": "S2002_C01_038M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Production occupations"
+			},
+			{
+				"id": "S2002_C02_038E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Production occupations"
+			},
+			{
+				"id": "S2002_C02_038M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Production occupations"
+			},
+			{
+				"id": "S2002_C03_038E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Production occupations"
+			},
+			{
+				"id": "S2002_C03_038M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Production occupations"
+			},
+			{
+				"id": "S2002_C04_038E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Production occupations"
+			},
+			{
+				"id": "S2002_C04_038M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Production occupations"
+			},
+			{
+				"id": "S2002_C01_039E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Transportation occupations"
+			},
+			{
+				"id": "S2002_C01_039M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Transportation occupations"
+			},
+			{
+				"id": "S2002_C02_039E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Transportation occupations"
+			},
+			{
+				"id": "S2002_C02_039M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Transportation occupations"
+			},
+			{
+				"id": "S2002_C03_039E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Transportation occupations"
+			},
+			{
+				"id": "S2002_C03_039M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Transportation occupations"
+			},
+			{
+				"id": "S2002_C04_039E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Transportation occupations"
+			},
+			{
+				"id": "S2002_C04_039M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Transportation occupations"
+			},
+			{
+				"id": "S2002_C01_040E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Material moving occupations"
+			},
+			{
+				"id": "S2002_C01_040M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Material moving occupations"
+			},
+			{
+				"id": "S2002_C02_040E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Material moving occupations"
+			},
+			{
+				"id": "S2002_C02_040M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Material moving occupations"
+			},
+			{
+				"id": "S2002_C03_040E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Material moving occupations"
+			},
+			{
+				"id": "S2002_C03_040M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Material moving occupations"
+			},
+			{
+				"id": "S2002_C04_040E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Material moving occupations"
+			},
+			{
+				"id": "S2002_C04_040M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!OCCUPATION!!Material moving occupations"
+			},
+			{
+				"id": "S2002_C01_041E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Agriculture, forestry, fishing and hunting"
+			},
+			{
+				"id": "S2002_C01_041M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Agriculture, forestry, fishing and hunting"
+			},
+			{
+				"id": "S2002_C02_041E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Agriculture, forestry, fishing and hunting"
+			},
+			{
+				"id": "S2002_C02_041M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Agriculture, forestry, fishing and hunting"
+			},
+			{
+				"id": "S2002_C03_041E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Agriculture, forestry, fishing and hunting"
+			},
+			{
+				"id": "S2002_C03_041M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Agriculture, forestry, fishing and hunting"
+			},
+			{
+				"id": "S2002_C04_041E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Agriculture, forestry, fishing and hunting"
+			},
+			{
+				"id": "S2002_C04_041M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Agriculture, forestry, fishing and hunting"
+			},
+			{
+				"id": "S2002_C01_042E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Mining, quarrying, and oil and gas extraction"
+			},
+			{
+				"id": "S2002_C01_042M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Mining, quarrying, and oil and gas extraction"
+			},
+			{
+				"id": "S2002_C02_042E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Mining, quarrying, and oil and gas extraction"
+			},
+			{
+				"id": "S2002_C02_042M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Mining, quarrying, and oil and gas extraction"
+			},
+			{
+				"id": "S2002_C03_042E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Mining, quarrying, and oil and gas extraction"
+			},
+			{
+				"id": "S2002_C03_042M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Mining, quarrying, and oil and gas extraction"
+			},
+			{
+				"id": "S2002_C04_042E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Mining, quarrying, and oil and gas extraction"
+			},
+			{
+				"id": "S2002_C04_042M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Mining, quarrying, and oil and gas extraction"
+			},
+			{
+				"id": "S2002_C01_043E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2002_C01_043M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2002_C02_043E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2002_C02_043M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2002_C03_043E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2002_C03_043M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2002_C04_043E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2002_C04_043M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Construction"
+			},
+			{
+				"id": "S2002_C01_044E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2002_C01_044M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2002_C02_044E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2002_C02_044M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2002_C03_044E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2002_C03_044M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2002_C04_044E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2002_C04_044M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Manufacturing"
+			},
+			{
+				"id": "S2002_C01_045E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2002_C01_045M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2002_C02_045E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2002_C02_045M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2002_C03_045E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2002_C03_045M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2002_C04_045E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2002_C04_045M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Wholesale trade"
+			},
+			{
+				"id": "S2002_C01_046E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2002_C01_046M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2002_C02_046E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2002_C02_046M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2002_C03_046E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2002_C03_046M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2002_C04_046E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2002_C04_046M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Retail trade"
+			},
+			{
+				"id": "S2002_C01_047E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Transportation and warehousing"
+			},
+			{
+				"id": "S2002_C01_047M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Transportation and warehousing"
+			},
+			{
+				"id": "S2002_C02_047E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Transportation and warehousing"
+			},
+			{
+				"id": "S2002_C02_047M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Transportation and warehousing"
+			},
+			{
+				"id": "S2002_C03_047E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Transportation and warehousing"
+			},
+			{
+				"id": "S2002_C03_047M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Transportation and warehousing"
+			},
+			{
+				"id": "S2002_C04_047E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Transportation and warehousing"
+			},
+			{
+				"id": "S2002_C04_047M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Transportation and warehousing"
+			},
+			{
+				"id": "S2002_C01_048E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Utilities"
+			},
+			{
+				"id": "S2002_C01_048M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Utilities"
+			},
+			{
+				"id": "S2002_C02_048E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Utilities"
+			},
+			{
+				"id": "S2002_C02_048M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Utilities"
+			},
+			{
+				"id": "S2002_C03_048E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Utilities"
+			},
+			{
+				"id": "S2002_C03_048M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Utilities"
+			},
+			{
+				"id": "S2002_C04_048E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Utilities"
+			},
+			{
+				"id": "S2002_C04_048M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Utilities"
+			},
+			{
+				"id": "S2002_C01_049E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2002_C01_049M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2002_C02_049E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2002_C02_049M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2002_C03_049E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2002_C03_049M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2002_C04_049E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2002_C04_049M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Information"
+			},
+			{
+				"id": "S2002_C01_050E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Finance and insurance"
+			},
+			{
+				"id": "S2002_C01_050M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Finance and insurance"
+			},
+			{
+				"id": "S2002_C02_050E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Finance and insurance"
+			},
+			{
+				"id": "S2002_C02_050M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Finance and insurance"
+			},
+			{
+				"id": "S2002_C03_050E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Finance and insurance"
+			},
+			{
+				"id": "S2002_C03_050M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Finance and insurance"
+			},
+			{
+				"id": "S2002_C04_050E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Finance and insurance"
+			},
+			{
+				"id": "S2002_C04_050M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Finance and insurance"
+			},
+			{
+				"id": "S2002_C01_051E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Real estate and rental and leasing"
+			},
+			{
+				"id": "S2002_C01_051M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Real estate and rental and leasing"
+			},
+			{
+				"id": "S2002_C02_051E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Real estate and rental and leasing"
+			},
+			{
+				"id": "S2002_C02_051M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Real estate and rental and leasing"
+			},
+			{
+				"id": "S2002_C03_051E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Real estate and rental and leasing"
+			},
+			{
+				"id": "S2002_C03_051M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Real estate and rental and leasing"
+			},
+			{
+				"id": "S2002_C04_051E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Real estate and rental and leasing"
+			},
+			{
+				"id": "S2002_C04_051M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Real estate and rental and leasing"
+			},
+			{
+				"id": "S2002_C01_052E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Professional, scientific, and technical services"
+			},
+			{
+				"id": "S2002_C01_052M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Professional, scientific, and technical services"
+			},
+			{
+				"id": "S2002_C02_052E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Professional, scientific, and technical services"
+			},
+			{
+				"id": "S2002_C02_052M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Professional, scientific, and technical services"
+			},
+			{
+				"id": "S2002_C03_052E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Professional, scientific, and technical services"
+			},
+			{
+				"id": "S2002_C03_052M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Professional, scientific, and technical services"
+			},
+			{
+				"id": "S2002_C04_052E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Professional, scientific, and technical services"
+			},
+			{
+				"id": "S2002_C04_052M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Professional, scientific, and technical services"
+			},
+			{
+				"id": "S2002_C01_053E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Management of companies and enterprises"
+			},
+			{
+				"id": "S2002_C01_053M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Management of companies and enterprises"
+			},
+			{
+				"id": "S2002_C02_053E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Management of companies and enterprises"
+			},
+			{
+				"id": "S2002_C02_053M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Management of companies and enterprises"
+			},
+			{
+				"id": "S2002_C03_053E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Management of companies and enterprises"
+			},
+			{
+				"id": "S2002_C03_053M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Management of companies and enterprises"
+			},
+			{
+				"id": "S2002_C04_053E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Management of companies and enterprises"
+			},
+			{
+				"id": "S2002_C04_053M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Management of companies and enterprises"
+			},
+			{
+				"id": "S2002_C01_054E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Administrative and support and waste management services"
+			},
+			{
+				"id": "S2002_C01_054M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Administrative and support and waste management services"
+			},
+			{
+				"id": "S2002_C02_054E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Administrative and support and waste management services"
+			},
+			{
+				"id": "S2002_C02_054M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Administrative and support and waste management services"
+			},
+			{
+				"id": "S2002_C03_054E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Administrative and support and waste management services"
+			},
+			{
+				"id": "S2002_C03_054M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Administrative and support and waste management services"
+			},
+			{
+				"id": "S2002_C04_054E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Administrative and support and waste management services"
+			},
+			{
+				"id": "S2002_C04_054M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Administrative and support and waste management services"
+			},
+			{
+				"id": "S2002_C01_055E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Educational services"
+			},
+			{
+				"id": "S2002_C01_055M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Educational services"
+			},
+			{
+				"id": "S2002_C02_055E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Educational services"
+			},
+			{
+				"id": "S2002_C02_055M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Educational services"
+			},
+			{
+				"id": "S2002_C03_055E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Educational services"
+			},
+			{
+				"id": "S2002_C03_055M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Educational services"
+			},
+			{
+				"id": "S2002_C04_055E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Educational services"
+			},
+			{
+				"id": "S2002_C04_055M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Educational services"
+			},
+			{
+				"id": "S2002_C01_056E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Health care and social assistance"
+			},
+			{
+				"id": "S2002_C01_056M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Health care and social assistance"
+			},
+			{
+				"id": "S2002_C02_056E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Health care and social assistance"
+			},
+			{
+				"id": "S2002_C02_056M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Health care and social assistance"
+			},
+			{
+				"id": "S2002_C03_056E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Health care and social assistance"
+			},
+			{
+				"id": "S2002_C03_056M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Health care and social assistance"
+			},
+			{
+				"id": "S2002_C04_056E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Health care and social assistance"
+			},
+			{
+				"id": "S2002_C04_056M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Health care and social assistance"
+			},
+			{
+				"id": "S2002_C01_057E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Arts, entertainment, and recreation"
+			},
+			{
+				"id": "S2002_C01_057M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Arts, entertainment, and recreation"
+			},
+			{
+				"id": "S2002_C02_057E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Arts, entertainment, and recreation"
+			},
+			{
+				"id": "S2002_C02_057M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Arts, entertainment, and recreation"
+			},
+			{
+				"id": "S2002_C03_057E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Arts, entertainment, and recreation"
+			},
+			{
+				"id": "S2002_C03_057M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Arts, entertainment, and recreation"
+			},
+			{
+				"id": "S2002_C04_057E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Arts, entertainment, and recreation"
+			},
+			{
+				"id": "S2002_C04_057M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Arts, entertainment, and recreation"
+			},
+			{
+				"id": "S2002_C01_058E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Accommodation and food services"
+			},
+			{
+				"id": "S2002_C01_058M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Accommodation and food services"
+			},
+			{
+				"id": "S2002_C02_058E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Accommodation and food services"
+			},
+			{
+				"id": "S2002_C02_058M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Accommodation and food services"
+			},
+			{
+				"id": "S2002_C03_058E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Accommodation and food services"
+			},
+			{
+				"id": "S2002_C03_058M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Accommodation and food services"
+			},
+			{
+				"id": "S2002_C04_058E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Accommodation and food services"
+			},
+			{
+				"id": "S2002_C04_058M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Accommodation and food services"
+			},
+			{
+				"id": "S2002_C01_059E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2002_C01_059M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2002_C02_059E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2002_C02_059M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2002_C03_059E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2002_C03_059M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2002_C04_059E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2002_C04_059M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Other services (except public administration)"
+			},
+			{
+				"id": "S2002_C01_060E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2002_C01_060M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2002_C02_060E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2002_C02_060M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2002_C03_060E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2002_C03_060M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2002_C04_060E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2002_C04_060M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!INDUSTRY!!Public administration"
+			},
+			{
+				"id": "S2002_C01_061E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Employee of private company workers"
+			},
+			{
+				"id": "S2002_C01_061M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Employee of private company workers"
+			},
+			{
+				"id": "S2002_C02_061E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Employee of private company workers"
+			},
+			{
+				"id": "S2002_C02_061M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Employee of private company workers"
+			},
+			{
+				"id": "S2002_C03_061E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Employee of private company workers"
+			},
+			{
+				"id": "S2002_C03_061M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Employee of private company workers"
+			},
+			{
+				"id": "S2002_C04_061E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Employee of private company workers"
+			},
+			{
+				"id": "S2002_C04_061M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Employee of private company workers"
+			},
+			{
+				"id": "S2002_C01_062E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own incorporated business workers"
+			},
+			{
+				"id": "S2002_C01_062M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own incorporated business workers"
+			},
+			{
+				"id": "S2002_C02_062E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own incorporated business workers"
+			},
+			{
+				"id": "S2002_C02_062M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own incorporated business workers"
+			},
+			{
+				"id": "S2002_C03_062E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own incorporated business workers"
+			},
+			{
+				"id": "S2002_C03_062M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own incorporated business workers"
+			},
+			{
+				"id": "S2002_C04_062E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own incorporated business workers"
+			},
+			{
+				"id": "S2002_C04_062M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own incorporated business workers"
+			},
+			{
+				"id": "S2002_C01_063E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2002_C01_063M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2002_C02_063E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2002_C02_063M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2002_C03_063E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2002_C03_063M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2002_C04_063E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2002_C04_063M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Private not-for-profit wage and salary workers"
+			},
+			{
+				"id": "S2002_C01_064E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2002_C01_064M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2002_C02_064E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2002_C02_064M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2002_C03_064E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2002_C03_064M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2002_C04_064E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2002_C04_064M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Local government workers"
+			},
+			{
+				"id": "S2002_C01_065E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2002_C01_065M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2002_C02_065E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2002_C02_065M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2002_C03_065E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2002_C03_065M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2002_C04_065E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2002_C04_065M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!State government workers"
+			},
+			{
+				"id": "S2002_C01_066E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2002_C01_066M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2002_C02_066E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2002_C02_066M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2002_C03_066E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2002_C03_066M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2002_C04_066E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2002_C04_066M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Federal government workers"
+			},
+			{
+				"id": "S2002_C01_067E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2002_C01_067M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2002_C02_067E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2002_C02_067M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2002_C03_067E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2002_C03_067M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2002_C04_067E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2002_C04_067M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!Full-time, year-round civilian workers 16 years and over with earnings!!CLASS OF WORKER!!Self employed in own not incorporated business workers and unpaid family workers"
+			},
+			{
+				"id": "S2002_C01_068E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Earnings in the past 12 months"
+			},
+			{
+				"id": "S2002_C01_068M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Earnings in the past 12 months"
+			},
+			{
+				"id": "S2002_C02_068E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Earnings in the past 12 months"
+			},
+			{
+				"id": "S2002_C02_068M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Earnings in the past 12 months"
+			},
+			{
+				"id": "S2002_C03_068E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Earnings in the past 12 months"
+			},
+			{
+				"id": "S2002_C03_068M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Earnings in the past 12 months"
+			},
+			{
+				"id": "S2002_C04_068E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Earnings in the past 12 months"
+			},
+			{
+				"id": "S2002_C04_068M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Earnings in the past 12 months"
+			},
+			{
+				"id": "S2002_C01_069E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Race"
+			},
+			{
+				"id": "S2002_C01_069M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Race"
+			},
+			{
+				"id": "S2002_C02_069E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Race"
+			},
+			{
+				"id": "S2002_C02_069M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Race"
+			},
+			{
+				"id": "S2002_C03_069E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Race"
+			},
+			{
+				"id": "S2002_C03_069M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Race"
+			},
+			{
+				"id": "S2002_C04_069E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Race"
+			},
+			{
+				"id": "S2002_C04_069M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Race"
+			},
+			{
+				"id": "S2002_C01_070E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Hispanic or Latino origin"
+			},
+			{
+				"id": "S2002_C01_070M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Hispanic or Latino origin"
+			},
+			{
+				"id": "S2002_C02_070E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Hispanic or Latino origin"
+			},
+			{
+				"id": "S2002_C02_070M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Hispanic or Latino origin"
+			},
+			{
+				"id": "S2002_C03_070E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Hispanic or Latino origin"
+			},
+			{
+				"id": "S2002_C03_070M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Hispanic or Latino origin"
+			},
+			{
+				"id": "S2002_C04_070E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Hispanic or Latino origin"
+			},
+			{
+				"id": "S2002_C04_070M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Hispanic or Latino origin"
+			},
+			{
+				"id": "S2002_C01_071E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Educational attainment"
+			},
+			{
+				"id": "S2002_C01_071M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Educational attainment"
+			},
+			{
+				"id": "S2002_C02_071E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Educational attainment"
+			},
+			{
+				"id": "S2002_C02_071M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Educational attainment"
+			},
+			{
+				"id": "S2002_C03_071E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Educational attainment"
+			},
+			{
+				"id": "S2002_C03_071M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Educational attainment"
+			},
+			{
+				"id": "S2002_C04_071E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Educational attainment"
+			},
+			{
+				"id": "S2002_C04_071M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Educational attainment"
+			},
+			{
+				"id": "S2002_C01_072E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Occupation"
+			},
+			{
+				"id": "S2002_C01_072M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Occupation"
+			},
+			{
+				"id": "S2002_C02_072E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Occupation"
+			},
+			{
+				"id": "S2002_C02_072M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Occupation"
+			},
+			{
+				"id": "S2002_C03_072E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Occupation"
+			},
+			{
+				"id": "S2002_C03_072M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Occupation"
+			},
+			{
+				"id": "S2002_C04_072E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Occupation"
+			},
+			{
+				"id": "S2002_C04_072M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Occupation"
+			},
+			{
+				"id": "S2002_C01_073E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Industry"
+			},
+			{
+				"id": "S2002_C01_073M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Industry"
+			},
+			{
+				"id": "S2002_C02_073E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Industry"
+			},
+			{
+				"id": "S2002_C02_073M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Industry"
+			},
+			{
+				"id": "S2002_C03_073E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Industry"
+			},
+			{
+				"id": "S2002_C03_073M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Industry"
+			},
+			{
+				"id": "S2002_C04_073E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Industry"
+			},
+			{
+				"id": "S2002_C04_073M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Industry"
+			},
+			{
+				"id": "S2002_C01_074E",
+				"label": "Estimate!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Class of worker"
+			},
+			{
+				"id": "S2002_C01_074M",
+				"label": "Margin of Error!!Total!!Median earnings (dollars)!!PERCENT ALLOCATED!!Class of worker"
+			},
+			{
+				"id": "S2002_C02_074E",
+				"label": "Estimate!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Class of worker"
+			},
+			{
+				"id": "S2002_C02_074M",
+				"label": "Margin of Error!!Male!!Median earnings (dollars)!!PERCENT ALLOCATED!!Class of worker"
+			},
+			{
+				"id": "S2002_C03_074E",
+				"label": "Estimate!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Class of worker"
+			},
+			{
+				"id": "S2002_C03_074M",
+				"label": "Margin of Error!!Female!!Median earnings (dollars)!!PERCENT ALLOCATED!!Class of worker"
+			},
+			{
+				"id": "S2002_C04_074E",
+				"label": "Estimate!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Class of worker"
+			},
+			{
+				"id": "S2002_C04_074M",
+				"label": "Margin of Error!!Women's earnings as a percentage of men's earnings!!PERCENT ALLOCATED!!Class of worker"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "BOXHEAD",
+				"dimensionType": "SIMPLE"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"S2002_C01_059EA",
+			"S2002_C01_017MA",
+			"S2002_C01_031E",
+			"S2002_C01_055E",
+			"S2002_C04_061E",
+			"S2002_C01_013EA",
+			"S2002_C02_033MA",
+			"S2002_C02_064EA",
+			"S2002_C01_030M",
+			"S2002_C01_054M",
+			"S2002_C04_060M",
+			"S2002_C02_016M",
+			"S2002_C02_068MA",
+			"S2002_C03_016EA",
+			"S2002_C04_021EA",
+			"S2002_C02_016E",
+			"S2002_C04_025MA",
+			"S2002_C01_030E",
+			"S2002_C04_062E",
+			"S2002_C02_014M",
+			"S2002_C01_024EA",
+			"S2002_C01_054E",
+			"S2002_C02_022MA",
+			"S2002_C01_028MA",
+			"S2002_C01_053M",
+			"S2002_C04_061M",
+			"S2002_C02_057MA",
+			"S2002_C03_027EA",
+			"S2002_C02_015M",
+			"S2002_C02_039M",
+			"S2002_C02_053EA",
+			"S2002_C04_010EA",
+			"S2002_C02_015E",
+			"S2002_C04_014MA",
+			"S2002_C02_039E",
+			"S2002_C03_060MA",
+			"S2002_C04_058MA",
+			"S2002_C01_037EA",
+			"S2002_C04_054EA",
+			"S2002_C01_053E",
+			"S2002_C04_063E",
+			"S2002_C02_055MA",
+			"S2002_C01_052M",
+			"S2002_C02_040EA",
+			"S2002_C04_062M",
+			"S2002_C03_038EA",
+			"S2002_C02_018M",
+			"S2002_C04_045EA",
+			"S2002_C04_049MA",
+			"S2002_C02_018E",
+			"S2002_C04_003MA",
+			"S2002_C03_071MA",
+			"S2002_C04_069MA",
+			"S2002_C01_048EA",
+			"S2002_C04_065EA",
+			"S2002_C01_006MA",
+			"S2002_C01_052E",
+			"S2002_C04_040E",
+			"S2002_C01_002EA",
+			"S2002_C02_044MA",
+			"S2002_C04_064E",
+			"S2002_C04_063M",
+			"S2002_C03_007MA",
+			"S2002_C03_049EA",
+			"S2002_C01_051E",
+			"S2002_C04_034EA",
+			"S2002_C02_017M",
+			"S2002_C01_070MA",
+			"S2002_C04_038MA",
+			"S2002_C03_003EA",
+			"S2002_C01_051M",
+			"S2002_C02_017E",
+			"S2002_C01_011E",
+			"S2002_C01_015MA",
+			"S2002_C01_057EA",
+			"S2002_C01_035E",
+			"S2002_C01_011EA",
+			"S2002_C01_059E",
+			"S2002_C02_031MA",
+			"S2002_C03_014EA",
+			"S2002_C01_010M",
+			"S2002_C01_034M",
+			"S2002_C02_062EA",
+			"S2002_C01_058M",
+			"S2002_C04_023EA",
+			"S2002_C04_027MA",
+			"S2002_C02_009EA",
+			"S2002_C03_018MA",
+			"S2002_C01_022EA",
+			"S2002_C01_068EA",
+			"S2002_C02_066MA",
+			"S2002_C01_010E",
+			"S2002_C01_026MA",
+			"S2002_C01_034E",
+			"S2002_C02_020MA",
+			"S2002_C01_058E",
+			"S2002_C02_019M",
+			"S2002_C02_051EA",
+			"S2002_C01_033M",
+			"S2002_C03_025EA",
+			"S2002_C01_057M",
+			"S2002_C04_012EA",
+			"S2002_C02_019E",
+			"S2002_C04_016MA",
+			"S2002_C03_029MA",
+			"S2002_C04_056MA",
+			"S2002_C03_018M",
+			"S2002_C04_052EA",
+			"S2002_C01_033E",
+			"S2002_C01_035EA",
+			"S2002_C01_057E",
+			"S2002_C03_018E",
+			"S2002_C01_039MA",
+			"S2002_C02_053MA",
+			"S2002_C01_032M",
+			"S2002_C03_036EA",
+			"S2002_C04_001EA",
+			"S2002_C04_047EA",
+			"S2002_C01_056M",
+			"S2002_C04_005MA",
+			"S2002_C04_067MA",
+			"S2002_C03_019M",
+			"S2002_C04_063EA",
+			"S2002_C01_004MA",
+			"S2002_C01_046EA",
+			"S2002_C01_032E",
+			"S2002_C04_060E",
+			"S2002_C01_056E",
+			"S2002_C03_019E",
+			"S2002_C02_042MA",
+			"S2002_C01_031M",
+			"S2002_C01_055M",
+			"S2002_C03_005MA",
+			"S2002_C03_047EA",
+			"S2002_C04_036EA",
+			"S2002_C02_073EA",
+			"S2002_C03_001EA",
+			"S2002_C01_039E",
+			"S2002_C04_032MA",
+			"S2002_C03_016M",
+			"S2002_C01_039M",
+			"S2002_C01_055EA",
+			"S2002_C03_016E",
+			"S2002_C01_059MA",
+			"S2002_C01_015E",
+			"S2002_C02_026MA",
+			"S2002_C03_012EA",
+			"S2002_C01_024MA",
+			"S2002_C03_058EA",
+			"S2002_C02_022EA",
+			"S2002_C01_014M",
+			"S2002_C02_068EA",
+			"S2002_C03_016MA",
+			"S2002_C01_038E",
+			"S2002_C04_021MA",
+			"S2002_C03_017M",
+			"S2002_C01_066EA",
+			"S2002_C01_038M",
+			"S2002_C03_017E",
+			"S2002_C01_014E",
+			"S2002_C01_020EA",
+			"S2002_C03_023EA",
+			"S2002_C03_069EA",
+			"S2002_C01_035MA",
+			"S2002_C02_015MA",
+			"S2002_C01_013M",
+			"S2002_C01_037M",
+			"S2002_C02_011EA",
+			"S2002_C02_057EA",
+			"S2002_C03_027MA",
+			"S2002_C03_014M",
+			"S2002_C04_010MA",
+			"S2002_C03_038M",
+			"S2002_C03_014E",
+			"S2002_C01_033EA",
+			"S2002_C03_038E",
+			"S2002_C04_058EA",
+			"S2002_C01_013E",
+			"S2002_C01_037MA",
+			"S2002_C01_037E",
+			"S2002_C03_034EA",
+			"S2002_C02_002MA",
+			"S2002_C02_048MA",
+			"S2002_C01_002MA",
+			"S2002_C01_012M",
+			"S2002_C02_044EA",
+			"S2002_C01_036M",
+			"S2002_C04_041EA",
+			"S2002_C03_038MA",
+			"S2002_C04_045MA",
+			"S2002_C03_013M",
+			"S2002_C03_015M",
+			"S2002_C03_039M",
+			"S2002_C01_044EA",
+			"S2002_C03_015E",
+			"S2002_C03_039E",
+			"S2002_C04_069EA",
+			"S2002_C01_048MA",
+			"S2002_C01_012E",
+			"S2002_C01_036E",
+			"S2002_C02_037MA",
+			"S2002_C03_045EA",
+			"S2002_C01_011M",
+			"S2002_C01_013MA",
+			"S2002_C01_035M",
+			"S2002_C02_033EA",
+			"S2002_C03_003MA",
+			"S2002_C01_059M",
+			"S2002_C04_030EA",
+			"S2002_C03_049MA",
+			"S2002_C04_034MA",
+			"S2002_C03_036M",
+			"S2002_C01_019E",
+			"S2002_C03_012E",
+			"S2002_C03_036E",
+			"S2002_C01_019M",
+			"S2002_C01_053EA",
+			"S2002_C01_022MA",
+			"S2002_C03_056EA",
+			"S2002_C01_068MA",
+			"S2002_C02_024MA",
+			"S2002_C02_066EA",
+			"S2002_C02_020EA",
+			"S2002_C03_014MA",
+			"S2002_C03_011M",
+			"S2002_C03_010EA",
+			"S2002_C03_035M",
+			"S2002_C04_023MA",
+			"S2002_C03_037M",
+			"S2002_C01_018E",
+			"S2002_C03_013E",
+			"S2002_C03_037E",
+			"S2002_C01_018M",
+			"S2002_C01_064EA",
+			"S2002_C01_033MA",
+			"S2002_C02_013MA",
+			"S2002_C02_059MA",
+			"S2002_C03_067EA",
+			"S2002_C02_055EA",
+			"S2002_C03_025MA",
+			"S2002_C03_012M",
+			"S2002_C03_021EA",
+			"S2002_C04_012MA",
+			"S2002_C01_017E",
+			"S2002_C03_058M",
+			"S2002_C03_010E",
+			"S2002_C03_034E",
+			"S2002_C01_017M",
+			"S2002_C03_058E",
+			"S2002_C04_056EA",
+			"S2002_C01_031EA",
+			"S2002_C02_011MA",
+			"S2002_C01_046MA",
+			"S2002_C02_046MA",
+			"S2002_C02_042EA",
+			"S2002_C04_043EA",
+			"S2002_C03_036MA",
+			"S2002_C04_001MA",
+			"S2002_C04_047MA",
+			"S2002_C03_033M",
+			"S2002_C03_032EA",
+			"S2002_C03_057M",
+			"S2002_C01_016E",
+			"S2002_C03_059M",
+			"S2002_C03_011E",
+			"S2002_C03_035E",
+			"S2002_C01_016M",
+			"S2002_C03_059E",
+			"S2002_C04_067EA",
+			"S2002_C01_042EA",
+			"S2002_C01_057MA",
+			"S2002_C02_035MA",
+			"S2002_C01_011MA",
+			"S2002_C01_015M",
+			"S2002_C02_031EA",
+			"S2002_C03_001MA",
+			"S2002_C04_032EA",
+			"S2002_C03_047MA",
+			"S2002_C03_010M",
+			"S2002_C04_036MA",
+			"S2002_C03_034M",
+			"S2002_C03_043EA",
+			"S2002_C04_005E",
+			"S2002_C04_070EA",
+			"S2002_C02_071M",
+			"S2002_C03_032E",
+			"S2002_C03_056E",
+			"S2002_C04_029E",
+			"S2002_C04_005M",
+			"S2002_C02_071E",
+			"S2002_C01_074EA",
+			"S2002_C04_029M",
+			"S2002_C01_043MA",
+			"S2002_C04_006EA",
+			"S2002_C02_026EA",
+			"S2002_C03_012MA",
+			"S2002_C03_031M",
+			"S2002_C03_058MA",
+			"S2002_C03_055M",
+			"S2002_C03_054EA",
+			"S2002_C02_070M",
+			"S2002_C03_033E",
+			"S2002_C03_057E",
+			"S2002_C04_006E",
+			"S2002_C02_070E",
+			"S2002_C04_006M",
+			"S2002_C01_054MA",
+			"S2002_C02_019MA",
+			"S2002_C03_023MA",
+			"S2002_C03_069MA",
+			"S2002_C02_015EA",
+			"S2002_C04_050MA",
+			"S2002_C03_032M",
+			"S2002_C03_065EA",
+			"S2002_C03_056M",
+			"S2002_C03_030E",
+			"S2002_C02_070MA",
+			"S2002_C03_054E",
+			"S2002_C04_007E",
+			"S2002_C02_073M",
+			"S2002_C04_007M",
+			"S2002_C01_052EA",
+			"S2002_C01_021MA",
+			"S2002_C01_067MA",
+			"S2002_C02_074E",
+			"S2002_C02_006MA",
+			"S2002_C03_034MA",
+			"S2002_C02_002EA",
+			"S2002_C02_048EA",
+			"S2002_C03_053M",
+			"S2002_C04_061MA",
+			"S2002_C03_030EA",
+			"S2002_C02_072M",
+			"S2002_C04_041MA",
+			"S2002_C03_031E",
+			"S2002_C03_055E",
+			"S2002_C04_008E",
+			"S2002_C03_010MA",
+			"S2002_C02_072E",
+			"S2002_C04_008M",
+			"S2002_C04_019EA",
+			"S2002_C01_063EA",
+			"S2002_C01_032MA",
+			"S2002_C02_073E",
+			"S2002_C02_037EA",
+			"S2002_C03_045MA",
+			"S2002_C03_030M",
+			"S2002_C04_072MA",
+			"S2002_C03_054M",
+			"S2002_C03_041EA",
+			"S2002_C04_049E",
+			"S2002_C03_052E",
+			"S2002_C04_025E",
+			"S2002_C04_030MA",
+			"S2002_C01_019EA",
+			"S2002_C03_021MA",
+			"S2002_C04_049M",
+			"S2002_C04_025M",
+			"S2002_C04_001E",
+			"S2002_C02_051M",
+			"S2002_C04_008EA",
+			"S2002_C01_072EA",
+			"S2002_C02_052E",
+			"S2002_C01_041MA",
+			"S2002_C02_028MA",
+			"S2002_C03_051M",
+			"S2002_C03_056MA",
+			"S2002_C02_024EA",
+			"S2002_C03_052EA",
+			"S2002_C04_026E",
+			"S2002_C02_050M",
+			"S2002_C03_053E",
+			"S2002_C04_002E",
+			"S2002_C03_032MA",
+			"S2002_C04_026M",
+			"S2002_C02_050E",
+			"S2002_C04_002M",
+			"S2002_C02_074M",
+			"NAME",
+			"S2002_C04_001M",
+			"S2002_C02_017MA",
+			"S2002_C02_051E",
+			"S2002_C01_052MA",
+			"S2002_C02_013EA",
+			"S2002_C02_059EA",
+			"S2002_C03_052M",
+			"S2002_C03_067MA",
+			"S2002_C03_063EA",
+			"S2002_C03_050E",
+			"S2002_C04_027E",
+			"S2002_C03_074E",
+			"S2002_C04_003E",
+			"S2002_C03_043MA",
+			"S2002_C04_027M",
+			"S2002_C04_003M",
+			"S2002_C01_050EA",
+			"S2002_C02_053M",
+			"S2002_C01_065MA",
+			"S2002_C02_004MA",
+			"S2002_C02_030E",
+			"S2002_C02_054E",
+			"S2002_C03_073M",
+			"S2002_C02_046EA",
+			"S2002_C03_074EA",
+			"S2002_C04_043MA",
+			"S2002_C03_051E",
+			"S2002_C04_004E",
+			"S2002_C01_008EA",
+			"S2002_C03_054MA",
+			"S2002_C04_028E",
+			"S2002_C04_004M",
+			"S2002_C02_052M",
+			"S2002_C01_061EA",
+			"S2002_C04_028M",
+			"S2002_C01_030MA",
+			"S2002_C02_039MA",
+			"S2002_C02_053E",
+			"S2002_C03_050M",
+			"S2002_C04_070MA",
+			"S2002_C02_035EA",
+			"S2002_C03_074M",
+			"S2002_C01_017EA",
+			"S2002_C03_072E",
+			"S2002_C04_069E",
+			"S2002_C03_065MA",
+			"S2002_C04_074EA",
+			"S2002_C02_052MA",
+			"S2002_C02_055M",
+			"S2002_C04_069M",
+			"S2002_C04_045E",
+			"S2002_C04_021E",
+			"S2002_C02_031M",
+			"S2002_C02_056E",
+			"S2002_C04_048EA",
+			"S2002_C04_044M",
+			"S2002_C02_032E",
+			"S2002_C03_071M",
+			"S2002_C04_002EA",
+			"S2002_C04_020M",
+			"S2002_C03_050EA",
+			"S2002_C04_006MA",
+			"S2002_C03_071E",
+			"S2002_C03_073E",
+			"S2002_C04_046E",
+			"S2002_C03_030MA",
+			"S2002_C01_028EA",
+			"S2002_C02_041MA",
+			"S2002_C04_046M",
+			"S2002_C02_030M",
+			"S2002_C04_022E",
+			"S2002_C02_054M",
+			"S2002_C02_055E",
+			"S2002_C04_037EA",
+			"S2002_C04_045M",
+			"S2002_C01_050MA",
+			"S2002_C02_072EA",
+			"S2002_C04_021M",
+			"S2002_C02_031E",
+			"S2002_C03_008EA",
+			"S2002_C03_061EA",
+			"S2002_C03_072M",
+			"S2002_C02_019EA",
+			"S2002_C04_054MA",
+			"S2002_C04_047E",
+			"S2002_C04_050EA",
+			"S2002_C03_041MA",
+			"S2002_C02_033M",
+			"S2002_C04_047M",
+			"S2002_C02_057M",
+			"S2002_C02_070EA",
+			"S2002_C04_023E",
+			"S2002_C02_074MA",
+			"S2002_C02_034E",
+			"S2002_C02_058E",
+			"S2002_C04_026EA",
+			"S2002_C04_022M",
+			"S2002_C02_010E",
+			"S2002_C01_063MA",
+			"S2002_C03_019EA",
+			"S2002_C03_072EA",
+			"S2002_C02_006EA",
+			"S2002_C04_065MA",
+			"S2002_C01_006EA",
+			"S2002_C04_048E",
+			"S2002_C04_024E",
+			"S2002_C04_061EA",
+			"S2002_C03_052MA",
+			"S2002_C02_056M",
+			"S2002_C04_048M",
+			"S2002_C04_024M",
+			"S2002_C02_032M",
+			"S2002_C02_063MA",
+			"S2002_C01_070EA",
+			"S2002_C02_033E",
+			"S2002_C04_015EA",
+			"S2002_C02_057E",
+			"S2002_C01_074MA",
+			"S2002_C04_023M",
+			"S2002_C03_070M",
+			"S2002_C04_019MA",
+			"S2002_C03_070E",
+			"S2002_C01_015EA",
+			"S2002_C04_072EA",
+			"S2002_C03_063MA",
+			"S2002_C04_041E",
+			"S2002_C01_063E",
+			"S2002_C02_011M",
+			"S2002_C02_050MA",
+			"S2002_C02_035M",
+			"S2002_C01_019MA",
+			"S2002_C04_065E",
+			"S2002_C02_012E",
+			"S2002_C04_004EA",
+			"S2002_C04_040M",
+			"S2002_C02_036E",
+			"S2002_C04_008MA",
+			"S2002_C01_062E",
+			"S2002_C04_064M",
+			"S2002_C01_062M",
+			"S2002_C02_028EA",
+			"S2002_C01_026EA",
+			"S2002_C03_074MA",
+			"S2002_C02_034M",
+			"S2002_C02_058M",
+			"S2002_C04_066E",
+			"S2002_C02_010M",
+			"S2002_C04_042E",
+			"S2002_C04_041M",
+			"S2002_C02_011E",
+			"S2002_C04_039EA",
+			"S2002_C02_035E",
+			"S2002_C02_059M",
+			"S2002_C04_065M",
+			"S2002_C01_061E",
+			"S2002_C03_006EA",
+			"S2002_C02_017EA",
+			"S2002_C02_059E",
+			"S2002_C04_052MA",
+			"S2002_C01_061M",
+			"S2002_C01_039EA",
+			"S2002_C02_013M",
+			"S2002_C04_067E",
+			"S2002_C02_072MA",
+			"S2002_C04_043E",
+			"S2002_C04_028EA",
+			"S2002_C02_014E",
+			"S2002_C01_060E",
+			"S2002_C02_038M",
+			"S2002_C01_061MA",
+			"S2002_C03_017EA",
+			"S2002_C04_066M",
+			"S2002_C02_008MA",
+			"S2002_C04_042M",
+			"S2002_C03_070EA",
+			"S2002_C02_004EA",
+			"S2002_C01_060M",
+			"S2002_C02_038E",
+			"S2002_C04_063MA",
+			"S2002_C01_004EA",
+			"S2002_C03_050MA",
+			"S2002_C04_068E",
+			"S2002_C02_012M",
+			"S2002_C02_036M",
+			"S2002_C04_068M",
+			"S2002_C02_061MA",
+			"S2002_C04_044E",
+			"S2002_C01_008MA",
+			"S2002_C04_020E",
+			"S2002_C04_017EA",
+			"S2002_C02_013E",
+			"S2002_C04_067M",
+			"S2002_C02_037M",
+			"S2002_C03_028EA",
+			"S2002_C01_072MA",
+			"S2002_C04_043M",
+			"S2002_C04_074MA",
+			"S2002_C02_037E",
+			"S2002_C02_039EA",
+			"S2002_C03_061MA",
+			"S2002_C01_036EA",
+			"S2002_C04_059MA",
+			"S2002_C04_055EA",
+			"S2002_C04_073E",
+			"S2002_C02_003M",
+			"S2002_C01_043E",
+			"S2002_C02_010MA",
+			"S2002_C02_056MA",
+			"S2002_C01_067E",
+			"S2002_C01_042M",
+			"S2002_C02_041EA",
+			"S2002_C01_066M",
+			"S2002_C04_072M",
+			"S2002_C03_039EA",
+			"S2002_C02_004M",
+			"S2002_C02_028M",
+			"S2002_C04_044EA",
+			"S2002_C04_048MA",
+			"S2002_C02_004E",
+			"S2002_C02_028E",
+			"S2002_C04_002MA",
+			"S2002_C03_072MA",
+			"S2002_C01_047EA",
+			"S2002_C01_042E",
+			"S2002_C04_066EA",
+			"S2002_C04_074E",
+			"S2002_C01_005MA",
+			"S2002_C01_066E",
+			"S2002_C04_050E",
+			"S2002_C02_002M",
+			"S2002_C02_045MA",
+			"S2002_C01_001EA",
+			"S2002_C03_008MA",
+			"S2002_C01_041M",
+			"S2002_C02_030EA",
+			"S2002_C04_073M",
+			"S2002_C02_003E",
+			"S2002_C01_065M",
+			"S2002_C02_027M",
+			"S2002_C04_033EA",
+			"S2002_C04_037MA",
+			"S2002_C02_027E",
+			"S2002_C03_004EA",
+			"S2002_C01_014EA",
+			"S2002_C01_041E",
+			"S2002_C04_051E",
+			"S2002_C01_065E",
+			"S2002_C01_018MA",
+			"S2002_C02_032MA",
+			"S2002_C01_064M",
+			"S2002_C04_074M",
+			"S2002_C04_050M",
+			"S2002_C03_015EA",
+			"S2002_C01_040E",
+			"S2002_C04_022EA",
+			"S2002_C02_006M",
+			"S2002_C02_063EA",
+			"S2002_C04_026MA",
+			"S2002_C01_040M",
+			"S2002_C02_006E",
+			"S2002_C03_019MA",
+			"S2002_C01_025EA",
+			"S2002_C01_029MA",
+			"S2002_C01_064E",
+			"S2002_C04_052E",
+			"S2002_C02_067MA",
+			"S2002_C02_021MA",
+			"S2002_C02_052EA",
+			"S2002_C01_063M",
+			"S2002_C04_051M",
+			"S2002_C03_026EA",
+			"S2002_C02_005M",
+			"S2002_C02_029M",
+			"S2002_C04_011EA",
+			"S2002_C04_015MA",
+			"S2002_C02_005E",
+			"S2002_C02_029E",
+			"S2002_C04_057MA",
+			"S2002_C03_008M",
+			"S2002_C04_053EA",
+			"S2002_C01_034EA",
+			"S2002_C01_023E",
+			"S2002_C03_008E",
+			"S2002_C01_038MA",
+			"S2002_C02_054MA",
+			"S2002_C01_047E",
+			"S2002_C02_008M",
+			"S2002_C01_022M",
+			"S2002_C03_037EA",
+			"S2002_C01_046M",
+			"S2002_C04_046EA",
+			"S2002_C02_008E",
+			"S2002_C04_004MA",
+			"S2002_C03_070MA",
+			"S2002_C04_068MA",
+			"S2002_C03_009M",
+			"S2002_C04_064EA",
+			"S2002_C01_022E",
+			"S2002_C01_045EA",
+			"S2002_C01_003MA",
+			"S2002_C01_046E",
+			"S2002_C02_043MA",
+			"S2002_C03_009E",
+			"S2002_C01_049MA",
+			"S2002_C03_006MA",
+			"S2002_C03_048EA",
+			"S2002_C01_021M",
+			"S2002_C01_045M",
+			"S2002_C04_035EA",
+			"S2002_C02_007M",
+			"S2002_C01_069M",
+			"S2002_C02_074EA",
+			"S2002_C04_039MA",
+			"S2002_C02_007E",
+			"S2002_C03_002EA",
+			"S2002_C03_006M",
+			"S2002_C01_058EA",
+			"S2002_C01_016MA",
+			"S2002_C02_030MA",
+			"S2002_C01_021E",
+			"S2002_C03_006E",
+			"S2002_C04_071E",
+			"S2002_C01_012EA",
+			"S2002_C01_045E",
+			"S2002_C01_069E",
+			"S2002_C01_020M",
+			"S2002_C03_013EA",
+			"S2002_C01_044M",
+			"S2002_C03_059EA",
+			"S2002_C01_068M",
+			"S2002_C04_024EA",
+			"S2002_C04_070E",
+			"S2002_C02_061EA",
+			"S2002_C04_028MA",
+			"S2002_C04_070M",
+			"S2002_C03_017MA",
+			"S2002_C02_008EA",
+			"S2002_C03_007M",
+			"S2002_C01_069EA",
+			"S2002_C01_020E",
+			"S2002_C02_065MA",
+			"S2002_C01_023EA",
+			"S2002_C01_044E",
+			"S2002_C04_072E",
+			"S2002_C01_068E",
+			"S2002_C03_007E",
+			"S2002_C01_027MA",
+			"S2002_C02_009M",
+			"S2002_C03_024EA",
+			"S2002_C02_050EA",
+			"S2002_C01_043M",
+			"S2002_C04_071M",
+			"S2002_C04_013EA",
+			"S2002_C01_067M",
+			"S2002_C02_009E",
+			"S2002_C04_017MA",
+			"S2002_C03_028MA",
+			"S2002_C01_027E",
+			"S2002_C03_004M",
+			"S2002_C03_028M",
+			"S2002_C01_032EA",
+			"S2002_C01_027M",
+			"S2002_C03_004E",
+			"S2002_C03_028E",
+			"S2002_C01_036MA",
+			"S2002_C04_059EA",
+			"S2002_C01_003E",
+			"S2002_C02_003MA",
+			"S2002_C02_049MA",
+			"S2002_C03_035EA",
+			"S2002_C01_002M",
+			"S2002_C02_045EA",
+			"S2002_C01_001MA",
+			"S2002_C01_026M",
+			"S2002_C04_040EA",
+			"S2002_C03_039MA",
+			"S2002_C04_044MA",
+			"S2002_C03_005M",
+			"S2002_C03_029M",
+			"S2002_C01_043EA",
+			"S2002_C03_005E",
+			"S2002_C01_002E",
+			"S2002_C03_029E",
+			"S2002_C01_047MA",
+			"S2002_C01_026E",
+			"S2002_C03_046EA",
+			"S2002_C02_038MA",
+			"S2002_C03_004MA",
+			"S2002_C01_001M",
+			"S2002_C01_012MA",
+			"S2002_C02_034EA",
+			"S2002_C01_025M",
+			"S2002_C04_033MA",
+			"S2002_C01_049E",
+			"S2002_C03_026M",
+			"S2002_C03_002E",
+			"S2002_C01_049M",
+			"S2002_C03_026E",
+			"S2002_C01_014MA",
+			"S2002_C01_056EA",
+			"S2002_C01_001E",
+			"S2002_C01_010EA",
+			"S2002_C01_025E",
+			"S2002_C03_057EA",
+			"S2002_C02_025MA",
+			"S2002_C02_067EA",
+			"S2002_C01_024M",
+			"S2002_C01_048M",
+			"S2002_C02_021EA",
+			"S2002_C03_015MA",
+			"S2002_C03_001M",
+			"S2002_C04_022MA",
+			"S2002_C03_011EA",
+			"S2002_C03_003M",
+			"S2002_C03_027M",
+			"S2002_C01_021EA",
+			"S2002_C03_003E",
+			"S2002_C03_027E",
+			"S2002_C01_067EA",
+			"S2002_C01_024E",
+			"S2002_C01_025MA",
+			"S2002_C01_048E",
+			"S2002_C02_014MA",
+			"S2002_C03_068EA",
+			"S2002_C02_010EA",
+			"S2002_C02_056EA",
+			"S2002_C01_023M",
+			"S2002_C01_047M",
+			"S2002_C03_026MA",
+			"S2002_C04_011MA",
+			"S2002_C03_002M",
+			"S2002_C03_022EA",
+			"S2002_C03_048M",
+			"S2002_C01_007E",
+			"S2002_C04_009E",
+			"S2002_C03_024E",
+			"S2002_C03_048E",
+			"S2002_C04_057EA",
+			"S2002_C01_007M",
+			"S2002_C04_009M",
+			"S2002_C01_030EA",
+			"S2002_C02_012MA",
+			"S2002_C01_045MA",
+			"S2002_C02_047MA",
+			"S2002_C02_043EA",
+			"S2002_C04_042EA",
+			"S2002_C03_037MA",
+			"S2002_C04_046MA",
+			"S2002_C03_023M",
+			"S2002_C03_033EA",
+			"S2002_C01_006E",
+			"S2002_C03_025M",
+			"S2002_C03_049M",
+			"S2002_C03_001E",
+			"S2002_C01_006M",
+			"S2002_C03_025E",
+			"S2002_C03_049E",
+			"S2002_C04_068EA",
+			"S2002_C01_041EA",
+			"S2002_C02_001MA",
+			"S2002_C01_056MA",
+			"S2002_C02_036MA",
+			"S2002_C03_002MA",
+			"S2002_C01_010MA",
+			"S2002_C02_032EA",
+			"S2002_C04_031EA",
+			"S2002_C03_048MA",
+			"S2002_C04_035MA",
+			"S2002_C03_044EA",
+			"S2002_C03_024M",
+			"S2002_C01_005E",
+			"S2002_C01_029E",
+			"S2002_C03_022E",
+			"S2002_C03_046E",
+			"S2002_C01_005M",
+			"S2002_C01_054EA",
+			"S2002_C01_029M",
+			"S2002_C01_058MA",
+			"S2002_C02_034MA",
+			"S2002_C02_065EA",
+			"S2002_C01_023MA",
+			"S2002_C02_069MA",
+			"S2002_C01_004M",
+			"S2002_C04_020EA",
+			"S2002_C03_013MA",
+			"S2002_C03_059MA",
+			"S2002_C03_021M",
+			"S2002_C04_024MA",
+			"S2002_C03_045M",
+			"S2002_C03_055EA",
+			"S2002_C01_028E",
+			"S2002_C03_047M",
+			"S2002_C03_023E",
+			"S2002_C01_028M",
+			"S2002_C03_047E",
+			"S2002_C01_065EA",
+			"S2002_C01_069MA",
+			"S2002_C02_023MA",
+			"S2002_C01_004E",
+			"GEO_ID",
+			"S2002_C01_034MA",
+			"S2002_C02_058MA",
+			"S2002_C02_054EA",
+			"S2002_C01_003M",
+			"S2002_C03_024MA",
+			"S2002_C04_013MA",
+			"S2002_C03_020EA",
+			"S2002_C03_022M",
+			"S2002_C03_066EA",
+			"S2002_C03_046M",
+			"S2002_C03_020E",
+			"S2002_C03_044E",
+			"S2002_C03_068E",
+			"S2002_C04_017E",
+			"S2002_C01_051EA",
+			"S2002_C02_071MA",
+			"S2002_C04_017M",
+			"S2002_C01_066MA",
+			"S2002_C04_029EA",
+			"S2002_C02_007MA",
+			"S2002_C01_020MA",
+			"S2002_C02_003EA",
+			"S2002_C02_049EA",
+			"S2002_C03_035MA",
+			"S2002_C03_043M",
+			"S2002_C04_062MA",
+			"S2002_C03_031EA",
+			"S2002_C03_067M",
+			"S2002_C03_069M",
+			"S2002_C04_040MA",
+			"S2002_C03_021E",
+			"S2002_C01_009EA",
+			"S2002_C03_045E",
+			"S2002_C04_018E",
+			"S2002_C03_011MA",
+			"S2002_C03_069E",
+			"S2002_C01_062EA",
+			"S2002_C02_060MA",
+			"S2002_C04_018M",
+			"S2002_C04_018EA",
+			"S2002_C01_031MA",
+			"S2002_C03_046MA",
+			"S2002_C02_038EA",
+			"S2002_C03_020M",
+			"S2002_C03_042EA",
+			"S2002_C03_044M",
+			"S2002_C04_073MA",
+			"S2002_C03_068M",
+			"S2002_C02_061M",
+			"S2002_C03_042E",
+			"S2002_C01_009E",
+			"S2002_C03_066E",
+			"S2002_C04_019E",
+			"S2002_C03_022MA",
+			"S2002_C02_061E",
+			"S2002_C01_009M",
+			"S2002_C04_019M",
+			"S2002_C01_044MA",
+			"S2002_C04_007EA",
+			"S2002_C02_062E",
+			"S2002_C02_029MA",
+			"S2002_C03_057MA",
+			"S2002_C03_041M",
+			"S2002_C02_025EA",
+			"S2002_C03_053EA",
+			"S2002_C03_065M",
+			"S2002_C01_008E",
+			"S2002_C02_060M",
+			"S2002_C03_043E",
+			"S2002_C03_067E",
+			"S2002_C03_033MA",
+			"S2002_C01_008M",
+			"S2002_C02_060E",
+			"S2002_C01_040EA",
+			"S2002_C01_055MA",
+			"S2002_C02_018MA",
+			"S2002_C02_014EA",
+			"S2002_C03_042M",
+			"S2002_C03_068MA",
+			"S2002_C03_066M",
+			"S2002_C03_064EA",
+			"S2002_C03_040E",
+			"S2002_C04_037E",
+			"S2002_C03_064E",
+			"S2002_C04_013E",
+			"S2002_C03_044MA",
+			"S2002_C04_037M",
+			"S2002_C04_013M",
+			"S2002_C02_063M",
+			"S2002_C01_060EA",
+			"S2002_C02_005MA",
+			"S2002_C04_012M",
+			"S2002_C02_040E",
+			"S2002_C01_064MA",
+			"S2002_C02_001EA",
+			"S2002_C02_064E",
+			"S2002_C02_047EA",
+			"S2002_C03_063M",
+			"S2002_C04_060MA",
+			"S2002_C04_038E",
+			"S2002_C04_042MA",
+			"S2002_C03_041E",
+			"S2002_C04_014E",
+			"S2002_C03_065E",
+			"S2002_C03_055MA",
+			"S2002_C01_007EA",
+			"S2002_C04_038M",
+			"S2002_C04_014M",
+			"S2002_C02_062M",
+			"S2002_C01_071EA",
+			"S2002_C02_063E",
+			"S2002_C03_040M",
+			"S2002_C03_040EA",
+			"S2002_C04_071MA",
+			"S2002_C02_036EA",
+			"S2002_C03_064M",
+			"S2002_C03_062E",
+			"S2002_C04_015E",
+			"S2002_C04_031MA",
+			"S2002_C03_020MA",
+			"S2002_C03_066MA",
+			"S2002_C04_039E",
+			"S2002_C04_015M",
+			"S2002_C02_041M",
+			"S2002_C04_009EA",
+			"S2002_C02_065M",
+			"S2002_C01_073EA",
+			"S2002_C04_039M",
+			"S2002_C02_027MA",
+			"S2002_C02_066E",
+			"S2002_C02_023EA",
+			"S2002_C01_042MA",
+			"S2002_C02_042E",
+			"S2002_C03_061M",
+			"S2002_C03_051EA",
+			"S2002_C02_069EA",
+			"S2002_C04_016E",
+			"S2002_C04_020MA",
+			"S2002_C03_063E",
+			"S2002_C03_031MA",
+			"S2002_C03_009EA",
+			"S2002_C04_016M",
+			"S2002_C02_040M",
+			"S2002_C02_064M",
+			"S2002_C02_016MA",
+			"S2002_C02_041E",
+			"S2002_C01_053MA",
+			"S2002_C02_012EA",
+			"S2002_C02_065E",
+			"S2002_C03_062EA",
+			"S2002_C03_062M",
+			"S2002_C02_058EA",
+			"S2002_C04_055MA",
+			"S2002_C04_057E",
+			"S2002_C03_042MA",
+			"S2002_C04_051EA",
+			"S2002_C02_067M",
+			"S2002_C04_057M",
+			"S2002_C04_033E",
+			"S2002_C02_043M",
+			"S2002_C02_044E",
+			"S2002_C02_068E",
+			"S2002_C01_062MA",
+			"S2002_C02_060EA",
+			"S2002_C04_056M",
+			"S2002_C01_070E",
+			"S2002_C04_025EA",
+			"S2002_C04_032M",
+			"S2002_C02_020E",
+			"S2002_C03_073EA",
+			"S2002_C04_029MA",
+			"S2002_C02_007EA",
+			"S2002_C01_070M",
+			"S2002_C03_061E",
+			"S2002_C04_066MA",
+			"S2002_C01_005EA",
+			"S2002_C04_058E",
+			"S2002_C03_053MA",
+			"S2002_C04_062EA",
+			"S2002_C02_064MA",
+			"S2002_C02_066M",
+			"S2002_C04_058M",
+			"S2002_C04_034E",
+			"S2002_C01_009MA",
+			"S2002_C04_010E",
+			"S2002_C02_042M",
+			"S2002_C02_067E",
+			"S2002_C04_014EA",
+			"S2002_C04_033M",
+			"S2002_C02_043E",
+			"S2002_C01_073MA",
+			"S2002_C03_060M",
+			"S2002_C04_018MA",
+			"S2002_C03_060E",
+			"S2002_C04_059E",
+			"S2002_C04_035E",
+			"S2002_C04_073EA",
+			"S2002_C01_018EA",
+			"S2002_C03_064MA",
+			"S2002_C02_045M",
+			"S2002_C02_051MA",
+			"S2002_C04_059M",
+			"S2002_C02_069M",
+			"S2002_C04_035M",
+			"S2002_C04_011E",
+			"S2002_C02_021M",
+			"S2002_C02_022E",
+			"S2002_C04_049EA",
+			"S2002_C02_046E",
+			"S2002_C04_034M",
+			"S2002_C01_040MA",
+			"S2002_C04_003EA",
+			"S2002_C04_010M",
+			"S2002_C04_007MA",
+			"S2002_C02_029EA",
+			"S2002_C01_029EA",
+			"S2002_C04_036E",
+			"S2002_C02_040MA",
+			"S2002_C02_044M",
+			"S2002_C04_036M",
+			"S2002_C02_068M",
+			"S2002_C04_012E",
+			"S2002_C02_020M",
+			"S2002_C02_045E",
+			"S2002_C02_069E",
+			"S2002_C04_038EA",
+			"S2002_C01_051MA",
+			"S2002_C02_071EA",
+			"S2002_C04_011M",
+			"S2002_C02_021E",
+			"S2002_C03_007EA",
+			"S2002_C03_060EA",
+			"S2002_C02_018EA",
+			"S2002_C04_053MA",
+			"S2002_C03_040MA",
+			"S2002_C01_038EA",
+			"S2002_C02_023M",
+			"S2002_C02_047M",
+			"S2002_C02_073MA",
+			"S2002_C04_053E",
+			"S2002_C04_052M",
+			"S2002_C01_074M",
+			"S2002_C02_024E",
+			"S2002_C04_027EA",
+			"S2002_C02_048M",
+			"S2002_C02_009MA",
+			"S2002_C03_018EA",
+			"S2002_C01_050E",
+			"S2002_C01_060MA",
+			"S2002_C02_005EA",
+			"S2002_C03_071EA",
+			"S2002_C02_048E",
+			"S2002_C04_064MA",
+			"S2002_C01_050M",
+			"S2002_C03_051MA",
+			"S2002_C04_060EA",
+			"S2002_C01_003EA",
+			"S2002_C01_049EA",
+			"S2002_C04_030E",
+			"S2002_C01_074E",
+			"S2002_C02_022M",
+			"S2002_C02_046M",
+			"S2002_C02_062MA",
+			"S2002_C04_054E",
+			"S2002_C01_007MA",
+			"S2002_C02_023E",
+			"S2002_C02_047E",
+			"S2002_C04_016EA",
+			"S2002_C01_073E",
+			"S2002_C03_029EA",
+			"S2002_C04_053M",
+			"S2002_C01_071MA",
+			"S2002_C01_073M",
+			"S2002_C01_016EA",
+			"S2002_C03_062MA",
+			"S2002_C04_071EA",
+			"S2002_C02_001M",
+			"S2002_C02_025M",
+			"S2002_C04_055E",
+			"S2002_C04_031E",
+			"S2002_C04_005EA",
+			"S2002_C04_030M",
+			"S2002_C02_002E",
+			"S2002_C04_009MA",
+			"S2002_C02_026M",
+			"S2002_C04_054M",
+			"S2002_C01_072E",
+			"S2002_C02_027EA",
+			"S2002_C02_026E",
+			"S2002_C01_072M",
+			"S2002_C03_073MA",
+			"S2002_C01_027EA",
+			"S2002_C02_024M",
+			"S2002_C04_056E",
+			"S2002_C04_032E",
+			"S2002_C02_001E",
+			"S2002_C02_025E",
+			"S2002_C01_071E",
+			"S2002_C02_049M",
+			"S2002_C04_055M",
+			"S2002_C04_031M",
+			"S2002_C02_016EA",
+			"S2002_C03_005EA",
+			"S2002_C01_071M",
+			"S2002_C02_049E",
+			"S2002_C04_051MA",
+			"S2002_C03_009MA"
+		],
+		[
+			null,
+			null,
+			"36932",
+			"61467",
+			"78.7",
+			null,
+			null,
+			null,
+			"325",
+			"515",
+			"0.7",
+			"877",
+			"(X)",
+			null,
+			null,
+			"107498",
+			null,
+			"32837",
+			"76.2",
+			"218",
+			null,
+			"49208",
+			null,
+			null,
+			"4234",
+			"0.2",
+			null,
+			null,
+			"591",
+			"359",
+			null,
+			null,
+			"82617",
+			null,
+			"56270",
+			null,
+			null,
+			null,
+			null,
+			"103070",
+			"87.2",
+			null,
+			"562",
+			null,
+			"2.6",
+			null,
+			"149",
+			null,
+			null,
+			"102251",
+			null,
+			"(X)",
+			"(X)",
+			null,
+			null,
+			"(X)",
+			"99827",
+			"85.7",
+			"(X)",
+			null,
+			"84.7",
+			"0.5",
+			null,
+			null,
+			"65089",
+			null,
+			"131",
+			"(X)",
+			null,
+			null,
+			"867",
+			"67260",
+			"52582",
+			null,
+			null,
+			"36776",
+			null,
+			"50213",
+			null,
+			null,
+			"-888888888",
+			"237",
+			null,
+			"198",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"-888888888",
+			null,
+			"48038",
+			null,
+			"37251",
+			"788",
+			null,
+			"753",
+			null,
+			"309",
+			null,
+			"95631",
+			null,
+			null,
+			null,
+			"261",
+			null,
+			"59022",
+			null,
+			"51469",
+			"82033",
+			null,
+			null,
+			"337",
+			null,
+			null,
+			null,
+			"199",
+			null,
+			null,
+			"339",
+			null,
+			"(X)",
+			null,
+			"37422",
+			"80.2",
+			"60024",
+			"76066",
+			null,
+			"193",
+			"133",
+			null,
+			null,
+			null,
+			"(X)",
+			null,
+			"53330",
+			null,
+			"231",
+			"638",
+			null,
+			"77319",
+			null,
+			"70470",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"199",
+			"(X)",
+			null,
+			"49523",
+			null,
+			"133",
+			null,
+			"336",
+			"55817",
+			"47953",
+			null,
+			null,
+			"(X)",
+			null,
+			null,
+			"78",
+			"182",
+			null,
+			null,
+			null,
+			"83",
+			null,
+			"185",
+			"40492",
+			null,
+			"40164",
+			null,
+			"40684",
+			null,
+			"60320",
+			null,
+			null,
+			null,
+			"(X)",
+			"133",
+			null,
+			"136",
+			null,
+			null,
+			null,
+			"93",
+			"118",
+			"420",
+			null,
+			"60287",
+			"40921",
+			"(X)",
+			null,
+			"32468",
+			"52336",
+			null,
+			null,
+			"157",
+			null,
+			"549",
+			null,
+			null,
+			"189",
+			null,
+			null,
+			null,
+			"1568",
+			"83124",
+			"25898",
+			"42986",
+			"729",
+			null,
+			null,
+			null,
+			"(X)",
+			null,
+			null,
+			null,
+			null,
+			"104",
+			null,
+			"652",
+			null,
+			"1499",
+			"94637",
+			"32318",
+			"50080",
+			"667",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"198",
+			null,
+			null,
+			"61702",
+			"376",
+			"60698",
+			"46326",
+			"64",
+			"34986",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"466",
+			null,
+			"1140",
+			"90191",
+			"375",
+			"46391",
+			"30430",
+			"171",
+			"45297",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"123",
+			null,
+			null,
+			null,
+			null,
+			"93",
+			null,
+			"124",
+			null,
+			"80.9",
+			"(X)",
+			"-888888888",
+			"35726",
+			"54955",
+			"79.7",
+			"1.2",
+			"-888888888",
+			null,
+			"1.2",
+			null,
+			null,
+			null,
+			null,
+			"214",
+			null,
+			"386",
+			null,
+			"-888888888",
+			"47448",
+			"49427",
+			"90.9",
+			"-888888888",
+			"7.9",
+			null,
+			null,
+			null,
+			"(X)",
+			null,
+			null,
+			"301",
+			null,
+			"355",
+			"31177",
+			"(X)",
+			"45064",
+			"86.2",
+			"-888888888",
+			"1.0",
+			null,
+			null,
+			null,
+			"-888888888",
+			null,
+			null,
+			null,
+			null,
+			"4499",
+			null,
+			null,
+			"-888888888",
+			null,
+			"31643",
+			"59455",
+			"88.7",
+			null,
+			"-888888888",
+			"0.7",
+			null,
+			null,
+			null,
+			"-888888888",
+			null,
+			null,
+			"185",
+			"(X)",
+			"571",
+			null,
+			"82.3",
+			"80984",
+			"81.0",
+			null,
+			null,
+			null,
+			"1.9",
+			"1.1",
+			"83.1",
+			"1104",
+			null,
+			null,
+			"111717",
+			null,
+			null,
+			"480",
+			null,
+			null,
+			null,
+			"93.0",
+			"2051",
+			"90770",
+			"81.1",
+			null,
+			"1.3",
+			"108129",
+			"0.3",
+			"-888888888",
+			"United States",
+			"0.2",
+			null,
+			"67341",
+			null,
+			null,
+			null,
+			"305",
+			null,
+			null,
+			"67980",
+			"76.8",
+			"-888888888",
+			"92.5",
+			null,
+			"0.4",
+			"1.3",
+			null,
+			"8350",
+			null,
+			null,
+			"35802",
+			"51033",
+			"-888888888",
+			null,
+			"(X)",
+			null,
+			"61447",
+			"87.3",
+			"(X)",
+			null,
+			"91.2",
+			"2.7",
+			"512",
+			null,
+			"1.1",
+			null,
+			null,
+			"121983",
+			"884",
+			"(X)",
+			null,
+			"-888888888",
+			null,
+			"-888888888",
+			"-888888888",
+			null,
+			"(X)",
+			null,
+			"347",
+			"-888888888",
+			"88.2",
+			"88.9",
+			"178",
+			"74452",
+			null,
+			"0.7",
+			"42378",
+			"-888888888",
+			null,
+			"1.0",
+			null,
+			null,
+			"-888888888",
+			"-888888888",
+			"81.5",
+			null,
+			null,
+			null,
+			"0.4",
+			"231",
+			"94.1",
+			"208",
+			"67236",
+			null,
+			"3.0",
+			null,
+			"(X)",
+			"1.1",
+			"40826",
+			null,
+			null,
+			"-888888888",
+			null,
+			null,
+			"80.5",
+			null,
+			null,
+			"401",
+			"1.3",
+			"1079",
+			"(X)",
+			"96.5",
+			"(X)",
+			"52814",
+			"40418",
+			null,
+			"1.7",
+			"75508",
+			null,
+			null,
+			"(X)",
+			null,
+			null,
+			"(X)",
+			"85.0",
+			"55.0",
+			null,
+			null,
+			"1006",
+			"2.5",
+			"2.0",
+			"741",
+			null,
+			null,
+			"67316",
+			null,
+			"52692",
+			"(X)",
+			"1.3",
+			"-888888888",
+			null,
+			"-888888888",
+			null,
+			"(X)",
+			null,
+			"75.3",
+			"65733",
+			"69",
+			null,
+			"681",
+			null,
+			"85.3",
+			"37779",
+			null,
+			"0.6",
+			"52531",
+			null,
+			"71942",
+			"1.0",
+			"445",
+			null,
+			null,
+			"(X)",
+			"523",
+			"261",
+			"87.4",
+			"117",
+			"88.3",
+			"2.4",
+			"61262",
+			null,
+			"40087",
+			"334",
+			"0.5",
+			"60908",
+			null,
+			null,
+			"52407",
+			null,
+			"78",
+			null,
+			"158",
+			"79.4",
+			"(X)",
+			"95.3",
+			null,
+			"57313",
+			"75283",
+			"149",
+			null,
+			null,
+			"1.1",
+			null,
+			"7.8",
+			"(X)",
+			null,
+			"308",
+			"52205",
+			null,
+			"(X)",
+			null,
+			"-888888888",
+			"340",
+			"394",
+			"-888888888",
+			null,
+			"79.9",
+			"(X)",
+			"85.7",
+			null,
+			"47079",
+			"0.7",
+			"188",
+			null,
+			"(X)",
+			"2.0",
+			"(X)",
+			"60533",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"-888888888",
+			"623",
+			"60419",
+			null,
+			null,
+			"47420",
+			"2972",
+			null,
+			"368",
+			"-888888888",
+			null,
+			"899",
+			"367",
+			null,
+			null,
+			"50064",
+			"42104",
+			null,
+			"(X)",
+			null,
+			"84177",
+			null,
+			"-888888888",
+			"(X)",
+			"81655",
+			"62.9",
+			"282",
+			null,
+			null,
+			null,
+			"588",
+			null,
+			"-888888888",
+			"53245",
+			"343",
+			"408",
+			null,
+			null,
+			"100642",
+			null,
+			null,
+			"46841",
+			"91.2",
+			"65031",
+			null,
+			null,
+			"135",
+			"-888888888",
+			"1.5",
+			null,
+			"39359",
+			null,
+			"4107",
+			null,
+			null,
+			"265",
+			"55372",
+			null,
+			null,
+			null,
+			"62229",
+			"72.5",
+			null,
+			null,
+			null,
+			"235",
+			"1.7",
+			null,
+			"457",
+			"471",
+			null,
+			null,
+			"90578",
+			"70795",
+			null,
+			"239",
+			null,
+			null,
+			"58782",
+			"50063",
+			null,
+			null,
+			"56312",
+			"357",
+			"469",
+			null,
+			"196",
+			null,
+			"56446",
+			null,
+			"(X)",
+			"(X)",
+			"439",
+			null,
+			"82000",
+			null,
+			"(X)",
+			"45269",
+			null,
+			"44186",
+			null,
+			null,
+			null,
+			"211",
+			"1057",
+			null,
+			"500",
+			"-888888888.0",
+			"(X)",
+			null,
+			"48435",
+			null,
+			"2359",
+			null,
+			null,
+			null,
+			"100540",
+			"50342",
+			"-888888888",
+			null,
+			"64662",
+			"1.5",
+			"669",
+			null,
+			"219",
+			null,
+			"-888888888.0",
+			null,
+			"-888888888",
+			null,
+			null,
+			"-888888888",
+			null,
+			null,
+			"218",
+			null,
+			"104911",
+			null,
+			null,
+			"65854",
+			"-888888888",
+			"21.5",
+			"41774",
+			null,
+			"140",
+			null,
+			null,
+			"148",
+			"-888888888",
+			null,
+			"457",
+			"51023",
+			null,
+			null,
+			"81332",
+			"1373",
+			"312",
+			null,
+			"208",
+			"43690",
+			"38386",
+			null,
+			null,
+			"-888888888",
+			null,
+			null,
+			null,
+			"-888888888",
+			null,
+			null,
+			"1249",
+			null,
+			null,
+			null,
+			"1016",
+			"831",
+			null,
+			"73278",
+			"-888888888",
+			"56415",
+			null,
+			"69335",
+			null,
+			null,
+			null,
+			"64",
+			null,
+			null,
+			"161",
+			null,
+			"87049",
+			"732",
+			"60202",
+			"1053",
+			"66363",
+			null,
+			null,
+			"61583",
+			"(X)",
+			"60245",
+			null,
+			null,
+			null,
+			"1541",
+			"1628",
+			null,
+			null,
+			"134",
+			null,
+			null,
+			"440",
+			"338",
+			null,
+			"49243",
+			"77334",
+			null,
+			"111444",
+			null,
+			"89379",
+			null,
+			"(X)",
+			null,
+			null,
+			"698",
+			"382",
+			null,
+			null,
+			"96",
+			null,
+			"2231",
+			"-888888888",
+			"86.6",
+			"86737",
+			"78154",
+			null,
+			"-888888888",
+			"0.9",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"759",
+			null,
+			"-888888888",
+			"263",
+			"917",
+			"55678",
+			"-888888888",
+			"56193",
+			"76641",
+			"(X)",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"(X)",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1399",
+			"-888888888",
+			"66812",
+			"80544",
+			"40817",
+			"-888888888",
+			null,
+			"496",
+			null,
+			null,
+			null,
+			null,
+			"(X)",
+			"-888888888",
+			null,
+			null,
+			null,
+			"1070",
+			null,
+			"1939",
+			null,
+			"39311",
+			"775",
+			"58090",
+			"310",
+			"48581",
+			null,
+			"(X)",
+			null,
+			"-888888888",
+			"0100000US",
+			null,
+			null,
+			null,
+			"-888888888",
+			null,
+			null,
+			null,
+			"530",
+			null,
+			"168",
+			"95158",
+			"56119",
+			"-888888888",
+			"83.0",
+			null,
+			"(X)",
+			"0.2",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1195",
+			null,
+			null,
+			"324",
+			"-888888888",
+			null,
+			"90234",
+			"(X)",
+			"58880",
+			"80.2",
+			null,
+			"-888888888",
+			null,
+			null,
+			"0.3",
+			null,
+			null,
+			null,
+			null,
+			"1112",
+			null,
+			"450",
+			"(X)",
+			"-888888888",
+			"156",
+			"75822",
+			"-888888888",
+			"75833",
+			"79.5",
+			null,
+			"66334",
+			"-888888888",
+			"0.7",
+			null,
+			null,
+			"78803",
+			null,
+			null,
+			"1184",
+			null,
+			null,
+			"226",
+			"-888888888",
+			"302",
+			"57725",
+			"40582",
+			null,
+			"-888888888",
+			"82281",
+			null,
+			null,
+			null,
+			null,
+			"6253",
+			"(X)",
+			"731",
+			null,
+			"35122",
+			"82.7",
+			"59159",
+			"68.6",
+			null,
+			"2.5",
+			"0.3",
+			"327",
+			null,
+			null,
+			"0.8",
+			"40989",
+			null,
+			null,
+			"69829",
+			null,
+			"190",
+			null,
+			"76.9",
+			null,
+			"37760",
+			"70.7",
+			"60881",
+			null,
+			"(X)",
+			"0.4",
+			"0.3",
+			"1623",
+			null,
+			"71307",
+			"236",
+			null,
+			"(X)",
+			null,
+			"477",
+			"60013",
+			"73.0",
+			null,
+			null,
+			null,
+			"72.7",
+			"0.5",
+			"486",
+			null,
+			"337",
+			null,
+			"0.9",
+			null,
+			"86783",
+			null,
+			null,
+			"85886",
+			"96",
+			null,
+			"(X)",
+			"71.9",
+			null,
+			"62178",
+			null,
+			null,
+			"0.6",
+			"140",
+			"569",
+			null,
+			"50148",
+			null,
+			null,
+			"71390",
+			null,
+			"1577",
+			null,
+			null,
+			"93.8",
+			null,
+			null,
+			"182",
+			"2.8",
+			"70.5",
+			"159",
+			"70196",
+			"-888888888",
+			null,
+			null,
+			"1.2",
+			"0.8",
+			null,
+			"1.6",
+			"111053",
+			"(X)",
+			null,
+			null,
+			"-888888888.0",
+			"52192",
+			null,
+			"(X)",
+			"86.6",
+			null,
+			null,
+			null,
+			"796",
+			"1.1",
+			"87.7",
+			"(X)",
+			"80.4",
+			"2261",
+			"51087",
+			null,
+			"0.8",
+			"60561",
+			"(X)",
+			"447",
+			null,
+			"65961",
+			"86.4",
+			"75.9",
+			"(X)",
+			null,
+			null,
+			"526",
+			null,
+			"0.9",
+			"-888888888",
+			"2.1",
+			"75.7",
+			"223",
+			"85623",
+			null,
+			"50105",
+			"0.9",
+			null,
+			null,
+			"0.2",
+			null,
+			null,
+			null,
+			"81.8",
+			null,
+			"212",
+			"3.0",
+			"-888888888",
+			"68.6",
+			"541",
+			"66785",
+			"-888888888",
+			null,
+			null,
+			"(X)",
+			"0.2",
+			"101455",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"490",
+			"214",
+			"(X)",
+			"74.4",
+			"0.4",
+			"-888888888.0",
+			"157657",
+			null,
+			"911",
+			null,
+			null,
+			"82671",
+			null,
+			null,
+			"(X)",
+			"91992",
+			null,
+			"713",
+			null,
+			null,
+			"(X)",
+			null,
+			"87.1",
+			"16.2",
+			"1403",
+			"196",
+			null,
+			"88.3",
+			"(X)",
+			"60176",
+			"60363",
+			null,
+			"17.8",
+			null,
+			"6.1",
+			"(X)",
+			"-888888888.0",
+			null,
+			null,
+			"(X)",
+			"127",
+			"936",
+			"88.4",
+			"77.5",
+			null,
+			"0.8",
+			"74221",
+			null,
+			"702",
+			"1.1",
+			"18.6",
+			null,
+			"71361",
+			"-888888888.0",
+			"(X)",
+			null,
+			"5197",
+			"73.8",
+			"84.3",
+			"66965",
+			"69383",
+			"9.6",
+			"2387",
+			"0.7",
+			"0.6",
+			null,
+			null,
+			"-888888888.0",
+			"93068",
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:05.530Z"
+}

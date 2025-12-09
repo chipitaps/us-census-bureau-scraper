@@ -1,0 +1,70 @@
+{
+	"tableId": "ACSDT1Y2024.B06004EPR",
+	"title": "Place of Birth (Native Hawaiian and Other Pacific Islander Alone) in Puerto Rico",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Native Hawaiian and other Pacific Islander alone population in Puerto Rico",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B06004EPR",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B06004EPR_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B06004EPR_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B06004EPR_002E",
+				"label": "Estimate!!Total:!!Born in Puerto Rico"
+			},
+			{
+				"id": "B06004EPR_002M",
+				"label": "Margin of Error!!Total:!!Born in Puerto Rico"
+			},
+			{
+				"id": "B06004EPR_003E",
+				"label": "Estimate!!Total:!!Born in the United States"
+			},
+			{
+				"id": "B06004EPR_003M",
+				"label": "Margin of Error!!Total:!!Born in the United States"
+			},
+			{
+				"id": "B06004EPR_004E",
+				"label": "Estimate!!Total:!!Native; born elsewhere"
+			},
+			{
+				"id": "B06004EPR_004M",
+				"label": "Margin of Error!!Total:!!Native; born elsewhere"
+			},
+			{
+				"id": "B06004EPR_005E",
+				"label": "Estimate!!Total:!!Foreign born"
+			},
+			{
+				"id": "B06004EPR_005M",
+				"label": "Margin of Error!!Total:!!Foreign born"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"scrapedTimestamp": "2025-12-09T20:59:43.271Z"
+}

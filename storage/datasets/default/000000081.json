@@ -1,0 +1,536 @@
+{
+	"tableId": "ACSDT1Y2024.B01001A",
+	"title": "Sex by Age (White Alone)",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "People who are White alone",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B01001A",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B01001A_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B01001A_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B01001A_002E",
+				"label": "Estimate!!Total:!!Male:"
+			},
+			{
+				"id": "B01001A_002M",
+				"label": "Margin of Error!!Total:!!Male:"
+			},
+			{
+				"id": "B01001A_003E",
+				"label": "Estimate!!Total:!!Male:!!Under 5 years"
+			},
+			{
+				"id": "B01001A_003M",
+				"label": "Margin of Error!!Total:!!Male:!!Under 5 years"
+			},
+			{
+				"id": "B01001A_004E",
+				"label": "Estimate!!Total:!!Male:!!5 to 9 years"
+			},
+			{
+				"id": "B01001A_004M",
+				"label": "Margin of Error!!Total:!!Male:!!5 to 9 years"
+			},
+			{
+				"id": "B01001A_005E",
+				"label": "Estimate!!Total:!!Male:!!10 to 14 years"
+			},
+			{
+				"id": "B01001A_005M",
+				"label": "Margin of Error!!Total:!!Male:!!10 to 14 years"
+			},
+			{
+				"id": "B01001A_006E",
+				"label": "Estimate!!Total:!!Male:!!15 to 17 years"
+			},
+			{
+				"id": "B01001A_006M",
+				"label": "Margin of Error!!Total:!!Male:!!15 to 17 years"
+			},
+			{
+				"id": "B01001A_007E",
+				"label": "Estimate!!Total:!!Male:!!18 and 19 years"
+			},
+			{
+				"id": "B01001A_007M",
+				"label": "Margin of Error!!Total:!!Male:!!18 and 19 years"
+			},
+			{
+				"id": "B01001A_008E",
+				"label": "Estimate!!Total:!!Male:!!20 to 24 years"
+			},
+			{
+				"id": "B01001A_008M",
+				"label": "Margin of Error!!Total:!!Male:!!20 to 24 years"
+			},
+			{
+				"id": "B01001A_009E",
+				"label": "Estimate!!Total:!!Male:!!25 to 29 years"
+			},
+			{
+				"id": "B01001A_009M",
+				"label": "Margin of Error!!Total:!!Male:!!25 to 29 years"
+			},
+			{
+				"id": "B01001A_010E",
+				"label": "Estimate!!Total:!!Male:!!30 to 34 years"
+			},
+			{
+				"id": "B01001A_010M",
+				"label": "Margin of Error!!Total:!!Male:!!30 to 34 years"
+			},
+			{
+				"id": "B01001A_011E",
+				"label": "Estimate!!Total:!!Male:!!35 to 44 years"
+			},
+			{
+				"id": "B01001A_011M",
+				"label": "Margin of Error!!Total:!!Male:!!35 to 44 years"
+			},
+			{
+				"id": "B01001A_012E",
+				"label": "Estimate!!Total:!!Male:!!45 to 54 years"
+			},
+			{
+				"id": "B01001A_012M",
+				"label": "Margin of Error!!Total:!!Male:!!45 to 54 years"
+			},
+			{
+				"id": "B01001A_013E",
+				"label": "Estimate!!Total:!!Male:!!55 to 64 years"
+			},
+			{
+				"id": "B01001A_013M",
+				"label": "Margin of Error!!Total:!!Male:!!55 to 64 years"
+			},
+			{
+				"id": "B01001A_014E",
+				"label": "Estimate!!Total:!!Male:!!65 to 74 years"
+			},
+			{
+				"id": "B01001A_014M",
+				"label": "Margin of Error!!Total:!!Male:!!65 to 74 years"
+			},
+			{
+				"id": "B01001A_015E",
+				"label": "Estimate!!Total:!!Male:!!75 to 84 years"
+			},
+			{
+				"id": "B01001A_015M",
+				"label": "Margin of Error!!Total:!!Male:!!75 to 84 years"
+			},
+			{
+				"id": "B01001A_016E",
+				"label": "Estimate!!Total:!!Male:!!85 years and over"
+			},
+			{
+				"id": "B01001A_016M",
+				"label": "Margin of Error!!Total:!!Male:!!85 years and over"
+			},
+			{
+				"id": "B01001A_017E",
+				"label": "Estimate!!Total:!!Female:"
+			},
+			{
+				"id": "B01001A_017M",
+				"label": "Margin of Error!!Total:!!Female:"
+			},
+			{
+				"id": "B01001A_018E",
+				"label": "Estimate!!Total:!!Female:!!Under 5 years"
+			},
+			{
+				"id": "B01001A_018M",
+				"label": "Margin of Error!!Total:!!Female:!!Under 5 years"
+			},
+			{
+				"id": "B01001A_019E",
+				"label": "Estimate!!Total:!!Female:!!5 to 9 years"
+			},
+			{
+				"id": "B01001A_019M",
+				"label": "Margin of Error!!Total:!!Female:!!5 to 9 years"
+			},
+			{
+				"id": "B01001A_020E",
+				"label": "Estimate!!Total:!!Female:!!10 to 14 years"
+			},
+			{
+				"id": "B01001A_020M",
+				"label": "Margin of Error!!Total:!!Female:!!10 to 14 years"
+			},
+			{
+				"id": "B01001A_021E",
+				"label": "Estimate!!Total:!!Female:!!15 to 17 years"
+			},
+			{
+				"id": "B01001A_021M",
+				"label": "Margin of Error!!Total:!!Female:!!15 to 17 years"
+			},
+			{
+				"id": "B01001A_022E",
+				"label": "Estimate!!Total:!!Female:!!18 and 19 years"
+			},
+			{
+				"id": "B01001A_022M",
+				"label": "Margin of Error!!Total:!!Female:!!18 and 19 years"
+			},
+			{
+				"id": "B01001A_023E",
+				"label": "Estimate!!Total:!!Female:!!20 to 24 years"
+			},
+			{
+				"id": "B01001A_023M",
+				"label": "Margin of Error!!Total:!!Female:!!20 to 24 years"
+			},
+			{
+				"id": "B01001A_024E",
+				"label": "Estimate!!Total:!!Female:!!25 to 29 years"
+			},
+			{
+				"id": "B01001A_024M",
+				"label": "Margin of Error!!Total:!!Female:!!25 to 29 years"
+			},
+			{
+				"id": "B01001A_025E",
+				"label": "Estimate!!Total:!!Female:!!30 to 34 years"
+			},
+			{
+				"id": "B01001A_025M",
+				"label": "Margin of Error!!Total:!!Female:!!30 to 34 years"
+			},
+			{
+				"id": "B01001A_026E",
+				"label": "Estimate!!Total:!!Female:!!35 to 44 years"
+			},
+			{
+				"id": "B01001A_026M",
+				"label": "Margin of Error!!Total:!!Female:!!35 to 44 years"
+			},
+			{
+				"id": "B01001A_027E",
+				"label": "Estimate!!Total:!!Female:!!45 to 54 years"
+			},
+			{
+				"id": "B01001A_027M",
+				"label": "Margin of Error!!Total:!!Female:!!45 to 54 years"
+			},
+			{
+				"id": "B01001A_028E",
+				"label": "Estimate!!Total:!!Female:!!55 to 64 years"
+			},
+			{
+				"id": "B01001A_028M",
+				"label": "Margin of Error!!Total:!!Female:!!55 to 64 years"
+			},
+			{
+				"id": "B01001A_029E",
+				"label": "Estimate!!Total:!!Female:!!65 to 74 years"
+			},
+			{
+				"id": "B01001A_029M",
+				"label": "Margin of Error!!Total:!!Female:!!65 to 74 years"
+			},
+			{
+				"id": "B01001A_030E",
+				"label": "Estimate!!Total:!!Female:!!75 to 84 years"
+			},
+			{
+				"id": "B01001A_030M",
+				"label": "Margin of Error!!Total:!!Female:!!75 to 84 years"
+			},
+			{
+				"id": "B01001A_031E",
+				"label": "Estimate!!Total:!!Female:!!85 years and over"
+			},
+			{
+				"id": "B01001A_031M",
+				"label": "Margin of Error!!Total:!!Female:!!85 years and over"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B01001A_016MA",
+			"B01001A_031EA",
+			"B01001A_012MA",
+			"B01001A_031MA",
+			"B01001A_006E",
+			"B01001A_018E",
+			"B01001A_005M",
+			"B01001A_009EA",
+			"B01001A_017M",
+			"B01001A_021E",
+			"B01001A_029M",
+			"B01001A_005EA",
+			"B01001A_028EA",
+			"B01001A_009MA",
+			"B01001A_001EA",
+			"B01001A_021M",
+			"B01001A_024EA",
+			"B01001A_004MA",
+			"B01001A_027MA",
+			"B01001A_023MA",
+			"B01001A_007E",
+			"B01001A_019E",
+			"B01001A_006M",
+			"B01001A_010E",
+			"B01001A_018M",
+			"B01001A_022E",
+			"B01001A_016EA",
+			"B01001A_012EA",
+			"B01001A_010M",
+			"B01001A_022M",
+			"B01001A_017MA",
+			"B01001A_013MA",
+			"B01001A_024E",
+			"B01001A_008E",
+			"B01001A_007M",
+			"B01001A_011E",
+			"B01001A_019M",
+			"B01001A_023E",
+			"B01001A_006EA",
+			"B01001A_029EA",
+			"B01001A_002EA",
+			"B01001A_011M",
+			"B01001A_025EA",
+			"B01001A_023M",
+			"B01001A_005MA",
+			"B01001A_020EA",
+			"B01001A_028MA",
+			"B01001A_001MA",
+			"B01001A_024MA",
+			"B01001A_013E",
+			"B01001A_025E",
+			"B01001A_020MA",
+			"B01001A_009E",
+			"B01001A_024M",
+			"B01001A_008M",
+			"B01001A_012E",
+			"B01001A_017EA",
+			"B01001A_012M",
+			"B01001A_013EA",
+			"B01001A_010EA",
+			"B01001A_018MA",
+			"B01001A_014MA",
+			"B01001A_002E",
+			"B01001A_014E",
+			"B01001A_010MA",
+			"B01001A_026E",
+			"B01001A_013M",
+			"B01001A_025M",
+			"B01001A_001E",
+			"B01001A_009M",
+			"B01001A_026EA",
+			"B01001A_007EA",
+			"B01001A_022EA",
+			"B01001A_001M",
+			"B01001A_003EA",
+			"B01001A_006MA",
+			"B01001A_021EA",
+			"B01001A_029MA",
+			"B01001A_002MA",
+			"B01001A_025MA",
+			"B01001A_003E",
+			"B01001A_015E",
+			"B01001A_021MA",
+			"B01001A_027E",
+			"NAME",
+			"B01001A_002M",
+			"B01001A_014M",
+			"B01001A_026M",
+			"B01001A_030E",
+			"B01001A_018EA",
+			"B01001A_030M",
+			"B01001A_014EA",
+			"B01001A_015MA",
+			"B01001A_030EA",
+			"B01001A_011MA",
+			"B01001A_004E",
+			"B01001A_016E",
+			"B01001A_030MA",
+			"B01001A_028E",
+			"B01001A_003M",
+			"B01001A_015M",
+			"B01001A_027M",
+			"B01001A_031E",
+			"B01001A_008EA",
+			"B01001A_004EA",
+			"B01001A_027EA",
+			"B01001A_023EA",
+			"B01001A_031M",
+			"B01001A_008MA",
+			"B01001A_026MA",
+			"B01001A_007MA",
+			"B01001A_022MA",
+			"B01001A_003MA",
+			"B01001A_005E",
+			"B01001A_017E",
+			"B01001A_029E",
+			"GEO_ID",
+			"B01001A_004M",
+			"B01001A_016M",
+			"B01001A_020E",
+			"B01001A_028M",
+			"B01001A_019EA",
+			"B01001A_015EA",
+			"B01001A_020M",
+			"B01001A_011EA",
+			"B01001A_019MA"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			"3610819",
+			"4517961",
+			"30297",
+			null,
+			"69523",
+			"3392265",
+			"11214",
+			null,
+			null,
+			null,
+			null,
+			"16156",
+			null,
+			null,
+			null,
+			null,
+			"2462210",
+			"4989934",
+			"15397",
+			"6666292",
+			"19897",
+			"2369857",
+			null,
+			null,
+			"15093",
+			"16505",
+			null,
+			null,
+			"6096377",
+			"6243780",
+			"16111",
+			"13204856",
+			"33352",
+			"5976337",
+			null,
+			null,
+			null,
+			"22234",
+			null,
+			"23089",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"13675135",
+			"6526132",
+			null,
+			"6268319",
+			"16222",
+			"20488",
+			"12130372",
+			null,
+			"16053",
+			null,
+			null,
+			null,
+			null,
+			"100770546",
+			"12322181",
+			null,
+			"12904578",
+			"15723",
+			"16435",
+			"203349963",
+			"18447",
+			null,
+			null,
+			null,
+			"126334",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"4749609",
+			"6691867",
+			null,
+			"11935871",
+			"United States",
+			"71720",
+			"10486",
+			"19171",
+			"8108948",
+			null,
+			"23638",
+			null,
+			null,
+			null,
+			null,
+			"5220468",
+			"1872307",
+			null,
+			"13923437",
+			"21429",
+			"19109",
+			"21565",
+			"3047884",
+			null,
+			null,
+			null,
+			null,
+			"22259",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"5652331",
+			"102579417",
+			"13421313",
+			"0100000US",
+			"31556",
+			"18372",
+			"5368523",
+			"13093",
+			null,
+			null,
+			"31119",
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:27.192Z"
+}

@@ -1,0 +1,328 @@
+{
+	"tableId": "ACSDT1Y2024.B07003",
+	"title": "Geographical Mobility in the Past Year by Sex for Current Residence in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 1 year and over in the United States",
+	"year": "2024",
+	"vintage": "2024",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2024.B07003",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B07003_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B07003_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B07003_002E",
+				"label": "Estimate!!Total:!!Male"
+			},
+			{
+				"id": "B07003_002M",
+				"label": "Margin of Error!!Total:!!Male"
+			},
+			{
+				"id": "B07003_003E",
+				"label": "Estimate!!Total:!!Female"
+			},
+			{
+				"id": "B07003_003M",
+				"label": "Margin of Error!!Total:!!Female"
+			},
+			{
+				"id": "B07003_004E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:"
+			},
+			{
+				"id": "B07003_004M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:"
+			},
+			{
+				"id": "B07003_005E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!Male"
+			},
+			{
+				"id": "B07003_005M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!Male"
+			},
+			{
+				"id": "B07003_006E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!Female"
+			},
+			{
+				"id": "B07003_006M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!Female"
+			},
+			{
+				"id": "B07003_007E",
+				"label": "Estimate!!Total:!!Moved within same county:"
+			},
+			{
+				"id": "B07003_007M",
+				"label": "Margin of Error!!Total:!!Moved within same county:"
+			},
+			{
+				"id": "B07003_008E",
+				"label": "Estimate!!Total:!!Moved within same county:!!Male"
+			},
+			{
+				"id": "B07003_008M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!Male"
+			},
+			{
+				"id": "B07003_009E",
+				"label": "Estimate!!Total:!!Moved within same county:!!Female"
+			},
+			{
+				"id": "B07003_009M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!Female"
+			},
+			{
+				"id": "B07003_010E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:"
+			},
+			{
+				"id": "B07003_010M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:"
+			},
+			{
+				"id": "B07003_011E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!Male"
+			},
+			{
+				"id": "B07003_011M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!Male"
+			},
+			{
+				"id": "B07003_012E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!Female"
+			},
+			{
+				"id": "B07003_012M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!Female"
+			},
+			{
+				"id": "B07003_013E",
+				"label": "Estimate!!Total:!!Moved from different state:"
+			},
+			{
+				"id": "B07003_013M",
+				"label": "Margin of Error!!Total:!!Moved from different state:"
+			},
+			{
+				"id": "B07003_014E",
+				"label": "Estimate!!Total:!!Moved from different state:!!Male"
+			},
+			{
+				"id": "B07003_014M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!Male"
+			},
+			{
+				"id": "B07003_015E",
+				"label": "Estimate!!Total:!!Moved from different state:!!Female"
+			},
+			{
+				"id": "B07003_015M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!Female"
+			},
+			{
+				"id": "B07003_016E",
+				"label": "Estimate!!Total:!!Moved from abroad:"
+			},
+			{
+				"id": "B07003_016M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:"
+			},
+			{
+				"id": "B07003_017E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!Male"
+			},
+			{
+				"id": "B07003_017M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!Male"
+			},
+			{
+				"id": "B07003_018E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!Female"
+			},
+			{
+				"id": "B07003_018M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!Female"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B07003_010E",
+			"B07003_018M",
+			"B07003_013EA",
+			"B07003_002E",
+			"B07003_015EA",
+			"B07003_014M",
+			"B07003_017EA",
+			"B07003_006M",
+			"B07003_018E",
+			"B07003_013MA",
+			"B07003_015MA",
+			"B07003_014E",
+			"B07003_017MA",
+			"B07003_006E",
+			"B07003_011EA",
+			"B07003_011MA",
+			"B07003_010M",
+			"B07003_002M",
+			"B07003_008MA",
+			"B07003_001E",
+			"B07003_006MA",
+			"B07003_009M",
+			"B07003_013E",
+			"B07003_004MA",
+			"B07003_002MA",
+			"B07003_005M",
+			"B07003_017M",
+			"B07003_008EA",
+			"B07003_006EA",
+			"B07003_009E",
+			"B07003_004EA",
+			"B07003_002EA",
+			"B07003_005E",
+			"B07003_017E",
+			"NAME",
+			"B07003_001M",
+			"B07003_013M",
+			"B07003_012EA",
+			"B07003_008M",
+			"B07003_012E",
+			"B07003_014EA",
+			"B07003_016EA",
+			"B07003_004M",
+			"B07003_016M",
+			"B07003_018EA",
+			"B07003_012MA",
+			"B07003_008E",
+			"B07003_014MA",
+			"B07003_016MA",
+			"B07003_004E",
+			"B07003_010EA",
+			"B07003_016E",
+			"B07003_018MA",
+			"B07003_010MA",
+			"B07003_009EA",
+			"B07003_012M",
+			"B07003_007M",
+			"B07003_007MA",
+			"B07003_011E",
+			"B07003_005MA",
+			"B07003_003M",
+			"B07003_003MA",
+			"B07003_015M",
+			"B07003_001MA",
+			"B07003_007E",
+			"B07003_007EA",
+			"B07003_005EA",
+			"B07003_003E",
+			"B07003_003EA",
+			"B07003_015E",
+			"B07003_001EA",
+			"B07003_009MA",
+			"GEO_ID",
+			"B07003_011M"
+		],
+		[
+			"9963763",
+			"28464",
+			null,
+			"166511600",
+			null,
+			"45140",
+			null,
+			"115217",
+			"1241921",
+			null,
+			null,
+			"3596324",
+			null,
+			"150365290",
+			null,
+			null,
+			"84488",
+			"39776",
+			null,
+			"336636468",
+			null,
+			"80770",
+			"7157607",
+			null,
+			null,
+			"133018",
+			"25009",
+			null,
+			null,
+			"10092648",
+			null,
+			null,
+			"146673224",
+			"1310272",
+			"United States",
+			"32733",
+			"75154",
+			null,
+			"88788",
+			"4863726",
+			null,
+			null,
+			"210231",
+			"45595",
+			null,
+			null,
+			"9831743",
+			null,
+			null,
+			"297038514",
+			null,
+			"2552193",
+			null,
+			null,
+			null,
+			"50600",
+			"155113",
+			null,
+			"5100037",
+			null,
+			"38850",
+			null,
+			"44211",
+			null,
+			"19924391",
+			null,
+			null,
+			"170124868",
+			null,
+			"3561283",
+			null,
+			null,
+			"0100000US",
+			"47708"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T20:59:45.443Z"
+}
