@@ -98,8 +98,8 @@ function normalizeSearchQuery(query: string): string[] {
  */
 export async function searchCensusData(
     query: string,
-    size: number = 50,
-    page: number = 0,
+    _size: number = 50, // Kept for API compatibility, not used internally (API returns all results)
+    _page: number = 0,  // Kept for API compatibility, not used internally (API returns all results)
     datasetFilter?: string,
     yearFilter?: string
 ): Promise<RawCensusEntity[]> {
@@ -194,40 +194,23 @@ export async function searchCensusData(
                             program: instance.program,
                         },
                     } as RawCensusEntity);
-                    
-                    // Stop if we have enough results
-                    if (allEntities.length >= size * 2) {
-                        break;
-                    }
-                }
-                
-                // Stop if we have enough results
-                if (allEntities.length >= size * 2) {
-                    break;
                 }
             }
             
-            // For broad queries (expanded queries), continue trying all variations
-            // to get comprehensive results. Only stop early for simple queries.
-            const isBroadQuery = expandBroadQueries(query).length > 1;
-            if (!isBroadQuery && allEntities.length >= size) {
-                break;
-            }
+            // After processing all instances from this query variation, continue to next variation
+            // Don't stop early - we want to collect ALL results and let pagination handle limiting
         }
 
-        // Apply pagination
-        const startIndex = page * size;
-        const endIndex = startIndex + size;
-        const paginatedEntities = allEntities.slice(startIndex, endIndex);
-
+        // Return all entities found - pagination is handled by fetchAllSearchResults
+        // The Census Bureau API returns all results in one response, so we return all of them
         log.info('Search results fetched successfully', {
             query,
             variationsTried: queryVariations.length,
-            entitiesFound: paginatedEntities.length,
+            entitiesFound: allEntities.length,
             totalFound: allEntities.length,
         });
 
-        return paginatedEntities;
+        return allEntities;
     } catch (error) {
         log.error('Failed to fetch search results', {
             error: error instanceof Error ? error.message : String(error),
