@@ -169,15 +169,20 @@ async function main() {
                         return;
                     }
 
+                    // Remove undefined fields before pushing
+                    const cleanedOutput = Object.fromEntries(
+                        Object.entries(withoutVariables).filter(([_, value]) => value !== undefined)
+                    );
+                    
                     // Push version without variables (and possibly without data)
                     const omittedFields = [];
-                    if (withoutVariables.variablesOmitted) omittedFields.push('variables');
-                    if (withoutVariables.dataOmitted) omittedFields.push('data');
+                    if (cleanedOutput.variablesOmitted) omittedFields.push('variables');
+                    if (cleanedOutput.dataOmitted) omittedFields.push('data');
                     
                     if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                        await Actor.pushData([withoutVariables], 'result-item');
+                        await Actor.pushData([cleanedOutput], 'result-item');
                     } else {
-                        await Actor.pushData([withoutVariables]);
+                        await Actor.pushData([cleanedOutput]);
                     }
                     totalPushed++;
                     log.info(`✅ Processed table ${fullTableId} (omitted fields: ${omittedFields.join(', ')})`, {
@@ -188,10 +193,15 @@ async function main() {
                     });
                 } else {
                     // Normal case: push full table with data
+                    // Remove undefined fields before pushing
+                    const cleanedOutput = Object.fromEntries(
+                        Object.entries(outputTable).filter(([_, value]) => value !== undefined)
+                    );
+                    
                     if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                        await Actor.pushData([outputTable], 'result-item');
+                        await Actor.pushData([cleanedOutput], 'result-item');
                     } else {
-                        await Actor.pushData([outputTable]);
+                        await Actor.pushData([cleanedOutput]);
                     }
                     totalPushed++;
 
@@ -334,15 +344,20 @@ async function main() {
                             return;
                         }
 
+                        // Remove undefined fields before pushing
+                        const cleanedOutput = Object.fromEntries(
+                            Object.entries(withoutVariables).filter(([_, value]) => value !== undefined)
+                        );
+                        
                         // Push version without variables (and possibly without data)
                         const omittedFields = [];
-                        if (withoutVariables.variablesOmitted) omittedFields.push('variables');
-                        if (withoutVariables.dataOmitted) omittedFields.push('data');
+                        if (cleanedOutput.variablesOmitted) omittedFields.push('variables');
+                        if (cleanedOutput.dataOmitted) omittedFields.push('data');
                         
                         if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                            await Actor.pushData([withoutVariables], 'result-item');
+                            await Actor.pushData([cleanedOutput], 'result-item');
                         } else {
-                            await Actor.pushData([withoutVariables]);
+                            await Actor.pushData([cleanedOutput]);
                         }
                         totalPushed++;
                         log.info(`✅ Processed table ${entityTableId} (omitted fields: ${omittedFields.join(', ')})`, {
@@ -352,10 +367,15 @@ async function main() {
                         });
                     } else {
                         // Normal case: push full table with data
+                        // Remove undefined fields before pushing
+                        const cleanedOutput = Object.fromEntries(
+                            Object.entries(outputTable).filter(([_, value]) => value !== undefined)
+                        );
+                        
                         if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                            await Actor.pushData([outputTable], 'result-item');
+                            await Actor.pushData([cleanedOutput], 'result-item');
                         } else {
-                            await Actor.pushData([outputTable]);
+                            await Actor.pushData([cleanedOutput]);
                         }
                         totalPushed++;
 
