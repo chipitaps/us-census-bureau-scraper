@@ -76,7 +76,6 @@ async function main() {
 
         // Search for tables and process them
         if (searchQuery) {
-            // Search for tables and process them
             log.info('Searching for tables', { query: searchQuery });
 
             // Track processed table IDs to avoid duplicates
