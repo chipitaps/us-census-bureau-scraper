@@ -269,9 +269,19 @@ export async function findFullTableId(
                 
                 if (response.ok) {
                     const data = await response.json();
-                    if (data.response?.metadataContent || data.metadataContent) {
-                        // Found a valid table ID, return it
-                        return fullTableId;
+                    const metadataContent = data.response?.metadataContent || data.metadataContent;
+                    if (metadataContent) {
+                        // Get the ACTUAL table ID from the response (in case it differs from what we constructed)
+                        const actualTableId = metadataContent?.tableId || 
+                                             data.response?.tableId || 
+                                             data.response?.objectId ||
+                                             fullTableId; // Fallback to constructed ID
+                        
+                        // Only return if the actual ID matches our constructed one (to respect filters)
+                        // Or if no specific filter is set, return the first valid one found
+                        if (actualTableId === fullTableId || (!datasetFilter && !yearFilter)) {
+                            return actualTableId;
+                        }
                     }
                 }
             } catch {
@@ -319,10 +329,18 @@ export async function fetchTableMetadata(tableId: string): Promise<RawCensusTabl
         // Extract metadata from nested response structure
         const metadataContent = data.response?.metadataContent || data.metadataContent || data;
         
+        // Get the ACTUAL table ID from the API response (it may differ from what we requested)
+        // The API response might include the actual tableId in metadata or response
+        const actualTableId = metadataContent?.tableId || 
+                             data.response?.tableId || 
+                             data.response?.objectId || 
+                             metadataContent?.id ||
+                             tableId; // Fallback to requested ID
+        
         // Extract year from table ID (format: DATASETYEAR.TABLEID, e.g., ACSDT1Y2023.B10010)
         // The year in the table ID is the reference year (data year)
         let extractedYear: string | undefined;
-        const yearMatch = tableId.match(/(\d{4})\./); // Match 4 digits before the dot
+        const yearMatch = actualTableId.match(/(\d{4})\./); // Match 4 digits before the dot
         if (yearMatch) {
             extractedYear = yearMatch[1];
         }
@@ -332,14 +350,14 @@ export async function fetchTableMetadata(tableId: string): Promise<RawCensusTabl
         const datasetData = metadataContent.dataset || data.response?.dataset;
         
         return {
-            id: tableId,
+            id: actualTableId, // Use the actual table ID from the API
             title: metadataContent.title || data.response?.title,
             description: metadataContent.description || data.response?.description,
             universe: metadataContent.universe || data.response?.universe,
             year: datasetData?.year || extractedYear || datasetData?.vintage,
             vintage: datasetData?.vintage || datasetData?.year || extractedYear,
             survey: datasetData?.name || data.response?.dataset?.name,
-            url: `https://data.census.gov/table?tid=${tableId}`,
+            url: `https://data.census.gov/table?tid=${actualTableId}`,
             metadata: metadataContent,
         } as RawCensusTable;
     } catch (error) {
