@@ -1,7 +1,7 @@
 // Apify SDK - toolkit for building Apify Actors (Read more at https://docs.apify.com/sdk/js/).
 import { Actor } from 'apify';
 import log from '@apify/log';
-import { searchCensusData, fetchTableData, fetchTableMetadata, fetchAllSearchResults, findFullTableId } from './api.js';
+import { searchCensusData, fetchTableData, fetchTableMetadata, fetchAllSearchResults } from './api.js';
 import { mapCensusTable } from './mapper.js';
 import type { CensusInput, RawCensusEntity, RawCensusTable } from './types.js';
 
@@ -23,11 +23,11 @@ async function main() {
 
     log.info('📋 Configuration loaded', { input });
 
-    const { searchQuery, tableId, maxItems, dataset, geography, year } = input;
+    const { searchQuery, maxItems, dataset, geography, year } = input;
 
     // Validate input
-    if (!searchQuery && !tableId) {
-        log.error('Either searchQuery or tableId is required. Please provide a search query or table ID.');
+    if (!searchQuery) {
+        log.error('searchQuery is required. Please provide a search query.');
         await Actor.exit();
         return;
     }
@@ -62,7 +62,6 @@ async function main() {
 
     log.info('📡 Starting Census Bureau data collection', {
         searchQuery,
-        tableId,
         maxItems: effectiveMaxItems,
         isPayingUser,
     });
@@ -75,189 +74,8 @@ async function main() {
         let totalFetched = 0;
         let totalPushed = 0;
 
-        // If tableId is provided, fetch that specific table
-        if (tableId) {
-            log.info('Fetching specific table', { tableId });
-
-            try {
-                // Check if tableId is a base ID (doesn't contain dot) or full ID
-                // Base IDs are like "B06010", full IDs are like "ACSDT1Y2023.B06010"
-                let fullTableId = tableId;
-                const isBaseTableId = !tableId.includes('.');
-                
-                if (isBaseTableId) {
-                    log.info('Detected base table ID, attempting to resolve full table ID', { baseTableId: tableId, dataset, year });
-                    const resolvedId = await findFullTableId(tableId, dataset, year);
-                    if (resolvedId) {
-                        fullTableId = resolvedId;
-                        log.info('Resolved base table ID to full table ID', { baseTableId: tableId, fullTableId });
-                    } else {
-                        log.warning('Could not resolve full table ID for base ID. Trying with base ID directly...', { baseTableId: tableId });
-                        // Continue with base ID - might work for some endpoints
-                    }
-                }
-
-                // Fetch both metadata and data using the resolved full table ID
-                let metadata: RawCensusTable;
-                try {
-                    metadata = await fetchTableMetadata(fullTableId);
-                } catch (metadataError) {
-                    // If metadata fetch fails, create minimal metadata from table ID
-                    log.warning(`Metadata fetch failed for ${fullTableId}, creating minimal metadata`, {
-                        tableId: fullTableId,
-                        error: metadataError instanceof Error ? metadataError.message : String(metadataError),
-                    });
-                    
-                    // Extract year from table ID if possible
-                    let extractedYear: string | undefined;
-                    const yearMatch = fullTableId.match(/(\d{4})\./);
-                    if (yearMatch) {
-                        extractedYear = yearMatch[1];
-                    }
-                    
-                    metadata = {
-                        id: fullTableId,
-                        title: 'Unavailable Table',
-                        year: extractedYear,
-                        vintage: extractedYear,
-                        url: `https://data.census.gov/table?tid=${fullTableId}`,
-                        metadata: {},
-                    } as RawCensusTable;
-                }
-                
-                const data = await fetchTableData(fullTableId).catch(() => null); // Try to fetch data, but don't fail if unavailable
-
-                // Merge metadata and data, preserving metadata fields
-                const table: RawCensusTable = {
-                    id: fullTableId, // Use the resolved full table ID
-                    ...metadata,
-                    data: data?.data || metadata?.data,
-                    // Preserve metadata from metadata response
-                    metadata: (metadata?.metadata || metadata) as Record<string, unknown>,
-                };
-
-                const outputTable = mapCensusTable(table);
-                totalFetched++;
-                
-                // Check if the output item exceeds Apify's size limit (~9 MB per item)
-                const outputSize = Buffer.byteLength(JSON.stringify(outputTable), 'utf8');
-                const MAX_ITEM_SIZE = 9 * 1024 * 1024; // 9 MB in bytes (Apify limit is ~9.4 MB)
-
-                if (outputSize > MAX_ITEM_SIZE) {
-                    log.warning(`Table ${fullTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push without variables field`, {
-                        tableId: fullTableId,
-                        sizeMB: (outputSize / 1024 / 1024).toFixed(2),
-                    });
-
-                    // Try pushing without the variables field first
-                    const withoutVariables: any = { ...outputTable };
-                    delete withoutVariables.variables;
-                    withoutVariables.variablesOmitted = 'Variables field omitted due to size limit (exceeds 9 MB)';
-
-                    let sizeWithoutVariables = Buffer.byteLength(JSON.stringify(withoutVariables), 'utf8');
-                    
-                    if (sizeWithoutVariables > MAX_ITEM_SIZE) {
-                        // Still too large, also remove data field
-                        log.warning(`Table ${fullTableId} still too large after removing variables (${(sizeWithoutVariables / 1024 / 1024).toFixed(2)} MB), removing data field`, {
-                            tableId: fullTableId,
-                            sizeWithoutVariablesMB: (sizeWithoutVariables / 1024 / 1024).toFixed(2),
-                        });
-
-                        delete withoutVariables.data;
-                        withoutVariables.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
-                        withoutVariables.dataOmitted = 'Data field omitted due to size limit';
-                        
-                        sizeWithoutVariables = Buffer.byteLength(JSON.stringify(withoutVariables), 'utf8');
-                    }
-
-                    if (sizeWithoutVariables > MAX_ITEM_SIZE) {
-                        // Even after removing variables and data, still too large - skip entirely
-                        log.error(`Table ${fullTableId} is too large even after removing variables and data (${(sizeWithoutVariables / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
-                            tableId: fullTableId,
-                            finalSizeMB: (sizeWithoutVariables / 1024 / 1024).toFixed(2),
-                        });
-                        
-                        const errorOutput = {
-                            error: 'Table too large to process',
-                            tableId: fullTableId,
-                            errorMessage: `Data item too large (original size: ${outputSize} bytes, after removing variables and data: ${sizeWithoutVariables} bytes, limit: ${MAX_ITEM_SIZE} bytes).`,
-                            scrapedTimestamp: new Date().toISOString(),
-                        };
-
-                        if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                            await Actor.pushData([errorOutput], 'error-item');
-                        } else {
-                            await Actor.pushData([errorOutput]);
-                        }
-                        totalPushed++;
-                        return;
-                    }
-
-                    // Remove undefined fields before pushing
-                    const cleanedOutput = Object.fromEntries(
-                        Object.entries(withoutVariables).filter(([_, value]) => value !== undefined)
-                    );
-                    
-                    // Push version without variables (and possibly without data)
-                    const omittedFields = [];
-                    if (cleanedOutput.variablesOmitted) omittedFields.push('variables');
-                    if (cleanedOutput.dataOmitted) omittedFields.push('data');
-                    
-                    if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                        await Actor.pushData([cleanedOutput], 'result-item');
-                    } else {
-                        await Actor.pushData([cleanedOutput]);
-                    }
-                    totalPushed++;
-                    log.info(`✅ Processed table ${fullTableId} (omitted fields: ${omittedFields.join(', ')})`, {
-                        totalFetched,
-                        totalPushed,
-                        originalTableId: tableId,
-                        omittedFields: omittedFields.join(', '),
-                    });
-                } else {
-                    // Normal case: push full table with data
-                    // Remove undefined fields before pushing
-                    const cleanedOutput = Object.fromEntries(
-                        Object.entries(outputTable).filter(([_, value]) => value !== undefined)
-                    );
-                    
-                    if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                        await Actor.pushData([cleanedOutput], 'result-item');
-                    } else {
-                        await Actor.pushData([cleanedOutput]);
-                    }
-                    totalPushed++;
-
-                    log.info(`✅ Processed table ${fullTableId}`, {
-                        totalFetched,
-                        totalPushed,
-                        originalTableId: tableId,
-                    });
-                }
-            } catch (error) {
-                const errorMessage = error instanceof Error ? error.message : String(error);
-                log.error(`Failed to process table: ${tableId}`, {
-                    error: errorMessage,
-                    tableId,
-                });
-                
-                // Push error to dataset so users can see what failed
-                const errorOutput = {
-                    error: 'Failed to process table',
-                    tableId,
-                    errorMessage,
-                    scrapedTimestamp: new Date().toISOString(),
-                };
-                
-                if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                    await Actor.pushData([errorOutput], 'error-item');
-                } else {
-                    await Actor.pushData([errorOutput]);
-                }
-                totalPushed++; // Count error as a pushed item
-            }
-        } else if (searchQuery) {
+        // Search for tables and process them
+        if (searchQuery) {
             // Search for tables and process them
             log.info('Searching for tables', { query: searchQuery });
 
@@ -431,11 +249,6 @@ async function main() {
                             totalPushed,
                         });
                     }
-
-                    log.info(`✅ Processed table ${entityTableId}`, {
-                        totalFetched,
-                        totalPushed,
-                    });
                 } catch (error) {
                     const errorMessage = error instanceof Error ? error.message : String(error);
                     log.error(`Failed to process entity: ${entity.id}`, {
@@ -512,11 +325,11 @@ async function main() {
             if (totalPushed > 0) {
                 log.info(`🎉 Collection complete! Records processed: ${totalPushed}`);
             } else if (entities.length === 0) {
-                log.warning('⚠️ Search query did not return any table entities from Census Reporter API.');
-                log.info('💡 Tip: Try different search terms (e.g., "population", "income", "housing", "education"). You can also use the tableId parameter to fetch a specific table directly.');
+                log.warning('⚠️ Search query did not return any table entities from Census Bureau API.');
+                log.info('💡 Tip: Try different search terms (e.g., "population", "income", "housing", "education").');
             } else {
                 log.warning(`⚠️ Found ${entities.length} entities but none could be processed (unable to resolve full table IDs)`);
-                log.info('💡 Tip: Try adjusting the dataset or year filters, or use the tableId parameter to fetch a specific table directly.');
+                log.info('💡 Tip: Try adjusting the dataset or year filters to refine your search results.');
             }
         }
 

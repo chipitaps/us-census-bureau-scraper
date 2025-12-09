@@ -2,7 +2,6 @@
 
 export interface CensusInput {
     searchQuery?: string;
-    tableId?: string;
     geography?: string;
     year?: string;
     dataset?: string;

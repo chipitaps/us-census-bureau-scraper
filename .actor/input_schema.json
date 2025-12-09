@@ -6,26 +6,18 @@
         "searchQuery": {
             "title": "Search Query",
             "type": "string",
-            "description": "Search term to find Census tables (e.g., 'population', 'income', 'housing'). Use this OR tableId below, not both.",
+            "description": "Search term to find Census tables (e.g., 'population', 'income', 'housing').",
             "editor": "textfield",
             "prefill": "population",
-            "sectionCaption": "Input Method: Search",
+            "sectionCaption": "Search Configuration",
             "sectionDescription": "Search for Census tables using keywords. Returns multiple matching tables."
-        },
-        "tableId": {
-            "title": "Table ID",
-            "type": "string",
-            "description": "Specific Census table ID to fetch (e.g., 'ACSDT1Y2021.B01001'). Use this OR searchQuery above, not both.",
-            "editor": "textfield",
-            "sectionCaption": "Input Method: Direct Table ID",
-            "sectionDescription": "Fetch a specific table by its ID. Returns a single table."
         },
         "year": {
             "title": "Year",
             "type": "string",
             "description": "Filter results by year/vintage (e.g., '2021', '2020'). Optional. Recent years: 2023, 2022, 2021, 2020, 2019, etc.",
             "editor": "textfield",
-            "sectionCaption": "Optional Filters",
+            "sectionCaption": "Filters",
             "sectionDescription": "Additional filters to refine your search results or table data"
         },
         "dataset": {

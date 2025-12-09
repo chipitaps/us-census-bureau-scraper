@@ -2,7 +2,7 @@
     "actorSpecification": 1,
     "name": "us-census-bureau-scraper",
     "title": "US Census Bureau Scraper",
-    "description": "Extract comprehensive Census data from the US Census Bureau using their public API. This actor supports both search queries to find multiple tables and direct table IDs for specific data extraction. It retrieves detailed table metadata, variables, geographic information, and data values from various Census surveys including American Community Survey (ACS), Decennial Census, Economic Census, and more.",
+    "description": "Extract comprehensive Census data from the US Census Bureau using their public API. This actor searches for Census tables using keywords and retrieves detailed table metadata, variables, geographic information, and data values from various Census surveys including American Community Survey (ACS), Decennial Census, Economic Census, and more.",
     "version": "1.0",
     "meta": {
         "templateId": "ts-start-bun"
