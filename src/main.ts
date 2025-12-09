@@ -120,29 +120,43 @@ async function main() {
                 const MAX_ITEM_SIZE = 9 * 1024 * 1024; // 9 MB in bytes (Apify limit is ~9.4 MB)
 
                 if (outputSize > MAX_ITEM_SIZE) {
-                    log.warning(`Table ${fullTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push metadata only`, {
+                    log.warning(`Table ${fullTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push without data field`, {
                         tableId: fullTableId,
                         sizeMB: (outputSize / 1024 / 1024).toFixed(2),
                     });
 
-                    // Try pushing without the data field (metadata only)
-                    const metadataOnly: any = { ...outputTable };
-                    delete metadataOnly.data;
-                    metadataOnly.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
-                    metadataOnly.dataOmitted = 'Data field omitted due to size limit (exceeds 9 MB)';
+                    // Try pushing without the data field first
+                    const withoutData: any = { ...outputTable };
+                    delete withoutData.data;
+                    withoutData.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
+                    withoutData.dataOmitted = 'Data field omitted due to size limit (exceeds 9 MB)';
 
-                    const metadataSize = Buffer.byteLength(JSON.stringify(metadataOnly), 'utf8');
-                    if (metadataSize > MAX_ITEM_SIZE) {
-                        // Even metadata is too large, skip this table
-                        log.error(`Table ${fullTableId} metadata is too large (${(metadataSize / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
+                    let sizeWithoutData = Buffer.byteLength(JSON.stringify(withoutData), 'utf8');
+                    
+                    if (sizeWithoutData > MAX_ITEM_SIZE) {
+                        // Still too large, also remove variables field
+                        log.warning(`Table ${fullTableId} still too large after removing data (${(sizeWithoutData / 1024 / 1024).toFixed(2)} MB), removing variables field`, {
                             tableId: fullTableId,
-                            metadataSizeMB: (metadataSize / 1024 / 1024).toFixed(2),
+                            sizeWithoutDataMB: (sizeWithoutData / 1024 / 1024).toFixed(2),
+                        });
+
+                        delete withoutData.variables;
+                        withoutData.variablesOmitted = 'Variables field omitted due to size limit';
+                        
+                        sizeWithoutData = Buffer.byteLength(JSON.stringify(withoutData), 'utf8');
+                    }
+
+                    if (sizeWithoutData > MAX_ITEM_SIZE) {
+                        // Even after removing data and variables, still too large - skip entirely
+                        log.error(`Table ${fullTableId} is too large even after removing data and variables (${(sizeWithoutData / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
+                            tableId: fullTableId,
+                            finalSizeMB: (sizeWithoutData / 1024 / 1024).toFixed(2),
                         });
                         
                         const errorOutput = {
                             error: 'Table too large to process',
                             tableId: fullTableId,
-                            errorMessage: `Data item too large (size: ${outputSize} bytes, limit: ${MAX_ITEM_SIZE} bytes). Metadata size: ${metadataSize} bytes.`,
+                            errorMessage: `Data item too large (original size: ${outputSize} bytes, after removing data and variables: ${sizeWithoutData} bytes, limit: ${MAX_ITEM_SIZE} bytes).`,
                             scrapedTimestamp: new Date().toISOString(),
                         };
 
@@ -155,17 +169,22 @@ async function main() {
                         return;
                     }
 
-                    // Push metadata-only version
+                    // Push version without data (and possibly without variables)
+                    const omittedFields = [];
+                    if (withoutData.dataOmitted) omittedFields.push('data');
+                    if (withoutData.variablesOmitted) omittedFields.push('variables');
+                    
                     if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                        await Actor.pushData([metadataOnly], 'result-item');
+                        await Actor.pushData([withoutData], 'result-item');
                     } else {
-                        await Actor.pushData([metadataOnly]);
+                        await Actor.pushData([withoutData]);
                     }
                     totalPushed++;
-                    log.info(`✅ Processed table ${fullTableId} (metadata only, data omitted due to size)`, {
+                    log.info(`✅ Processed table ${fullTableId} (omitted fields: ${omittedFields.join(', ')})`, {
                         totalFetched,
                         totalPushed,
                         originalTableId: tableId,
+                        omittedFields: omittedFields.join(', '),
                     });
                 } else {
                     // Normal case: push full table with data
@@ -265,30 +284,44 @@ async function main() {
                     const MAX_ITEM_SIZE = 9 * 1024 * 1024; // 9 MB in bytes (Apify limit is ~9.4 MB)
 
                     if (outputSize > MAX_ITEM_SIZE) {
-                        log.warning(`Table ${entityTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push metadata only`, {
+                        log.warning(`Table ${entityTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push without data field`, {
                             tableId: entityTableId,
                             sizeMB: (outputSize / 1024 / 1024).toFixed(2),
                         });
 
-                        // Try pushing without the data field (metadata only)
-                        const metadataOnly: any = { ...outputTable };
-                        delete metadataOnly.data;
-                        metadataOnly.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
-                        metadataOnly.dataOmitted = 'Data field omitted due to size limit (exceeds 9 MB)';
+                        // Try pushing without the data field first
+                        const withoutData: any = { ...outputTable };
+                        delete withoutData.data;
+                        withoutData.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
+                        withoutData.dataOmitted = 'Data field omitted due to size limit (exceeds 9 MB)';
 
-                        const metadataSize = Buffer.byteLength(JSON.stringify(metadataOnly), 'utf8');
-                        if (metadataSize > MAX_ITEM_SIZE) {
-                            // Even metadata is too large, skip this table
-                            log.error(`Table ${entityTableId} metadata is too large (${(metadataSize / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
+                        let sizeWithoutData = Buffer.byteLength(JSON.stringify(withoutData), 'utf8');
+                        
+                        if (sizeWithoutData > MAX_ITEM_SIZE) {
+                            // Still too large, also remove variables field
+                            log.warning(`Table ${entityTableId} still too large after removing data (${(sizeWithoutData / 1024 / 1024).toFixed(2)} MB), removing variables field`, {
                                 tableId: entityTableId,
-                                metadataSizeMB: (metadataSize / 1024 / 1024).toFixed(2),
+                                sizeWithoutDataMB: (sizeWithoutData / 1024 / 1024).toFixed(2),
+                            });
+
+                            delete withoutData.variables;
+                            withoutData.variablesOmitted = 'Variables field omitted due to size limit';
+                            
+                            sizeWithoutData = Buffer.byteLength(JSON.stringify(withoutData), 'utf8');
+                        }
+
+                        if (sizeWithoutData > MAX_ITEM_SIZE) {
+                            // Even after removing data and variables, still too large - skip entirely
+                            log.error(`Table ${entityTableId} is too large even after removing data and variables (${(sizeWithoutData / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
+                                tableId: entityTableId,
+                                finalSizeMB: (sizeWithoutData / 1024 / 1024).toFixed(2),
                             });
                             
                             const errorOutput = {
                                 error: 'Table too large to process',
                                 tableId: entityTableId,
                                 entityId: entity.id,
-                                errorMessage: `Data item too large (size: ${outputSize} bytes, limit: ${MAX_ITEM_SIZE} bytes). Metadata size: ${metadataSize} bytes.`,
+                                errorMessage: `Data item too large (original size: ${outputSize} bytes, after removing data and variables: ${sizeWithoutData} bytes, limit: ${MAX_ITEM_SIZE} bytes).`,
                                 scrapedTimestamp: new Date().toISOString(),
                             };
 
@@ -301,16 +334,21 @@ async function main() {
                             return;
                         }
 
-                        // Push metadata-only version
+                        // Push version without data (and possibly without variables)
+                        const omittedFields = [];
+                        if (withoutData.dataOmitted) omittedFields.push('data');
+                        if (withoutData.variablesOmitted) omittedFields.push('variables');
+                        
                         if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                            await Actor.pushData([metadataOnly], 'result-item');
+                            await Actor.pushData([withoutData], 'result-item');
                         } else {
-                            await Actor.pushData([metadataOnly]);
+                            await Actor.pushData([withoutData]);
                         }
                         totalPushed++;
-                        log.info(`✅ Processed table ${entityTableId} (metadata only, data omitted due to size)`, {
+                        log.info(`✅ Processed table ${entityTableId} (omitted fields: ${omittedFields.join(', ')})`, {
                             totalFetched,
                             totalPushed,
+                            omittedFields: omittedFields.join(', '),
                         });
                     } else {
                         // Normal case: push full table with data
