@@ -1,7 +1,7 @@
 // Apify SDK - toolkit for building Apify Actors (Read more at https://docs.apify.com/sdk/js/).
 import { Actor } from 'apify';
 import log from '@apify/log';
-import { searchCensusData, fetchTableData, fetchTableMetadata, fetchAllSearchResults } from './api.js';
+import { searchCensusData, fetchTableData, fetchTableMetadata, fetchAllSearchResults, findFullTableId } from './api.js';
 import { mapCensusTable } from './mapper.js';
 import type { CensusInput, RawCensusEntity, RawCensusTable } from './types.js';
 
@@ -80,15 +80,32 @@ async function main() {
             log.info('Fetching specific table', { tableId });
 
             try {
-                // Fetch both metadata and data
+                // Check if tableId is a base ID (doesn't contain dot) or full ID
+                // Base IDs are like "B06010", full IDs are like "ACSDT1Y2023.B06010"
+                let fullTableId = tableId;
+                const isBaseTableId = !tableId.includes('.');
+                
+                if (isBaseTableId) {
+                    log.info('Detected base table ID, attempting to resolve full table ID', { baseTableId: tableId, dataset, year });
+                    const resolvedId = await findFullTableId(tableId, dataset, year);
+                    if (resolvedId) {
+                        fullTableId = resolvedId;
+                        log.info('Resolved base table ID to full table ID', { baseTableId: tableId, fullTableId });
+                    } else {
+                        log.warning('Could not resolve full table ID for base ID. Trying with base ID directly...', { baseTableId: tableId });
+                        // Continue with base ID - might work for some endpoints
+                    }
+                }
+
+                // Fetch both metadata and data using the resolved full table ID
                 const [metadata, data] = await Promise.all([
-                    fetchTableMetadata(tableId),
-                    fetchTableData(tableId).catch(() => null), // Try to fetch data, but don't fail if unavailable
+                    fetchTableMetadata(fullTableId),
+                    fetchTableData(fullTableId).catch(() => null), // Try to fetch data, but don't fail if unavailable
                 ]);
 
                 // Merge metadata and data, preserving metadata fields
                 const table: RawCensusTable = {
-                    id: tableId,
+                    id: fullTableId, // Use the resolved full table ID
                     ...metadata,
                     data: data?.data || metadata?.data,
                     // Preserve metadata from metadata response
@@ -105,15 +122,31 @@ async function main() {
                 }
                 totalPushed++;
 
-                log.info(`✅ Processed table ${tableId}`, {
+                log.info(`✅ Processed table ${fullTableId}`, {
                     totalFetched,
                     totalPushed,
+                    originalTableId: tableId,
                 });
             } catch (error) {
+                const errorMessage = error instanceof Error ? error.message : String(error);
                 log.error(`Failed to process table: ${tableId}`, {
-                    error: error instanceof Error ? error.message : String(error),
+                    error: errorMessage,
                     tableId,
                 });
+                
+                // Push error to dataset so users can see what failed
+                const errorOutput = {
+                    error: 'Failed to process table',
+                    tableId,
+                    errorMessage,
+                    scrapedTimestamp: new Date().toISOString(),
+                };
+                
+                if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
+                    await Actor.pushData([errorOutput], 'error-item');
+                } else {
+                    await Actor.pushData([errorOutput]);
+                }
             }
         } else if (searchQuery) {
             // Search for tables and process them
@@ -122,14 +155,40 @@ async function main() {
             // Track processed table IDs to avoid duplicates
             const processedTableIds = new Set<string>();
             
-            // Callback function to process each result immediately
-            const onResult = async (entity: RawCensusEntity) => {
+            // Batch processing: collect entities and process in batches of 20
+            const BATCH_SIZE = 20;
+            
+            // Callback function to collect entities (no processing yet, just collection)
+            const onEntity = (_entity: RawCensusEntity) => {
+                // Entity is collected by fetchAllSearchResults, no action needed here
+            };
+            
+            // Function to process a batch of entities in parallel
+            const processBatch = async (batch: RawCensusEntity[]) => {
+                const batchPromises = batch.map(async (entity) => {
                 // Extract table ID from entity
-                const entityTableId = entity.id || entity.metadata?.id as string;
+                // entity.id should already be a full table ID from searchCensusData (e.g., ACSDT1Y2023.B01001)
+                // But we also check metadata.tableId as fallback (base table ID like B01001)
+                let entityTableId = entity.id;
                 
+                // If entity.id is missing, try to get it from metadata
                 if (!entityTableId) {
-                    log.warning('Entity missing ID, skipping', { entity });
-                    return;
+                    const baseTableId = entity.metadata?.tableId as string;
+                    if (baseTableId) {
+                        // If we only have a base table ID, resolve it to full format
+                        log.info('Entity missing full table ID, resolving from base ID', { baseTableId, dataset, year });
+                        const resolvedId = await findFullTableId(baseTableId, dataset, year);
+                        if (resolvedId) {
+                            entityTableId = resolvedId;
+                            log.info('Resolved base table ID to full table ID', { baseTableId, fullTableId: entityTableId });
+                        } else {
+                            log.warning('Could not resolve full table ID for entity, skipping', { baseTableId, entity });
+                            return;
+                        }
+                    } else {
+                        log.warning('Entity missing ID, skipping', { entity });
+                        return;
+                    }
                 }
 
                 // Skip if we've already processed this table ID
@@ -175,28 +234,74 @@ async function main() {
                         error: errorMessage,
                         entityId: entity.id,
                     });
+                    
+                    // Push error to dataset so users can see what failed
+                    const errorOutput = {
+                        error: 'Failed to process table',
+                        tableId: entityTableId,
+                        entityId: entity.id,
+                        errorMessage,
+                        scrapedTimestamp: new Date().toISOString(),
+                    };
+                    
+                    if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
+                        await Actor.pushData([errorOutput], 'error-item');
+                    } else {
+                        await Actor.pushData([errorOutput]);
+                    }
+                    
                     // Continue processing other entities even if one fails
                     return;
                 }
 
-                // If we have maxItems and we've reached the limit, we can stop processing
-                if (effectiveMaxItems && totalPushed >= effectiveMaxItems) {
-                    log.info(`⏹️ Reached maxItems limit (${effectiveMaxItems}), stopping`);
-                    return;
-                }
+                });
+
+                // Wait for all entities in the batch to complete
+                await Promise.all(batchPromises);
             };
 
-            // Fetch all search results with pagination
-            const entities = await fetchAllSearchResults(searchQuery, effectiveMaxItems, onResult, dataset, year);
+            // Fetch all search results with pagination and collect entities
+            const entities = await fetchAllSearchResults(searchQuery, effectiveMaxItems, onEntity, dataset, year);
+            
+            // Process entities in batches of 20
+            log.info(`Processing ${entities.length} entities in batches of ${BATCH_SIZE}`, {
+                totalEntities: entities.length,
+                batchSize: BATCH_SIZE,
+            });
+
+            for (let i = 0; i < entities.length; i += BATCH_SIZE) {
+                // Check if we've reached maxItems
+                if (effectiveMaxItems && totalPushed >= effectiveMaxItems) {
+                    log.info(`⏹️ Reached maxItems limit (${effectiveMaxItems}), stopping batch processing`);
+                    break;
+                }
+
+                const batch = entities.slice(i, i + BATCH_SIZE);
+                const batchNumber = Math.floor(i / BATCH_SIZE) + 1;
+                const totalBatches = Math.ceil(entities.length / BATCH_SIZE);
+                
+                log.info(`Processing batch ${batchNumber}/${totalBatches} (${batch.length} entities)`, {
+                    batchStart: i + 1,
+                    batchEnd: Math.min(i + BATCH_SIZE, entities.length),
+                    totalEntities: entities.length,
+                });
+
+                await processBatch(batch);
+
+                log.info(`✅ Completed batch ${batchNumber}/${totalBatches}`, {
+                    totalFetched,
+                    totalPushed,
+                });
+            }
 
             if (totalPushed > 0) {
                 log.info(`🎉 Collection complete! Records processed: ${totalPushed}`);
             } else if (entities.length === 0) {
-                log.warning('⚠️ Search query did not return any table entities. The Census Bureau search API returns topic/facet suggestions, not direct table results.');
-                log.info('💡 Tip: Use the tableId parameter instead. You can find table IDs on data.census.gov by browsing tables or using the website search.');
+                log.warning('⚠️ Search query did not return any table entities from Census Reporter API.');
+                log.info('💡 Tip: Try different search terms (e.g., "population", "income", "housing", "education"). You can also use the tableId parameter to fetch a specific table directly.');
             } else {
-                log.warning(`⚠️ Found ${entities.length} entities but none could be processed (missing table IDs)`);
-                log.info('💡 Tip: The search API returns topic suggestions. Use the tableId parameter for reliable table extraction.');
+                log.warning(`⚠️ Found ${entities.length} entities but none could be processed (unable to resolve full table IDs)`);
+                log.info('💡 Tip: Try adjusting the dataset or year filters, or use the tableId parameter to fetch a specific table directly.');
             }
         }
 

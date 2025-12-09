@@ -1,0 +1,2136 @@
+{
+	"tableId": "ACSDT1Y2023.B17024",
+	"title": "Age by Ratio of Income to Poverty Level in the Past 12 Months",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population for whom poverty status is determined",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B17024",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B17024_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B17024_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B17024_002E",
+				"label": "Estimate!!Total:!!Under 6 years:"
+			},
+			{
+				"id": "B17024_002M",
+				"label": "Margin of Error!!Total:!!Under 6 years:"
+			},
+			{
+				"id": "B17024_003E",
+				"label": "Estimate!!Total:!!Under 6 years:!!Under .50"
+			},
+			{
+				"id": "B17024_003M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!Under .50"
+			},
+			{
+				"id": "B17024_004E",
+				"label": "Estimate!!Total:!!Under 6 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_004M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_005E",
+				"label": "Estimate!!Total:!!Under 6 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_005M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_006E",
+				"label": "Estimate!!Total:!!Under 6 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_006M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_007E",
+				"label": "Estimate!!Total:!!Under 6 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_007M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_008E",
+				"label": "Estimate!!Total:!!Under 6 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_008M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_009E",
+				"label": "Estimate!!Total:!!Under 6 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_009M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_010E",
+				"label": "Estimate!!Total:!!Under 6 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_010M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_011E",
+				"label": "Estimate!!Total:!!Under 6 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_011M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_012E",
+				"label": "Estimate!!Total:!!Under 6 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_012M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_013E",
+				"label": "Estimate!!Total:!!Under 6 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_013M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_014E",
+				"label": "Estimate!!Total:!!Under 6 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_014M",
+				"label": "Margin of Error!!Total:!!Under 6 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_015E",
+				"label": "Estimate!!Total:!!6 to 11 years:"
+			},
+			{
+				"id": "B17024_015M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:"
+			},
+			{
+				"id": "B17024_016E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!Under .50"
+			},
+			{
+				"id": "B17024_016M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!Under .50"
+			},
+			{
+				"id": "B17024_017E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_017M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_018E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_018M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_019E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_019M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_020E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_020M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_021E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_021M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_022E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_022M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_023E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_023M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_024E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_024M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_025E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_025M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_026E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_026M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_027E",
+				"label": "Estimate!!Total:!!6 to 11 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_027M",
+				"label": "Margin of Error!!Total:!!6 to 11 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_028E",
+				"label": "Estimate!!Total:!!12 to 17 years:"
+			},
+			{
+				"id": "B17024_028M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:"
+			},
+			{
+				"id": "B17024_029E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!Under .50"
+			},
+			{
+				"id": "B17024_029M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!Under .50"
+			},
+			{
+				"id": "B17024_030E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_030M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_031E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_031M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_032E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_032M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_033E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_033M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_034E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_034M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_035E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_035M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_036E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_036M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_037E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_037M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_038E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_038M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_039E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_039M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_040E",
+				"label": "Estimate!!Total:!!12 to 17 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_040M",
+				"label": "Margin of Error!!Total:!!12 to 17 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_041E",
+				"label": "Estimate!!Total:!!18 to 24 years:"
+			},
+			{
+				"id": "B17024_041M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:"
+			},
+			{
+				"id": "B17024_042E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!Under .50"
+			},
+			{
+				"id": "B17024_042M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!Under .50"
+			},
+			{
+				"id": "B17024_043E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_043M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_044E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_044M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_045E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_045M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_046E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_046M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_047E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_047M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_048E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_048M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_049E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_049M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_050E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_050M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_051E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_051M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_052E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_052M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_053E",
+				"label": "Estimate!!Total:!!18 to 24 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_053M",
+				"label": "Margin of Error!!Total:!!18 to 24 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_054E",
+				"label": "Estimate!!Total:!!25 to 34 years:"
+			},
+			{
+				"id": "B17024_054M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:"
+			},
+			{
+				"id": "B17024_055E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!Under .50"
+			},
+			{
+				"id": "B17024_055M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!Under .50"
+			},
+			{
+				"id": "B17024_056E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_056M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_057E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_057M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_058E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_058M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_059E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_059M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_060E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_060M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_061E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_061M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_062E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_062M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_063E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_063M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_064E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_064M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_065E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_065M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_066E",
+				"label": "Estimate!!Total:!!25 to 34 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_066M",
+				"label": "Margin of Error!!Total:!!25 to 34 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_067E",
+				"label": "Estimate!!Total:!!35 to 44 years:"
+			},
+			{
+				"id": "B17024_067M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:"
+			},
+			{
+				"id": "B17024_068E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!Under .50"
+			},
+			{
+				"id": "B17024_068M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!Under .50"
+			},
+			{
+				"id": "B17024_069E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_069M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_070E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_070M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_071E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_071M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_072E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_072M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_073E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_073M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_074E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_074M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_075E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_075M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_076E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_076M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_077E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_077M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_078E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_078M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_079E",
+				"label": "Estimate!!Total:!!35 to 44 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_079M",
+				"label": "Margin of Error!!Total:!!35 to 44 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_080E",
+				"label": "Estimate!!Total:!!45 to 54 years:"
+			},
+			{
+				"id": "B17024_080M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:"
+			},
+			{
+				"id": "B17024_081E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!Under .50"
+			},
+			{
+				"id": "B17024_081M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!Under .50"
+			},
+			{
+				"id": "B17024_082E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_082M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_083E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_083M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_084E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_084M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_085E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_085M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_086E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_086M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_087E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_087M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_088E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_088M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_089E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_089M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_090E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_090M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_091E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_091M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_092E",
+				"label": "Estimate!!Total:!!45 to 54 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_092M",
+				"label": "Margin of Error!!Total:!!45 to 54 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_093E",
+				"label": "Estimate!!Total:!!55 to 64 years:"
+			},
+			{
+				"id": "B17024_093M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:"
+			},
+			{
+				"id": "B17024_094E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!Under .50"
+			},
+			{
+				"id": "B17024_094M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!Under .50"
+			},
+			{
+				"id": "B17024_095E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_095M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_096E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_096M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_097E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_097M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_098E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_098M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_099E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_099M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_100E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_100M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_101E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_101M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_102E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_102M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_103E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_103M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_104E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_104M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_105E",
+				"label": "Estimate!!Total:!!55 to 64 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_105M",
+				"label": "Margin of Error!!Total:!!55 to 64 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_106E",
+				"label": "Estimate!!Total:!!65 to 74 years:"
+			},
+			{
+				"id": "B17024_106M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:"
+			},
+			{
+				"id": "B17024_107E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!Under .50"
+			},
+			{
+				"id": "B17024_107M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!Under .50"
+			},
+			{
+				"id": "B17024_108E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_108M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!.50 to .74"
+			},
+			{
+				"id": "B17024_109E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_109M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!.75 to .99"
+			},
+			{
+				"id": "B17024_110E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_110M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_111E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_111M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_112E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_112M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_113E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_113M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_114E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_114M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_115E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_115M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_116E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_116M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_117E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_117M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_118E",
+				"label": "Estimate!!Total:!!65 to 74 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_118M",
+				"label": "Margin of Error!!Total:!!65 to 74 years:!!5.00 and over"
+			},
+			{
+				"id": "B17024_119E",
+				"label": "Estimate!!Total:!!75 years and over:"
+			},
+			{
+				"id": "B17024_119M",
+				"label": "Margin of Error!!Total:!!75 years and over:"
+			},
+			{
+				"id": "B17024_120E",
+				"label": "Estimate!!Total:!!75 years and over:!!Under .50"
+			},
+			{
+				"id": "B17024_120M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!Under .50"
+			},
+			{
+				"id": "B17024_121E",
+				"label": "Estimate!!Total:!!75 years and over:!!.50 to .74"
+			},
+			{
+				"id": "B17024_121M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!.50 to .74"
+			},
+			{
+				"id": "B17024_122E",
+				"label": "Estimate!!Total:!!75 years and over:!!.75 to .99"
+			},
+			{
+				"id": "B17024_122M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!.75 to .99"
+			},
+			{
+				"id": "B17024_123E",
+				"label": "Estimate!!Total:!!75 years and over:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_123M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17024_124E",
+				"label": "Estimate!!Total:!!75 years and over:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_124M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17024_125E",
+				"label": "Estimate!!Total:!!75 years and over:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_125M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17024_126E",
+				"label": "Estimate!!Total:!!75 years and over:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_126M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17024_127E",
+				"label": "Estimate!!Total:!!75 years and over:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_127M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17024_128E",
+				"label": "Estimate!!Total:!!75 years and over:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_128M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17024_129E",
+				"label": "Estimate!!Total:!!75 years and over:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_129M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17024_130E",
+				"label": "Estimate!!Total:!!75 years and over:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_130M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17024_131E",
+				"label": "Estimate!!Total:!!75 years and over:!!5.00 and over"
+			},
+			{
+				"id": "B17024_131M",
+				"label": "Margin of Error!!Total:!!75 years and over:!!5.00 and over"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B17024_102MA",
+			"B17024_121EA",
+			"B17024_125MA",
+			"B17024_080MA",
+			"B17024_027MA",
+			"B17024_107E",
+			"B17024_004MA",
+			"B17024_119E",
+			"B17024_107M",
+			"B17024_069EA",
+			"B17024_023EA",
+			"B17024_046EA",
+			"B17024_119M",
+			"B17024_113MA",
+			"B17024_091MA",
+			"B17024_011EA",
+			"B17024_038MA",
+			"B17024_009E",
+			"B17024_118E",
+			"B17024_106E",
+			"B17024_015MA",
+			"B17024_009M",
+			"B17024_118M",
+			"B17024_106M",
+			"B17024_034EA",
+			"B17024_057EA",
+			"B17024_081MA",
+			"B17024_103MA",
+			"B17024_126MA",
+			"B17024_122EA",
+			"B17024_005MA",
+			"B17024_105E",
+			"B17024_028MA",
+			"B17024_129E",
+			"B17024_117E",
+			"B17024_008E",
+			"B17024_105M",
+			"B17024_129M",
+			"B17024_001EA",
+			"B17024_047EA",
+			"B17024_117M",
+			"B17024_008M",
+			"B17024_024EA",
+			"B17024_114MA",
+			"B17024_092MA",
+			"B17024_110EA",
+			"B17024_016MA",
+			"B17024_116E",
+			"B17024_039MA",
+			"B17024_104E",
+			"B17024_128E",
+			"B17024_007E",
+			"B17024_019E",
+			"B17024_116M",
+			"B17024_104M",
+			"B17024_012EA",
+			"B17024_058EA",
+			"B17024_128M",
+			"B17024_007M",
+			"B17024_019M",
+			"B17024_035EA",
+			"B17024_082MA",
+			"B17024_127MA",
+			"B17024_104MA",
+			"B17024_100EA",
+			"B17024_123EA",
+			"B17024_006MA",
+			"B17024_029MA",
+			"B17024_103E",
+			"B17024_006E",
+			"B17024_127E",
+			"B17024_115E",
+			"B17024_018E",
+			"B17024_103M",
+			"B17024_006M",
+			"B17024_127M",
+			"B17024_115M",
+			"B17024_002EA",
+			"B17024_025EA",
+			"B17024_048EA",
+			"B17024_018M",
+			"B17024_070MA",
+			"B17024_093MA",
+			"B17024_115MA",
+			"B17024_111EA",
+			"B17024_005E",
+			"B17024_017MA",
+			"B17024_114E",
+			"B17024_017E",
+			"B17024_102E",
+			"B17024_126E",
+			"B17024_029E",
+			"B17024_005M",
+			"B17024_114M",
+			"B17024_017M",
+			"B17024_102M",
+			"B17024_126M",
+			"B17024_013EA",
+			"B17024_036EA",
+			"B17024_059EA",
+			"B17024_029M",
+			"B17024_083MA",
+			"B17024_128MA",
+			"B17024_101M",
+			"B17024_105MA",
+			"B17024_101EA",
+			"B17024_060MA",
+			"B17024_124EA",
+			"B17024_016E",
+			"B17024_125E",
+			"B17024_028E",
+			"B17024_113E",
+			"B17024_004E",
+			"B17024_007MA",
+			"B17024_016M",
+			"B17024_125M",
+			"B17024_028M",
+			"B17024_113M",
+			"B17024_004M",
+			"B17024_049EA",
+			"B17024_026EA",
+			"B17024_101E",
+			"B17024_003EA",
+			"B17024_071MA",
+			"B17024_094MA",
+			"B17024_112M",
+			"B17024_116MA",
+			"B17024_090EA",
+			"B17024_100M",
+			"B17024_112EA",
+			"B17024_027E",
+			"B17024_039E",
+			"B17024_124E",
+			"B17024_003E",
+			"B17024_015E",
+			"B17024_018MA",
+			"B17024_027M",
+			"B17024_039M",
+			"B17024_124M",
+			"B17024_003M",
+			"B17024_015M",
+			"B17024_037EA",
+			"B17024_112E",
+			"B17024_014EA",
+			"B17024_100E",
+			"B17024_094M",
+			"B17024_084MA",
+			"B17024_129MA",
+			"B17024_070E",
+			"B17024_082E",
+			"B17024_106MA",
+			"B17024_080EA",
+			"B17024_102EA",
+			"B17024_070M",
+			"B17024_061MA",
+			"B17024_082M",
+			"B17024_125EA",
+			"B17024_008MA",
+			"B17024_027EA",
+			"B17024_094E",
+			"B17024_004EA",
+			"B17024_072MA",
+			"B17024_095MA",
+			"B17024_081E",
+			"B17024_093E",
+			"B17024_117MA",
+			"B17024_091EA",
+			"B17024_113EA",
+			"B17024_081M",
+			"B17024_093M",
+			"B17024_019MA",
+			"B17024_038EA",
+			"B17024_015EA",
+			"B17024_085MA",
+			"B17024_092E",
+			"B17024_107MA",
+			"B17024_080E",
+			"B17024_103EA",
+			"B17024_126EA",
+			"B17024_062MA",
+			"B17024_092M",
+			"B17024_080M",
+			"B17024_081EA",
+			"B17024_005EA",
+			"B17024_028EA",
+			"B17024_009MA",
+			"B17024_073MA",
+			"B17024_118MA",
+			"B17024_096MA",
+			"B17024_091E",
+			"B17024_114EA",
+			"B17024_050MA",
+			"B17024_091M",
+			"B17024_016EA",
+			"B17024_092EA",
+			"B17024_039EA",
+			"B17024_086MA",
+			"B17024_090E",
+			"B17024_127EA",
+			"B17024_063MA",
+			"B17024_108MA",
+			"B17024_040MA",
+			"B17024_090M",
+			"B17024_104EA",
+			"B17024_006EA",
+			"B17024_029EA",
+			"B17024_082EA",
+			"B17024_074MA",
+			"B17024_097MA",
+			"B17024_119MA",
+			"B17024_051MA",
+			"B17024_115EA",
+			"B17024_017EA",
+			"B17024_070EA",
+			"B17024_093EA",
+			"B17024_087MA",
+			"B17024_041MA",
+			"B17024_064MA",
+			"B17024_109MA",
+			"B17024_128EA",
+			"B17024_105EA",
+			"B17024_060EA",
+			"B17024_109E",
+			"B17024_083EA",
+			"B17024_007EA",
+			"B17024_109M",
+			"B17024_075MA",
+			"B17024_098MA",
+			"B17024_052MA",
+			"B17024_116EA",
+			"GEO_ID",
+			"B17024_108E",
+			"B17024_071EA",
+			"B17024_018EA",
+			"B17024_094EA",
+			"B17024_108M",
+			"B17024_030M",
+			"B17024_042M",
+			"B17024_078M",
+			"B17024_054M",
+			"B17024_066M",
+			"B17024_088MA",
+			"B17024_065MA",
+			"B17024_042MA",
+			"B17024_129EA",
+			"B17024_106EA",
+			"B17024_061EA",
+			"B17024_030E",
+			"B17024_042E",
+			"B17024_008EA",
+			"B17024_084EA",
+			"B17024_078E",
+			"B17024_054E",
+			"B17024_066E",
+			"B17024_041M",
+			"B17024_053M",
+			"B17024_089M",
+			"B17024_065M",
+			"B17024_076MA",
+			"B17024_099MA",
+			"B17024_077M",
+			"B17024_030MA",
+			"B17024_053MA",
+			"B17024_117EA",
+			"B17024_041E",
+			"B17024_053E",
+			"B17024_019EA",
+			"B17024_072EA",
+			"B17024_095EA",
+			"B17024_089E",
+			"B17024_065E",
+			"B17024_077E",
+			"B17024_052M",
+			"B17024_064M",
+			"B17024_040M",
+			"B17024_076M",
+			"B17024_088M",
+			"B17024_043MA",
+			"B17024_066MA",
+			"B17024_020MA",
+			"B17024_107EA",
+			"B17024_119EA",
+			"B17024_062EA",
+			"B17024_052E",
+			"B17024_089MA",
+			"B17024_064E",
+			"B17024_040E",
+			"B17024_085EA",
+			"B17024_076E",
+			"B17024_088E",
+			"B17024_063M",
+			"B17024_075M",
+			"B17024_051M",
+			"B17024_009EA",
+			"B17024_087M",
+			"B17024_077MA",
+			"B17024_099M",
+			"B17024_054MA",
+			"B17024_031MA",
+			"B17024_118EA",
+			"B17024_050EA",
+			"B17024_063E",
+			"B17024_075E",
+			"B17024_051E",
+			"B17024_073EA",
+			"B17024_096EA",
+			"B17024_087E",
+			"B17024_099E",
+			"B17024_074M",
+			"B17024_086M",
+			"B17024_050M",
+			"B17024_062M",
+			"B17024_098M",
+			"B17024_021MA",
+			"B17024_044MA",
+			"B17024_063EA",
+			"B17024_040EA",
+			"B17024_067MA",
+			"B17024_074E",
+			"B17024_086E",
+			"B17024_050E",
+			"B17024_062E",
+			"B17024_086EA",
+			"B17024_098E",
+			"B17024_085M",
+			"B17024_097M",
+			"B17024_061M",
+			"B17024_073M",
+			"B17024_032MA",
+			"B17024_055MA",
+			"NAME",
+			"B17024_108EA",
+			"B17024_051EA",
+			"B17024_078MA",
+			"B17024_085E",
+			"B17024_097E",
+			"B17024_130MA",
+			"B17024_061E",
+			"B17024_073E",
+			"B17024_074EA",
+			"B17024_097EA",
+			"B17024_096M",
+			"B17024_072M",
+			"B17024_084M",
+			"B17024_060E",
+			"B17024_022MA",
+			"B17024_060M",
+			"B17024_041EA",
+			"B17024_064EA",
+			"B17024_068MA",
+			"B17024_045MA",
+			"B17024_096E",
+			"B17024_072E",
+			"B17024_120MA",
+			"B17024_084E",
+			"B17024_087EA",
+			"B17024_083M",
+			"B17024_095M",
+			"B17024_071E",
+			"B17024_033MA",
+			"B17024_010MA",
+			"B17024_071M",
+			"B17024_109EA",
+			"B17024_052EA",
+			"B17024_056MA",
+			"B17024_079MA",
+			"B17024_083E",
+			"B17024_131MA",
+			"B17024_095E",
+			"B17024_075EA",
+			"B17024_098EA",
+			"B17024_002M",
+			"B17024_123M",
+			"B17024_111M",
+			"B17024_038E",
+			"B17024_065EA",
+			"B17024_014E",
+			"B17024_026E",
+			"B17024_042EA",
+			"B17024_069MA",
+			"B17024_023MA",
+			"B17024_046MA",
+			"B17024_038M",
+			"B17024_014M",
+			"B17024_026M",
+			"B17024_121MA",
+			"B17024_002E",
+			"B17024_123E",
+			"B17024_088EA",
+			"B17024_111E",
+			"B17024_001M",
+			"B17024_110M",
+			"B17024_013M",
+			"B17024_122M",
+			"B17024_011MA",
+			"B17024_049E",
+			"B17024_025E",
+			"B17024_030EA",
+			"B17024_053EA",
+			"B17024_037E",
+			"B17024_034MA",
+			"B17024_057MA",
+			"B17024_049M",
+			"B17024_025M",
+			"B17024_037M",
+			"B17024_001E",
+			"B17024_110E",
+			"B17024_013E",
+			"B17024_076EA",
+			"B17024_099EA",
+			"B17024_122E",
+			"B17024_012M",
+			"B17024_121M",
+			"B17024_122MA",
+			"B17024_024M",
+			"B17024_043EA",
+			"B17024_066EA",
+			"B17024_089EA",
+			"B17024_036E",
+			"B17024_020EA",
+			"B17024_048E",
+			"B17024_001MA",
+			"B17024_047MA",
+			"B17024_024MA",
+			"B17024_036M",
+			"B17024_048M",
+			"B17024_012E",
+			"B17024_121E",
+			"B17024_024E",
+			"B17024_023M",
+			"B17024_035M",
+			"B17024_120M",
+			"B17024_011M",
+			"B17024_054EA",
+			"B17024_047E",
+			"B17024_031EA",
+			"B17024_059E",
+			"B17024_012MA",
+			"B17024_058MA",
+			"B17024_035MA",
+			"B17024_047M",
+			"B17024_059M",
+			"B17024_023E",
+			"B17024_110MA",
+			"B17024_035E",
+			"B17024_120E",
+			"B17024_011E",
+			"B17024_077EA",
+			"B17024_100MA",
+			"B17024_034M",
+			"B17024_046M",
+			"B17024_123MA",
+			"B17024_131M",
+			"B17024_010M",
+			"B17024_022M",
+			"B17024_021EA",
+			"B17024_044EA",
+			"B17024_058E",
+			"B17024_002MA",
+			"B17024_025MA",
+			"B17024_048MA",
+			"B17024_058M",
+			"B17024_034E",
+			"B17024_046E",
+			"B17024_131E",
+			"B17024_010E",
+			"B17024_022E",
+			"B17024_067EA",
+			"B17024_130EA",
+			"B17024_130M",
+			"B17024_111MA",
+			"B17024_045M",
+			"B17024_057M",
+			"B17024_021M",
+			"B17024_033M",
+			"B17024_032EA",
+			"B17024_055EA",
+			"B17024_078EA",
+			"B17024_069E",
+			"B17024_013MA",
+			"B17024_036MA",
+			"B17024_059MA",
+			"B17024_069M",
+			"B17024_130E",
+			"B17024_045E",
+			"B17024_057E",
+			"B17024_021E",
+			"B17024_033E",
+			"B17024_020M",
+			"B17024_101MA",
+			"B17024_120EA",
+			"B17024_056M",
+			"B17024_068M",
+			"B17024_032M",
+			"B17024_124MA",
+			"B17024_044M",
+			"B17024_022EA",
+			"B17024_049MA",
+			"B17024_026MA",
+			"B17024_003MA",
+			"B17024_020E",
+			"B17024_056E",
+			"B17024_068E",
+			"B17024_032E",
+			"B17024_068EA",
+			"B17024_044E",
+			"B17024_045EA",
+			"B17024_031M",
+			"B17024_112MA",
+			"B17024_131EA",
+			"B17024_067M",
+			"B17024_079M",
+			"B17024_043M",
+			"B17024_055M",
+			"B17024_090MA",
+			"B17024_033EA",
+			"B17024_079EA",
+			"B17024_010EA",
+			"B17024_037MA",
+			"B17024_014MA",
+			"B17024_031E",
+			"B17024_067E",
+			"B17024_079E",
+			"B17024_043E",
+			"B17024_055E",
+			"B17024_056EA"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1397858",
+			null,
+			"23488378",
+			"21452",
+			null,
+			null,
+			null,
+			"17305",
+			null,
+			null,
+			null,
+			null,
+			"395946",
+			"11523592",
+			"34403059",
+			null,
+			"14177",
+			"53851",
+			"26707",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"16765842",
+			null,
+			"3227646",
+			"3876965",
+			"1174415",
+			"71080",
+			"29446",
+			null,
+			null,
+			"29915",
+			"29909",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"4805885",
+			null,
+			"4598031",
+			"4187142",
+			"1127969",
+			"1233676",
+			"35450",
+			"38631",
+			null,
+			null,
+			"28912",
+			"26031",
+			"29215",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"5337191",
+			"1109823",
+			"675878",
+			"5333312",
+			"1142770",
+			"47914",
+			"31854",
+			"15376",
+			"41178",
+			null,
+			null,
+			null,
+			"32343",
+			null,
+			null,
+			null,
+			null,
+			"999397",
+			null,
+			"791076",
+			"926123",
+			"5389890",
+			"455374",
+			"1850652",
+			"27932",
+			"14797",
+			"29195",
+			"38272",
+			"10946",
+			null,
+			null,
+			null,
+			"35092",
+			null,
+			null,
+			"17040",
+			null,
+			null,
+			null,
+			null,
+			"1831481",
+			"1195146",
+			"25972216",
+			"524612",
+			"836897",
+			null,
+			"36433",
+			"16814",
+			"56343",
+			"12324",
+			"23639",
+			null,
+			null,
+			"838363",
+			null,
+			null,
+			null,
+			"22297",
+			null,
+			null,
+			"15267",
+			null,
+			"5376020",
+			"2583568",
+			"1116269",
+			"1810101",
+			"23862273",
+			null,
+			"48574",
+			"38663",
+			"18944",
+			"41600",
+			"66106",
+			null,
+			"1342630",
+			null,
+			"486292",
+			"30999",
+			null,
+			null,
+			"1256274",
+			"843204",
+			null,
+			null,
+			null,
+			"25120",
+			null,
+			"18546",
+			null,
+			null,
+			null,
+			"2151765",
+			null,
+			null,
+			null,
+			"1796925",
+			"41491599",
+			null,
+			null,
+			null,
+			"29212",
+			"21455",
+			null,
+			null,
+			null,
+			null,
+			"16484668",
+			null,
+			"40125092",
+			null,
+			null,
+			null,
+			"79914",
+			"36595",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"4674160",
+			null,
+			null,
+			"44393",
+			null,
+			null,
+			null,
+			null,
+			"5393735",
+			null,
+			null,
+			null,
+			null,
+			"45351",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1400448",
+			null,
+			null,
+			"22417",
+			null,
+			null,
+			null,
+			null,
+			"0100000US",
+			"829686",
+			null,
+			null,
+			null,
+			"15032",
+			"24483",
+			"44313",
+			"46346",
+			"40863",
+			"74064",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"931123",
+			"2805091",
+			null,
+			null,
+			"5189067",
+			"44615498",
+			"13029587",
+			"42198",
+			"45182",
+			"47956",
+			"52945",
+			null,
+			null,
+			"61182",
+			null,
+			null,
+			null,
+			"27215944",
+			"5772908",
+			null,
+			null,
+			null,
+			"5390689",
+			"5221643",
+			"6446228",
+			"35849",
+			"59697",
+			"61828",
+			"59444",
+			"19509",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2668792",
+			null,
+			"6951373",
+			"6518808",
+			null,
+			"6914876",
+			"842171",
+			"50979",
+			"24603",
+			"36290",
+			null,
+			"13450",
+			null,
+			"20521",
+			null,
+			null,
+			null,
+			null,
+			"7700887",
+			"1124642",
+			"3712035",
+			null,
+			null,
+			"438467",
+			"1263396",
+			"19782",
+			"24325",
+			"45308",
+			"22187",
+			"22991",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"599576",
+			"1220856",
+			"4882627",
+			"1374764",
+			null,
+			"1197497",
+			"23355",
+			"22160",
+			"16094",
+			"29757",
+			null,
+			null,
+			"United States",
+			null,
+			null,
+			null,
+			"1110848",
+			"1146595",
+			null,
+			"631324",
+			"1637655",
+			null,
+			null,
+			"18801",
+			"32028",
+			"18513",
+			"1741475",
+			null,
+			"30914",
+			null,
+			null,
+			null,
+			null,
+			"1223753",
+			"1510763",
+			null,
+			"962046",
+			null,
+			"21021",
+			"20027",
+			"1291981",
+			null,
+			null,
+			"27479",
+			null,
+			null,
+			null,
+			null,
+			"967323",
+			null,
+			"1092984",
+			null,
+			null,
+			"43804",
+			"17308",
+			"22459",
+			"3544008",
+			null,
+			"4946744",
+			"2241670",
+			null,
+			null,
+			null,
+			null,
+			"48685",
+			"54856",
+			"34692",
+			null,
+			"21725501",
+			"1047043",
+			null,
+			"1303315",
+			"26252",
+			"22139",
+			"30388",
+			"17176",
+			null,
+			"947760",
+			"3183392",
+			null,
+			null,
+			"4454355",
+			null,
+			null,
+			"23484",
+			"47377",
+			"48075",
+			"327076658",
+			"1273680",
+			"2030374",
+			null,
+			null,
+			"1079101",
+			"38840",
+			"14721",
+			null,
+			"40568",
+			null,
+			null,
+			null,
+			"749984",
+			null,
+			"472182",
+			null,
+			null,
+			null,
+			"23590",
+			"16542",
+			"2844217",
+			"645074",
+			"4191123",
+			"22566",
+			"14468",
+			"18686",
+			"44726",
+			null,
+			"1351445",
+			null,
+			"1634824",
+			null,
+			null,
+			null,
+			"28902",
+			"29093",
+			"711637",
+			null,
+			"467225",
+			"1170937",
+			"3808599",
+			null,
+			null,
+			"25316",
+			"27040",
+			null,
+			"35282",
+			"22353",
+			"13777",
+			null,
+			null,
+			"1293833",
+			null,
+			null,
+			null,
+			"28446",
+			"1280698",
+			"1313320",
+			"6321817",
+			"641019",
+			"458068",
+			null,
+			null,
+			"26422",
+			null,
+			"25128",
+			"26121",
+			"24827",
+			"34752",
+			null,
+			null,
+			null,
+			"1053429",
+			null,
+			null,
+			null,
+			"24093",
+			"2366951",
+			"1040769",
+			"1269094",
+			"1280251",
+			"1263252",
+			"29992",
+			null,
+			null,
+			"22479",
+			"31430",
+			"27867",
+			null,
+			"24391",
+			null,
+			null,
+			null,
+			null,
+			"1286062",
+			"1052964",
+			"2319124",
+			"1211823",
+			null,
+			"1170135",
+			null,
+			"29683",
+			null,
+			null,
+			"38721",
+			"66758",
+			"28240",
+			"36251",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1116720",
+			"44177098",
+			"14833483",
+			"1078880",
+			"2713730",
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:25.389Z"
+}

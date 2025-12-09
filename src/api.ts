@@ -5,8 +5,85 @@ const BASE_API_URL = 'https://data.census.gov/api';
 const BASE_SEARCH_URL = 'https://data.census.gov';
 
 /**
+ * Expands broad economic/demographic queries to relevant Census table categories
+ * This improves relevance because Census tables use specific terminology, not broad academic terms
+ */
+function expandBroadQueries(query: string): string[] {
+    const lowerQuery = query.toLowerCase().trim();
+    
+    // Map broad terms to specific Census categories
+    const broadQueryMap: Record<string, string[]> = {
+        'economics': ['income', 'employment', 'industry', 'occupation', 'business', 'economic'],
+        'economic': ['income', 'employment', 'industry', 'occupation', 'business'],
+        'demographics': ['population', 'age', 'sex', 'race', 'ethnicity', 'demographic'],
+        'demographic': ['population', 'age', 'sex', 'race', 'ethnicity'],
+        'socioeconomic': ['income', 'poverty', 'education', 'employment', 'occupation'],
+        'social': ['population', 'family', 'household', 'marital status', 'education'],
+    };
+    
+    if (broadQueryMap[lowerQuery]) {
+        return broadQueryMap[lowerQuery];
+    }
+    
+    return [query]; // Return original if no expansion needed
+}
+
+/**
+ * Normalizes search query by trying common variations (plural/singular, etc.)
+ * This helps because Census Reporter API does exact substring matching on table names
+ */
+function normalizeSearchQuery(query: string): string[] {
+    const variations: string[] = [query]; // Always try original query first
+    
+    // Check for broad queries that need expansion
+    const expanded = expandBroadQueries(query);
+    if (expanded.length > 1) {
+        // This is a broad query - use expanded terms instead of just plural/singular
+        return expanded;
+    }
+    
+    // Common plural/singular variations for specific queries
+    const pluralToSingular: Record<string, string> = {
+        'economics': 'economic',
+        'demographics': 'demographic',
+        'statistics': 'statistic',
+        'populations': 'population',
+        'incomes': 'income',
+        'employments': 'employment',
+        'housings': 'housing',
+        'educations': 'education',
+    };
+    
+    const singularToPlural: Record<string, string> = {
+        'economic': 'economics',
+        'demographic': 'demographics',
+        'statistic': 'statistics',
+    };
+    
+    // Check if query is a plural that should be singular
+    const lowerQuery = query.toLowerCase();
+    if (pluralToSingular[lowerQuery]) {
+        variations.push(pluralToSingular[lowerQuery]);
+    }
+    
+    // Check if query is a singular that might need plural
+    if (singularToPlural[lowerQuery]) {
+        variations.push(singularToPlural[lowerQuery]);
+    }
+    
+    // If query ends with 's' and is longer than 3 chars, try without 's'
+    if (query.length > 3 && query.toLowerCase().endsWith('s') && !variations.includes(query.slice(0, -1))) {
+        variations.push(query.slice(0, -1));
+    }
+    
+    // Remove duplicates while preserving order
+    return Array.from(new Set(variations));
+}
+
+/**
  * Searches for tables using Census Reporter API and converts to Census Bureau format
  * The Census Reporter API provides table search functionality that the Census Bureau API lacks
+ * Tries multiple query variations to improve search results
  */
 export async function searchCensusData(
     query: string,
@@ -16,71 +93,89 @@ export async function searchCensusData(
     yearFilter?: string
 ): Promise<RawCensusEntity[]> {
     try {
-        // Use Census Reporter API for table search
-        const CENSUS_REPORTER_API = 'https://api.censusreporter.org/1.0/table/search';
-        const url = `${CENSUS_REPORTER_API}?q=${encodeURIComponent(query)}`;
+        // Get query variations to try
+        const queryVariations = normalizeSearchQuery(query);
+        const allEntities: RawCensusEntity[] = [];
+        const seenTableIds = new Set<string>();
         
-        log.info('Fetching search results from Census Reporter API', { query, url });
+        // Try each query variation
+        for (const searchQuery of queryVariations) {
+            // Use Census Reporter API for table search
+            const CENSUS_REPORTER_API = 'https://api.censusreporter.org/1.0/table/search';
+            const url = `${CENSUS_REPORTER_API}?q=${encodeURIComponent(searchQuery)}`;
+            
+            log.info('Fetching search results from Census Reporter API', { query: searchQuery, url });
 
-        const response = await fetch(url, {
-            method: 'GET',
-            headers: {
-                'Accept': 'application/json',
-                'User-Agent': 'Mozilla/5.0 (compatible; CensusScraper/1.0)',
-            },
-        });
+            const response = await fetch(url, {
+                method: 'GET',
+                headers: {
+                    'Accept': 'application/json',
+                    'User-Agent': 'Mozilla/5.0 (compatible; CensusScraper/1.0)',
+                },
+            });
 
-        if (!response.ok) {
-            throw new Error(`Search request failed with status ${response.status}: ${response.statusText}`);
-        }
+            if (!response.ok) {
+                // Log error but continue with next variation
+                log.warning(`Search variation failed: ${searchQuery}`, {
+                    status: response.status,
+                    statusText: response.statusText,
+                });
+                continue;
+            }
 
-        const data = await response.json();
-        
-        // Extract unique table IDs from Census Reporter results
-        const tableIdsSet = new Set<string>();
-        const entities: RawCensusEntity[] = [];
-        
-        // Census Reporter returns an array of results with table_id field
-        if (Array.isArray(data)) {
-            for (const item of data) {
-                if (item.table_id && !tableIdsSet.has(item.table_id)) {
-                    tableIdsSet.add(item.table_id);
+            const data = await response.json();
+            
+            // Census Reporter returns an array of results with table_id field
+            if (Array.isArray(data)) {
+                for (const item of data) {
+                    if (item.table_id && !seenTableIds.has(item.table_id)) {
+                        seenTableIds.add(item.table_id);
+                        
+                        // Try to find the full table ID format by searching Census Bureau API
+                        const baseTableId = item.table_id;
+                        const fullTableId = await findFullTableId(baseTableId, datasetFilter, yearFilter);
+                        
+                        if (fullTableId && !allEntities.find(e => e.id === fullTableId)) {
+                            allEntities.push({
+                                id: fullTableId,
+                                title: item.table_name || item.simple_table_name || baseTableId,
+                                description: item.table_name,
+                                type: 'table',
+                                url: `https://data.census.gov/table?tid=${fullTableId}`,
+                                metadata: {
+                                    tableId: baseTableId,
+                                    tableName: item.table_name,
+                                    simpleTableName: item.simple_table_name,
+                                },
+                            } as RawCensusEntity);
+                        }
+                    }
                     
-                    // Try to find the full table ID format by searching Census Bureau API
-                    const baseTableId = item.table_id;
-                    const fullTableId = await findFullTableId(baseTableId, datasetFilter, yearFilter);
-                    
-                    if (fullTableId) {
-                        entities.push({
-                            id: fullTableId,
-                            title: item.table_name || item.simple_table_name || baseTableId,
-                            description: item.table_name,
-                            type: 'table',
-                            metadata: {
-                                tableId: baseTableId,
-                                tableName: item.table_name,
-                                simpleTableName: item.simple_table_name,
-                            },
-                        } as RawCensusEntity);
+                    // Stop if we have enough results across all variations
+                    if (allEntities.length >= size * 2) {
+                        break;
                     }
                 }
-                
-                // Stop if we have enough results (before pagination)
-                if (entities.length >= size * 2) {
-                    break;
-                }
+            }
+            
+            // For broad queries (expanded queries), continue trying all variations
+            // to get comprehensive results. Only stop early for simple queries.
+            const isBroadQuery = expandBroadQueries(query).length > 1;
+            if (!isBroadQuery && allEntities.length >= size) {
+                break;
             }
         }
 
         // Apply pagination
         const startIndex = page * size;
         const endIndex = startIndex + size;
-        const paginatedEntities = entities.slice(startIndex, endIndex);
+        const paginatedEntities = allEntities.slice(startIndex, endIndex);
 
         log.info('Search results fetched successfully', {
             query,
+            variationsTried: queryVariations.length,
             entitiesFound: paginatedEntities.length,
-            totalFound: entities.length,
+            totalFound: allEntities.length,
         });
 
         return paginatedEntities;
@@ -98,7 +193,7 @@ export async function searchCensusData(
  * Tries common dataset/year combinations and returns the first valid one found
  * Can be filtered by dataset and year parameters
  */
-async function findFullTableId(
+export async function findFullTableId(
     baseTableId: string,
     datasetFilter?: string,
     yearFilter?: string
@@ -326,7 +421,7 @@ export async function fetchFacets(facetType: 'topics' | 'datasets' | 'vintages',
 export async function fetchAllSearchResults(
     query: string,
     maxItems?: number,
-    onResult?: (entity: RawCensusEntity) => Promise<void>,
+    onResult?: (entity: RawCensusEntity) => void | Promise<void>,
     datasetFilter?: string,
     yearFilter?: string
 ): Promise<RawCensusEntity[]> {

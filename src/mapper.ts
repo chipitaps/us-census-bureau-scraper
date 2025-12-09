@@ -14,10 +14,21 @@ export function mapCensusTable(table: RawCensusTable): OutputCensusTable {
     const measures = metadataContent?.measures || [];
     const dimensions = metadataContent?.dimensions || [];
     
-    // Extract variables/measures information
+    // Extract simplified variable information (just IDs and labels, not full nested structure)
+    const simplifiedMeasures = measures.map((m: any) => ({
+        id: m.id,
+        label: m.label,
+    }));
+    
+    const simplifiedDimensions = dimensions.map((d: any) => ({
+        id: d.id,
+        label: d.item?.label || d.label,
+        dimensionType: d.dimension_type?.id || d.dimension_type?.description,
+    }));
+    
     const variables: Record<string, unknown> = {
-        measures: measures,
-        dimensions: dimensions,
+        measures: simplifiedMeasures,
+        dimensions: simplifiedDimensions,
     };
 
     return {

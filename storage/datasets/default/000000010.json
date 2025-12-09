@@ -1,0 +1,88 @@
+{
+	"tableId": "ACSDT1Y2023.B17008",
+	"title": "Aggregate Income Deficit (Dollars) in the Past 12 Months of Unrelated Individuals by Sex",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Unrelated individuals with incomes in the past 12 months below the poverty level",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B17008",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B17008_001E",
+				"label": "Estimate!!Aggregate income deficit in the past 12 months of unrelated individuals (dollars):"
+			},
+			{
+				"id": "B17008_001M",
+				"label": "Margin of Error!!Aggregate income deficit in the past 12 months of unrelated individuals (dollars):"
+			},
+			{
+				"id": "B17008_002E",
+				"label": "Estimate!!Aggregate income deficit in the past 12 months of unrelated individuals (dollars):!!Male (dollars)"
+			},
+			{
+				"id": "B17008_002M",
+				"label": "Margin of Error!!Aggregate income deficit in the past 12 months of unrelated individuals (dollars):!!Male (dollars)"
+			},
+			{
+				"id": "B17008_003E",
+				"label": "Estimate!!Aggregate income deficit in the past 12 months of unrelated individuals (dollars):!!Female (dollars)"
+			},
+			{
+				"id": "B17008_003M",
+				"label": "Margin of Error!!Aggregate income deficit in the past 12 months of unrelated individuals (dollars):!!Female (dollars)"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B17008_003MA",
+			"B17008_002EA",
+			"B17008_001EA",
+			"B17008_002MA",
+			"B17008_001MA",
+			"NAME",
+			"GEO_ID",
+			"B17008_003M",
+			"B17008_002M",
+			"B17008_001M",
+			"B17008_003EA",
+			"B17008_003E",
+			"B17008_002E",
+			"B17008_001E"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			"0100000US",
+			"810704925",
+			"643036120",
+			"1220708911",
+			null,
+			"82291089800",
+			"65644523400",
+			"147935613300"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:24.351Z"
+}

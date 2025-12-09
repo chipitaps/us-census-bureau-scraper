@@ -1,0 +1,168 @@
+{
+	"tableId": "ACSDT1Y2023.B19019",
+	"title": "Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Household Size",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Households",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B19019",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B19019_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B19019_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B19019_002E",
+				"label": "Estimate!!Total:!!1-person households"
+			},
+			{
+				"id": "B19019_002M",
+				"label": "Margin of Error!!Total:!!1-person households"
+			},
+			{
+				"id": "B19019_003E",
+				"label": "Estimate!!Total:!!2-person households"
+			},
+			{
+				"id": "B19019_003M",
+				"label": "Margin of Error!!Total:!!2-person households"
+			},
+			{
+				"id": "B19019_004E",
+				"label": "Estimate!!Total:!!3-person households"
+			},
+			{
+				"id": "B19019_004M",
+				"label": "Margin of Error!!Total:!!3-person households"
+			},
+			{
+				"id": "B19019_005E",
+				"label": "Estimate!!Total:!!4-person households"
+			},
+			{
+				"id": "B19019_005M",
+				"label": "Margin of Error!!Total:!!4-person households"
+			},
+			{
+				"id": "B19019_006E",
+				"label": "Estimate!!Total:!!5-person households"
+			},
+			{
+				"id": "B19019_006M",
+				"label": "Margin of Error!!Total:!!5-person households"
+			},
+			{
+				"id": "B19019_007E",
+				"label": "Estimate!!Total:!!6-person households"
+			},
+			{
+				"id": "B19019_007M",
+				"label": "Margin of Error!!Total:!!6-person households"
+			},
+			{
+				"id": "B19019_008E",
+				"label": "Estimate!!Total:!!7-or-more-person households"
+			},
+			{
+				"id": "B19019_008M",
+				"label": "Margin of Error!!Total:!!7-or-more-person households"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B19019_003MA",
+			"B19019_004MA",
+			"B19019_005E",
+			"B19019_001MA",
+			"B19019_002MA",
+			"B19019_003E",
+			"B19019_001E",
+			"B19019_007M",
+			"B19019_003EA",
+			"B19019_001EA",
+			"B19019_004EA",
+			"B19019_005M",
+			"B19019_002EA",
+			"B19019_003M",
+			"B19019_007MA",
+			"B19019_001M",
+			"B19019_008MA",
+			"B19019_005MA",
+			"B19019_006MA",
+			"B19019_008E",
+			"B19019_006E",
+			"B19019_004E",
+			"B19019_002E",
+			"B19019_008M",
+			"B19019_006M",
+			"B19019_004M",
+			"B19019_002M",
+			"NAME",
+			"GEO_ID",
+			"B19019_007EA",
+			"B19019_008EA",
+			"B19019_005EA",
+			"B19019_006EA",
+			"B19019_007E"
+		],
+		[
+			null,
+			null,
+			"118465",
+			null,
+			null,
+			"86013",
+			"77719",
+			"1167",
+			null,
+			null,
+			null,
+			"559",
+			null,
+			"207",
+			null,
+			"186",
+			null,
+			null,
+			null,
+			"121594",
+			"111874",
+			"102276",
+			"40428",
+			"1365",
+			"649",
+			"320",
+			"122",
+			"United States",
+			"0100000US",
+			null,
+			null,
+			null,
+			null,
+			"112195"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:24.402Z"
+}

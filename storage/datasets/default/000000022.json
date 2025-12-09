@@ -1,0 +1,120 @@
+{
+	"tableId": "ACSDT1Y2023.B19050",
+	"title": "Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Age of Householder",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Households",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B19050",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B19050_001E",
+				"label": "Estimate!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):"
+			},
+			{
+				"id": "B19050_001M",
+				"label": "Margin of Error!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):"
+			},
+			{
+				"id": "B19050_002E",
+				"label": "Estimate!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):!!Householder under 25 years"
+			},
+			{
+				"id": "B19050_002M",
+				"label": "Margin of Error!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):!!Householder under 25 years"
+			},
+			{
+				"id": "B19050_003E",
+				"label": "Estimate!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):!!Householder 25 to 44 years"
+			},
+			{
+				"id": "B19050_003M",
+				"label": "Margin of Error!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):!!Householder 25 to 44 years"
+			},
+			{
+				"id": "B19050_004E",
+				"label": "Estimate!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):!!Householder 45 to 64 years"
+			},
+			{
+				"id": "B19050_004M",
+				"label": "Margin of Error!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):!!Householder 45 to 64 years"
+			},
+			{
+				"id": "B19050_005E",
+				"label": "Estimate!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):!!Householder 65 years and over"
+			},
+			{
+				"id": "B19050_005M",
+				"label": "Margin of Error!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars):!!Householder 65 years and over"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B19050_001M",
+			"B19050_001MA",
+			"B19050_003M",
+			"B19050_002M",
+			"B19050_004MA",
+			"B19050_005M",
+			"B19050_004M",
+			"B19050_005MA",
+			"B19050_002MA",
+			"B19050_003MA",
+			"B19050_001E",
+			"B19050_001EA",
+			"B19050_003E",
+			"B19050_002E",
+			"NAME",
+			"B19050_004EA",
+			"B19050_005E",
+			"GEO_ID",
+			"B19050_004E",
+			"B19050_005EA",
+			"B19050_002EA",
+			"B19050_003EA"
+		],
+		[
+			"33064871188",
+			null,
+			"14355091174",
+			"3317106336",
+			null,
+			"12367798965",
+			"18788817213",
+			null,
+			null,
+			null,
+			"14336261305800",
+			null,
+			"4979894595000",
+			"291264955600",
+			"United States",
+			null,
+			"3070153622900",
+			"0100000US",
+			"5994948132300",
+			null,
+			null,
+			null
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:26.175Z"
+}

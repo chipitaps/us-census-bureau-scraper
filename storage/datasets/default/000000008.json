@@ -1,0 +1,248 @@
+{
+	"tableId": "ACSDT1Y2023.B17002",
+	"title": "Ratio of Income to Poverty Level in the Past 12 Months",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population for whom poverty status is determined",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B17002",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B17002_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B17002_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B17002_002E",
+				"label": "Estimate!!Total:!!Under .50"
+			},
+			{
+				"id": "B17002_002M",
+				"label": "Margin of Error!!Total:!!Under .50"
+			},
+			{
+				"id": "B17002_003E",
+				"label": "Estimate!!Total:!!.50 to .74"
+			},
+			{
+				"id": "B17002_003M",
+				"label": "Margin of Error!!Total:!!.50 to .74"
+			},
+			{
+				"id": "B17002_004E",
+				"label": "Estimate!!Total:!!.75 to .99"
+			},
+			{
+				"id": "B17002_004M",
+				"label": "Margin of Error!!Total:!!.75 to .99"
+			},
+			{
+				"id": "B17002_005E",
+				"label": "Estimate!!Total:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17002_005M",
+				"label": "Margin of Error!!Total:!!1.00 to 1.24"
+			},
+			{
+				"id": "B17002_006E",
+				"label": "Estimate!!Total:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17002_006M",
+				"label": "Margin of Error!!Total:!!1.25 to 1.49"
+			},
+			{
+				"id": "B17002_007E",
+				"label": "Estimate!!Total:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17002_007M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.74"
+			},
+			{
+				"id": "B17002_008E",
+				"label": "Estimate!!Total:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17002_008M",
+				"label": "Margin of Error!!Total:!!1.75 to 1.84"
+			},
+			{
+				"id": "B17002_009E",
+				"label": "Estimate!!Total:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17002_009M",
+				"label": "Margin of Error!!Total:!!1.85 to 1.99"
+			},
+			{
+				"id": "B17002_010E",
+				"label": "Estimate!!Total:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17002_010M",
+				"label": "Margin of Error!!Total:!!2.00 to 2.99"
+			},
+			{
+				"id": "B17002_011E",
+				"label": "Estimate!!Total:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17002_011M",
+				"label": "Margin of Error!!Total:!!3.00 to 3.99"
+			},
+			{
+				"id": "B17002_012E",
+				"label": "Estimate!!Total:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17002_012M",
+				"label": "Margin of Error!!Total:!!4.00 to 4.99"
+			},
+			{
+				"id": "B17002_013E",
+				"label": "Estimate!!Total:!!5.00 and over"
+			},
+			{
+				"id": "B17002_013M",
+				"label": "Margin of Error!!Total:!!5.00 and over"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B17002_011EA",
+			"B17002_013MA",
+			"B17002_010M",
+			"B17002_002M",
+			"B17002_013EA",
+			"B17002_006M",
+			"B17002_010E",
+			"B17002_002E",
+			"B17002_011MA",
+			"B17002_006E",
+			"B17002_008MA",
+			"B17002_006MA",
+			"B17002_004MA",
+			"B17002_002MA",
+			"B17002_008EA",
+			"B17002_006EA",
+			"B17002_004EA",
+			"B17002_001M",
+			"B17002_002EA",
+			"B17002_013M",
+			"NAME",
+			"B17002_005M",
+			"B17002_001E",
+			"B17002_009M",
+			"B17002_013E",
+			"B17002_005E",
+			"B17002_009E",
+			"B17002_010EA",
+			"B17002_012MA",
+			"B17002_012EA",
+			"B17002_012M",
+			"B17002_004M",
+			"B17002_008M",
+			"B17002_009EA",
+			"B17002_012E",
+			"B17002_010MA",
+			"B17002_004E",
+			"B17002_008E",
+			"B17002_007MA",
+			"B17002_005MA",
+			"B17002_003MA",
+			"B17002_001MA",
+			"B17002_007EA",
+			"B17002_005EA",
+			"B17002_003EA",
+			"B17002_011M",
+			"B17002_001EA",
+			"B17002_009MA",
+			"B17002_003M",
+			"GEO_ID",
+			"B17002_007M",
+			"B17002_011E",
+			"B17002_003E",
+			"B17002_007E"
+		],
+		[
+			null,
+			null,
+			"215815",
+			"172552",
+			null,
+			"148173",
+			"52253500",
+			"19847664",
+			null,
+			"12864119",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"26252",
+			null,
+			"384435",
+			"United States",
+			"132726",
+			"327076658",
+			"95641",
+			"101573469",
+			"11611269",
+			"8697294",
+			null,
+			null,
+			null,
+			"183061",
+			"130849",
+			"65291",
+			null,
+			"35451221",
+			null,
+			"11625015",
+			"4929066",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"221891",
+			null,
+			null,
+			"113438",
+			"0100000US",
+			"131240",
+			"45445710",
+			"9290364",
+			"13487967"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:23.940Z"
+}

@@ -1,0 +1,120 @@
+{
+	"tableId": "ACSDT1Y2023.B19049",
+	"title": "Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Age of Householder",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Households",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B19049",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B19049_001E",
+				"label": "Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:"
+			},
+			{
+				"id": "B19049_001M",
+				"label": "Margin of Error!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:"
+			},
+			{
+				"id": "B19049_002E",
+				"label": "Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Householder under 25 years"
+			},
+			{
+				"id": "B19049_002M",
+				"label": "Margin of Error!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Householder under 25 years"
+			},
+			{
+				"id": "B19049_003E",
+				"label": "Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Householder 25 to 44 years"
+			},
+			{
+				"id": "B19049_003M",
+				"label": "Margin of Error!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Householder 25 to 44 years"
+			},
+			{
+				"id": "B19049_004E",
+				"label": "Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Householder 45 to 64 years"
+			},
+			{
+				"id": "B19049_004M",
+				"label": "Margin of Error!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Householder 45 to 64 years"
+			},
+			{
+				"id": "B19049_005E",
+				"label": "Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Householder 65 years and over"
+			},
+			{
+				"id": "B19049_005M",
+				"label": "Margin of Error!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Householder 65 years and over"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B19049_001EA",
+			"B19049_003EA",
+			"B19049_001M",
+			"B19049_002EA",
+			"B19049_005EA",
+			"B19049_004EA",
+			"B19049_001MA",
+			"B19049_003MA",
+			"B19049_002MA",
+			"B19049_005MA",
+			"B19049_004MA",
+			"NAME",
+			"GEO_ID",
+			"B19049_002E",
+			"B19049_003E",
+			"B19049_004E",
+			"B19049_005E",
+			"B19049_001E",
+			"B19049_002M",
+			"B19049_003M",
+			"B19049_004M",
+			"B19049_005M"
+		],
+		[
+			null,
+			null,
+			"186",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			"0100000US",
+			"44846",
+			"87673",
+			"94612",
+			"56038",
+			"77719",
+			"523",
+			"310",
+			"370",
+			"186"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:26.291Z"
+}

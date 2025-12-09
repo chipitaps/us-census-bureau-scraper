@@ -1,0 +1,1336 @@
+{
+	"tableId": "ACSDT1Y2023.B17022",
+	"title": "Ratio of Income to Poverty Level in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Families",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B17022",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B17022_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B17022_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B17022_002E",
+				"label": "Estimate!!Total:!!Under 1.30:"
+			},
+			{
+				"id": "B17022_002M",
+				"label": "Margin of Error!!Total:!!Under 1.30:"
+			},
+			{
+				"id": "B17022_003E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Married-couple family:"
+			},
+			{
+				"id": "B17022_003M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Married-couple family:"
+			},
+			{
+				"id": "B17022_004E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Married-couple family:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_004M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Married-couple family:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_005E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_005M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_006E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_006M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_007E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Married-couple family:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_007M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Married-couple family:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_008E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Married-couple family:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_008M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Married-couple family:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_009E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:"
+			},
+			{
+				"id": "B17022_009M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:"
+			},
+			{
+				"id": "B17022_010E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:"
+			},
+			{
+				"id": "B17022_010M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:"
+			},
+			{
+				"id": "B17022_011E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_011M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_012E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_012M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_013E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_013M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_014E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_014M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_015E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_015M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Male householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_016E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:"
+			},
+			{
+				"id": "B17022_016M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:"
+			},
+			{
+				"id": "B17022_017E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_017M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_018E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_018M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_019E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_019M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_020E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_020M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_021E",
+				"label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_021M",
+				"label": "Margin of Error!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_022E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:"
+			},
+			{
+				"id": "B17022_022M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:"
+			},
+			{
+				"id": "B17022_023E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Married-couple family:"
+			},
+			{
+				"id": "B17022_023M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Married-couple family:"
+			},
+			{
+				"id": "B17022_024E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Married-couple family:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_024M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Married-couple family:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_025E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_025M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_026E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_026M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_027E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Married-couple family:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_027M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Married-couple family:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_028E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Married-couple family:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_028M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Married-couple family:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_029E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:"
+			},
+			{
+				"id": "B17022_029M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:"
+			},
+			{
+				"id": "B17022_030E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:"
+			},
+			{
+				"id": "B17022_030M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:"
+			},
+			{
+				"id": "B17022_031E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_031M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_032E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_032M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_033E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_033M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_034E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_034M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_035E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_035M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Male householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_036E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:"
+			},
+			{
+				"id": "B17022_036M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:"
+			},
+			{
+				"id": "B17022_037E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_037M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_038E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_038M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_039E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_039M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_040E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_040M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_041E",
+				"label": "Estimate!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_041M",
+				"label": "Margin of Error!!Total:!!1.30 to 1.49:!!Other family:!!Female householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_042E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:"
+			},
+			{
+				"id": "B17022_042M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:"
+			},
+			{
+				"id": "B17022_043E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Married-couple family:"
+			},
+			{
+				"id": "B17022_043M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Married-couple family:"
+			},
+			{
+				"id": "B17022_044E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Married-couple family:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_044M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Married-couple family:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_045E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_045M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_046E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_046M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_047E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Married-couple family:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_047M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Married-couple family:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_048E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Married-couple family:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_048M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Married-couple family:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_049E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:"
+			},
+			{
+				"id": "B17022_049M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:"
+			},
+			{
+				"id": "B17022_050E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:"
+			},
+			{
+				"id": "B17022_050M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:"
+			},
+			{
+				"id": "B17022_051E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_051M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_052E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_052M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_053E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_053M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_054E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_054M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_055E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_055M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Male householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_056E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:"
+			},
+			{
+				"id": "B17022_056M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:"
+			},
+			{
+				"id": "B17022_057E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_057M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_058E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_058M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_059E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_059M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_060E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_060M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_061E",
+				"label": "Estimate!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_061M",
+				"label": "Margin of Error!!Total:!!1.50 to 1.84:!!Other family:!!Female householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_062E",
+				"label": "Estimate!!Total:!!1.85 and above:"
+			},
+			{
+				"id": "B17022_062M",
+				"label": "Margin of Error!!Total:!!1.85 and above:"
+			},
+			{
+				"id": "B17022_063E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Married-couple family:"
+			},
+			{
+				"id": "B17022_063M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Married-couple family:"
+			},
+			{
+				"id": "B17022_064E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Married-couple family:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_064M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Married-couple family:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_065E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_065M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_066E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_066M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Married-couple family:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_067E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Married-couple family:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_067M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Married-couple family:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_068E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Married-couple family:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_068M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Married-couple family:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_069E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:"
+			},
+			{
+				"id": "B17022_069M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:"
+			},
+			{
+				"id": "B17022_070E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:"
+			},
+			{
+				"id": "B17022_070M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:"
+			},
+			{
+				"id": "B17022_071E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_071M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_072E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_072M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_073E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_073M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_074E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_074M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_075E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_075M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Male householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_076E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:"
+			},
+			{
+				"id": "B17022_076M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:"
+			},
+			{
+				"id": "B17022_077E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_077M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:"
+			},
+			{
+				"id": "B17022_078E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_078M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+			},
+			{
+				"id": "B17022_079E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_079M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years and 5 to 17 years"
+			},
+			{
+				"id": "B17022_080E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_080M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!5 to 17 years only"
+			},
+			{
+				"id": "B17022_081E",
+				"label": "Estimate!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!No related children of the householder under 18 years"
+			},
+			{
+				"id": "B17022_081M",
+				"label": "Margin of Error!!Total:!!1.85 and above:!!Other family:!!Female householder, no spouse present:!!No related children of the householder under 18 years"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B17022_077E",
+			"B17022_065E",
+			"B17022_017EA",
+			"B17022_053E",
+			"B17022_041E",
+			"B17022_009M",
+			"B17022_036MA",
+			"B17022_059MA",
+			"B17022_078EA",
+			"B17022_032EA",
+			"B17022_009E",
+			"B17022_055EA",
+			"B17022_074MA",
+			"B17022_051MA",
+			"B17022_070EA",
+			"B17022_013MA",
+			"B17022_077M",
+			"B17022_065M",
+			"B17022_053M",
+			"B17022_041M",
+			"B17022_066E",
+			"B17022_054E",
+			"B17022_042E",
+			"B17022_006EA",
+			"B17022_030E",
+			"B17022_029EA",
+			"B17022_078E",
+			"B17022_025MA",
+			"B17022_048MA",
+			"B17022_021EA",
+			"B17022_067EA",
+			"B17022_044EA",
+			"B17022_063MA",
+			"B17022_040MA",
+			"B17022_002MA",
+			"B17022_066M",
+			"B17022_054M",
+			"B17022_042M",
+			"B17022_030M",
+			"B17022_078M",
+			"B17022_055E",
+			"B17022_043E",
+			"B17022_031E",
+			"B17022_018EA",
+			"B17022_079E",
+			"B17022_067E",
+			"B17022_014MA",
+			"B17022_037MA",
+			"B17022_079EA",
+			"B17022_010EA",
+			"B17022_056EA",
+			"B17022_033EA",
+			"B17022_052MA",
+			"B17022_075MA",
+			"B17022_071EA",
+			"B17022_055M",
+			"B17022_043M",
+			"B17022_031M",
+			"B17022_079M",
+			"B17022_067M",
+			"B17022_044E",
+			"B17022_032E",
+			"B17022_020E",
+			"B17022_007EA",
+			"B17022_068E",
+			"B17022_056E",
+			"B17022_003MA",
+			"B17022_026MA",
+			"B17022_049MA",
+			"B17022_022EA",
+			"B17022_045EA",
+			"B17022_068EA",
+			"B17022_041MA",
+			"B17022_064MA",
+			"B17022_060EA",
+			"B17022_044M",
+			"B17022_032M",
+			"B17022_020M",
+			"B17022_068M",
+			"B17022_056M",
+			"B17022_029M",
+			"B17022_017M",
+			"B17022_005M",
+			"B17022_019EA",
+			"B17022_015MA",
+			"B17022_038MA",
+			"B17022_029E",
+			"B17022_017E",
+			"B17022_005E",
+			"B17022_072EA",
+			"B17022_011EA",
+			"B17022_034EA",
+			"B17022_057EA",
+			"B17022_030MA",
+			"B17022_053MA",
+			"B17022_073M",
+			"B17022_061M",
+			"B17022_076MA",
+			"B17022_073E",
+			"B17022_061E",
+			"B17022_018M",
+			"B17022_006M",
+			"B17022_069EA",
+			"B17022_074E",
+			"B17022_008EA",
+			"B17022_004MA",
+			"B17022_018E",
+			"B17022_006E",
+			"B17022_027MA",
+			"B17022_061EA",
+			"B17022_046EA",
+			"B17022_023EA",
+			"NAME",
+			"B17022_042MA",
+			"B17022_062M",
+			"B17022_050M",
+			"B17022_065MA",
+			"B17022_080MA",
+			"B17022_074M",
+			"B17022_062E",
+			"B17022_050E",
+			"B17022_019M",
+			"B17022_007M",
+			"B17022_075E",
+			"B17022_058EA",
+			"B17022_063E",
+			"B17022_019E",
+			"B17022_007E",
+			"B17022_039MA",
+			"B17022_050EA",
+			"B17022_073EA",
+			"B17022_016MA",
+			"B17022_035EA",
+			"B17022_012EA",
+			"B17022_031MA",
+			"B17022_051M",
+			"B17022_054MA",
+			"B17022_077MA",
+			"B17022_075M",
+			"B17022_063M",
+			"B17022_051E",
+			"B17022_008M",
+			"B17022_076E",
+			"B17022_047EA",
+			"B17022_064E",
+			"B17022_052E",
+			"B17022_009EA",
+			"B17022_008E",
+			"B17022_005MA",
+			"B17022_028MA",
+			"B17022_062EA",
+			"B17022_001EA",
+			"B17022_024EA",
+			"B17022_020MA",
+			"B17022_040M",
+			"B17022_043MA",
+			"B17022_066MA",
+			"B17022_076M",
+			"B17022_064M",
+			"B17022_081MA",
+			"B17022_052M",
+			"B17022_040E",
+			"B17022_036EA",
+			"B17022_059EA",
+			"B17022_049M",
+			"B17022_037E",
+			"B17022_025E",
+			"B17022_013E",
+			"B17022_001E",
+			"B17022_074EA",
+			"B17022_017MA",
+			"B17022_049E",
+			"B17022_051EA",
+			"B17022_013EA",
+			"B17022_078MA",
+			"B17022_032MA",
+			"B17022_055MA",
+			"B17022_081M",
+			"B17022_037M",
+			"B17022_025M",
+			"B17022_070MA",
+			"B17022_013M",
+			"B17022_001M",
+			"B17022_081E",
+			"B17022_025EA",
+			"B17022_038M",
+			"B17022_048EA",
+			"B17022_026E",
+			"B17022_014E",
+			"B17022_002E",
+			"B17022_063EA",
+			"B17022_006MA",
+			"B17022_038E",
+			"B17022_040EA",
+			"B17022_029MA",
+			"B17022_002EA",
+			"B17022_021MA",
+			"B17022_067MA",
+			"B17022_044MA",
+			"B17022_070M",
+			"B17022_026M",
+			"B17022_014M",
+			"B17022_002M",
+			"B17022_070E",
+			"B17022_014EA",
+			"B17022_039M",
+			"B17022_027M",
+			"B17022_037EA",
+			"B17022_015E",
+			"B17022_003E",
+			"B17022_052EA",
+			"B17022_075EA",
+			"B17022_039E",
+			"B17022_027E",
+			"B17022_018MA",
+			"B17022_079MA",
+			"B17022_010MA",
+			"B17022_056MA",
+			"B17022_071M",
+			"B17022_033MA",
+			"B17022_015M",
+			"B17022_071MA",
+			"B17022_003M",
+			"B17022_071E",
+			"B17022_003EA",
+			"B17022_026EA",
+			"B17022_049EA",
+			"B17022_028M",
+			"B17022_016M",
+			"B17022_004E",
+			"B17022_041EA",
+			"B17022_064EA",
+			"B17022_028E",
+			"B17022_016E",
+			"B17022_007MA",
+			"B17022_022MA",
+			"B17022_045MA",
+			"B17022_068MA",
+			"B17022_072M",
+			"B17022_060M",
+			"B17022_004M",
+			"B17022_060MA",
+			"B17022_072E",
+			"B17022_060E",
+			"B17022_015EA",
+			"B17022_033E",
+			"B17022_038EA",
+			"B17022_021E",
+			"B17022_069E",
+			"B17022_057E",
+			"B17022_045E",
+			"B17022_030EA",
+			"B17022_053EA",
+			"B17022_019MA",
+			"B17022_076EA",
+			"B17022_072MA",
+			"B17022_011MA",
+			"B17022_034MA",
+			"B17022_057MA",
+			"B17022_033M",
+			"B17022_021M",
+			"B17022_069M",
+			"B17022_057M",
+			"B17022_045M",
+			"B17022_022E",
+			"B17022_004EA",
+			"B17022_010E",
+			"B17022_027EA",
+			"B17022_058E",
+			"B17022_046E",
+			"B17022_034E",
+			"B17022_042EA",
+			"B17022_069MA",
+			"B17022_008MA",
+			"B17022_065EA",
+			"B17022_080EA",
+			"B17022_061MA",
+			"B17022_046MA",
+			"B17022_023MA",
+			"B17022_022M",
+			"B17022_010M",
+			"B17022_058M",
+			"B17022_046M",
+			"B17022_034M",
+			"B17022_011E",
+			"B17022_039EA",
+			"B17022_016EA",
+			"B17022_059E",
+			"B17022_047E",
+			"B17022_035E",
+			"B17022_023E",
+			"B17022_031EA",
+			"B17022_058MA",
+			"B17022_054EA",
+			"B17022_077EA",
+			"B17022_050MA",
+			"B17022_073MA",
+			"B17022_035MA",
+			"B17022_012MA",
+			"B17022_011M",
+			"B17022_059M",
+			"B17022_047M",
+			"B17022_035M",
+			"B17022_023M",
+			"B17022_005EA",
+			"B17022_028EA",
+			"B17022_048E",
+			"B17022_036E",
+			"B17022_024E",
+			"B17022_012E",
+			"B17022_020EA",
+			"B17022_047MA",
+			"B17022_009MA",
+			"B17022_043EA",
+			"B17022_066EA",
+			"B17022_080M",
+			"GEO_ID",
+			"B17022_062MA",
+			"B17022_081EA",
+			"B17022_001MA",
+			"B17022_024MA",
+			"B17022_080E",
+			"B17022_048M",
+			"B17022_036M",
+			"B17022_024M",
+			"B17022_012M"
+		],
+		[
+			"4007029",
+			"3934314",
+			null,
+			"62527",
+			"227791",
+			"52246",
+			null,
+			null,
+			null,
+			null,
+			"6048764",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"37101",
+			"36567",
+			"5366",
+			"8160",
+			"3408629",
+			"179117",
+			"4132910",
+			null,
+			"270047",
+			null,
+			"550569",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"37463",
+			"7439",
+			"43349",
+			"10012",
+			"17032",
+			"177243",
+			"2355426",
+			"178888",
+			null,
+			"369559",
+			"13001403",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"7263",
+			"28104",
+			"9142",
+			"12754",
+			"62853",
+			"1246579",
+			"38062",
+			"2296813",
+			null,
+			"33135415",
+			"1295689",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"18970",
+			"4355",
+			"36831",
+			"129986",
+			"27516",
+			"21138",
+			"45356",
+			"10145",
+			null,
+			null,
+			null,
+			"1072597",
+			"3878616",
+			"292189",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"9606",
+			"13065",
+			null,
+			"248954",
+			"428557",
+			"18591",
+			"16350",
+			null,
+			"1542614",
+			null,
+			null,
+			"612352",
+			"715433",
+			null,
+			null,
+			null,
+			null,
+			"United States",
+			null,
+			"160619",
+			"11155",
+			null,
+			null,
+			"27204",
+			"67205412",
+			"481795",
+			"20938",
+			"21323",
+			"2602774",
+			null,
+			"53479761",
+			"969451",
+			"1216094",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"10291",
+			null,
+			null,
+			"34785",
+			"177717",
+			"304552",
+			"28889",
+			"8898486",
+			null,
+			"20344346",
+			"62908",
+			null,
+			"2167659",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"13567",
+			null,
+			null,
+			"51614",
+			"83024",
+			null,
+			"5512",
+			"380449",
+			null,
+			null,
+			"30285",
+			"574759",
+			"91962",
+			"164831",
+			"84045684",
+			null,
+			null,
+			"1777484",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"36665",
+			"17837",
+			"5010",
+			null,
+			"9337",
+			"133737",
+			"4891457",
+			null,
+			"6085",
+			null,
+			"190077",
+			"480562",
+			"10440139",
+			null,
+			null,
+			"82668",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"43525",
+			"9670",
+			"14039",
+			"63110",
+			"4827165",
+			null,
+			"8061",
+			"12868",
+			null,
+			"378155",
+			"4391375",
+			null,
+			null,
+			"111642",
+			"360165",
+			null,
+			null,
+			null,
+			null,
+			"30523",
+			null,
+			"12005",
+			null,
+			"31125",
+			"2224391",
+			null,
+			null,
+			null,
+			"11360",
+			"46862",
+			"2223716",
+			null,
+			null,
+			"552422",
+			"4876929",
+			null,
+			null,
+			null,
+			null,
+			"13220",
+			"18211",
+			"26926",
+			null,
+			"432823",
+			"611866",
+			null,
+			"30829",
+			null,
+			"998313",
+			"13725651",
+			"867132",
+			"189385",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"3616",
+			"18213",
+			"68073",
+			"22318",
+			"7780",
+			"2267223",
+			null,
+			"1171835",
+			null,
+			"120393",
+			"355953",
+			"109997",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"31470",
+			"23026",
+			"7830",
+			"10541",
+			"6959",
+			"793680",
+			null,
+			null,
+			"134873",
+			"701241",
+			"91159",
+			"1194626",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"19005",
+			"8399",
+			"14074",
+			"5811",
+			"20691",
+			null,
+			null,
+			"1108847",
+			"802550",
+			"642204",
+			"148287",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"29745",
+			"0100000US",
+			null,
+			null,
+			null,
+			null,
+			"3086901",
+			"18062",
+			"18506",
+			"16365",
+			"8317"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:25.538Z"
+}

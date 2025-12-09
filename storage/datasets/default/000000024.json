@@ -1,0 +1,56 @@
+{
+	"tableId": "ACSDT1Y2023.B19025",
+	"title": "Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Households",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B19025",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B19025_001E",
+				"label": "Estimate!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars)"
+			},
+			{
+				"id": "B19025_001M",
+				"label": "Margin of Error!!Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars)"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"GEO_ID",
+			"B19025_001M",
+			"B19025_001MA",
+			"B19025_001E",
+			"B19025_001EA",
+			"NAME"
+		],
+		[
+			"0100000US",
+			"33064871188",
+			null,
+			"14336261305800",
+			null,
+			"United States"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:26.309Z"
+}

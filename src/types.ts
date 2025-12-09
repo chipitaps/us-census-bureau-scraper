@@ -50,6 +50,15 @@ export interface OutputCensusTable {
     scrapedTimestamp: string;
 }
 
+// Error output interface for failed processing
+export interface OutputError {
+    error: string;
+    tableId?: string;
+    entityId?: string;
+    errorMessage: string;
+    scrapedTimestamp: string;
+}
+
 // Union type for all possible output types
-export type CensusOutput = OutputCensusTable;
+export type CensusOutput = OutputCensusTable | OutputError;
 

@@ -1,0 +1,248 @@
+{
+	"tableId": "ACSDT1Y2023.B09010",
+	"title": "Receipt of Supplemental Security Income (SSI), Cash Public Assistance Income, or Food Stamps/SNAP in the Past 12 Months by Household Type for Children Under 18 Years in Households",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population under 18 years in households",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B09010",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B09010_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B09010_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B09010_002E",
+				"label": "Estimate!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:"
+			},
+			{
+				"id": "B09010_002M",
+				"label": "Margin of Error!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:"
+			},
+			{
+				"id": "B09010_003E",
+				"label": "Estimate!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:"
+			},
+			{
+				"id": "B09010_003M",
+				"label": "Margin of Error!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:"
+			},
+			{
+				"id": "B09010_004E",
+				"label": "Estimate!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In married-couple family"
+			},
+			{
+				"id": "B09010_004M",
+				"label": "Margin of Error!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In married-couple family"
+			},
+			{
+				"id": "B09010_005E",
+				"label": "Estimate!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In male householder, no spouse present, family"
+			},
+			{
+				"id": "B09010_005M",
+				"label": "Margin of Error!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In male householder, no spouse present, family"
+			},
+			{
+				"id": "B09010_006E",
+				"label": "Estimate!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In female householder, no spouse present, family"
+			},
+			{
+				"id": "B09010_006M",
+				"label": "Margin of Error!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In female householder, no spouse present, family"
+			},
+			{
+				"id": "B09010_007E",
+				"label": "Estimate!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In nonfamily households"
+			},
+			{
+				"id": "B09010_007M",
+				"label": "Margin of Error!!Total:!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In nonfamily households"
+			},
+			{
+				"id": "B09010_008E",
+				"label": "Estimate!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:"
+			},
+			{
+				"id": "B09010_008M",
+				"label": "Margin of Error!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:"
+			},
+			{
+				"id": "B09010_009E",
+				"label": "Estimate!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:"
+			},
+			{
+				"id": "B09010_009M",
+				"label": "Margin of Error!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:"
+			},
+			{
+				"id": "B09010_010E",
+				"label": "Estimate!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In married-couple family"
+			},
+			{
+				"id": "B09010_010M",
+				"label": "Margin of Error!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In married-couple family"
+			},
+			{
+				"id": "B09010_011E",
+				"label": "Estimate!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In male householder, no spouse present, family"
+			},
+			{
+				"id": "B09010_011M",
+				"label": "Margin of Error!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In male householder, no spouse present, family"
+			},
+			{
+				"id": "B09010_012E",
+				"label": "Estimate!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In female householder, no spouse present, family"
+			},
+			{
+				"id": "B09010_012M",
+				"label": "Margin of Error!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In family households:!!In female householder, no spouse present, family"
+			},
+			{
+				"id": "B09010_013E",
+				"label": "Estimate!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In nonfamily households"
+			},
+			{
+				"id": "B09010_013M",
+				"label": "Margin of Error!!Total:!!Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:!!In nonfamily households"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B09010_008EA",
+			"B09010_005M",
+			"B09010_008MA",
+			"B09010_002EA",
+			"B09010_001M",
+			"B09010_004EA",
+			"B09010_013M",
+			"B09010_006EA",
+			"B09010_005E",
+			"B09010_002MA",
+			"B09010_001E",
+			"B09010_004MA",
+			"B09010_009M",
+			"B09010_013E",
+			"B09010_006MA",
+			"B09010_009E",
+			"B09010_010EA",
+			"B09010_008M",
+			"B09010_012EA",
+			"B09010_012M",
+			"B09010_004M",
+			"NAME",
+			"B09010_010MA",
+			"B09010_008E",
+			"B09010_012MA",
+			"B09010_012E",
+			"B09010_004E",
+			"B09010_007EA",
+			"B09010_009EA",
+			"B09010_011M",
+			"B09010_007MA",
+			"B09010_007M",
+			"B09010_001EA",
+			"B09010_009MA",
+			"B09010_011E",
+			"B09010_003EA",
+			"B09010_003M",
+			"B09010_005EA",
+			"B09010_007E",
+			"B09010_001MA",
+			"B09010_003MA",
+			"B09010_003E",
+			"B09010_005MA",
+			"B09010_010M",
+			"B09010_011EA",
+			"B09010_006M",
+			"B09010_010E",
+			"B09010_013EA",
+			"B09010_002M",
+			"B09010_011MA",
+			"GEO_ID",
+			"B09010_006E",
+			"B09010_013MA",
+			"B09010_002E"
+		],
+		[
+			null,
+			"46516",
+			null,
+			null,
+			"30021",
+			null,
+			"14579",
+			null,
+			"1801538",
+			null,
+			"72507380",
+			null,
+			"130603",
+			"326994",
+			null,
+			"54186788",
+			null,
+			"130093",
+			null,
+			"78263",
+			"75544",
+			"United States",
+			null,
+			"54513782",
+			null,
+			"9027335",
+			"7389559",
+			null,
+			null,
+			"62732",
+			null,
+			"12651",
+			null,
+			null,
+			"4301526",
+			null,
+			"146369",
+			null,
+			"149268",
+			null,
+			null,
+			"17844330",
+			null,
+			"157587",
+			null,
+			"98412",
+			"40857927",
+			null,
+			"147112",
+			null,
+			"0100000US",
+			"8653233",
+			null,
+			"17993598"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:24.574Z"
+}

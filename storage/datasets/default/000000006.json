@@ -1,0 +1,1096 @@
+{
+	"tableId": "ACSDT1Y2023.B07010",
+	"title": "Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for Current Residence in the United States",
+	"survey": "ACS 1-Year Estimates Detailed Tables",
+	"universe": "Population 15 years and over in the United States",
+	"year": "2023",
+	"vintage": "2023",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B07010",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"id": "B07010_001E",
+				"label": "Estimate!!Total:"
+			},
+			{
+				"id": "B07010_001M",
+				"label": "Margin of Error!!Total:"
+			},
+			{
+				"id": "B07010_002E",
+				"label": "Estimate!!Total:!!No income"
+			},
+			{
+				"id": "B07010_002M",
+				"label": "Margin of Error!!Total:!!No income"
+			},
+			{
+				"id": "B07010_003E",
+				"label": "Estimate!!Total:!!With income:"
+			},
+			{
+				"id": "B07010_003M",
+				"label": "Margin of Error!!Total:!!With income:"
+			},
+			{
+				"id": "B07010_004E",
+				"label": "Estimate!!Total:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_004M",
+				"label": "Margin of Error!!Total:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_005E",
+				"label": "Estimate!!Total:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_005M",
+				"label": "Margin of Error!!Total:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_006E",
+				"label": "Estimate!!Total:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_006M",
+				"label": "Margin of Error!!Total:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_007E",
+				"label": "Estimate!!Total:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_007M",
+				"label": "Margin of Error!!Total:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_008E",
+				"label": "Estimate!!Total:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_008M",
+				"label": "Margin of Error!!Total:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_009E",
+				"label": "Estimate!!Total:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_009M",
+				"label": "Margin of Error!!Total:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_010E",
+				"label": "Estimate!!Total:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_010M",
+				"label": "Margin of Error!!Total:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_011E",
+				"label": "Estimate!!Total:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_011M",
+				"label": "Margin of Error!!Total:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_012E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:"
+			},
+			{
+				"id": "B07010_012M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:"
+			},
+			{
+				"id": "B07010_013E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!No income"
+			},
+			{
+				"id": "B07010_013M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!No income"
+			},
+			{
+				"id": "B07010_014E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:"
+			},
+			{
+				"id": "B07010_014M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:"
+			},
+			{
+				"id": "B07010_015E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_015M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_016E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_016M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_017E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_017M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_018E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_018M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_019E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_019M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_020E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_020M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_021E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_021M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_022E",
+				"label": "Estimate!!Total:!!Same house 1 year ago:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_022M",
+				"label": "Margin of Error!!Total:!!Same house 1 year ago:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_023E",
+				"label": "Estimate!!Total:!!Moved within same county:"
+			},
+			{
+				"id": "B07010_023M",
+				"label": "Margin of Error!!Total:!!Moved within same county:"
+			},
+			{
+				"id": "B07010_024E",
+				"label": "Estimate!!Total:!!Moved within same county:!!No income"
+			},
+			{
+				"id": "B07010_024M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!No income"
+			},
+			{
+				"id": "B07010_025E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:"
+			},
+			{
+				"id": "B07010_025M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:"
+			},
+			{
+				"id": "B07010_026E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_026M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_027E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_027M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_028E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_028M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_029E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_029M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_030E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_030M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_031E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_031M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_032E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_032M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_033E",
+				"label": "Estimate!!Total:!!Moved within same county:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_033M",
+				"label": "Margin of Error!!Total:!!Moved within same county:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_034E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:"
+			},
+			{
+				"id": "B07010_034M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:"
+			},
+			{
+				"id": "B07010_035E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!No income"
+			},
+			{
+				"id": "B07010_035M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!No income"
+			},
+			{
+				"id": "B07010_036E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:"
+			},
+			{
+				"id": "B07010_036M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:"
+			},
+			{
+				"id": "B07010_037E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_037M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_038E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_038M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_039E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_039M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_040E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_040M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_041E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_041M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_042E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_042M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_043E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_043M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_044E",
+				"label": "Estimate!!Total:!!Moved from different county within same state:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_044M",
+				"label": "Margin of Error!!Total:!!Moved from different county within same state:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_045E",
+				"label": "Estimate!!Total:!!Moved from different state:"
+			},
+			{
+				"id": "B07010_045M",
+				"label": "Margin of Error!!Total:!!Moved from different state:"
+			},
+			{
+				"id": "B07010_046E",
+				"label": "Estimate!!Total:!!Moved from different state:!!No income"
+			},
+			{
+				"id": "B07010_046M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!No income"
+			},
+			{
+				"id": "B07010_047E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:"
+			},
+			{
+				"id": "B07010_047M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:"
+			},
+			{
+				"id": "B07010_048E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_048M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_049E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_049M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_050E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_050M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_051E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_051M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_052E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_052M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_053E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_053M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_054E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_054M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_055E",
+				"label": "Estimate!!Total:!!Moved from different state:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_055M",
+				"label": "Margin of Error!!Total:!!Moved from different state:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_056E",
+				"label": "Estimate!!Total:!!Moved from abroad:"
+			},
+			{
+				"id": "B07010_056M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:"
+			},
+			{
+				"id": "B07010_057E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!No income"
+			},
+			{
+				"id": "B07010_057M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!No income"
+			},
+			{
+				"id": "B07010_058E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:"
+			},
+			{
+				"id": "B07010_058M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:"
+			},
+			{
+				"id": "B07010_059E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_059M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:!!$1 to $9,999 or loss"
+			},
+			{
+				"id": "B07010_060E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_060M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:!!$10,000 to $14,999"
+			},
+			{
+				"id": "B07010_061E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_061M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:!!$15,000 to $24,999"
+			},
+			{
+				"id": "B07010_062E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_062M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:!!$25,000 to $34,999"
+			},
+			{
+				"id": "B07010_063E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_063M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:!!$35,000 to $49,999"
+			},
+			{
+				"id": "B07010_064E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_064M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:!!$50,000 to $64,999"
+			},
+			{
+				"id": "B07010_065E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_065M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:!!$65,000 to $74,999"
+			},
+			{
+				"id": "B07010_066E",
+				"label": "Estimate!!Total:!!Moved from abroad:!!With income:!!$75,000 or more"
+			},
+			{
+				"id": "B07010_066M",
+				"label": "Margin of Error!!Total:!!Moved from abroad:!!With income:!!$75,000 or more"
+			}
+		],
+		"dimensions": [
+			{
+				"id": "GEO",
+				"label": "Geography",
+				"dimensionType": "GEOGRAPHY"
+			},
+			{
+				"id": "ESTIMATE",
+				"dimensionType": "MEASURE"
+			},
+			{
+				"id": "SUBJECT",
+				"dimensionType": "MEASURE"
+			}
+		]
+	},
+	"data": [
+		[
+			"B07010_037M",
+			"B07010_041MA",
+			"B07010_064MA",
+			"B07010_025M",
+			"B07010_049M",
+			"B07010_060EA",
+			"B07010_013M",
+			"B07010_001M",
+			"B07010_003MA",
+			"B07010_026MA",
+			"B07010_022EA",
+			"B07010_037E",
+			"B07010_049MA",
+			"B07010_025E",
+			"B07010_049E",
+			"B07010_007EA",
+			"B07010_045EA",
+			"B07010_013E",
+			"B07010_001E",
+			"B07010_048M",
+			"B07010_036M",
+			"B07010_053MA",
+			"B07010_024M",
+			"B07010_012M",
+			"B07010_015MA",
+			"B07010_030MA",
+			"B07010_034EA",
+			"B07010_011EA",
+			"B07010_038MA",
+			"B07010_048E",
+			"B07010_036E",
+			"B07010_019EA",
+			"B07010_057EA",
+			"B07010_024E",
+			"B07010_012E",
+			"B07010_059M",
+			"B07010_042MA",
+			"B07010_047M",
+			"B07010_065MA",
+			"B07010_011M",
+			"B07010_035M",
+			"B07010_023M",
+			"B07010_061EA",
+			"B07010_004MA",
+			"B07010_023EA",
+			"B07010_027MA",
+			"B07010_059E",
+			"B07010_047E",
+			"B07010_011E",
+			"B07010_008EA",
+			"B07010_046EA",
+			"B07010_035E",
+			"B07010_023E",
+			"B07010_058M",
+			"B07010_054MA",
+			"B07010_022M",
+			"B07010_010M",
+			"B07010_046M",
+			"B07010_050EA",
+			"B07010_034M",
+			"B07010_031MA",
+			"B07010_012EA",
+			"B07010_035EA",
+			"B07010_016MA",
+			"B07010_039MA",
+			"B07010_058E",
+			"B07010_022E",
+			"B07010_010E",
+			"B07010_046E",
+			"B07010_058EA",
+			"B07010_034E",
+			"B07010_033M",
+			"B07010_021M",
+			"B07010_047MA",
+			"B07010_057M",
+			"B07010_045M",
+			"B07010_001MA",
+			"B07010_024MA",
+			"B07010_062MA",
+			"B07010_009MA",
+			"B07010_020EA",
+			"B07010_043EA",
+			"B07010_066EA",
+			"B07010_033E",
+			"B07010_021E",
+			"B07010_005EA",
+			"B07010_028EA",
+			"B07010_057E",
+			"B07010_045E",
+			"B07010_020E",
+			"B07010_044M",
+			"B07010_032M",
+			"B07010_056M",
+			"B07010_059MA",
+			"B07010_036MA",
+			"B07010_020M",
+			"B07010_013MA",
+			"B07010_051MA",
+			"NAME",
+			"B07010_032EA",
+			"B07010_055EA",
+			"B07010_044E",
+			"B07010_032E",
+			"B07010_017EA",
+			"B07010_056E",
+			"B07010_063MA",
+			"B07010_031E",
+			"B07010_055M",
+			"B07010_043M",
+			"B07010_048MA",
+			"B07010_025MA",
+			"B07010_031M",
+			"B07010_002MA",
+			"B07010_040MA",
+			"B07010_021EA",
+			"B07010_044EA",
+			"B07010_055E",
+			"B07010_029EA",
+			"B07010_043E",
+			"B07010_006EA",
+			"B07010_052MA",
+			"B07010_042E",
+			"B07010_030E",
+			"B07010_066M",
+			"B07010_054M",
+			"B07010_014MA",
+			"B07010_037MA",
+			"B07010_042M",
+			"B07010_030M",
+			"B07010_010EA",
+			"B07010_033EA",
+			"B07010_018EA",
+			"B07010_056EA",
+			"B07010_066E",
+			"B07010_054E",
+			"B07010_053E",
+			"B07010_041E",
+			"B07010_045MA",
+			"B07010_065M",
+			"B07010_053M",
+			"B07010_041M",
+			"B07010_022MA",
+			"B07010_060MA",
+			"B07010_003EA",
+			"B07010_026EA",
+			"B07010_049EA",
+			"B07010_007MA",
+			"B07010_009E",
+			"B07010_041EA",
+			"B07010_064EA",
+			"B07010_065E",
+			"B07010_009M",
+			"B07010_040E",
+			"B07010_064E",
+			"B07010_052E",
+			"B07010_057MA",
+			"B07010_040M",
+			"B07010_064M",
+			"B07010_034MA",
+			"B07010_052M",
+			"B07010_011MA",
+			"B07010_015EA",
+			"B07010_008E",
+			"B07010_019MA",
+			"B07010_030EA",
+			"B07010_053EA",
+			"B07010_008M",
+			"B07010_038EA",
+			"B07010_051E",
+			"B07010_063E",
+			"B07010_046MA",
+			"B07010_051M",
+			"B07010_023MA",
+			"B07010_063M",
+			"B07010_061MA",
+			"B07010_004EA",
+			"B07010_019E",
+			"B07010_007E",
+			"B07010_008MA",
+			"B07010_042EA",
+			"B07010_065EA",
+			"B07010_019M",
+			"B07010_007M",
+			"B07010_027EA",
+			"B07010_062E",
+			"B07010_050E",
+			"B07010_006M",
+			"B07010_058MA",
+			"B07010_062M",
+			"B07010_050M",
+			"B07010_012MA",
+			"B07010_035MA",
+			"B07010_050MA",
+			"B07010_018E",
+			"B07010_031EA",
+			"B07010_006E",
+			"B07010_054EA",
+			"B07010_018M",
+			"B07010_016EA",
+			"B07010_039EA",
+			"B07010_061E",
+			"B07010_017M",
+			"B07010_043MA",
+			"B07010_066MA",
+			"B07010_005M",
+			"B07010_062EA",
+			"B07010_061M",
+			"B07010_020MA",
+			"B07010_001EA",
+			"B07010_024EA",
+			"B07010_029E",
+			"B07010_005MA",
+			"B07010_028MA",
+			"B07010_009EA",
+			"B07010_017E",
+			"B07010_005E",
+			"B07010_029M",
+			"B07010_047EA",
+			"B07010_004M",
+			"B07010_028M",
+			"B07010_016M",
+			"B07010_055MA",
+			"B07010_060E",
+			"B07010_051EA",
+			"B07010_032MA",
+			"B07010_060M",
+			"B07010_036EA",
+			"B07010_013EA",
+			"B07010_017MA",
+			"B07010_004E",
+			"B07010_028E",
+			"B07010_016E",
+			"B07010_059EA",
+			"B07010_015M",
+			"B07010_003M",
+			"B07010_039M",
+			"B07010_027M",
+			"B07010_044MA",
+			"B07010_040EA",
+			"B07010_021MA",
+			"B07010_025EA",
+			"B07010_002EA",
+			"B07010_029MA",
+			"B07010_006MA",
+			"B07010_015E",
+			"B07010_003E",
+			"B07010_063EA",
+			"B07010_039E",
+			"B07010_027E",
+			"B07010_048EA",
+			"B07010_026M",
+			"B07010_014M",
+			"B07010_038M",
+			"B07010_056MA",
+			"B07010_002M",
+			"B07010_010MA",
+			"B07010_033MA",
+			"B07010_014EA",
+			"B07010_037EA",
+			"GEO_ID",
+			"B07010_018MA",
+			"B07010_026E",
+			"B07010_052EA",
+			"B07010_014E",
+			"B07010_038E",
+			"B07010_002E"
+		],
+		[
+			"20608",
+			null,
+			null,
+			"101491",
+			"13185",
+			null,
+			"100272",
+			"36204",
+			null,
+			null,
+			null,
+			"1485497",
+			null,
+			"14470073",
+			"410997",
+			null,
+			null,
+			"29804708",
+			"275577890",
+			"17124",
+			"62988",
+			null,
+			"34719",
+			"190714",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1011374",
+			"7435464",
+			null,
+			null,
+			"1925859",
+			"241892269",
+			"15015",
+			null,
+			"53818",
+			null,
+			"156673",
+			"21931",
+			"116140",
+			null,
+			null,
+			null,
+			null,
+			"386821",
+			"5803940",
+			"58351432",
+			null,
+			null,
+			"1298574",
+			"16395932",
+			"26507",
+			null,
+			"158184",
+			"70075",
+			"19058",
+			null,
+			"71773",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"1373362",
+			"52554964",
+			"13053715",
+			"731878",
+			null,
+			"8734038",
+			"34004",
+			"65797",
+			null,
+			"17032",
+			"60654",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"2794547",
+			"11624576",
+			null,
+			null,
+			"646471",
+			"6535818",
+			"24498040",
+			"25684",
+			"17966",
+			"32000",
+			null,
+			null,
+			"109265",
+			null,
+			null,
+			"United States",
+			null,
+			null,
+			"1389791",
+			"733649",
+			null,
+			"2019833",
+			null,
+			"1647212",
+			"23150",
+			"11799",
+			null,
+			null,
+			"25003",
+			null,
+			null,
+			null,
+			null,
+			"1391637",
+			null,
+			"351793",
+			null,
+			null,
+			"845247",
+			"2313964",
+			"9995",
+			"12771",
+			null,
+			null,
+			"21932",
+			"32182",
+			null,
+			null,
+			null,
+			null,
+			"220493",
+			"296297",
+			"631282",
+			"1070926",
+			null,
+			"4039",
+			"15319",
+			"20692",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"27733601",
+			null,
+			null,
+			"47400",
+			"112469",
+			"799979",
+			"111820",
+			"768078",
+			null,
+			"16448",
+			"7477",
+			null,
+			"21183",
+			null,
+			null,
+			"35047558",
+			null,
+			null,
+			null,
+			"105449",
+			null,
+			"619951",
+			"146440",
+			null,
+			"16057",
+			null,
+			"7650",
+			null,
+			null,
+			"30748150",
+			"26976058",
+			null,
+			null,
+			null,
+			"92903",
+			"98458",
+			null,
+			"142494",
+			"674324",
+			"109760",
+			null,
+			"7410",
+			"15438",
+			null,
+			null,
+			null,
+			"23622817",
+			null,
+			"29241482",
+			null,
+			"89199",
+			null,
+			null,
+			"187425",
+			"105586",
+			null,
+			null,
+			"75216",
+			null,
+			"10311",
+			null,
+			null,
+			null,
+			"1790817",
+			null,
+			null,
+			null,
+			"25625425",
+			"18969507",
+			"31215",
+			null,
+			"98322",
+			"27751",
+			"75414",
+			null,
+			"130469",
+			null,
+			null,
+			"7945",
+			null,
+			null,
+			null,
+			"31797047",
+			"1874403",
+			"16611856",
+			null,
+			"101683",
+			"143010",
+			"17162",
+			"22808",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"26801733",
+			"241170400",
+			null,
+			"879905",
+			"1203859",
+			null,
+			"29171",
+			"220895",
+			"15661",
+			null,
+			"125446",
+			null,
+			null,
+			null,
+			null,
+			"0100000US",
+			null,
+			"2111622",
+			null,
+			"212087561",
+			"612326",
+			"34407490"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T19:26:23.916Z"
+}
