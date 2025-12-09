@@ -4,6 +4,16 @@ import type { RawCensusEntity, RawCensusTable } from './types.js';
 const BASE_API_URL = 'https://data.census.gov/api';
 const BASE_SEARCH_URL = 'https://data.census.gov';
 
+// Delay between API requests to avoid rate limiting
+const REQUEST_DELAY_MS = 200;
+
+/**
+ * Helper function to add a delay between requests
+ */
+async function delay(ms: number = REQUEST_DELAY_MS): Promise<void> {
+    await new Promise(resolve => setTimeout(resolve, ms));
+}
+
 /**
  * Expands broad economic/demographic queries to relevant Census table categories
  * This improves relevance because Census tables use specific terminology, not broad academic terms
@@ -120,10 +130,12 @@ export async function searchCensusData(
                     status: response.status,
                     statusText: response.statusText,
                 });
+                await delay(); // Delay even on errors to respect rate limits
                 continue;
             }
 
             const data = await response.json();
+            await delay(); // Delay after successful request
             
             // Census Reporter returns an array of results with table_id field
             if (Array.isArray(data)) {
@@ -252,6 +264,8 @@ export async function findFullTableId(
                     },
                 });
                 
+                await delay(); // Delay after each test request
+                
                 if (response.ok) {
                     const data = await response.json();
                     if (data.response?.metadataContent || data.metadataContent) {
@@ -289,10 +303,12 @@ export async function fetchTableMetadata(tableId: string): Promise<RawCensusTabl
         });
 
         if (!response.ok) {
+            await delay(); // Delay even on errors
             throw new Error(`Metadata request failed with status ${response.status}: ${response.statusText}`);
         }
 
         const data = await response.json();
+        await delay(); // Delay after successful request
         
         log.info('Table metadata fetched successfully', {
             tableId,
@@ -352,10 +368,12 @@ export async function fetchTableData(tableId: string): Promise<RawCensusTable> {
         });
 
         if (!response.ok) {
+            await delay(); // Delay even on errors
             throw new Error(`Table data request failed with status ${response.status}: ${response.statusText}`);
         }
 
         const data = await response.json();
+        await delay(); // Delay after successful request
         
         log.info('Table data fetched successfully', {
             tableId,
@@ -407,10 +425,12 @@ export async function fetchFacets(facetType: 'topics' | 'datasets' | 'vintages',
         });
 
         if (!response.ok) {
+            await delay(); // Delay even on errors
             throw new Error(`Facets request failed with status ${response.status}: ${response.statusText}`);
         }
 
         const data = await response.json();
+        await delay(); // Delay after successful request
         
         log.info('Facets fetched successfully', {
             facetType,
@@ -433,7 +453,7 @@ export async function fetchFacets(facetType: 'topics' | 'datasets' | 'vintages',
 export async function fetchAllSearchResults(
     query: string,
     maxItems?: number,
-    onResult?: (entity: RawCensusEntity) => void | Promise<void>,
+    onEntity?: (entity: RawCensusEntity) => void,
     datasetFilter?: string,
     yearFilter?: string
 ): Promise<RawCensusEntity[]> {
@@ -464,8 +484,8 @@ export async function fetchAllSearchResults(
 
             allEntities.push(entity);
             
-            if (onResult) {
-                await onResult(entity);
+            if (onEntity) {
+                onEntity(entity);
             }
         }
 
@@ -476,10 +496,10 @@ export async function fetchAllSearchResults(
 
         currentPage++;
 
-        // Add delay between requests to be respectful
-        if (hasMore && (!maxItems || allEntities.length < maxItems)) {
-            await new Promise(resolve => setTimeout(resolve, 1000));
-        }
+                // Add delay between requests to be respectful (200ms per request)
+                if (hasMore && (!maxItems || allEntities.length < maxItems)) {
+                    await delay();
+                }
     }
 
     return allEntities;

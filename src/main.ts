@@ -292,6 +292,11 @@ async function main() {
                     totalFetched,
                     totalPushed,
                 });
+
+                // Add delay between batches to avoid rate limiting
+                if (i + BATCH_SIZE < entities.length) {
+                    await new Promise(resolve => setTimeout(resolve, 200));
+                }
             }
 
             if (totalPushed > 0) {
