@@ -98,10 +98,34 @@ async function main() {
                 }
 
                 // Fetch both metadata and data using the resolved full table ID
-                const [metadata, data] = await Promise.all([
-                    fetchTableMetadata(fullTableId),
-                    fetchTableData(fullTableId).catch(() => null), // Try to fetch data, but don't fail if unavailable
-                ]);
+                let metadata: RawCensusTable;
+                try {
+                    metadata = await fetchTableMetadata(fullTableId);
+                } catch (metadataError) {
+                    // If metadata fetch fails, create minimal metadata from table ID
+                    log.warning(`Metadata fetch failed for ${fullTableId}, creating minimal metadata`, {
+                        tableId: fullTableId,
+                        error: metadataError instanceof Error ? metadataError.message : String(metadataError),
+                    });
+                    
+                    // Extract year from table ID if possible
+                    let extractedYear: string | undefined;
+                    const yearMatch = fullTableId.match(/(\d{4})\./);
+                    if (yearMatch) {
+                        extractedYear = yearMatch[1];
+                    }
+                    
+                    metadata = {
+                        id: fullTableId,
+                        title: 'Unavailable Table',
+                        year: extractedYear,
+                        vintage: extractedYear,
+                        url: `https://data.census.gov/table?tid=${fullTableId}`,
+                        metadata: {},
+                    } as RawCensusTable;
+                }
+                
+                const data = await fetchTableData(fullTableId).catch(() => null); // Try to fetch data, but don't fail if unavailable
 
                 // Merge metadata and data, preserving metadata fields
                 const table: RawCensusTable = {
@@ -273,10 +297,33 @@ async function main() {
 
                 try {
                     // Fetch both metadata and data (like we do for direct table ID)
-                    const [metadata, data] = await Promise.all([
-                        fetchTableMetadata(entityTableId),
-                        fetchTableData(entityTableId).catch(() => null), // Try to fetch data, but don't fail if unavailable
-                    ]);
+                    // Use entity metadata as fallback if API metadata fetch fails
+                    let metadata: RawCensusTable;
+                    try {
+                        metadata = await fetchTableMetadata(entityTableId);
+                    } catch (metadataError) {
+                        // If metadata fetch fails (e.g., 403 for some table types like SOMATIMESERIES),
+                        // use the entity data from search results as fallback
+                        log.warning(`Metadata fetch failed for ${entityTableId}, using entity data as fallback`, {
+                            tableId: entityTableId,
+                            error: metadataError instanceof Error ? metadataError.message : String(metadataError),
+                        });
+                        
+                        // Build metadata from entity data
+                        metadata = {
+                            id: entityTableId,
+                            title: entity.title || entity.description || entityTableId,
+                            description: entity.description,
+                            year: entity.metadata?.vintage as string || undefined,
+                            vintage: entity.metadata?.vintage as string || undefined,
+                            survey: entity.metadata?.program as string || undefined,
+                            universe: entity.metadata?.universe as string || undefined,
+                            url: entity.url || `https://data.census.gov/table?tid=${entityTableId}`,
+                            metadata: entity.metadata || {},
+                        } as RawCensusTable;
+                    }
+                    
+                    const data = await fetchTableData(entityTableId).catch(() => null); // Try to fetch data, but don't fail if unavailable
 
                     // Merge metadata and data, preserving metadata fields
                     const table: RawCensusTable = {
