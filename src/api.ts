@@ -111,11 +111,11 @@ export async function searchCensusData(
         
         // Try each query variation
         for (const searchQuery of queryVariations) {
-            // Use Census Reporter API for table search
-            const CENSUS_REPORTER_API = 'https://api.censusreporter.org/1.0/table/search';
-            const url = `${CENSUS_REPORTER_API}?q=${encodeURIComponent(searchQuery)}`;
+            // Use Census Bureau API search endpoint to get REAL table IDs directly
+            // This returns actual table instances with real IDs, not base IDs that need to be constructed
+            const url = `${BASE_API_URL}/search?q=${encodeURIComponent(searchQuery)}&type=table`;
             
-            log.info('Fetching search results from Census Reporter API', { query: searchQuery, url });
+            log.info('Fetching search results from Census Bureau API', { query: searchQuery, url });
 
             const response = await fetch(url, {
                 method: 'GET',
@@ -138,36 +138,72 @@ export async function searchCensusData(
             const data = await response.json();
             await delay(); // Delay after successful request
             
-            // Census Reporter returns an array of results with table_id field
-            if (Array.isArray(data)) {
-                for (const item of data) {
-                    if (item.table_id && !seenTableIds.has(item.table_id)) {
-                        seenTableIds.add(item.table_id);
+            // Extract tables from response structure - these contain REAL table IDs in instances
+            const tables = data.response?.tables?.tables || [];
+            
+            for (const table of tables) {
+                const instances = table.instances || [];
+                
+                for (const instance of instances) {
+                    // Get the REAL table ID from the instance (these are actual IDs from the API, not constructed)
+                    const realTableId = instance.id;
+                    
+                    if (!realTableId || seenTableIds.has(realTableId)) {
+                        continue;
+                    }
+                    
+                    // Apply dataset filter if specified
+                    if (datasetFilter) {
+                        // Match dataset filter (e.g., "acs/acs1" should match "ACSDT1Y")
+                        const instanceId = realTableId.toUpperCase();
                         
-                        // Try to find the full table ID format by searching Census Bureau API
-                        const baseTableId = item.table_id;
-                        const fullTableId = await findFullTableId(baseTableId, datasetFilter, yearFilter);
-                        
-                        if (fullTableId && !allEntities.find(e => e.id === fullTableId)) {
-                            allEntities.push({
-                                id: fullTableId,
-                                title: item.table_name || item.simple_table_name || baseTableId,
-                                description: item.table_name,
-                                type: 'table',
-                                url: `https://data.census.gov/table?tid=${fullTableId}`,
-                                metadata: {
-                                    tableId: baseTableId,
-                                    tableName: item.table_name,
-                                    simpleTableName: item.simple_table_name,
-                                },
-                            } as RawCensusEntity);
+                        if (datasetFilter.includes('acs1') && !instanceId.includes('ACSDT1Y') && !instanceId.includes('ACSSDT1Y')) {
+                            continue;
+                        }
+                        if (datasetFilter.includes('acs5') && !instanceId.includes('ACSDT5Y') && !instanceId.includes('ACSSDT5Y')) {
+                            continue;
+                        }
+                        if (datasetFilter.includes('dec') && !instanceId.includes('DECENNIAL')) {
+                            continue;
                         }
                     }
                     
-                    // Stop if we have enough results across all variations
+                    // Apply year filter if specified
+                    if (yearFilter) {
+                        // Match year filter (check if vintage or table ID contains the year)
+                        const instanceVintage = instance.vintage || '';
+                        const tableIdYear = realTableId.match(/(\d{4})\./)?.[1];
+                        
+                        if (instanceVintage !== yearFilter && tableIdYear !== yearFilter) {
+                            continue;
+                        }
+                    }
+                    
+                    seenTableIds.add(realTableId);
+                    
+                    allEntities.push({
+                        id: realTableId, // Use the REAL table ID from the API instance
+                        title: instance.description || table.description || realTableId,
+                        description: instance.description || table.description,
+                        type: 'table',
+                        url: `https://data.census.gov/table?tid=${realTableId}`,
+                        metadata: {
+                            provider: instance.provider,
+                            vintage: instance.vintage,
+                            universe: instance.universe,
+                            program: instance.program,
+                        },
+                    } as RawCensusEntity);
+                    
+                    // Stop if we have enough results
                     if (allEntities.length >= size * 2) {
                         break;
                     }
+                }
+                
+                // Stop if we have enough results
+                if (allEntities.length >= size * 2) {
+                    break;
                 }
             }
             

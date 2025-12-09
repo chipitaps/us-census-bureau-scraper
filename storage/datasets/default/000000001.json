@@ -1,37 +1,21 @@
 {
-	"tableId": "ACSDT1Y2023.B10010",
-	"title": "Median Family Income for Families With Grandparent Householders and/or Spouses Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Presence of Parent of Grandchildren",
+	"tableId": "ACSDT1Y2023.B01003",
+	"title": "Total Population",
 	"survey": "ACS 1-Year Estimates Detailed Tables",
-	"universe": "Families With Grandparent Householders And/Or Spouses Living With Grandchildren",
+	"universe": "Total population",
 	"year": "2023",
 	"vintage": "2023",
-	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B10010",
+	"url": "https://data.census.gov/table?tid=ACSDT1Y2023.B01003",
 	"geography": "Geography",
 	"variables": {
 		"measures": [
 			{
-				"id": "B10010_001E",
-				"label": "Estimate!!Median family income in the past 12 months--!!Total:"
+				"id": "B01003_001E",
+				"label": "Estimate!!Total"
 			},
 			{
-				"id": "B10010_001M",
-				"label": "Margin of Error!!Median family income in the past 12 months--!!Total:"
-			},
-			{
-				"id": "B10010_002E",
-				"label": "Estimate!!Median family income in the past 12 months--!!Grandparent householder and/or spouse responsible for grandchildren under 18 years (dollars)"
-			},
-			{
-				"id": "B10010_002M",
-				"label": "Margin of Error!!Median family income in the past 12 months--!!Grandparent householder and/or spouse responsible for grandchildren under 18 years (dollars)"
-			},
-			{
-				"id": "B10010_003E",
-				"label": "Estimate!!Median family income in the past 12 months--!!Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars)"
-			},
-			{
-				"id": "B10010_003M",
-				"label": "Margin of Error!!Median family income in the past 12 months--!!Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars)"
+				"id": "B01003_001M",
+				"label": "Margin of Error!!Total"
 			}
 		],
 		"dimensions": [
@@ -52,37 +36,21 @@
 	},
 	"data": [
 		[
-			"NAME",
-			"B10010_001M",
 			"GEO_ID",
-			"B10010_002M",
-			"B10010_001EA",
-			"B10010_002EA",
-			"B10010_003EA",
-			"B10010_003M",
-			"B10010_001E",
-			"B10010_002E",
-			"B10010_001MA",
-			"B10010_002MA",
-			"B10010_003E",
-			"B10010_003MA"
+			"B01003_001EA",
+			"B01003_001E",
+			"B01003_001MA",
+			"B01003_001M",
+			"NAME"
 		],
 		[
-			"United States",
-			"945",
 			"0100000US",
-			"1299",
 			null,
-			null,
-			null,
-			"1678",
-			"85773",
-			"70935",
-			null,
-			null,
-			"50085",
-			null
+			"334914896",
+			"*****",
+			"-555555555",
+			"United States"
 		]
 	],
-	"scrapedTimestamp": "2025-12-09T19:26:23.816Z"
+	"scrapedTimestamp": "2025-12-09T20:39:05.350Z"
 }

@@ -168,28 +168,14 @@ async function main() {
             const processBatch = async (batch: RawCensusEntity[]) => {
                 const batchPromises = batch.map(async (entity) => {
                 // Extract table ID from entity
-                // entity.id should already be a full table ID from searchCensusData (e.g., ACSDT1Y2023.B01001)
-                // But we also check metadata.tableId as fallback (base table ID like B01001)
-                let entityTableId = entity.id;
+                // entity.id should already be a REAL full table ID from Census Bureau API (e.g., ACSDT1Y2023.B01001)
+                // These are actual IDs from the API, not constructed
+                const entityTableId = entity.id;
                 
-                // If entity.id is missing, try to get it from metadata
+                // If entity.id is missing, skip this entity
                 if (!entityTableId) {
-                    const baseTableId = entity.metadata?.tableId as string;
-                    if (baseTableId) {
-                        // If we only have a base table ID, resolve it to full format
-                        log.info('Entity missing full table ID, resolving from base ID', { baseTableId, dataset, year });
-                        const resolvedId = await findFullTableId(baseTableId, dataset, year);
-                        if (resolvedId) {
-                            entityTableId = resolvedId;
-                            log.info('Resolved base table ID to full table ID', { baseTableId, fullTableId: entityTableId });
-                        } else {
-                            log.warning('Could not resolve full table ID for entity, skipping', { baseTableId, entity });
-                            return;
-                        }
-                    } else {
-                        log.warning('Entity missing ID, skipping', { entity });
-                        return;
-                    }
+                    log.warning('Entity missing ID, skipping', { entity });
+                    return;
                 }
 
                 // Skip if we've already processed this table ID
