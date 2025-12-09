@@ -115,18 +115,73 @@ async function main() {
                 const outputTable = mapCensusTable(table);
                 totalFetched++;
                 
-                if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                    await Actor.pushData([outputTable], 'result-item');
-                } else {
-                    await Actor.pushData([outputTable]);
-                }
-                totalPushed++;
+                // Check if the output item exceeds Apify's size limit (~9 MB per item)
+                const outputSize = Buffer.byteLength(JSON.stringify(outputTable), 'utf8');
+                const MAX_ITEM_SIZE = 9 * 1024 * 1024; // 9 MB in bytes (Apify limit is ~9.4 MB)
 
-                log.info(`✅ Processed table ${fullTableId}`, {
-                    totalFetched,
-                    totalPushed,
-                    originalTableId: tableId,
-                });
+                if (outputSize > MAX_ITEM_SIZE) {
+                    log.warning(`Table ${fullTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push metadata only`, {
+                        tableId: fullTableId,
+                        sizeMB: (outputSize / 1024 / 1024).toFixed(2),
+                    });
+
+                    // Try pushing without the data field (metadata only)
+                    const metadataOnly: any = { ...outputTable };
+                    delete metadataOnly.data;
+                    metadataOnly.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
+                    metadataOnly.dataOmitted = 'Data field omitted due to size limit (exceeds 9 MB)';
+
+                    const metadataSize = Buffer.byteLength(JSON.stringify(metadataOnly), 'utf8');
+                    if (metadataSize > MAX_ITEM_SIZE) {
+                        // Even metadata is too large, skip this table
+                        log.error(`Table ${fullTableId} metadata is too large (${(metadataSize / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
+                            tableId: fullTableId,
+                            metadataSizeMB: (metadataSize / 1024 / 1024).toFixed(2),
+                        });
+                        
+                        const errorOutput = {
+                            error: 'Table too large to process',
+                            tableId: fullTableId,
+                            errorMessage: `Data item too large (size: ${outputSize} bytes, limit: ${MAX_ITEM_SIZE} bytes). Metadata size: ${metadataSize} bytes.`,
+                            scrapedTimestamp: new Date().toISOString(),
+                        };
+
+                        if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
+                            await Actor.pushData([errorOutput], 'error-item');
+                        } else {
+                            await Actor.pushData([errorOutput]);
+                        }
+                        totalPushed++;
+                        return;
+                    }
+
+                    // Push metadata-only version
+                    if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
+                        await Actor.pushData([metadataOnly], 'result-item');
+                    } else {
+                        await Actor.pushData([metadataOnly]);
+                    }
+                    totalPushed++;
+                    log.info(`✅ Processed table ${fullTableId} (metadata only, data omitted due to size)`, {
+                        totalFetched,
+                        totalPushed,
+                        originalTableId: tableId,
+                    });
+                } else {
+                    // Normal case: push full table with data
+                    if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
+                        await Actor.pushData([outputTable], 'result-item');
+                    } else {
+                        await Actor.pushData([outputTable]);
+                    }
+                    totalPushed++;
+
+                    log.info(`✅ Processed table ${fullTableId}`, {
+                        totalFetched,
+                        totalPushed,
+                        originalTableId: tableId,
+                    });
+                }
             } catch (error) {
                 const errorMessage = error instanceof Error ? error.message : String(error);
                 log.error(`Failed to process table: ${tableId}`, {
@@ -204,12 +259,73 @@ async function main() {
 
                     const outputTable = mapCensusTable(table);
 
-                    if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                        await Actor.pushData([outputTable], 'result-item');
+                    // Check if the output item exceeds Apify's size limit (~9 MB per item)
+                    // If it does, try pushing without the data field (metadata only)
+                    const outputSize = Buffer.byteLength(JSON.stringify(outputTable), 'utf8');
+                    const MAX_ITEM_SIZE = 9 * 1024 * 1024; // 9 MB in bytes (Apify limit is ~9.4 MB)
+
+                    if (outputSize > MAX_ITEM_SIZE) {
+                        log.warning(`Table ${entityTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push metadata only`, {
+                            tableId: entityTableId,
+                            sizeMB: (outputSize / 1024 / 1024).toFixed(2),
+                        });
+
+                        // Try pushing without the data field (metadata only)
+                        const metadataOnly: any = { ...outputTable };
+                        delete metadataOnly.data;
+                        metadataOnly.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
+                        metadataOnly.dataOmitted = 'Data field omitted due to size limit (exceeds 9 MB)';
+
+                        const metadataSize = Buffer.byteLength(JSON.stringify(metadataOnly), 'utf8');
+                        if (metadataSize > MAX_ITEM_SIZE) {
+                            // Even metadata is too large, skip this table
+                            log.error(`Table ${entityTableId} metadata is too large (${(metadataSize / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
+                                tableId: entityTableId,
+                                metadataSizeMB: (metadataSize / 1024 / 1024).toFixed(2),
+                            });
+                            
+                            const errorOutput = {
+                                error: 'Table too large to process',
+                                tableId: entityTableId,
+                                entityId: entity.id,
+                                errorMessage: `Data item too large (size: ${outputSize} bytes, limit: ${MAX_ITEM_SIZE} bytes). Metadata size: ${metadataSize} bytes.`,
+                                scrapedTimestamp: new Date().toISOString(),
+                            };
+
+                            if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
+                                await Actor.pushData([errorOutput], 'error-item');
+                            } else {
+                                await Actor.pushData([errorOutput]);
+                            }
+                            totalPushed++;
+                            return;
+                        }
+
+                        // Push metadata-only version
+                        if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
+                            await Actor.pushData([metadataOnly], 'result-item');
+                        } else {
+                            await Actor.pushData([metadataOnly]);
+                        }
+                        totalPushed++;
+                        log.info(`✅ Processed table ${entityTableId} (metadata only, data omitted due to size)`, {
+                            totalFetched,
+                            totalPushed,
+                        });
                     } else {
-                        await Actor.pushData([outputTable]);
+                        // Normal case: push full table with data
+                        if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
+                            await Actor.pushData([outputTable], 'result-item');
+                        } else {
+                            await Actor.pushData([outputTable]);
+                        }
+                        totalPushed++;
+
+                        log.info(`✅ Processed table ${entityTableId}`, {
+                            totalFetched,
+                            totalPushed,
+                        });
                     }
-                    totalPushed++;
 
                     log.info(`✅ Processed table ${entityTableId}`, {
                         totalFetched,
