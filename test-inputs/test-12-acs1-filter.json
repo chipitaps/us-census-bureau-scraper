@@ -1,0 +1,5 @@
+{
+  "maxItems": 2,
+  "dataset": "acs/acs1",
+  "searchQuery": "population"
+}

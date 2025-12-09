@@ -1,0 +1,36 @@
+{
+    "name": "us-census-bureau-scraper",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "US Census Bureau Scraper - Extract Census data from data.census.gov using the public API",
+    "engines": {
+        "node": ">=20.0.0"
+    },
+    "dependencies": {
+        "@apify/log": "^2.5.22",
+        "@apify/tsconfig": "^0.1.1",
+        "@types/node": "^24.3.0",
+        "apify": "^3.4.2",
+        "typescript": "^5.9.2"
+    },
+    "devDependencies": {
+        "@apify/eslint-config": "^1.0.0",
+        "eslint": "^9.29.0",
+        "eslint-config-prettier": "^10.1.5",
+        "prettier": "^3.5.3",
+        "ts-node": "^10.9.2",
+        "tsx": "^4.21.0"
+    },
+    "main": "dist/main.js",
+    "scripts": {
+        "start": "node dist/main.js",
+        "build": "tsc -p tsconfig.json",
+        "format": "prettier --write .",
+        "format:check": "prettier --check .",
+        "lint": "eslint",
+        "lint:fix": "eslint --fix",
+        "test": "echo \"Error: oops, the Actor has no tests yet, sad!\" && exit 1"
+    },
+    "author": "Apify",
+    "license": "ISC"
+}

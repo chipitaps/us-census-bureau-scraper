@@ -1,0 +1,135 @@
+{
+    "title": "US Census Bureau Scraper - Input schema",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "searchQuery": {
+            "title": "Search Query",
+            "type": "string",
+            "description": "Search term to find Census tables (e.g., 'population', 'income', 'housing'). Use this OR tableId below, not both.",
+            "editor": "textfield",
+            "prefill": "population",
+            "sectionCaption": "Input Method: Search",
+            "sectionDescription": "Search for Census tables using keywords. Returns multiple matching tables."
+        },
+        "tableId": {
+            "title": "Table ID",
+            "type": "string",
+            "description": "Specific Census table ID to fetch (e.g., 'ACSDT1Y2021.B01001'). Use this OR searchQuery above, not both.",
+            "editor": "textfield",
+            "sectionCaption": "Input Method: Direct Table ID",
+            "sectionDescription": "Fetch a specific table by its ID. Returns a single table."
+        },
+        "year": {
+            "title": "Year",
+            "type": "string",
+            "description": "Filter results by year/vintage (e.g., '2021', '2020'). Optional. Recent years: 2023, 2022, 2021, 2020, 2019, etc.",
+            "editor": "textfield",
+            "sectionCaption": "Optional Filters",
+            "sectionDescription": "Additional filters to refine your search results or table data"
+        },
+        "dataset": {
+            "title": "Dataset",
+            "type": "string",
+            "description": "Filter by dataset type. Common options: ACS 1-Year Estimates, ACS 5-Year Estimates, Decennial Census, etc.",
+            "enum": [
+                "acs/acs1",
+                "acs/acs5",
+                "acs/acs1/subject",
+                "acs/acs5/subject",
+                "dec/pl",
+                "dec/dp",
+                "dec/sf1",
+                "dec/sf2",
+                "dec/sf3",
+                "dec/sf4",
+                "timeseries/poverty/saipe",
+                "timeseries/healthinsurance/sahie",
+                "pep/population",
+                "pep/charagegroups",
+                "pep/natmonthly",
+                "cbp",
+                "nonemp",
+                "cps",
+                "ecnsvy"
+            ],
+            "enumTitles": [
+                "American Community Survey 1-Year Estimates",
+                "American Community Survey 5-Year Estimates",
+                "ACS 1-Year Subject Tables",
+                "ACS 5-Year Subject Tables",
+                "Decennial Census Redistricting Data (PL 94-171)",
+                "Decennial Census Demographic Profile",
+                "Decennial Census Summary File 1",
+                "Decennial Census Summary File 2",
+                "Decennial Census Summary File 3",
+                "Decennial Census Summary File 4",
+                "Small Area Income & Poverty Estimates (Time Series)",
+                "Small Area Health Insurance Estimates (Time Series)",
+                "Population Estimates Program",
+                "Population Estimates by Age/Gender",
+                "Population Estimates Monthly National",
+                "County Business Patterns",
+                "Nonemployer Statistics",
+                "Current Population Survey",
+                "Economic Surveys"
+            ],
+            "editor": "select"
+        },
+        "geography": {
+            "title": "Geography",
+            "type": "string",
+            "description": "Filter by geography level. Note: Some geographies require state parameter. Use format like 'state:*' for all states, 'county:*' for all counties, or specific codes.",
+            "enum": [
+                "us",
+                "state",
+                "county",
+                "place",
+                "tract",
+                "zip code tabulation area",
+                "congressional district",
+                "metropolitan statistical area/micropolitan statistical area",
+                "urban area",
+                "county subdivision",
+                "block group",
+                "region",
+                "division",
+                "american indian area/alaska native area/hawaiian home land",
+                "school district (elementary)",
+                "school district (secondary)",
+                "school district (unified)"
+            ],
+            "enumTitles": [
+                "United States (Nation)",
+                "State",
+                "County",
+                "Place (City/Town)",
+                "Census Tract",
+                "ZIP Code Tabulation Area",
+                "Congressional District",
+                "Metropolitan/Micropolitan Statistical Area",
+                "Urban Area",
+                "County Subdivision",
+                "Block Group",
+                "Region",
+                "Division",
+                "American Indian/Alaska Native/Hawaiian Home Land",
+                "Elementary School District",
+                "Secondary School District",
+                "Unified School District"
+            ],
+            "editor": "select"
+        },
+        "maxItems": {
+            "title": "Max Items",
+            "type": "integer",
+            "description": "Maximum number of tables to scrape (Free users: Limited to 100. Paid users: Optional, max 1,000,000).",
+            "editor": "number",
+            "minimum": 1,
+            "maximum": 1000000,
+            "prefill": 10
+        }
+    },
+    "required": []
+}
+

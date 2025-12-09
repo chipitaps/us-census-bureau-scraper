@@ -1,0 +1,489 @@
+{
+	"tableId": "ACSDT5Y2021.B17101",
+	"title": "POVERTY STATUS IN THE PAST 12 MONTHS OF PEOPLE IN HOUSING UNITS",
+	"survey": "ACS 5-Year Estimates Detailed Tables",
+	"universe": "Population in occupied housing units for whom poverty status is determined",
+	"year": "2021",
+	"vintage": "2021",
+	"url": "https://data.census.gov/table?tid=ACSDT5Y2021.B17101",
+	"geography": "Geography",
+	"variables": {
+		"measures": [
+			{
+				"item_classification": {
+					"id": "ESTIMATE",
+					"label": "Estimate"
+				},
+				"attributes": [
+					{
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "MARGIN_OF_ERROR",
+							"typeLabel": "MARGIN_OF_ERROR"
+						},
+						"attributes": [
+							{
+								"item_data_behavior_type": {
+									"description": "DIRECT",
+									"id": "DIRECT"
+								},
+								"displayType": {
+									"displayTypeLabel": "SHOW_BOTH_COLS",
+									"displayType": "SHOW_BOTH_COLS"
+								},
+								"attribute_type": {
+									"type": "ANNOTATION",
+									"typeLabel": "ANNOTATION"
+								},
+								"id": "B17101_001MA",
+								"label": "Annotation of Margin of Error!!Total:",
+								"unit_type": {
+									"unit_type_label": "NAN",
+									"id": "NAN"
+								}
+							}
+						],
+						"id": "B17101_001M",
+						"label": "Margin of Error!!Total:",
+						"unit_type": {
+							"unit_type_label": "MOE",
+							"id": "MOE"
+						}
+					},
+					{
+						"item_data_behavior_type": {
+							"description": "DIRECT",
+							"id": "DIRECT"
+						},
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "ANNOTATION",
+							"typeLabel": "ANNOTATION"
+						},
+						"id": "B17101_001EA",
+						"label": "Annotation of Estimate!!Total:",
+						"unit_type": {
+							"unit_type_label": "NAN",
+							"id": "NAN"
+						}
+					}
+				],
+				"id": "B17101_001E",
+				"label": "Estimate!!Total:",
+				"unit_type": {
+					"unit_type_label": "NUM",
+					"id": "NUM"
+				},
+				"defaultHide": false,
+				"isWeight": false
+			},
+			{
+				"item_classification": {
+					"id": "ATTRIBUTE",
+					"label": "Attribute Variable"
+				},
+				"attributes": [
+					{
+						"item_data_behavior_type": {
+							"description": "DIRECT",
+							"id": "DIRECT"
+						},
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "ANNOTATION",
+							"typeLabel": "ANNOTATION"
+						},
+						"id": "B17101_001MA",
+						"label": "Annotation of Margin of Error!!Total:",
+						"unit_type": {
+							"unit_type_label": "NAN",
+							"id": "NAN"
+						}
+					}
+				],
+				"id": "B17101_001M",
+				"label": "Margin of Error!!Total:",
+				"unit_type": {
+					"unit_type_label": "MOE",
+					"id": "MOE"
+				},
+				"defaultHide": false,
+				"isWeight": false
+			},
+			{
+				"item_classification": {
+					"id": "ESTIMATE",
+					"label": "Estimate"
+				},
+				"attributes": [
+					{
+						"item_data_behavior_type": {
+							"description": "DIRECT",
+							"id": "DIRECT"
+						},
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "ANNOTATION",
+							"typeLabel": "ANNOTATION"
+						},
+						"id": "B17101_002EA",
+						"label": "Annotation of Estimate!!Total:!!Income in the past 12 months below poverty level",
+						"unit_type": {
+							"unit_type_label": "NAN",
+							"id": "NAN"
+						}
+					},
+					{
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "MARGIN_OF_ERROR",
+							"typeLabel": "MARGIN_OF_ERROR"
+						},
+						"attributes": [
+							{
+								"item_data_behavior_type": {
+									"description": "DIRECT",
+									"id": "DIRECT"
+								},
+								"displayType": {
+									"displayTypeLabel": "SHOW_BOTH_COLS",
+									"displayType": "SHOW_BOTH_COLS"
+								},
+								"attribute_type": {
+									"type": "ANNOTATION",
+									"typeLabel": "ANNOTATION"
+								},
+								"id": "B17101_002MA",
+								"label": "Annotation of Margin of Error!!Total:!!Income in the past 12 months below poverty level",
+								"unit_type": {
+									"unit_type_label": "NAN",
+									"id": "NAN"
+								}
+							}
+						],
+						"id": "B17101_002M",
+						"label": "Margin of Error!!Total:!!Income in the past 12 months below poverty level",
+						"unit_type": {
+							"unit_type_label": "MOE",
+							"id": "MOE"
+						}
+					}
+				],
+				"id": "B17101_002E",
+				"label": "Estimate!!Total:!!Income in the past 12 months below poverty level",
+				"unit_type": {
+					"unit_type_label": "NUM",
+					"id": "NUM"
+				},
+				"defaultHide": false,
+				"isWeight": false
+			},
+			{
+				"item_classification": {
+					"id": "ATTRIBUTE",
+					"label": "Attribute Variable"
+				},
+				"attributes": [
+					{
+						"item_data_behavior_type": {
+							"description": "DIRECT",
+							"id": "DIRECT"
+						},
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "ANNOTATION",
+							"typeLabel": "ANNOTATION"
+						},
+						"id": "B17101_002MA",
+						"label": "Annotation of Margin of Error!!Total:!!Income in the past 12 months below poverty level",
+						"unit_type": {
+							"unit_type_label": "NAN",
+							"id": "NAN"
+						}
+					}
+				],
+				"id": "B17101_002M",
+				"label": "Margin of Error!!Total:!!Income in the past 12 months below poverty level",
+				"unit_type": {
+					"unit_type_label": "MOE",
+					"id": "MOE"
+				},
+				"defaultHide": false,
+				"isWeight": false
+			},
+			{
+				"item_classification": {
+					"id": "ESTIMATE",
+					"label": "Estimate"
+				},
+				"attributes": [
+					{
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "MARGIN_OF_ERROR",
+							"typeLabel": "MARGIN_OF_ERROR"
+						},
+						"attributes": [
+							{
+								"item_data_behavior_type": {
+									"description": "DIRECT",
+									"id": "DIRECT"
+								},
+								"displayType": {
+									"displayTypeLabel": "SHOW_BOTH_COLS",
+									"displayType": "SHOW_BOTH_COLS"
+								},
+								"attribute_type": {
+									"type": "ANNOTATION",
+									"typeLabel": "ANNOTATION"
+								},
+								"id": "B17101_003MA",
+								"label": "Annotation of Margin of Error!!Total:!!Income in the past 12 months at or above poverty level",
+								"unit_type": {
+									"unit_type_label": "NAN",
+									"id": "NAN"
+								}
+							}
+						],
+						"id": "B17101_003M",
+						"label": "Margin of Error!!Total:!!Income in the past 12 months at or above poverty level",
+						"unit_type": {
+							"unit_type_label": "MOE",
+							"id": "MOE"
+						}
+					},
+					{
+						"item_data_behavior_type": {
+							"description": "DIRECT",
+							"id": "DIRECT"
+						},
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "ANNOTATION",
+							"typeLabel": "ANNOTATION"
+						},
+						"id": "B17101_003EA",
+						"label": "Annotation of Estimate!!Total:!!Income in the past 12 months at or above poverty level",
+						"unit_type": {
+							"unit_type_label": "NAN",
+							"id": "NAN"
+						}
+					}
+				],
+				"id": "B17101_003E",
+				"label": "Estimate!!Total:!!Income in the past 12 months at or above poverty level",
+				"unit_type": {
+					"unit_type_label": "NUM",
+					"id": "NUM"
+				},
+				"defaultHide": false,
+				"isWeight": false
+			},
+			{
+				"item_classification": {
+					"id": "ATTRIBUTE",
+					"label": "Attribute Variable"
+				},
+				"attributes": [
+					{
+						"item_data_behavior_type": {
+							"description": "DIRECT",
+							"id": "DIRECT"
+						},
+						"displayType": {
+							"displayTypeLabel": "SHOW_BOTH_COLS",
+							"displayType": "SHOW_BOTH_COLS"
+						},
+						"attribute_type": {
+							"type": "ANNOTATION",
+							"typeLabel": "ANNOTATION"
+						},
+						"id": "B17101_003MA",
+						"label": "Annotation of Margin of Error!!Total:!!Income in the past 12 months at or above poverty level",
+						"unit_type": {
+							"unit_type_label": "NAN",
+							"id": "NAN"
+						}
+					}
+				],
+				"id": "B17101_003M",
+				"label": "Margin of Error!!Total:!!Income in the past 12 months at or above poverty level",
+				"unit_type": {
+					"unit_type_label": "MOE",
+					"id": "MOE"
+				},
+				"defaultHide": false,
+				"isWeight": false
+			}
+		],
+		"dimensions": [
+			{
+				"item": {
+					"attributes": [
+						{
+							"displayType": {
+								"displayTypeLabel": "SHOW_LBL_COL",
+								"displayType": "SHOW_LBL_COL"
+							},
+							"attribute_type": {
+								"type": "LABEL",
+								"typeLabel": "LABEL"
+							},
+							"id": "NAME",
+							"label": "Geographic Area Name",
+							"unit_type": {
+								"unit_type_label": "NAN",
+								"id": "NAN"
+							}
+						}
+					],
+					"id": "GEO_ID",
+					"label": "Geography"
+				},
+				"dimension_type": {
+					"description": "GEOGRAPHY",
+					"id": "GEOGRAPHY"
+				},
+				"datasetDefaultValues": {
+					"GEO_ID": "0100000US"
+				},
+				"order_number": 1,
+				"globalDimension": true,
+				"id": "GEO",
+				"axis": "H"
+			},
+			{
+				"globalDimension": false,
+				"dimension_type": {
+					"description": "MEASURE",
+					"id": "MEASURE"
+				},
+				"id": "ESTIMATE",
+				"categories": [
+					{
+						"orderNumber": "1",
+						"id": "COLUMN1",
+						"label": "Estimate",
+						"item_mapping": [
+							"B17101_001E",
+							"B17101_002E",
+							"B17101_003E"
+						]
+					},
+					{
+						"orderNumber": "2",
+						"id": "COLUMN2",
+						"label": "Margin of Error",
+						"item_mapping": [
+							"B17101_001M",
+							"B17101_002M",
+							"B17101_003M"
+						]
+					}
+				],
+				"axis": "H",
+				"order_number": 2
+			},
+			{
+				"globalDimension": false,
+				"dimension_type": {
+					"description": "MEASURE",
+					"id": "MEASURE"
+				},
+				"id": "SUBJECT",
+				"categories": [
+					{
+						"orderNumber": "1",
+						"id": "LINE1",
+						"label": "Total:",
+						"item_mapping": [
+							"B17101_001E",
+							"B17101_001M"
+						]
+					},
+					{
+						"parent": "LINE1",
+						"orderNumber": "2",
+						"id": "LINE2",
+						"label": "Income in the past 12 months below poverty level",
+						"item_mapping": [
+							"B17101_002E",
+							"B17101_002M"
+						]
+					},
+					{
+						"parent": "LINE1",
+						"orderNumber": "3",
+						"id": "LINE3",
+						"label": "Income in the past 12 months at or above poverty level",
+						"item_mapping": [
+							"B17101_003E",
+							"B17101_003M"
+						]
+					}
+				],
+				"axis": "V",
+				"order_number": 24
+			}
+		]
+	},
+	"data": [
+		[
+			"B17101_003M",
+			"B17101_001MA",
+			"B17101_002E",
+			"B17101_001E",
+			"B17101_002MA",
+			"B17101_003MA",
+			"B17101_003E",
+			"B17101_001EA",
+			"B17101_002EA",
+			"B17101_003EA",
+			"NAME",
+			"GEO_ID",
+			"B17101_002M",
+			"B17101_001M"
+		],
+		[
+			"280499",
+			null,
+			"39942319",
+			"320840401",
+			null,
+			null,
+			"280898082",
+			null,
+			null,
+			null,
+			"United States",
+			"0100000US",
+			"274188",
+			"13185"
+		]
+	],
+	"scrapedTimestamp": "2025-12-09T16:58:10.478Z"
+}

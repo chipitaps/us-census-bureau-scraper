@@ -1,0 +1,8 @@
+{
+    "searchQuery": "housing",
+    "dataset": "acs/acs5",
+    "geography": "county",
+    "year": "2021",
+    "maxItems": 2
+}
+

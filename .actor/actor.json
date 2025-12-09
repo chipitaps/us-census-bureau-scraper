@@ -1,0 +1,56 @@
+{
+    "actorSpecification": 1,
+    "name": "us-census-bureau-scraper",
+    "title": "US Census Bureau Scraper",
+    "description": "Extract comprehensive Census data from the US Census Bureau using their public API. This actor supports both search queries to find multiple tables and direct table IDs for specific data extraction. It retrieves detailed table metadata, variables, geographic information, and data values from various Census surveys including American Community Survey (ACS), Decennial Census, Economic Census, and more.",
+    "version": "1.0",
+    "meta": {
+        "templateId": "ts-start-bun"
+    },
+    "input": "./input_schema.json",
+    "dockerfile": "../Dockerfile",
+    "storages": {
+        "dataset": {
+            "actorSpecification": 1,
+            "views": {
+                "overview": {
+                    "title": "Overview",
+                    "transformation": {
+                        "fields": [
+                            "tableId",
+                            "title",
+                            "url",
+                            "survey",
+                            "universe",
+                            "year",
+                            "vintage",
+                            "description",
+                            "geography",
+                            "variables",
+                            "data",
+                            "scrapedTimestamp"
+                        ]
+                    },
+                    "display": {
+                        "component": "table",
+                        "properties": {
+                            "tableId": { "label": "Table ID", "format": "text" },
+                            "title": { "label": "Title", "format": "text" },
+                            "url": { "label": "URL", "format": "link" },
+                            "survey": { "label": "Survey", "format": "text" },
+                            "universe": { "label": "Universe", "format": "text" },
+                            "year": { "label": "Year", "format": "text" },
+                            "vintage": { "label": "Vintage", "format": "text" },
+                            "description": { "label": "Description", "format": "text" },
+                            "geography": { "label": "Geography", "format": "text" },
+                            "variables": { "label": "Variables", "format": "json" },
+                            "data": { "label": "Data", "format": "json" },
+                            "scrapedTimestamp": { "label": "Scraped Date", "format": "datetime" }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
