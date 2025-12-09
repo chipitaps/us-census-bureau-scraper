@@ -318,6 +318,20 @@ export async function fetchTableMetadata(tableId: string): Promise<RawCensusTabl
         // Extract metadata from nested response structure
         const metadataContent = data.response?.metadataContent || data.metadataContent || data;
         
+        // Validate that we got meaningful metadata
+        // We need at least: a title in metadataContent, or measures/dimensions (indicating it's a real table)
+        const hasTitle = metadataContent?.title && typeof metadataContent.title === 'string' && metadataContent.title.trim().length > 0;
+        const hasMeasuresOrDimensions = (metadataContent?.measures && Array.isArray(metadataContent.measures) && metadataContent.measures.length > 0) ||
+                                       (metadataContent?.dimensions && Array.isArray(metadataContent.dimensions) && metadataContent.dimensions.length > 0);
+        const hasDataset = metadataContent?.dataset && typeof metadataContent.dataset === 'object';
+        
+        const hasValidMetadata = metadataContent && (hasTitle || hasMeasuresOrDimensions || hasDataset);
+        
+        if (!hasValidMetadata) {
+            log.warning('Invalid or empty metadata received', { tableId, hasMetadataContent: !!metadataContent });
+            throw new Error(`Metadata response is empty or invalid for table ${tableId}. The table may not exist or may not be available yet.`);
+        }
+        
         // Extract year from table ID (format: DATASETYEAR.TABLEID, e.g., ACSDT1Y2023.B10010)
         // The year in the table ID is the reference year (data year)
         let extractedYear: string | undefined;
