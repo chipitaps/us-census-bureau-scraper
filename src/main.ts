@@ -129,33 +129,12 @@ async function main() {
                 });
             } catch (error) {
                 const errorMessage = error instanceof Error ? error.message : String(error);
-                
-                // Skip incomplete metadata errors
-                if (errorMessage.includes('Metadata response is empty or invalid') || 
-                    (errorMessage.includes('metadata') && errorMessage.includes('empty'))) {
-                    log.warning(`⏭️ Skipping table with incomplete metadata: ${tableId}`, {
-                        reason: 'Metadata is empty or invalid (table may not exist yet)',
-                    });
-                    return;
-                }
-                
-                // Skip rate limit errors (429) - these are temporary
-                if (errorMessage.includes('429') || errorMessage.includes('Rate limit exceeded') || 
-                    errorMessage.includes('Too Many Requests')) {
-                    log.warning(`⏭️ Skipping table due to rate limit: ${tableId}`, {
-                        reason: 'Rate limit exceeded (429) - temporary API limitation',
-                    });
-                    // Add extra delay after rate limit to help recover
-                    await new Promise(resolve => setTimeout(resolve, 500));
-                    return;
-                }
-                
                 log.error(`Failed to process table: ${tableId}`, {
                     error: errorMessage,
                     tableId,
                 });
                 
-                // Push error to dataset only for unexpected errors (not incomplete metadata or rate limits)
+                // Push error to dataset so users can see what failed
                 const errorOutput = {
                     error: 'Failed to process table',
                     tableId,
@@ -168,6 +147,7 @@ async function main() {
                 } else {
                     await Actor.pushData([errorOutput]);
                 }
+                totalPushed++; // Count error as a pushed item
             }
         } else if (searchQuery) {
             // Search for tables and process them
@@ -251,35 +231,12 @@ async function main() {
                     });
                 } catch (error) {
                     const errorMessage = error instanceof Error ? error.message : String(error);
-                    
-                    // Skip incomplete metadata errors
-                    if (errorMessage.includes('Metadata response is empty or invalid') || 
-                        (errorMessage.includes('metadata') && errorMessage.includes('empty'))) {
-                        log.warning(`⏭️ Skipping table with incomplete metadata: ${entityTableId}`, {
-                            entityId: entity.id,
-                            reason: 'Metadata is empty or invalid (table may not exist yet)',
-                        });
-                        return;
-                    }
-                    
-                    // Skip rate limit errors (429) - these are temporary
-                    if (errorMessage.includes('429') || errorMessage.includes('Rate limit exceeded') || 
-                        errorMessage.includes('Too Many Requests')) {
-                        log.warning(`⏭️ Skipping table due to rate limit: ${entityTableId}`, {
-                            entityId: entity.id,
-                            reason: 'Rate limit exceeded (429) - temporary API limitation',
-                        });
-                        // Add extra delay after rate limit to help recover
-                        await new Promise(resolve => setTimeout(resolve, 500));
-                        return;
-                    }
-                    
                     log.error(`Failed to process entity: ${entity.id}`, {
                         error: errorMessage,
                         entityId: entity.id,
                     });
                     
-                    // Push error to dataset only for unexpected errors (not incomplete metadata or rate limits)
+                    // Push error to dataset so users can see what failed
                     const errorOutput = {
                         error: 'Failed to process table',
                         tableId: entityTableId,
@@ -293,6 +250,7 @@ async function main() {
                     } else {
                         await Actor.pushData([errorOutput]);
                     }
+                    totalPushed++; // Count error as a pushed item
                     
                     // Continue processing other entities even if one fails
                     return;

@@ -46,9 +46,13 @@ export function mapCensusTable(table: RawCensusTable): OutputCensusTable {
     const finalYear = table.year || datasetData?.year || extractedYear || datasetData?.vintage;
     const finalVintage = table.vintage || datasetData?.vintage || datasetData?.year || extractedYear;
 
+    // Get title and replace "Untitled Table" with "Unavailable Table" if present
+    const rawTitle = table.title || metadataContent?.title || 'Unavailable Table';
+    const finalTitle = rawTitle === 'Untitled Table' ? 'Unavailable Table' : rawTitle;
+    
     return {
         tableId: table.id,
-        title: table.title || metadataContent?.title || 'Untitled Table',
+        title: finalTitle,
         description: table.description || metadataContent?.description,
         survey: table.survey || datasetData?.name || metadataContent?.dataset?.name,
         universe: table.universe || metadataContent?.universe,
