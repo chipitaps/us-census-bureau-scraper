@@ -113,9 +113,13 @@ export async function searchCensusData(
         for (const searchQuery of queryVariations) {
             // Use Census Bureau API search endpoint to get REAL table IDs directly
             // This returns actual table instances with real IDs, not base IDs that need to be constructed
-            const url = `${BASE_API_URL}/search?q=${encodeURIComponent(searchQuery)}&type=table`;
+            // Include year filter in URL if provided (this ensures the API filters at the source)
+            let url = `${BASE_API_URL}/search?q=${encodeURIComponent(searchQuery)}&type=table`;
+            if (yearFilter) {
+                url += `&y=${encodeURIComponent(yearFilter)}`;
+            }
             
-            log.info('Fetching search results from Census Bureau API', { query: searchQuery, url });
+            log.info('Fetching search results from Census Bureau API', { query: searchQuery, yearFilter, url });
 
             const response = await fetch(url, {
                 method: 'GET',
