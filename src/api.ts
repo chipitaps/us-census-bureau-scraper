@@ -5,7 +5,8 @@ const BASE_API_URL = 'https://data.census.gov/api';
 const BASE_SEARCH_URL = 'https://data.census.gov';
 
 // Delay between API requests to avoid rate limiting
-const REQUEST_DELAY_MS = 200;
+// Increased to 300ms to reduce 429 errors with batch processing
+const REQUEST_DELAY_MS = 300;
 
 /**
  * Helper function to add a delay between requests
@@ -304,6 +305,12 @@ export async function fetchTableMetadata(tableId: string): Promise<RawCensusTabl
 
         if (!response.ok) {
             await delay(); // Delay even on errors
+            
+            // If 429 (Too Many Requests), throw a specific error that we can retry
+            if (response.status === 429) {
+                throw new Error(`Rate limit exceeded (429): Too Many Requests`);
+            }
+            
             throw new Error(`Metadata request failed with status ${response.status}: ${response.statusText}`);
         }
 

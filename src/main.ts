@@ -130,13 +130,23 @@ async function main() {
             } catch (error) {
                 const errorMessage = error instanceof Error ? error.message : String(error);
                 
-                // Check if this is an incomplete metadata error - if so, skip it silently
+                // Skip incomplete metadata errors
                 if (errorMessage.includes('Metadata response is empty or invalid') || 
-                    errorMessage.includes('metadata') && errorMessage.includes('empty')) {
+                    (errorMessage.includes('metadata') && errorMessage.includes('empty'))) {
                     log.warning(`⏭️ Skipping table with incomplete metadata: ${tableId}`, {
                         reason: 'Metadata is empty or invalid (table may not exist yet)',
                     });
-                    // Don't push error or increment counters - just skip it
+                    return;
+                }
+                
+                // Skip rate limit errors (429) - these are temporary
+                if (errorMessage.includes('429') || errorMessage.includes('Rate limit exceeded') || 
+                    errorMessage.includes('Too Many Requests')) {
+                    log.warning(`⏭️ Skipping table due to rate limit: ${tableId}`, {
+                        reason: 'Rate limit exceeded (429) - temporary API limitation',
+                    });
+                    // Add extra delay after rate limit to help recover
+                    await new Promise(resolve => setTimeout(resolve, 500));
                     return;
                 }
                 
@@ -145,7 +155,7 @@ async function main() {
                     tableId,
                 });
                 
-                // Push error to dataset only for unexpected errors (not incomplete metadata)
+                // Push error to dataset only for unexpected errors (not incomplete metadata or rate limits)
                 const errorOutput = {
                     error: 'Failed to process table',
                     tableId,
@@ -242,14 +252,25 @@ async function main() {
                 } catch (error) {
                     const errorMessage = error instanceof Error ? error.message : String(error);
                     
-                    // Check if this is an incomplete metadata error - if so, skip it silently
+                    // Skip incomplete metadata errors
                     if (errorMessage.includes('Metadata response is empty or invalid') || 
-                        errorMessage.includes('metadata') && errorMessage.includes('empty')) {
+                        (errorMessage.includes('metadata') && errorMessage.includes('empty'))) {
                         log.warning(`⏭️ Skipping table with incomplete metadata: ${entityTableId}`, {
                             entityId: entity.id,
                             reason: 'Metadata is empty or invalid (table may not exist yet)',
                         });
-                        // Continue processing other entities - don't push error or increment counters
+                        return;
+                    }
+                    
+                    // Skip rate limit errors (429) - these are temporary
+                    if (errorMessage.includes('429') || errorMessage.includes('Rate limit exceeded') || 
+                        errorMessage.includes('Too Many Requests')) {
+                        log.warning(`⏭️ Skipping table due to rate limit: ${entityTableId}`, {
+                            entityId: entity.id,
+                            reason: 'Rate limit exceeded (429) - temporary API limitation',
+                        });
+                        // Add extra delay after rate limit to help recover
+                        await new Promise(resolve => setTimeout(resolve, 500));
                         return;
                     }
                     
@@ -258,7 +279,7 @@ async function main() {
                         entityId: entity.id,
                     });
                     
-                    // Push error to dataset only for unexpected errors (not incomplete metadata)
+                    // Push error to dataset only for unexpected errors (not incomplete metadata or rate limits)
                     const errorOutput = {
                         error: 'Failed to process table',
                         tableId: entityTableId,
@@ -317,8 +338,9 @@ async function main() {
                 });
 
                 // Add delay between batches to avoid rate limiting
+                // Increased to 500ms to give API time to recover between batches
                 if (i + BATCH_SIZE < entities.length) {
-                    await new Promise(resolve => setTimeout(resolve, 200));
+                    await new Promise(resolve => setTimeout(resolve, 500));
                 }
             }
 
