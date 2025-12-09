@@ -120,43 +120,43 @@ async function main() {
                 const MAX_ITEM_SIZE = 9 * 1024 * 1024; // 9 MB in bytes (Apify limit is ~9.4 MB)
 
                 if (outputSize > MAX_ITEM_SIZE) {
-                    log.warning(`Table ${fullTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push without data field`, {
+                    log.warning(`Table ${fullTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push without variables field`, {
                         tableId: fullTableId,
                         sizeMB: (outputSize / 1024 / 1024).toFixed(2),
                     });
 
-                    // Try pushing without the data field first
-                    const withoutData: any = { ...outputTable };
-                    delete withoutData.data;
-                    withoutData.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
-                    withoutData.dataOmitted = 'Data field omitted due to size limit (exceeds 9 MB)';
+                    // Try pushing without the variables field first
+                    const withoutVariables: any = { ...outputTable };
+                    delete withoutVariables.variables;
+                    withoutVariables.variablesOmitted = 'Variables field omitted due to size limit (exceeds 9 MB)';
 
-                    let sizeWithoutData = Buffer.byteLength(JSON.stringify(withoutData), 'utf8');
+                    let sizeWithoutVariables = Buffer.byteLength(JSON.stringify(withoutVariables), 'utf8');
                     
-                    if (sizeWithoutData > MAX_ITEM_SIZE) {
-                        // Still too large, also remove variables field
-                        log.warning(`Table ${fullTableId} still too large after removing data (${(sizeWithoutData / 1024 / 1024).toFixed(2)} MB), removing variables field`, {
+                    if (sizeWithoutVariables > MAX_ITEM_SIZE) {
+                        // Still too large, also remove data field
+                        log.warning(`Table ${fullTableId} still too large after removing variables (${(sizeWithoutVariables / 1024 / 1024).toFixed(2)} MB), removing data field`, {
                             tableId: fullTableId,
-                            sizeWithoutDataMB: (sizeWithoutData / 1024 / 1024).toFixed(2),
+                            sizeWithoutVariablesMB: (sizeWithoutVariables / 1024 / 1024).toFixed(2),
                         });
 
-                        delete withoutData.variables;
-                        withoutData.variablesOmitted = 'Variables field omitted due to size limit';
+                        delete withoutVariables.data;
+                        withoutVariables.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
+                        withoutVariables.dataOmitted = 'Data field omitted due to size limit';
                         
-                        sizeWithoutData = Buffer.byteLength(JSON.stringify(withoutData), 'utf8');
+                        sizeWithoutVariables = Buffer.byteLength(JSON.stringify(withoutVariables), 'utf8');
                     }
 
-                    if (sizeWithoutData > MAX_ITEM_SIZE) {
-                        // Even after removing data and variables, still too large - skip entirely
-                        log.error(`Table ${fullTableId} is too large even after removing data and variables (${(sizeWithoutData / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
+                    if (sizeWithoutVariables > MAX_ITEM_SIZE) {
+                        // Even after removing variables and data, still too large - skip entirely
+                        log.error(`Table ${fullTableId} is too large even after removing variables and data (${(sizeWithoutVariables / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
                             tableId: fullTableId,
-                            finalSizeMB: (sizeWithoutData / 1024 / 1024).toFixed(2),
+                            finalSizeMB: (sizeWithoutVariables / 1024 / 1024).toFixed(2),
                         });
                         
                         const errorOutput = {
                             error: 'Table too large to process',
                             tableId: fullTableId,
-                            errorMessage: `Data item too large (original size: ${outputSize} bytes, after removing data and variables: ${sizeWithoutData} bytes, limit: ${MAX_ITEM_SIZE} bytes).`,
+                            errorMessage: `Data item too large (original size: ${outputSize} bytes, after removing variables and data: ${sizeWithoutVariables} bytes, limit: ${MAX_ITEM_SIZE} bytes).`,
                             scrapedTimestamp: new Date().toISOString(),
                         };
 
@@ -169,15 +169,15 @@ async function main() {
                         return;
                     }
 
-                    // Push version without data (and possibly without variables)
+                    // Push version without variables (and possibly without data)
                     const omittedFields = [];
-                    if (withoutData.dataOmitted) omittedFields.push('data');
-                    if (withoutData.variablesOmitted) omittedFields.push('variables');
+                    if (withoutVariables.variablesOmitted) omittedFields.push('variables');
+                    if (withoutVariables.dataOmitted) omittedFields.push('data');
                     
                     if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                        await Actor.pushData([withoutData], 'result-item');
+                        await Actor.pushData([withoutVariables], 'result-item');
                     } else {
-                        await Actor.pushData([withoutData]);
+                        await Actor.pushData([withoutVariables]);
                     }
                     totalPushed++;
                     log.info(`✅ Processed table ${fullTableId} (omitted fields: ${omittedFields.join(', ')})`, {
@@ -284,44 +284,44 @@ async function main() {
                     const MAX_ITEM_SIZE = 9 * 1024 * 1024; // 9 MB in bytes (Apify limit is ~9.4 MB)
 
                     if (outputSize > MAX_ITEM_SIZE) {
-                        log.warning(`Table ${entityTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push without data field`, {
+                        log.warning(`Table ${entityTableId} exceeds size limit (${(outputSize / 1024 / 1024).toFixed(2)} MB), attempting to push without variables field`, {
                             tableId: entityTableId,
                             sizeMB: (outputSize / 1024 / 1024).toFixed(2),
                         });
 
-                        // Try pushing without the data field first
-                        const withoutData: any = { ...outputTable };
-                        delete withoutData.data;
-                        withoutData.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
-                        withoutData.dataOmitted = 'Data field omitted due to size limit (exceeds 9 MB)';
+                        // Try pushing without the variables field first
+                        const withoutVariables: any = { ...outputTable };
+                        delete withoutVariables.variables;
+                        withoutVariables.variablesOmitted = 'Variables field omitted due to size limit (exceeds 9 MB)';
 
-                        let sizeWithoutData = Buffer.byteLength(JSON.stringify(withoutData), 'utf8');
+                        let sizeWithoutVariables = Buffer.byteLength(JSON.stringify(withoutVariables), 'utf8');
                         
-                        if (sizeWithoutData > MAX_ITEM_SIZE) {
-                            // Still too large, also remove variables field
-                            log.warning(`Table ${entityTableId} still too large after removing data (${(sizeWithoutData / 1024 / 1024).toFixed(2)} MB), removing variables field`, {
+                        if (sizeWithoutVariables > MAX_ITEM_SIZE) {
+                            // Still too large, also remove data field
+                            log.warning(`Table ${entityTableId} still too large after removing variables (${(sizeWithoutVariables / 1024 / 1024).toFixed(2)} MB), removing data field`, {
                                 tableId: entityTableId,
-                                sizeWithoutDataMB: (sizeWithoutData / 1024 / 1024).toFixed(2),
+                                sizeWithoutVariablesMB: (sizeWithoutVariables / 1024 / 1024).toFixed(2),
                             });
 
-                            delete withoutData.variables;
-                            withoutData.variablesOmitted = 'Variables field omitted due to size limit';
+                            delete withoutVariables.data;
+                            withoutVariables.dataSizeMB = (outputSize / 1024 / 1024).toFixed(2);
+                            withoutVariables.dataOmitted = 'Data field omitted due to size limit';
                             
-                            sizeWithoutData = Buffer.byteLength(JSON.stringify(withoutData), 'utf8');
+                            sizeWithoutVariables = Buffer.byteLength(JSON.stringify(withoutVariables), 'utf8');
                         }
 
-                        if (sizeWithoutData > MAX_ITEM_SIZE) {
-                            // Even after removing data and variables, still too large - skip entirely
-                            log.error(`Table ${entityTableId} is too large even after removing data and variables (${(sizeWithoutData / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
+                        if (sizeWithoutVariables > MAX_ITEM_SIZE) {
+                            // Even after removing variables and data, still too large - skip entirely
+                            log.error(`Table ${entityTableId} is too large even after removing variables and data (${(sizeWithoutVariables / 1024 / 1024).toFixed(2)} MB), skipping entirely`, {
                                 tableId: entityTableId,
-                                finalSizeMB: (sizeWithoutData / 1024 / 1024).toFixed(2),
+                                finalSizeMB: (sizeWithoutVariables / 1024 / 1024).toFixed(2),
                             });
                             
                             const errorOutput = {
                                 error: 'Table too large to process',
                                 tableId: entityTableId,
                                 entityId: entity.id,
-                                errorMessage: `Data item too large (original size: ${outputSize} bytes, after removing data and variables: ${sizeWithoutData} bytes, limit: ${MAX_ITEM_SIZE} bytes).`,
+                                errorMessage: `Data item too large (original size: ${outputSize} bytes, after removing variables and data: ${sizeWithoutVariables} bytes, limit: ${MAX_ITEM_SIZE} bytes).`,
                                 scrapedTimestamp: new Date().toISOString(),
                             };
 
@@ -334,15 +334,15 @@ async function main() {
                             return;
                         }
 
-                        // Push version without data (and possibly without variables)
+                        // Push version without variables (and possibly without data)
                         const omittedFields = [];
-                        if (withoutData.dataOmitted) omittedFields.push('data');
-                        if (withoutData.variablesOmitted) omittedFields.push('variables');
+                        if (withoutVariables.variablesOmitted) omittedFields.push('variables');
+                        if (withoutVariables.dataOmitted) omittedFields.push('data');
                         
                         if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                            await Actor.pushData([withoutData], 'result-item');
+                            await Actor.pushData([withoutVariables], 'result-item');
                         } else {
-                            await Actor.pushData([withoutData]);
+                            await Actor.pushData([withoutVariables]);
                         }
                         totalPushed++;
                         log.info(`✅ Processed table ${entityTableId} (omitted fields: ${omittedFields.join(', ')})`, {
