@@ -123,7 +123,6 @@ export async function searchCensusData(
             const from = _page * _size;
             url += `&from=${from}&size=${_size}`;
             
-            log.info('Fetching search results from Census Bureau API', { query: searchQuery, yearFilter, from, size: _size, url });
 
             const response = await fetch(url, {
                 method: 'GET',
@@ -150,7 +149,6 @@ export async function searchCensusData(
             const tables = data.response?.tables?.tables || [];
             const totalAvailable = data.response?.tables?.total || 0;
             
-            log.info(`Page ${_page}: Got ${tables.length} tables (${tables.reduce((sum: number, t: any) => sum + (t.instances?.length || 0), 0)} instances) out of ${totalAvailable} total`);
             
             for (const table of tables) {
                 const instances = table.instances || [];
@@ -214,12 +212,6 @@ export async function searchCensusData(
 
         // Return all entities found - pagination is handled by fetchAllSearchResults
         // The Census Bureau API returns all results in one response, so we return all of them
-        log.info('Search results fetched successfully', {
-            query,
-            variationsTried: queryVariations.length,
-            entitiesFound: allEntities.length,
-            totalFound: allEntities.length,
-        });
 
         return allEntities;
     } catch (error) {
@@ -333,7 +325,6 @@ export async function fetchTableMetadata(tableId: string): Promise<RawCensusTabl
     try {
         const url = `${BASE_API_URL}/search/metadata/table?id=${encodeURIComponent(tableId)}`;
         
-        log.info('Fetching table metadata', { tableId, url });
 
         const response = await fetch(url, {
             method: 'GET',
@@ -351,10 +342,6 @@ export async function fetchTableMetadata(tableId: string): Promise<RawCensusTabl
         const data = await response.json();
         await delay(); // Delay after successful request
         
-        log.info('Table metadata fetched successfully', {
-            tableId,
-            hasData: !!data,
-        });
 
         // Extract metadata from nested response structure
         const metadataContent = data.response?.metadataContent || data.metadataContent || data;
@@ -406,7 +393,6 @@ export async function fetchTableData(tableId: string): Promise<RawCensusTable> {
     try {
         const url = `${BASE_API_URL}/access/data/table?id=${encodeURIComponent(tableId)}`;
         
-        log.info('Fetching table data', { tableId, url });
 
         const response = await fetch(url, {
             method: 'GET',
@@ -424,10 +410,6 @@ export async function fetchTableData(tableId: string): Promise<RawCensusTable> {
         const data = await response.json();
         await delay(); // Delay after successful request
         
-        log.info('Table data fetched successfully', {
-            tableId,
-            hasData: !!data,
-        });
 
         // Extract data from nested response structure
         const responseData = data.response?.data || data.data || [];
@@ -463,7 +445,6 @@ export async function fetchFacets(facetType: 'topics' | 'datasets' | 'vintages',
             url += `&q=${encodeURIComponent(query)}`;
         }
         
-        log.info('Fetching facets', { facetType, query, url });
 
         const response = await fetch(url, {
             method: 'GET',
@@ -481,10 +462,6 @@ export async function fetchFacets(facetType: 'topics' | 'datasets' | 'vintages',
         const data = await response.json();
         await delay(); // Delay after successful request
         
-        log.info('Facets fetched successfully', {
-            facetType,
-            hasData: !!data,
-        });
 
         return data as Record<string, unknown>;
     } catch (error) {

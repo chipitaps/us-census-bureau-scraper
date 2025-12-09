@@ -21,7 +21,6 @@ async function main() {
         return;
     }
 
-    log.info('📋 Configuration loaded', { input });
 
     const { searchQuery, maxItems, dataset, geography, year } = input;
 
@@ -39,9 +38,6 @@ async function main() {
         const user = await Actor.apifyClient.user().get();
         isPayingUser = user.isPaying || false;
     } catch (error) {
-        log.info('ℹ️ Running locally - defaulting to paying user mode', {
-            error: error instanceof Error ? error.message : String(error),
-        });
     }
 
     // For free users: Auto-limit maxItems to 100 with warning (no errors)
@@ -60,15 +56,9 @@ async function main() {
         return;
     }
 
-    log.info('📡 Starting Census Bureau data collection', {
-        searchQuery,
-        maxItems: effectiveMaxItems,
-        isPayingUser,
-    });
 
     try {
         const startTime = Date.now();
-        log.info(`📊 Collecting up to ${effectiveMaxItems || 'unlimited'} items`);
 
         // Track statistics
         let totalFetched = 0;
@@ -76,7 +66,6 @@ async function main() {
 
         // Search for tables and process them
         if (searchQuery) {
-            log.info('Searching for tables', { query: searchQuery });
 
             // Track processed table IDs to avoid duplicates
             const processedTableIds = new Set<string>();
@@ -105,7 +94,6 @@ async function main() {
 
                 // Skip if we've already processed this table ID
                 if (processedTableIds.has(entityTableId)) {
-                    log.info(`⏭️ Skipping duplicate table ID: ${entityTableId}`);
                     return;
                 }
                 processedTableIds.add(entityTableId);
@@ -224,11 +212,6 @@ async function main() {
                             await Actor.pushData([cleanedOutput]);
                         }
                         totalPushed++;
-                        log.info(`✅ Processed table ${entityTableId} (omitted fields: ${omittedFields.join(', ')})`, {
-                            totalFetched,
-                            totalPushed,
-                            omittedFields: omittedFields.join(', '),
-                        });
                     } else {
                         // Normal case: push full table with data
                         // Remove undefined fields before pushing
@@ -243,10 +226,6 @@ async function main() {
                         }
                         totalPushed++;
 
-                        log.info(`✅ Processed table ${entityTableId}`, {
-                            totalFetched,
-                            totalPushed,
-                        });
                     }
                 } catch (error) {
                     const errorMessage = error instanceof Error ? error.message : String(error);
@@ -285,15 +264,10 @@ async function main() {
             const entities = await fetchAllSearchResults(searchQuery, effectiveMaxItems, onEntity, dataset, year);
             
             // Process entities in batches of 20
-            log.info(`Processing ${entities.length} entities in batches of ${BATCH_SIZE}`, {
-                totalEntities: entities.length,
-                batchSize: BATCH_SIZE,
-            });
 
             for (let i = 0; i < entities.length; i += BATCH_SIZE) {
                 // Check if we've reached maxItems
                 if (effectiveMaxItems && totalPushed >= effectiveMaxItems) {
-                    log.info(`⏹️ Reached maxItems limit (${effectiveMaxItems}), stopping batch processing`);
                     break;
                 }
 
@@ -301,18 +275,9 @@ async function main() {
                 const batchNumber = Math.floor(i / BATCH_SIZE) + 1;
                 const totalBatches = Math.ceil(entities.length / BATCH_SIZE);
                 
-                log.info(`Processing batch ${batchNumber}/${totalBatches} (${batch.length} entities)`, {
-                    batchStart: i + 1,
-                    batchEnd: Math.min(i + BATCH_SIZE, entities.length),
-                    totalEntities: entities.length,
-                });
 
                 await processBatch(batch);
 
-                log.info(`✅ Completed batch ${batchNumber}/${totalBatches}`, {
-                    totalFetched,
-                    totalPushed,
-                });
 
                 // Add delay between batches to avoid rate limiting
                 // Increased to 500ms to give API time to recover between batches
@@ -332,7 +297,6 @@ async function main() {
             }
         }
 
-        log.info(`💾 Saved ${totalPushed} items to dataset`);
 
         const endTime = Date.now();
         const duration = endTime - startTime;

@@ -7,7 +7,7 @@
 
 ## What Does US Census Bureau Scraper Do?
 
-This tool extracts comprehensive Census table data from the US Census Bureau's public API, supporting both keyword search and direct table ID access. It delivers:
+This tool extracts comprehensive Census table data from the US Census Bureau's public API using keyword search. It delivers:
 
 - **Table Metadata**: Complete table information including title, description, survey type, universe, year, and vintage
 - **Geographic Information**: Geography levels and coverage areas (state, county, city, tract, etc.)
@@ -27,21 +27,15 @@ _Watch this 3-minute demo to see how easy it is to get started!_
 
 ## Input
 
-To start scraping Census data, simply fill in the input form. You can scrape Census tables in two ways:
+To start scraping Census data, simply fill in the input form with your search query:
 
-### Input Method: Search
+### Search Query
 
-- **searchQuery** - A search term to find Census tables by keyword (e.g., "population", "income by state", "housing units"). Use this OR tableId below, not both.
+- **searchQuery** - A search term to find Census tables by keyword (e.g., "population", "income by state", "housing units", "education").
   - Example: "population", "income by state", "housing units", "education"
-  - Uses Census Reporter API to find matching tables
+  - Uses the Census Bureau API to find matching tables
   - Returns multiple matching tables
-
-### Input Method: Direct Table ID
-
-- **tableId** - A specific Census table ID to fetch directly (e.g., "ACSDT1Y2021.B01001"). Use this OR searchQuery above, not both.
-  - Example: "ACSDT1Y2021.B01001", "ACSDT5Y2020.B17001"
-  - Format: `{DATASET}{YEAR}.{TABLE_ID}` (e.g., ACSDT1Y2021 = ACS 1-Year Estimates 2021)
-  - Returns a single table
+  - Required parameter
 
 ### Optional Filters
 
@@ -97,14 +91,6 @@ And here it is written in JSON:
 }
 ```
 
-Or for a specific table:
-
-```json
-{
-    "tableId": "ACSDT1Y2021.B01001"
-}
-```
-
 ## Output
 
 The actor outputs Census table data with the following structure. Each record contains comprehensive table information:
@@ -150,7 +136,7 @@ When table processing fails, error records are pushed to the dataset with the fo
 
 1. **Sign Up**: [Create a free account w/ $5 credit](https://console.apify.com/sign-up?fpr=vmoqkp) (takes 2 minutes)
 2. **Find the Scraper**: Visit the US Census Bureau Scraper page
-3. **Set Input**: Add your search query or table ID (we'll show you exactly what to enter)
+3. **Set Input**: Add your search query (we'll show you exactly what to enter)
 4. **Run It**: Click "Start" and let it collect your Census data
 5. **Download Data**: Get your results in the "Dataset" tab as CSV, Excel, or JSON
 
@@ -210,7 +196,7 @@ For advanced users who want to automate this process, you can control the scrape
 ## Frequently Asked Questions
 
 **Q: How does it work?**  
-A: US Census Bureau Scraper is easy to use and requires no technical knowledge. Simply provide a search query or table ID, set your filters (optional), and let the tool collect the Census data automatically using the official Census Bureau API.
+A: US Census Bureau Scraper is easy to use and requires no technical knowledge. Simply provide a search query, set your filters (optional), and let the tool collect the Census data automatically using the official Census Bureau API.
 
 **Q: How accurate is the data?**  
 A: The scraper extracts data directly from the US Census Bureau's official API (data.census.gov), ensuring high accuracy and up-to-date information. All fields are captured as they appear in the official Census data.
@@ -219,7 +205,7 @@ A: The scraper extracts data directly from the US Census Bureau's official API (
 A: The scraper supports multiple Census surveys including American Community Survey (ACS) 1-Year and 5-Year Estimates, Decennial Census, Population Estimates Program, Economic Census, County Business Patterns, and more.
 
 **Q: Can I search for tables by keyword?**  
-A: Yes! You can use the `searchQuery` parameter to find tables by keywords like "population", "income", "housing", etc. The scraper uses the Census Reporter API to find matching tables.
+A: Yes! You can use the `searchQuery` parameter to find tables by keywords like "population", "income", "housing", "education", etc. The scraper uses the Census Bureau API to find matching tables.
 
 **Q: Can I filter by dataset, geography, or year?**  
 A: Yes, you can filter results by dataset type (e.g., ACS 1-Year), geography level (e.g., state, county), and year/vintage using the optional filter parameters.
