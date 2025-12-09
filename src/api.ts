@@ -302,14 +302,26 @@ export async function fetchTableMetadata(tableId: string): Promise<RawCensusTabl
         // Extract metadata from nested response structure
         const metadataContent = data.response?.metadataContent || data.metadataContent || data;
         
+        // Extract year from table ID (format: DATASETYEAR.TABLEID, e.g., ACSDT1Y2023.B10010)
+        // The year in the table ID is the reference year (data year)
+        let extractedYear: string | undefined;
+        const yearMatch = tableId.match(/(\d{4})\./); // Match 4 digits before the dot
+        if (yearMatch) {
+            extractedYear = yearMatch[1];
+        }
+        
+        // Vintage is the release/publication year, typically from dataset.vintage
+        // Year is the reference year (when the data refers to), can be from dataset.year or extracted from table ID
+        const datasetData = metadataContent.dataset || data.response?.dataset;
+        
         return {
             id: tableId,
             title: metadataContent.title || data.response?.title,
             description: metadataContent.description || data.response?.description,
             universe: metadataContent.universe || data.response?.universe,
-            year: metadataContent.dataset?.vintage || data.response?.dataset?.vintage,
-            vintage: metadataContent.dataset?.vintage || data.response?.dataset?.vintage,
-            survey: metadataContent.dataset?.name || data.response?.dataset?.name,
+            year: datasetData?.year || extractedYear || datasetData?.vintage,
+            vintage: datasetData?.vintage || datasetData?.year || extractedYear,
+            survey: datasetData?.name || data.response?.dataset?.name,
             url: `https://data.census.gov/table?tid=${tableId}`,
             metadata: metadataContent,
         } as RawCensusTable;

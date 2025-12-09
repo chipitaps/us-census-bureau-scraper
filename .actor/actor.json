@@ -43,8 +43,8 @@
                             "vintage": { "label": "Vintage", "format": "text" },
                             "description": { "label": "Description", "format": "text" },
                             "geography": { "label": "Geography", "format": "text" },
-                            "variables": { "label": "Variables", "format": "json" },
-                            "data": { "label": "Data", "format": "json" },
+                            "variables": { "label": "Variables", "format": "object" },
+                            "data": { "label": "Data", "format": "object" },
                             "scrapedTimestamp": { "label": "Scraped Date", "format": "datetime" }
                         }
                     }

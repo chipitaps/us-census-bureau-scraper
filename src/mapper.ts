@@ -31,14 +31,29 @@ export function mapCensusTable(table: RawCensusTable): OutputCensusTable {
         dimensions: simplifiedDimensions,
     };
 
+    // Extract year from table ID if not provided (format: DATASETYEAR.TABLEID, e.g., ACSDT1Y2023.B10010)
+    let extractedYear: string | undefined;
+    if (table.id && !table.year) {
+        const yearMatch = table.id.match(/(\d{4})\./); // Match 4 digits before the dot
+        if (yearMatch) {
+            extractedYear = yearMatch[1];
+        }
+    }
+
+    // Year: reference year (when the data refers to)
+    // Vintage: release/publication year (version of the estimates)
+    const datasetData = metadataContent?.dataset;
+    const finalYear = table.year || datasetData?.year || extractedYear || datasetData?.vintage;
+    const finalVintage = table.vintage || datasetData?.vintage || datasetData?.year || extractedYear;
+
     return {
         tableId: table.id,
         title: table.title || metadataContent?.title || 'Untitled Table',
         description: table.description || metadataContent?.description,
-        survey: table.survey || metadataContent?.dataset?.name,
+        survey: table.survey || datasetData?.name || metadataContent?.dataset?.name,
         universe: table.universe || metadataContent?.universe,
-        year: table.year || table.vintage || metadataContent?.dataset?.vintage,
-        vintage: table.vintage || table.year || metadataContent?.dataset?.vintage,
+        year: finalYear,
+        vintage: finalVintage,
         url: table.url || `https://data.census.gov/table?tid=${table.id}`,
         geography: metadataContent?.dimensions?.find((d: any) => d.dimension_type?.id === 'GEOGRAPHY')?.item?.label,
         variables: variables,
