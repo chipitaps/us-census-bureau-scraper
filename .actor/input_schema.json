@@ -12,6 +12,15 @@
             "sectionCaption": "Search Configuration",
             "sectionDescription": "Search for Census tables using keywords. Returns multiple matching tables."
         },
+        "maxItems": {
+            "title": "Max Items",
+            "type": "integer",
+            "description": "Maximum number of tables to scrape (Free users: Limited to 100. Paid users: Optional, max 1,000,000).",
+            "editor": "number",
+            "minimum": 1,
+            "maximum": 1000000,
+            "prefill": 10
+        },
         "year": {
             "title": "Year",
             "type": "string",
@@ -111,15 +120,6 @@
                 "Unified School District"
             ],
             "editor": "select"
-        },
-        "maxItems": {
-            "title": "Max Items",
-            "type": "integer",
-            "description": "Maximum number of tables to scrape (Free users: Limited to 100. Paid users: Optional, max 1,000,000).",
-            "editor": "number",
-            "minimum": 1,
-            "maximum": 1000000,
-            "prefill": 10
         }
     },
     "required": []

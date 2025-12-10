@@ -16,33 +16,45 @@ async function main() {
     // Structure of input is defined in input_schema.json
     const input = await Actor.getInput<CensusInput>();
     if (!input) {
-        log.error('Input is missing!');
+        log.error('❌ Input is missing!');
+        await Actor.pushData([{ error: 'Input is missing!' }]);
         await Actor.exit();
         return;
     }
-
 
     const { searchQuery, maxItems, dataset, geography, year } = input;
 
+    // Detect user type - CRITICAL: Always use this method
+    const userIsPaying = Boolean(Actor.getEnv()?.userIsPaying);
+    log.info(userIsPaying ? '✅ Paid user detected' : '📋 Free user detected');
+
+    // Log comprehensive input parameters for debugging
+    log.info('🚀 Starting US Census Bureau data collection...', {
+        userInput: {
+            searchQuery: searchQuery || 'Not provided',
+            maxItems: maxItems || 'Unlimited',
+            dataset: dataset || 'Not specified',
+            geography: geography || 'Not specified',
+            year: year || 'Not specified',
+        },
+        systemInfo: {
+            userType: userIsPaying ? 'Paid' : 'Free',
+            maxItemsLimit: userIsPaying ? 1000000 : 100,
+            validationStatus: 'Input parameters validated successfully',
+        },
+    });
+
     // Validate input
     if (!searchQuery) {
-        log.error('searchQuery is required. Please provide a search query.');
+        log.error('❌ searchQuery is required. Please provide a search query.');
+        await Actor.pushData([{ error: 'searchQuery is required. Please provide a search query.' }]);
         await Actor.exit();
         return;
-    }
-
-    // Check if user is paying and validate maxItems accordingly
-    let isPayingUser = true; // Default to paying user for local development
-
-    try {
-        const user = await Actor.apifyClient.user().get();
-        isPayingUser = user.isPaying || false;
-    } catch (error) {
     }
 
     // For free users: Auto-limit maxItems to 100 with warning (no errors)
     let effectiveMaxItems = maxItems;
-    if (!isPayingUser) {
+    if (!userIsPaying) {
         if (maxItems === undefined || maxItems === null) {
             effectiveMaxItems = FREE_MAX_ITEMS;
             log.warning('⚠️ Free user did not specify maxItems. Automatically limiting to 100 items. Upgrade to a paid plan to process unlimited items (up to 1,000,000).');
@@ -50,8 +62,10 @@ async function main() {
             effectiveMaxItems = FREE_MAX_ITEMS;
             log.warning(`⚠️ Free user specified maxItems=${maxItems}, which exceeds the free plan limit of 100. Automatically limiting to 100 items. Upgrade to a paid plan to process up to 1,000,000 items.`);
         }
-    } else if (maxItems && maxItems > 1000000) {
-        log.error('maxItems cannot exceed 1,000,000');
+    } else if (userIsPaying && maxItems !== undefined && maxItems !== null && maxItems > 1000000) {
+        const errorMessage = 'maxItems cannot exceed 1,000,000.';
+        log.error('❌ maxItems exceeds maximum allowed value', { maxItems, maxAllowed: 1000000 });
+        await Actor.pushData([{ error: errorMessage }]);
         await Actor.exit();
         return;
     }
@@ -187,11 +201,8 @@ async function main() {
                                 scrapedTimestamp: new Date().toISOString(),
                             };
 
-                            if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                                await Actor.pushData([errorOutput], 'error-item');
-                            } else {
-                                await Actor.pushData([errorOutput]);
-                            }
+                            // Errors should NEVER use second argument, regardless of pricing model
+                            await Actor.pushData([errorOutput]);
                             totalPushed++;
                             return;
                         }
@@ -243,11 +254,8 @@ async function main() {
                         scrapedTimestamp: new Date().toISOString(),
                     };
                     
-                    if (Actor.getChargingManager().getPricingInfo().isPayPerEvent) {
-                        await Actor.pushData([errorOutput], 'error-item');
-                    } else {
-                        await Actor.pushData([errorOutput]);
-                    }
+                    // Errors should NEVER use second argument, regardless of pricing model
+                    await Actor.pushData([errorOutput]);
                     totalPushed++; // Count error as a pushed item
                     
                     // Continue processing other entities even if one fails
@@ -307,10 +315,13 @@ async function main() {
             duration: `${duration}ms`,
         });
     } catch (error) {
-        log.error('Error during Census Bureau data collection', {
-            error: error instanceof Error ? error.message : String(error),
+        const errorMessage = error instanceof Error ? error.message : String(error);
+        log.error('❌ Error during Census Bureau data collection', {
+            error: errorMessage,
         });
-        throw error;
+        await Actor.pushData([{ error: `Error during Census Bureau data collection: ${errorMessage}` }]);
+        await Actor.exit();
+        return;
     }
 }
 

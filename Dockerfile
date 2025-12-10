@@ -36,3 +36,4 @@ RUN npm run build
 # Run the image
 CMD ["npm", "start", "--silent"]
 
+

@@ -8,6 +8,7 @@
         "templateId": "ts-start-bun"
     },
     "input": "./input_schema.json",
+    "output": "./output_schema.json",
     "dockerfile": "../Dockerfile",
     "storages": {
         "dataset": {
@@ -28,7 +29,8 @@
                             "geography",
                             "variables",
                             "data",
-                            "scrapedTimestamp"
+                            "scrapedTimestamp",
+                            "error"
                         ]
                     },
                     "display": {
@@ -45,7 +47,8 @@
                             "geography": { "label": "Geography", "format": "text" },
                             "variables": { "label": "Variables", "format": "object" },
                             "data": { "label": "Data", "format": "object" },
-                            "scrapedTimestamp": { "label": "Scraped Date", "format": "datetime" }
+                            "scrapedTimestamp": { "label": "Scraped Date", "format": "datetime" },
+                            "error": { "label": "Error", "format": "text" }
                         }
                     }
                 }
